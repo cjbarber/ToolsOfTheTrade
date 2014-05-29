@@ -198,6 +198,7 @@ It's hosted on GitHub for a reason! Please submit pull requests.
 * Streak (http://www.streak.com/)
 * Base (http://getbase.com)
 * Pipedrive
+
 [See more CRMs](https://github.com/cjbarber/best-crm-for-startups)
  
 #### Social Media Marketing
@@ -357,6 +358,7 @@ It's hosted on GitHub for a reason! Please submit pull requests.
 * Google Hangouts
 * GoToMeeting (http://www.gotomeeting.com/online/default)
 * IRCCloud (https://www.irccloud.com/)
+
 [More Group Chat Tools](https://github.com/cjbarber/hipchat-alternatives)
  
 #### Remote Collaboration

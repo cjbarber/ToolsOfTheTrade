@@ -442,5 +442,12 @@ Lastpass
 1Password
 Passpack (https://www.passpack.com/)
 
-### Ad Exchanges
+### Sources of Clicks/Ad Platforms
 NeoReach
+nRelate (http://nrelate.com/)
+SiteScout (http://www.sitescout.com/)
+Bing Ads (http://advertise.bingads.microsoft.com/en-us/home)
+Taboola (http://www.taboola.com/)
+Outbrain (http://www.outbrain.com/)
+Google Adwords (http://adwords.google.com/)
+Facebook Advertising (https://www.facebook.com/advertising)

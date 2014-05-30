@@ -453,11 +453,18 @@ It's hosted on GitHub for a reason! Please submit pull requests.
 * Passpack (https://www.passpack.com/)
  
 #### Sources of Clicks/Ad Platforms
-* NeoReach
+* NeoReach (http://neoreach.com/)
 * nRelate (http://nrelate.com/)
 * SiteScout (http://www.sitescout.com/)
 * Bing Ads (http://advertise.bingads.microsoft.com/en-us/home)
 * Taboola (http://www.taboola.com/)
 * Outbrain (http://www.outbrain.com/)
 * Google Adwords (http://adwords.google.com/)
-* Facebook Advertising (https://www.facebook.com/advertising)* 
+* Facebook Advertising (https://www.facebook.com/advertising)
+
+
+## Next Steps
+
+Star the repo to help ensure it is maintained.
+
+Issue a pull request or edit on [Prose](http://prose.io/#cjbarber/ToolsOfTheTrade/edit/master/README.md).

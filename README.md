@@ -25,7 +25,7 @@ It's hosted on GitHub for a reason! Please submit pull requests.
 ## The List
 
 #### Browser/Email Testing
-* BrowserStack | http://www.browserstack.com | $35/mo - $359/mo | Live, Web-Based Browser Testing. Instant access to all desktop and mobile browsers.
+* BrowserStack | http://www.browserstack.com | $35/mo - $359/mo | Live, Web-Based Browser Testing | Instant access to all desktop and mobile browsers.
 * Litmus | http://litmus.com | 
 * Sauce Labs | https://saucelabs.com/ | 
 

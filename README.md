@@ -610,7 +610,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 
 Star the repo to help ensure it is maintained.
 
-[Follow me on Twitter](https://twitter.com/chrisbarber), I like making/tweeting about the things that make it easier to find the best tools (for SaaS and more).
+[Tweet this repo](https://twitter.com/intent/tweet?related=chrisbarber&text=HN Tools of The Trade, 2014 Edition&url=https%3A%2F%2Fgithub.com%2Fcjbarber%2FToolsOfTheTrade&via=chrisbarber) so that more people discover it, and add to it.
 
 Issue a pull request or edit on [Prose](http://prose.io/#cjbarber/ToolsOfTheTrade/edit/master/README.md)
 

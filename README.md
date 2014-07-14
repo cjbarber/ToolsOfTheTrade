@@ -474,6 +474,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Fabric |  
 
 #### SEO Tools
+* Google Webmaster Tools | https://www.google.com/webmasters/tools/
 * Ahrefs | https://ahrefs.com/
 * SerpBook | http://serpbook.com/
 * Serp Rank Checker | https://serprankchecker.com/ |  

@@ -472,6 +472,8 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 #### Deployment
 * Chef | http://www.getchef.com
 * Fabric |  
+* Puppet | http://puppetlabs.com/
+* Ansible | http://www.ansible.com/
 
 #### SEO Tools
 * Ahrefs | https://ahrefs.com/

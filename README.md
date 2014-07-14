@@ -24,6 +24,8 @@ It's hosted on GitHub for a reason! Please submit pull requests.
 
 ## The List
 
+[Browser/Email Testing](#Browser/Email Testing)A
+
 #### Browser/Email Testing
 * BrowserStack | http://www.browserstack.com |  | $35/mo - $359/mo | Live, Web-Based Browser Testing | Instant access to all desktop and mobile browsers.
 * Litmus | http://litmus.com | [@litmusapp]([@litmusapp] https://twitter.com/litmusapp) | $79/mo - $399/mo | Test and track your emails | Lets you preview your campaigns across 30+ real email clients and devices in minutes.

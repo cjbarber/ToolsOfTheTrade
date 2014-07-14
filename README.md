@@ -577,6 +577,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Fabric |  
 * Puppet | http://puppetlabs.com/
 * Ansible | http://www.ansible.com/
+* Vagrant | http://www.vagrantup.com/
 
 #### SEO Tools
 * Ahrefs | https://ahrefs.com/

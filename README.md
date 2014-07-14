@@ -433,8 +433,11 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Riemann | http://riemann.io
 * Zipkin | https://github.com/twitter/zipkin/
 * Pulse | https://github.com/heroku/pulse/
-* ?? Pingdom, UptimeRobot
+* Pingdom | https://www.pingdom.com/
+* UptimeRobot | https://uptimerobot.com/
 * Where's It Up? | http://wheresitup.com/
+* Nagios
+* Smokeping
 
 #### Search 
 * Bonsai | http://www.bonsai.io

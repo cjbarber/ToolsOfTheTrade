@@ -398,6 +398,7 @@ Sell films directly to your viewers. | Creating digital products is hard, sellin
 * FetchApp | http://www.fetchapp.com/ | [@fetchapp](https://twitter.com/fetchapp) | $5/mo-  $500/mo | The Simpler way to Fetch. | Simply put, FetchApp allows you to sell and digitally delivery downloadable goods
 * Chargify | http://chargify.com/ | [@chargify](https://twitter.com/chargify) | $459/mo-  $65/mo | Easily Manage Your Recurring Revenue Business | Customers sign up, make payments, use coupons, upgrade... You bill one-time & recurring fees using whatever pricing model you need, charge cards, send invoices & reminders, etc.
 * Recurly | https://recurly.com/ | [@Recurly](https://twitter.com/Recurly) | $99/mo-  $259/mo | Subscription Billing Automation | As the leading recurring billing platform, Recurly ensures setup is easy, integrations are quick, and our service scales with the needs of your business. With Recurly you'll be ready to accept payments and focus on growing your sales in no time.
+* ChargeBee | http://chargebee.com/ | [@chargebee](https://twitter.com/chargebee) | $49/mo-  $249/mo | ChargeBee is an easy to use recurring billing and invoicing solution for online businesses
 
 #### Billing & Payment Processing
 * Braintree | https://www.braintreepayments.com | [@braintree](https://twitter.com/braintree) |  | Accept payments in

@@ -3,7 +3,7 @@
 
 * [HN Tools of The Trade, 2014 Edition](#user-content-hn-tools-of-the-trade-2014-edition)
   * [Background](#user-content-background)
-    * [Now](#user-content-now)
+  * [Now](#user-content-now)
   * [The List](#user-content-the-list)
     * [Browser/Email Testing](#user-content-browseremail-testing)
     * [Bug/Issue Tracking](#user-content-bugissue-tracking)

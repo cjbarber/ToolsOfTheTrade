@@ -82,6 +82,7 @@
     * [API Builder](#user-content-api-builder)
     * [Password Management](#user-content-password-management)
     * [Sources of Clicks/Ad Platforms](#user-content-sources-of-clicksad-platforms)
+    * [Storage](#user-content-storage)
     * [Task Scheduling](#user-content-task-scheduling)
   * [Next Steps](#user-content-next-steps)
 
@@ -562,8 +563,8 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Mongolab | http://www.mongolab.com |  
 
 #### Backend-aaS
-* Parse | https://parse.com/
-* Firebase | https://www.firebase.com/
+* Parse | https://parse.com/ | [@ParseIt](https://twitter.com/ParseIt) | Parse is the perfect cloud to power your app on any platform | The Parse Cloud handles your entire backend so your team can focus on making an engaging user experience. Don't worry about databases, performance, or scaling.
+* Firebase | https://www.firebase.com/ | [@Firebase](https://twitter.com/Firebase) | A powerful API to store and sync data in realtime. | Build realtime mobile and web apps in minutes using client-side code and the powerful Firebase API. When data changes, apps built with Firebase update instantly across every device -- web or mobile.
 * Hoodie | http://www.hood.ie/
 * BaasBox | http://www.baasbox.com/
 
@@ -637,6 +638,9 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Facebook Advertising | https://www.facebook.com/advertising
 * Google Adwords | http://adwords.google.com/
 * Facebook Advertising | https://www.facebook.com/advertising
+
+#### Storage
+* Kloudless | https://kloudless.com | [@Kloudless](https://twitter.com/Kloudless) | $10/10k API requests/month | Kloudless provides developers with a single cloud storage API in the place of many | Kloudless is the last cloud storage API you'll ever need. Integrate a single REST API instead of many and use our UI tools to quickly build cloud storage support into your app. We maintain all the integrations so you can focus on building awesome products.
 
 #### Task Scheduling
 * EasyCron | https://www.easycron.com/

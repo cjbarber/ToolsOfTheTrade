@@ -92,6 +92,12 @@ and send personalized messages to the right users at the right time.
 #### User Testing 
 * Silverback 2.0 | http://silverbackapp.com/ | [@silverbackapp](http://twitter.com/silverbackapp) | 69.95 | Guerrilla usability testing software for designers and developers | Silverback makes it easy, quick and cheap for everyone to perform guerrilla usability tests with no setup and no expense, using hardware already in your Mac.
 
+
+#### QA / Integration Testing
+* Rainforest QA | https://www.rainforestqa.com/ | [@rainforestqa](https://twitter.com/rainforestqa) | $100/mo - $2000/mo | Insanely simple testing. | Create tests for your website in plain English, then run them across all major browsers with a single click. Powered by human intelligence.
+
+
+
 #### HR
 * Workday | http://www.workday.com/ | [@workday](https://twitter.com/workday) |  | Workday works the way people work—collaboratively, on the go, and in real-time. Explore the product previews below to learn how Workday can change the way you work. | With powerful business applications and a user experience that's unmatched in enterprise software, Workday gives you everything you need to transform your business.
 

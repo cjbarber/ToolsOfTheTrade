@@ -39,6 +39,7 @@ It's hosted on GitHub for a reason! Please submit pull requests.
 * Redmine | OSS | | http://www.redmine.org | [@redmine](https://twitter.com/redmine) | Flexible project management web application. Written using Ruby on Rails framework, it is cross-platform and cross-database.
 * Huboard | https://huboard.com | [@huboard](https://twitter.com/huboard) | $7/mo - $24/mo | GitHub issues made awesome
 Instant project management for GitHub repositories | 
+* Bugify | $59 | http://www.bugify.com | [@bugify](https://twitter.com/bugify) | Self hosted issue management system. One-time payment. Written in PHP.
 * Post It Notes on a (Physical) Wall
 
 #### Planning & Project Management

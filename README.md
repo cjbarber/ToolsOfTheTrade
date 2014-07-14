@@ -167,7 +167,7 @@ helps your team deliver awesome support to each and every customer.
 
 To your customers, it's just email. They will never see a ticket number and will never have to log into anything!
 * Freshdesk | http://freshdesk.com/ | [@freshdesk](https://twitter.com/freshdesk) | $16/mo - $70/mo | Everything you need to deliver
-Exceptional
+Exceptional | http://www.exceptional.io/ | [@exceptional](https://twitter.com/exceptional) | $9/mo | Exceptional tracks errors in web apps. It reports them in real-time and gathers the info you need to fix them fast.
 Customer Support | Freshdesk keeps you from running behind issues blindly and gets your customer support issues under control.
 
 #### Transactional Email 

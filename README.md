@@ -275,6 +275,7 @@ currency conversion JSON API | A simple and easy-to-integrate exchange rates API
 #### Site Search 
 * Elasticsearch | http://www.elasticsearch.org/ | [@elasticsearch](https://twitter.com/elasticsearch) |  | an end-to-end search and analytics platform. infinitely versatile. | By combining the massively popular Elasticsearch, Logstash and Kibana we have created an end-to-end stack that delivers actionable insights in real-time from almost any type of structured and unstructured data source. Built and supported by the engineers behind each of these open source products, the Elasticsearch ELK stack makes searching and analyzing data easier than ever before.
 * Algolia | http://www.algolia.com/ | [@Algolia](http://www.twitter.com/Algolia) | $49/mo - $449/mo | Build Realtime Search | Algolia is a fully hosted search service, available as a REST API. API clients are also available for all major frameworks, platforms and languages.
+* Apache Solr | http://lucene.apache.org/solr/ - an open source search platform, based and co-released with Apache Lucene. [SiLK](http://www.lucidworks.com/lucidworks-silk/) provides analytics and log management on top of Solr.
 
 #### Email Marketing 
 * Customer.io | http://customer.io/ |  | $50/mo - $1250/Mo | Send email based on what people do 

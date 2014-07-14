@@ -162,10 +162,7 @@ personal support to every customer. | Your customers will never know that you’
 your customers.
 * Intercom | http://intercom.io | [@intercom](https://twitter.com/intercom) | $49/mo - $449/mo | The easiest way to see and talk to your users | Intercom is a single platform where you can see in real-time who is using your product and send personalized messages to the right users at the right time based on their behavior.
 * Tender | http://tenderapp.com | [@tenderapp](http://twitter.com/tenderapp) | $9/mo - $99/mo | Better, Simpler, Customer Support Software. | Support your customers in the open! With public forums, you can offer a public space to your users to discuss common issues and get feedback, while still keeping certain categories private (billing, orders, ...). Power users can subscribe to categories and new discussions, and help out other customers.
-* SupportFu | http://www.supportfu.com/ | [@supportfu](http://www.twitter.com/supportfu) | $9/ mo | It's like gmail on steroids! | SupportFu is a powerful helpdesk that
-helps your team deliver awesome support to each and every customer.
-
-To your customers, it's just email. They will never see a ticket number and will never have to log into anything!
+* SupportFu | http://www.supportfu.com/ | [@supportfu](http://www.twitter.com/supportfu) | $9/ mo | It's like gmail on steroids! | SupportFu is a powerful helpdesk that helps your team deliver awesome support to each and every customer. To your customers, it's just email. They will never see a ticket number and will never have to log into anything!
 * Freshdesk | http://freshdesk.com/ | [@freshdesk](https://twitter.com/freshdesk) | $16/mo - $70/mo | Everything you need to deliver
 Exceptional
 Customer Support | Freshdesk keeps you from running behind issues blindly and gets your customer support issues under control.

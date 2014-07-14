@@ -42,6 +42,7 @@ Instant project management for GitHub repositories |
 * Post It Notes on a (Physical) Wall
 
 #### Planning & Project Management
+* Collabtive  | http://collabtive.o-dyn.de | [@Collabtive](https://twitter.com/Collabtive) | Self-hosted: FREE / SaaS: $13/mo | Project Management the way you like it: COLLABORATIVE - OPEN SOURCE - FREE | Powerful features and focus on multilingualism | In business for 7 years, we’re a profitable and dependable software & hosting provider | Additional paid plugins available
 * Sprintly | http://sprint.ly | [@sprintly](https://twitter.com/sprintly) | $49/mo- $399/mo | Don't ask how projects are going.
 Watch how they're going in real-time. | Use our elegant interface to prioritize, tag, manage, estimate, 
 and measure your software developers' progress in real-time.

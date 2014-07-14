@@ -558,7 +558,8 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Wistia | http://wistia.com/ |  
 
 #### Knowledge Tracking/Wiki
-* Confluence |  
+* Confluence | http://atlassian.com/confluence 
+* Confluence Questions (Q&A for your team) | https://www.atlassian.com/software/confluence/questions 
 * SlimWiki | http://slimwiki.com/ |  
 
 #### Offsite Backups
@@ -588,7 +589,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 
 #### Password Management
 * Lastpass
-* 1Password
+* 1Password  | https://agilebits.com/onepassword 
 * Passpack | https://www.passpack.com/
 * Locko | http://www.binarynights.com/locko/ | $0.99 | Mac OS X app including extensions for Safari, Chrome, Firefox and Opera.
 

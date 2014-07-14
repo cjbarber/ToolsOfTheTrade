@@ -164,6 +164,8 @@ your customers.
 * Tender | http://tenderapp.com | [@tenderapp](http://twitter.com/tenderapp) | $9/mo - $99/mo | Better, Simpler, Customer Support Software. | Support your customers in the open! With public forums, you can offer a public space to your users to discuss common issues and get feedback, while still keeping certain categories private (billing, orders, ...). Power users can subscribe to categories and new discussions, and help out other customers.
 * SupportFu | http://www.supportfu.com/ | [@supportfu](http://www.twitter.com/supportfu) | $9/ mo | It's like gmail on steroids! | SupportFu is a powerful helpdesk that
 helps your team deliver awesome support to each and every customer.
+* Reamaze | http://www.reamaze.com/ | [@reamaze](https://twitter.com/reamaze) | $15/mo | Lightweight, Lightspeed Help Desk.
+Email, Social, Branded, Integrated. | Reamaze provides your team with helpdesk functionality that integrates with your application, as well as integrations with popular 3rd party tools in your workflow.
 
 To your customers, it's just email. They will never see a ticket number and will never have to log into anything!
 * Freshdesk | http://freshdesk.com/ | [@freshdesk](https://twitter.com/freshdesk) | $16/mo - $70/mo | Everything you need to deliver

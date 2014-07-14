@@ -602,7 +602,6 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Google Adwords | http://adwords.google.com/
 * Facebook Advertising | https://www.facebook.com/advertising
 * Outbrain | http://www.outbrain.com/
-* Google Adwords | http://adwords.google.com/
 * Facebook Advertising | https://www.facebook.com/advertising
 
 

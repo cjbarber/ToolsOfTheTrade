@@ -542,6 +542,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 
 #### Knowledge Tracking/Wiki
 * Confluence |  
+* SlimWiki | http://slimwiki.com/ |  
 
 #### Offsite Backups
 * Tarsnap |  

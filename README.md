@@ -485,6 +485,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Lastpass
 * 1Password
 * Passpack | https://www.passpack.com/
+* Locko | http://www.binarynights.com/locko/ | $0.99 | Mac OS X app including extensions for Safari, Chrome, Firefox and Opera.
 
 #### Sources of Clicks/Ad Platforms
 * NeoReach | http://neoreach.com/

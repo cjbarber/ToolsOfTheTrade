@@ -1,4 +1,90 @@
 # HN Tools of The Trade, 2014 Edition
+**Table of Contents**
+
+* [HN Tools of The Trade, 2014 Edition](#user-content-hn-tools-of-the-trade-2014-edition)
+  * [Background](#user-content-background)
+  * [Now](#user-content-now)
+  * [The List](#user-content-the-list)
+    * [Browser/Email Testing](#user-content-browseremail-testing)
+    * [Bug/Issue Tracking](#user-content-bugissue-tracking)
+    * [Planning & Project Management](#user-content-planning--project-management)
+    * [App Developer Tools](#user-content-app-developer-tools)
+    * [Business & Traffic Analytics](#user-content-business--traffic-analytics)
+    * [Conversion Optimization & A/B Testing](#user-content-conversion-optimization--ab-testing)
+    * [User Analytics](#user-content-user-analytics)
+    * [User Testing](#user-content-user-testing)
+    * [HR](#user-content-hr)
+    * [Payroll](#user-content-payroll)
+    * [Continuous Integration/Code Quality](#user-content-continuous-integrationcode-quality)
+    * [Dashboards](#user-content-dashboards)
+    * [Error/Exception Handling](#user-content-errorexception-handling)
+    * [Log Monitoring](#user-content-log-monitoring)
+    * [Application Performance](#user-content-application-performance)
+    * [Load Testing](#user-content-load-testing)
+    * [Server Monitoring](#user-content-server-monitoring)
+    * [Customer Support/Help Desks](#user-content-customer-supporthelp-desks)
+    * [Transactional Email](#user-content-transactional-email)
+    * [Other APIs](#user-content-other-apis)
+    * [Site Search](#user-content-site-search)
+    * [Email Marketing](#user-content-email-marketing)
+    * [Email Collection/Landing Page Apps](#user-content-email-collectionlanding-page-apps)
+    * [CRM/Sales Tools](#user-content-crmsales-tools)
+    * [Social Media Marketing](#user-content-social-media-marketing)
+    * [Naming](#user-content-naming)
+    * [Space Rental](#user-content-space-rental)
+    * [Community Tools](#user-content-community-tools)
+    * [Personal Productivity](#user-content-personal-productivity)
+    * [Prototyping/Mockups](#user-content-prototypingmockups)
+    * [Content Creation/Infographics](#user-content-content-creationinfographics)
+    * [Customer Feedback/Surveys](#user-content-customer-feedbacksurveys)
+    * [Sales](#user-content-sales)
+    * [Data](#user-content-data)
+    * [Database](#user-content-database)
+    * [Log Monitoring](#user-content-log-monitoring-1)
+    * [Accounting/Invoicing](#user-content-accountinginvoicing)
+    * [Income Analytics](#user-content-income-analytics)
+    * [Payments, Billing & Downloads](#user-content-payments-billing--downloads)
+    * [Billing & Payment Processing](#user-content-billing--payment-processing)
+    * [Banking](#user-content-banking)
+    * [Phone/PBX/SMS](#user-content-phonepbxsms)
+    * [Recommendation Systems](#user-content-recommendation-systems)
+    * [System Monitoring](#user-content-system-monitoring)
+    * [Search](#user-content-search)
+    * [Security](#user-content-security)
+    * [Shipping](#user-content-shipping)
+    * [Support/Help Desk](#user-content-supporthelp-desk)
+    * [User Feedback](#user-content-user-feedback)
+    * [Designers](#user-content-designers)
+    * [Notes](#user-content-notes)
+    * [Group Communication/Chat Tools](#user-content-group-communicationchat-tools)
+    * [Remote Collaboration](#user-content-remote-collaboration)
+    * [DNS](#user-content-dns)
+    * [Status Blogs/User Alerts](#user-content-status-blogsuser-alerts)
+    * [Forms](#user-content-forms)
+    * [Source Code Hosting](#user-content-source-code-hosting)
+    * [Design Collaboration](#user-content-design-collaboration)
+    * [PaaS](#user-content-paas)
+    * [VPS](#user-content-vps)
+    * [Heroku Tools](#user-content-heroku-tools)
+    * [AWS Tools](#user-content-aws-tools)
+    * [Database-aaS](#user-content-database-aas)
+    * [Backend-aaS](#user-content-backend-aas)
+    * [WebSockets-aaS](#user-content-websockets-aas)
+    * [Hadoop-aaS](#user-content-hadoop-aas)
+    * [Ops Alerts and Scheduling](#user-content-ops-alerts-and-scheduling)
+    * [Accounting](#user-content-accounting)
+    * [Video Hosting](#user-content-video-hosting)
+    * [Knowledge Tracking/Wiki](#user-content-knowledge-trackingwiki)
+    * [Offsite Backups](#user-content-offsite-backups)
+    * [Personal Machine Backups](#user-content-personal-machine-backups)
+    * [Remote Workers](#user-content-remote-workers)
+    * [Deployment](#user-content-deployment)
+    * [SEO Tools](#user-content-seo-tools)
+    * [API Builder](#user-content-api-builder)
+    * [Password Management](#user-content-password-management)
+    * [Sources of Clicks/Ad Platforms](#user-content-sources-of-clicksad-platforms)
+  * [Next Steps](#user-content-next-steps)
+
 
 #### Background
 
@@ -27,7 +113,8 @@ It's hosted on GitHub for a reason! Please submit pull requests.
 #### Browser/Email Testing
 * BrowserStack | http://www.browserstack.com |  | $35/mo - $359/mo | Live, Web-Based Browser Testing | Instant access to all desktop and mobile browsers.
 * Litmus | http://litmus.com | [@litmusapp]([@litmusapp] https://twitter.com/litmusapp) | $79/mo - $399/mo | Test and track your emails | Lets you preview your campaigns across 30+ real email clients and devices in minutes.
-* Sauce Labs | https://saucelabs.com/ | [@saucelabs](https://twitter.com/saucelabs) | $12/mo - $149/mo | Testing made awesome | Run you web and mobile app tests across hundreads
+* Sauce Labs | https://saucelabs.com/ | [@saucelabs](https://twitter.com/saucelabs) | $12/mo - $149/mo | Testing made awesome | Run you web and mobile app tests across hundreds
+* EmailOnAcid | http://www.emailonacid.com | [@emailonacid](https://twitter.com/EmailonAcid) | $45/mo - $295/mo | Quickly ensure that your emails don't look like crap in any email client. | Email previews on 70+ clients and spam testing
 
 #### Bug/Issue Tracking
 * BugHerd | http://bugherd.com | [@bugherd](https://twitter.com/bugherd) | $29/mo - $180/mo | Turn client feedback into actionable tasks. | BugHerd lets you quickly see, at a glance, how your project is going and what everyone is working on. The task board lets you keep team members in sync by assigning and scheduling tasks with a simple drag and drop.
@@ -39,7 +126,9 @@ It's hosted on GitHub for a reason! Please submit pull requests.
 * Redmine | OSS | | http://www.redmine.org | [@redmine](https://twitter.com/redmine) | Flexible project management web application. Written using Ruby on Rails framework, it is cross-platform and cross-database.
 * Huboard | https://huboard.com | [@huboard](https://twitter.com/huboard) | $7/mo - $24/mo | GitHub issues made awesome
 Instant project management for GitHub repositories | 
+* Bugify | $59 | http://www.bugify.com | [@bugify](https://twitter.com/bugify) | Self hosted issue management system. One-time payment. Written in PHP.
 * Post It Notes on a (Physical) Wall
+* JIRA | https://www.atlassian.com/software/jira | [@JIRA](https://twitter.com/JIRA) | $10/mo hosted - $10/yr self-hosted | JIRA is the tracker for teams planning and building great products. Thousands of teams choose JIRA to capture and organize issues, assign work, and follow team activity. At your desk or on the go with the new mobile interface, JIRA helps your team get the job done.
 
 #### Planning & Project Management
 * Sprintly | http://sprint.ly | [@sprintly](https://twitter.com/sprintly) | $49/mo- $399/mo | Don't ask how projects are going.
@@ -52,24 +141,24 @@ and measure your software developers' progress in real-time.
 * Apollo | http://www.apollohq.com | [@applicomhq](https://twitter.com/applicomhq) | $23/mo - $148/mo | Integrated Project and Contact Management Done Right | Apollo is project and contact management done right. Using Apollo, you will realise that it's built to help you get things done, quickly and efficiently. With Apollo, you will always know where your projects, your contacts and your life are at and you will feel on top of everything — regardless of how hectic your schedule is.
 * Pivotal | http://www.pivotaltracker.com | [@pivotaltracker](https://twitter.com/pivotaltracker) | $7/mo - $175/mo | BUILD BETTER SOFTWARE FASTER | Break your project down into bite-sized stories, which get your product closer to the business goal. Use points to estimate each story’s relative complexity and prioritize it in the backlog.
 * Asana | http://www.asana.com | [@asana](https://twitter.com/asana) | $50/mo - $800/mo | Teamwork without email | Asana is our go-to for prioritizing projects, keeping up w/orders & staying on top of a growing to-do list
+* WeekPlan | http://weekplan.net | [@weekplan](https://twitter.com/weekplan) | $7/mo- $19/mo | Time management inspired by the "7 habits of highly effective people"
+Features: goals of the week, week view and quadrant matrix, pomodoro timer, shared workspaces, etc...
 * Trello | https://trello.com | [@](https://trello.com) | https://twitter.com/trello | $5/mo | Organize anything, together Trello is the fastest, easiest way to organize anything, from your day-to-day work, to a favorite side project, to your greatest life plans.
 * Blossom | https://www.blossom.io | [@blossom_io](https://twitter.com/blossom_io) | $19/mo - $149/mo | Agile Project Management | Blossom gives each member of the team clear overview about who’s doing what & why and at the same time it helps you to focus on what matters most. With Blossom you can efficiently manage your whole development process in one place, built with simplicity in mind. Blossom is based on the principles ofKanban, a way of working that emphasizes iterative delivery cycles and continuously improves the workflow of your team or organization.
 * Trajectory | https://www.apptrajectory.com | [@apptrajectory](https://twitter.com/apptrajectory) | $25/mo - $100/mo | Agile planning software that helps teams discuss and plan their projects in a realistic, structured way. | Trajectory helps you stay focused on what matters. Ideas are where you discuss the goals for your project. Based on that discussion, you create stories for the implementation. Trajectory makes it easy to see all the stories for an Idea and track progress toward your goal.
-* Orchestra | http://www.orchestra.com/
 * Redmine | http://www.redmine.org | [@redmine](https://twitter.com/redmine) | Flexible project management web application. Written using Ruby on Rails framework, it is cross-platform and cross-database.
 * JIRA Agile | https://www.atlassian.com/software/jira/agile | [@atlassian](https://twitter.com/atlassian) | $10/mo - $30/mo | Dream big, work smart, deliver fast | Makers of @JIRA, @Confluence, @Bitbucket, @HipChat, and more. Software to plan, collaborate, code, and support. Built for teams
-* Sprintly ??? | http://sprint.ly | [@sprintly](https://twitter.com/sprintly) | $49/mo- $399/mo | Don't ask how projects are going.
-Watch how they're going in real-time. | Use our elegant interface to prioritize, tag, manage, estimate, 
-and measure your software developers' progress in real-time.
 * Tom's Planner | http://www.tomsplanner.com/ | [@tomsplanner](https://twitter.com/tomsplanner) | $9/mo - $19/mo |  | Tom's Planner is online Gantt chart software that allows anyone to create, collaborate and share Gantt Charts online with drag and drop simplicity. It's web based, extremely intuitive and easy-to-use.
 * LeanKit | http://leankit.com/ | [@leankit](http://twitter.com/leankit) | $15/mo - $19/mo | Instant Project visibility | In LeanKit, you map your organization’s processes onto virtual whiteboards. On each board the process steps are represented as vertical and horizontal lanes. Cards represent work items, which team members update and move from across the board as they complete their share of the work. Rather than having to ask for status reports, managers and customers can just look at the board. Board updates are visible in seconds around the globe and e-mail alerts and RSS feeds are available, so you and your team can take immediate action to resolve issues before they turn into serious problems.
 
 #### App Developer Tools 
 * App Annie | http://www.appannie.com | [@appannie/](https://twitter.com/appannie/) | free |  | Make better decisions with our app store data. We are the leader for app store analytics, app rankings, and market intelligence.
+* Artisan Mobile | http://useartisan.com/ | [@ArtisanMobile](https://twitter.com/ArtisanMobile) | Free - 10k/mo | The Artisan Mobile Experience Management platform makes it easy to understand your user's behavior and activity, experiment with all aspects of your mobile app, and engage your users with targeted, branded experiences — all in one platform.
 
 #### Business & Traffic Analytics
 * KISSmetrics | http://kissmetrics.com | [@kissmetrics/](https://twitter.com/kissmetrics/) | $150/mo - $500/mo | KISSmetrics tells you who’s doing it. | Every last piece gets connected to a real person. All of it. It doesn’t matter if people bounce around between different browsers and devices. Or even if it takes them 6 months to come back. You’ll see what real people do.
 * Mixpanel | http://mixpanel.com | [@mixpanel/](https://twitter.com/mixpanel/) | $150/mo - $2000/mo | Actions speak louder than page views. | For years, companies have pushed page views as a primary measure of success. Page view counts are popular because they are easy to report, but ultimately cannot tell you how engaged your visitors are. Mixpanel lets you measure what customers do in your app by reporting actions, not page views.
+* Amplitude | https://amplitude.com/ | $299/mo | Mobile Analytics for decision makers
 * Snowplow | http://snowplowanalytics.com | [@SnowPlowData](https://twitter.com/SnowPlowData) |  | Snowplow is the most powerful, flexible, scalable web analytics platform in the world. | Snowplow enables analysts to perform a wide variety of both simple and sophisticated analytics on your web analytics data.
 * DigMyData | http://digmydata.com | [@digmydata](https://twitter.com/digmydata) | $39/mo | The analytics dashboard for those who 
 don't have time for analytics | We take your data and present in a beautiful timeline chart. We bet you’ve never seen some of your data – and certainly not all together in one place.
@@ -80,7 +169,8 @@ don't have time for analytics | We take your data and present in a beautiful tim
 * Chartio | https://chartio.com/ | [@chartio](https://twitter.com/chartio) |  | Visualize and explore your data with Chartio. | Create interactive charts and perfect dashboards through an intuitive drag and drop interface. Switch from basic tables to sophisticated data visualizations in a single click. Powerful filters let you slice and dice your data, and you can drill down into most charts without configuring a thing.
 * Chartbeat | https://chartbeat.com/ | [@chartbeat](http://twitter.com/chartbeat) | $9.95/mo - $49.95/mo | Build a loyal and valuable audience for your site. | Chartbeat's real-time traffic and audience-behavior data shows you who's on your site and how they're engaging with your content right now — so you can take action on what matters when it matters.
 * Calq | https://calq.io | [@CalqAnalytics](http://www.twitter.com/CalqAnalytics) | $0 - $2500/mo | Advanced custom analytics for mobile and web applications. | Calq is an analytics platform that measures user actions rather than page views. An action can be anything a user does: reviewing a product, playing a level on a mobile game, making a purchase on your site, anything. Calq's ability to work with custom events AND custom data is what raises it above more traditional analytics platforms.
-* GoSquared | https://www.gosquared.com/ | [@gosquared](http://www.twitter.com/GoSquared) | £21.60 - £396/mo | Easy to use real-time web analytics. 
+* GoSquared | https://www.gosquared.com/ | [@gosquared](http://www.twitter.com/GoSquared) | £21.60 - £396/mo | Easy to use real-time web analytics.
+* Improvely | https://www.improvely.com | [@improvelycom](http://www.twitter.com/improvelycom) | $29 - $899/mo | Conversion tracking and click fraud monitoring platform. The easiest way to track the performance of marketing campaigns and monitor them for click fraud.
 
 #### Conversion Optimization & A/B Testing 
 * Optimizely | https://www.optimizely.com/ | [@optimizely](https://twitter.com/optimizely) | $17/mo - $359/mo | A/B testing you'll actually use | Track engagement, clicks, conversions, sign ups, or anything else that matters to you and your business. Optimizely's custom goal tracking provides an endless range of measurable actions that you can define. Just tell Optimizely what to measure, and we will do the rest.
@@ -101,8 +191,9 @@ and send personalized messages to the right users at the right time.
 
 #### Continuous Integration/Code Quality
 * Travis | https://travis-ci.org | [@travisci](https://twitter.com/travisci) | Hi I’m Travis CI, a hosted continuous integration service for open source and private projects: http://travis-ci.com  System status updates: @traviscistatus
+* AppVeyor | http://www.appveyor.com | [@appveyor](https://twitter.com/appveyor) | AppVeyor automates building, testing and deployment of .NET applications, helping your team to focus on delivering great apps.
 * Circle | http://circleci.com | [@circleci](https://twitter.com/circleci) | $19/mo - $269/mo | Ship better code, faster | Easy, fast, continuous integration and deployment for web apps.
-* CodeClimate | http://codeclimate.com | [@codeclimate](http://twitter.com/codeclimate) |  | Automated  Code Review | GitHub is the largest code host on the planet with over 13.2 million repositories. Large or small, every repository comes with the same powerful tools. These tools are open to the community for public projects and secure for private projects.
+* CodeClimate | http://codeclimate.com | [@codeclimate](http://twitter.com/codeclimate) | $0/mo - $399/mo | Automated  Code Review | Code Climate hosted software metrics help you ship quality Ruby and JavaScript code faster. Get control of your technical debt with real time static analysis of your code.
 * Sempaphore | https://semaphoreapp.com | [@semaphoreapp](https://twitter.com/semaphoreapp) | $14/mo - $899/mo | Create an Amazing Workflow. | Semaphore assumes that your private or open source project is on GitHub. There are no new dependencies, hooks or SSH keys to manage. It works without any change in source code.
 * CruiseControl
 * Integrity
@@ -110,11 +201,13 @@ and send personalized messages to the right users at the right time.
 * Semaphore | https://semaphoreapp.com | [@semaphoreapp](https://twitter.com/semaphoreapp) | $14/mo - $899/mo | Create an Amazing Workflow. | Semaphore assumes that your private or open source project is on GitHub. There are no new dependencies, hooks or SSH keys to manage. It works without any change in source code.
 * Jenkins | http://jenkins-ci.org | [@jenkinsci](https://twitter.com/jenkinsci) | $60/mo - $200/mo | Continuous Integration on-premise, in the cloud or anywhere in between | Learn best practices for dealing with the challenges of mobile development on iOS and Android, optimization of the user experience, interaction with back-end services, integration with other services (location, alerts, maps) and managment of the wide range of form factors, devices and OS versions
 * Bamboo | https://www.atlassian.com/software/bamboo | [@atlassian](http://twitter.com/atlassian) | $10/mo - $1000/mo |  | Bamboo does more than just run builds and tests. It connects issues, commits, test results, and deploys so the whole picture is available to your entire product team – from project managers, to devs and testers, to sys admins.
+* Buildbox | https://buildbox.io | [@buildboxhq](https://twitter.com/buildboxhq) | $9/mo - $199/mo | Self-hosted continuous integration and deployment | Buildbox uses your own infrastructure to run builds, so it doesn't matter whether your application is in Java, Ruby or Go. You have the ability to use whatever language you want.
 
 #### Dashboards 
 * Ducksboard | http://ducksboard.com | [@ducksboard](http://twitter.com/ducksboard) | $16/mo - $129/mo | All of your data. In one place. | Business dashboards don’t need to be complicated, boring or hard to look at. Ducksboard makes it easy to gather, visualize and share the data that matters most to you and your team.
 * Geckoboard | http://www.geckoboard.com | [@geckoboard](https://twitter.com/geckoboard) | $17/mo - $899/mo | Meet Geckoboard. It's Your Key Data, In One Place. | Geckoboard monitors your business’s vital signs – don’t wait, see it live on a business dashboard as it happens. Focus on what matters and react faster to important events.
 * Instrumental | https://instrumentalapp.com | [@instrumentalapp](https://twitter.com/instrumentalapp) | $15/mo - $150/mo | Monitor Your App in Realtime | Instrumental’s made to monitor metrics at a ridiculously high scale. At rates of 500,000 metrics per second and higher, it doesn’t even break a sweat
+* Telemetry | https://telemetryapp.com | [@telemetryapp](https://twitter.com/telemetryapp) | $9/mo - $749/mo | Build realtime dashboard with powerful visualizations that look beautiful on big screen TVs, desktop computers, mobile devices, and embedded systems—all using a simple REST API that works with all modern languages.
 
 #### Error/Exception Handling
 * Sentry | https://getsentry.com | [@getsentry](http://twitter.com/getsentry) | $24/mo - $199/mo | Sentry notifies you when your users experience errors. | Know immediately when things happen in your application. Engage users before they have a chance to report a problem.
@@ -142,6 +235,7 @@ and send personalized messages to the right users at the right time.
 * Stackify | http://www.stackify.com/ | [@Stackify](https://twitter.com/Stackify) | $15/ mo | Connecting the dots for you | Stackify focuses on application health, magnifying critical insights for developers, operations, and support teams.
 
 #### Application Performance 
+* AppNeta | http://appneta.com/ | [@AppNeta](http://www.twitter.com/AppNeta) | Free to $119 / mo | Full-stack application monitoring for web apps | Get visibility into code, network, and end user, especially for polyglot and service-oriented applications, by looking at transactions, errors, browser metrics, host metrics, and more.
 * New Relic | http://newrelic.com/ | [@NewRelic](http://www.twitter.com/NewRelic) | $149/ mo | Application monitoring for all your web apps. | It’s about gaining actionable, real-time business insights from the billions of metrics your software is producing, including user click streams, mobile activity, end user experiences and transactions.
 * AppSignal | https://appsignal.com/ | [@AppSignal](https://twitter.com/AppSignal) | $49/mo - $259/mo | Better monitoring for your Rails applications. | Get detailled statistics on your site's performance with mean and 90th percentile measurements.
 
@@ -152,8 +246,7 @@ and send personalized messages to the right users at the right time.
 
 #### Server Monitoring 
 * Server Density | https://www.serverdensity.com/ | [@serverdensity](https://twitter.com/serverdensity) |  | Premium hosted website and server monitoring tool. | All your activity syncs in real time - from starting new instances to upgrading or deleting old ones. Work wherever you want - through web, mobile, API or directly with your provider. Everything stays in sync.
-* Datadog | http://www.datadoghq.com/ | [@datadoghq](http://twitter.com/datadoghq) | | See it all in one place
-Your servers, your clouds, your metrics, your apps, your team. Together.
+* Datadog | http://www.datadoghq.com/ | [@datadoghq](http://twitter.com/datadoghq) | | See it all in one place. Your servers, your clouds, your metrics, your apps, your team. Together.
 
 #### Customer Support/Help Desks
 * Desk | http://desk.com | [@desk](https://twitter.com/desk) | $3/mo - $50/mo | Deliver Customer Service That Wows | Desk.com creates the leading customer service application, which helps fast-growing companies deliver outstanding customer support. Desk.com's intuitive user interface and powerful features make solving customers' problems more efficient for the entire company. Plus, Desk.com is the only Customer Service Application backed by Salesforce, providing easy integration with other Salesforce services and robust security. There are thousands of companies using Desk.com as their help desk software application, from household names like Square and Instagram to the burrito shop down the street. Give it a try for free.
@@ -165,13 +258,11 @@ personal support to every customer. | Your customers will never know that you’
 your customers.
 * Intercom | http://intercom.io | [@intercom](https://twitter.com/intercom) | $49/mo - $449/mo | The easiest way to see and talk to your users | Intercom is a single platform where you can see in real-time who is using your product and send personalized messages to the right users at the right time based on their behavior.
 * Tender | http://tenderapp.com | [@tenderapp](http://twitter.com/tenderapp) | $9/mo - $99/mo | Better, Simpler, Customer Support Software. | Support your customers in the open! With public forums, you can offer a public space to your users to discuss common issues and get feedback, while still keeping certain categories private (billing, orders, ...). Power users can subscribe to categories and new discussions, and help out other customers.
-* SupportFu | http://www.supportfu.com/ | [@supportfu](http://www.twitter.com/supportfu) | $9/ mo | It's like gmail on steroids! | SupportFu is a powerful helpdesk that
-helps your team deliver awesome support to each and every customer.
-
-To your customers, it's just email. They will never see a ticket number and will never have to log into anything!
+* SupportFu | http://www.supportfu.com/ | [@supportfu](http://www.twitter.com/supportfu) | $9/ mo | It's like gmail on steroids! | SupportFu is a powerful helpdesk that helps your team deliver awesome support to each and every customer. To your customers, it's just email. They will never see a ticket number and will never have to log into anything!
 * Freshdesk | http://freshdesk.com/ | [@freshdesk](https://twitter.com/freshdesk) | $16/mo - $70/mo | Everything you need to deliver
-Exceptional
+Exceptional | http://www.exceptional.io/ | [@exceptional](https://twitter.com/exceptional) | $9/mo | Exceptional tracks errors in web apps. It reports them in real-time and gathers the info you need to fix them fast.
 Customer Support | Freshdesk keeps you from running behind issues blindly and gets your customer support issues under control.
+* UserDeck | http://userdeck.com | [@user_deck](http://twitter.com/user_deck) | $0 - $25/mo | Customer support software that embeds into your existing website.
 
 #### Transactional Email 
 * Postmark | https://postmarkapp.com | [@postmarkapp](http://twitter.com/postmarkapp) | $1.50 | Email delivery for web apps – done right. | Postmark removes the headaches of delivering and parsing transactional email for webapps with minimal setup time and zero maintenance. We have years of experience getting email to the inbox, so you can work and rest easier.
@@ -187,7 +278,7 @@ from web apps | ostageApp helps design, send, and analyze emails within minutes.
 
 #### Other APIs 
 * Filepicker | http://www.filepicker.io | [@FilePicker](https://twitter.com/FilePicker) | $19/mo - $499/mo | Easy, Powerful File Uploads | Connect, Store, and Process any file from anywhere on the Internet
-* Twilio | http://www.twilio.com/ | [@twilio](https://twitter.com/twilio) | $200/mo - $400/mo | Communications power business. Twillo powers communications. | We are changing communications forever by empowering software people to build the future of our modern communications apps.
+* Twilio | http://www.twilio.com/ | [@twilio](https://twitter.com/twilio) | $1/mo - $400/mo | Communications power business. Twillo powers communications. | We are changing communications forever by empowering software people to build the future of our modern communications apps.
 * Zapier | https://zapier.com/ | [@#!/zapier](https://twitter.com/#!/zapier) | $99/mo - $15/mo | Superpowers to get your work done. | A Zap is a link between two apps (a "trigger" and an "action"). Zaps run automatically in the background every few minutes to move and manage data on your behalf. Only live Zaps count against your limit — you can have as many paused and unfinished Zaps as you'd like. For example, one Zap might be "Send me an SMS every time I get a new email".
 * BlockScore
 * Open Exchange Rates | https://openexchangerates.org/ |  | $12/mo - $97/mo | Real-time exchange rates &
@@ -196,6 +287,7 @@ currency conversion JSON API | A simple and easy-to-integrate exchange rates API
 #### Site Search 
 * Elasticsearch | http://www.elasticsearch.org/ | [@elasticsearch](https://twitter.com/elasticsearch) |  | an end-to-end search and analytics platform. infinitely versatile. | By combining the massively popular Elasticsearch, Logstash and Kibana we have created an end-to-end stack that delivers actionable insights in real-time from almost any type of structured and unstructured data source. Built and supported by the engineers behind each of these open source products, the Elasticsearch ELK stack makes searching and analyzing data easier than ever before.
 * Algolia | http://www.algolia.com/ | [@Algolia](http://www.twitter.com/Algolia) | $49/mo - $449/mo | Build Realtime Search | Algolia is a fully hosted search service, available as a REST API. API clients are also available for all major frameworks, platforms and languages.
+* Apache Solr | http://lucene.apache.org/solr/ - an open source search platform, based and co-released with Apache Lucene. [SiLK](http://www.lucidworks.com/lucidworks-silk/) provides analytics and log management on top of Solr.
 
 #### Email Marketing 
 * Customer.io | http://customer.io/ |  | $50/mo - $1250/Mo | Send email based on what people do 
@@ -254,6 +346,7 @@ for Your Enterprise | Whether planning ahead or booking on the fly, find and res
 * moqups | https://moqups.com/ | [@moqups](https://twitter.com/moqups) | $9/mo-  $39/mo | Moqups is a nifty HTML5 App used to create wireframes, mockups or UI concepts, prototypes
 depending on how you like to call them. | The most stunning HTML5 app for creating resolution-independent SVG mockups & wireframes for your next project.
 * Balsamiq | http://balsamiq.com/ | Life's too short for bad software! | Balsamiq Mockups is a rapid wireframing tool that helps you Work Faster & Smarter. It reproduces the experience of sketching on a whiteboard, but using a computer.
+* POP - PrototypeOnPaper | https://popapp.in/ | Free iPhone prototype app, turn back of napkin sketches into prototypes
 
 #### Content Creation/Infographics
 * Visual.ly | http://visual.ly/ | [@Visually](https://twitter.com/Visually) | $195/mo-  $994/mo | ORIGINAL VISUAL CONTENT FOR BRANDS | We only work with the best creative talent available. Thousands of designers,
@@ -308,6 +401,7 @@ Sell films directly to your viewers. | Creating digital products is hard, sellin
 * FetchApp | http://www.fetchapp.com/ | [@fetchapp](https://twitter.com/fetchapp) | $5/mo-  $500/mo | The Simpler way to Fetch. | Simply put, FetchApp allows you to sell and digitally delivery downloadable goods
 * Chargify | http://chargify.com/ | [@chargify](https://twitter.com/chargify) | $459/mo-  $65/mo | Easily Manage Your Recurring Revenue Business | Customers sign up, make payments, use coupons, upgrade... You bill one-time & recurring fees using whatever pricing model you need, charge cards, send invoices & reminders, etc.
 * Recurly | https://recurly.com/ | [@Recurly](https://twitter.com/Recurly) | $99/mo-  $259/mo | Subscription Billing Automation | As the leading recurring billing platform, Recurly ensures setup is easy, integrations are quick, and our service scales with the needs of your business. With Recurly you'll be ready to accept payments and focus on growing your sales in no time.
+* ChargeBee | http://chargebee.com/ | [@chargebee](https://twitter.com/chargebee) | $49/mo-  $249/mo | ChargeBee is an easy to use recurring billing and invoicing solution for online businesses
 
 #### Billing & Payment Processing
 * Braintree | https://www.braintreepayments.com | [@braintree](https://twitter.com/braintree) |  | Accept payments in
@@ -397,9 +491,14 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * GoToMeeting | http://www.gotomeeting.com/online/default
 * IRCCloud | https://www.irccloud.com/
 [More Group Chat Tools](https://github.com/cjbarber/hipchat-alternatives
+* Kato | http://www.kato.im
+* Convo | https://www.convo.com/
+* Sqwiggle | https://www.sqwiggle.com/
+* Pie | https://www.sqwiggle.com/
 
 #### Remote Collaboration  
 * TeamViewer | http://www.teamviewer.com/en/index.aspx
+* Screenmailer | https://www.screenmailer.com
 
 #### DNS 
 * DynDNS
@@ -426,6 +525,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 #### PaaS 
 * Heroku
 * Pagodabox | https://pagodabox.com/ |  
+* Clever Cloud | http://www.clever-cloud.com/ |
 
 #### VPS 
 * Linode |  
@@ -461,6 +561,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 
 #### Knowledge Tracking/Wiki
 * Confluence |  
+* SlimWiki | http://slimwiki.com/ |  
 
 #### Offsite Backups
 * Tarsnap |  
@@ -472,10 +573,13 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 
 #### Remote Workers
 * oDesk |  
+* TaskArmy | http://taskarmy.com  
 
 #### Deployment
 * Chef | http://www.getchef.com
 * Fabric |  
+* Puppet | http://puppetlabs.com/
+* Ansible | http://www.ansible.com/
 
 #### SEO Tools
 * Ahrefs | https://ahrefs.com/
@@ -489,6 +593,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Lastpass
 * 1Password
 * Passpack | https://www.passpack.com/
+* Locko | http://www.binarynights.com/locko/ | $0.99 | Mac OS X app including extensions for Safari, Chrome, Firefox and Opera.
 
 #### Sources of Clicks/Ad Platforms
 * NeoReach | http://neoreach.com/
@@ -508,4 +613,8 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 
 Star the repo to help ensure it is maintained.
 
+[Follow me on Twitter](https://twitter.com/chrisbarber), I like making/tweeting about the things that make it easier to find the best tools (for SaaS and more).
+
 Issue a pull request or edit on [Prose](http://prose.io/#cjbarber/ToolsOfTheTrade/edit/master/README.md)
+
+If you'd like to issue a PR to add your own tool, I will merge it ASAP if you include one other fix/bit of maintenance to the repo, to help keep it updated.

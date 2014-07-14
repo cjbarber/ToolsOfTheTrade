@@ -52,6 +52,8 @@ and measure your software developers' progress in real-time.
 * Apollo | http://www.apollohq.com | [@applicomhq](https://twitter.com/applicomhq) | $23/mo - $148/mo | Integrated Project and Contact Management Done Right | Apollo is project and contact management done right. Using Apollo, you will realise that it's built to help you get things done, quickly and efficiently. With Apollo, you will always know where your projects, your contacts and your life are at and you will feel on top of everything — regardless of how hectic your schedule is.
 * Pivotal | http://www.pivotaltracker.com | [@pivotaltracker](https://twitter.com/pivotaltracker) | $7/mo - $175/mo | BUILD BETTER SOFTWARE FASTER | Break your project down into bite-sized stories, which get your product closer to the business goal. Use points to estimate each story’s relative complexity and prioritize it in the backlog.
 * Asana | http://www.asana.com | [@asana](https://twitter.com/asana) | $50/mo - $800/mo | Teamwork without email | Asana is our go-to for prioritizing projects, keeping up w/orders & staying on top of a growing to-do list
+* WeekPlan | http://weekplan.net | [@weekplan](https://twitter.com/weekplan) | $7/mo- $19/mo | Time management inspired by the "7 habits of highly effective people"
+Features: goals of the week, week view and quadrant matrix, pomodoro timer, shared workspaces, etc...
 * Trello | https://trello.com | [@](https://trello.com) | https://twitter.com/trello | $5/mo | Organize anything, together Trello is the fastest, easiest way to organize anything, from your day-to-day work, to a favorite side project, to your greatest life plans.
 * Blossom | https://www.blossom.io | [@blossom_io](https://twitter.com/blossom_io) | $19/mo - $149/mo | Agile Project Management | Blossom gives each member of the team clear overview about who’s doing what & why and at the same time it helps you to focus on what matters most. With Blossom you can efficiently manage your whole development process in one place, built with simplicity in mind. Blossom is based on the principles ofKanban, a way of working that emphasizes iterative delivery cycles and continuously improves the workflow of your team or organization.
 * Trajectory | https://www.apptrajectory.com | [@apptrajectory](https://twitter.com/apptrajectory) | $25/mo - $100/mo | Agile planning software that helps teams discuss and plan their projects in a realistic, structured way. | Trajectory helps you stay focused on what matters. Ideas are where you discuss the goals for your project. Based on that discussion, you create stories for the implementation. Trajectory makes it easy to see all the stories for an Idea and track progress toward your goal.
@@ -468,6 +470,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 
 #### Remote Workers
 * oDesk |  
+* TaskArmy | http://taskarmy.com  
 
 #### Deployment
 * Chef | http://www.getchef.com

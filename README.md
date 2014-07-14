@@ -223,7 +223,7 @@ inside Gmail | Streak lets you keep track of all your deals right from your inbo
 * Base | http://getbase.com | [@getbase](https://twitter.com/getbase) | $15/mo-  $125/mo | The Sales and CRM Software Your Team Will Actually Use | Base is designed to significantly boost your team’s sales productivity and give you the core sales tools you need to grow your business.Your leads come from a variety of sources. Lead management in Base helps you organize leads and assign them to the right sales reps so they can be followed up on and qualified quickly. After being qualified, convert a lead in Base and all of the contact information you have about your lead is transferred your new customer contact card. Optionally, you can specify follow up tasks and even create a deal at the same time.
 * Pipedrive | https://www.pipedrive.com/en/home/quotes |  | $9/ mo | Pipeline software that gets you organized. | Pipedrive is built for salespeople who need to put in serious effort to turn leads into sales. It helps to organize the work and spend less time on admin.
 * LanternCRM | http://www.lanterncrm.com | [@lanterncrm](http://twitter.com/lanterncrm) | $9/mo-  $49/mo | LanternCRM crafts business software that strengthens customer relationships and simplifies communication between coworkers. We're your friendly, up-and-coming CRM startup!
-[See more CRMs](https://github.com/cjbarber/best-crm-for-startups)
+* [See more CRMs](https://github.com/cjbarber/best-crm-for-startups)
 
 #### Social Media Marketing  
 * Buffer | https://bufferapp.com | [@buffer](https://twitter.com/buffer) | $10/mo | Buffer is the easiest way to publish on social media | Buffer helps you share to Twitter, Facebook and more. 

@@ -542,7 +542,8 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Firebase | https://www.firebase.com/ |  
 
 #### WebSockets-aaS
-* Pusher | http://www.pusherapp.com |  
+* Pusher | http://www.pusherapp.com | 
+* ScaleDrone | http://www.scaledrone.com | 
 
 #### Hadoop-aaS
 * Mortar | http://www.mortardata.com/ |  

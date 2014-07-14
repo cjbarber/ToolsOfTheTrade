@@ -393,6 +393,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Google Hangouts
 * GoToMeeting | http://www.gotomeeting.com/online/default
 * IRCCloud | https://www.irccloud.com/
+* Buddycloud | http://hosting.buddycloud.org
 [More Group Chat Tools](https://github.com/cjbarber/hipchat-alternatives)
 
 #### Remote Collaboration  

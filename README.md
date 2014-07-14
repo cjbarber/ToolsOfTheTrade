@@ -394,6 +394,10 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * GoToMeeting | http://www.gotomeeting.com/online/default
 * IRCCloud | https://www.irccloud.com/
 [More Group Chat Tools](https://github.com/cjbarber/hipchat-alternatives
+* Kato | http://www.kato.im
+* Convo | https://www.convo.com/
+* Sqwiggle | https://www.sqwiggle.com/
+* Pie | https://www.sqwiggle.com/
 
 #### Remote Collaboration  
 * TeamViewer | http://www.teamviewer.com/en/index.aspx

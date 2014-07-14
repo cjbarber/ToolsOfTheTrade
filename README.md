@@ -400,6 +400,9 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 
 #### DNS 
 * DynDNS
+* DNSimple
+* DNS Made Easy
+* Amazon Route 53
 
 #### Status Blogs/User Alerts
 * StatusPage.io

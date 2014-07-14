@@ -468,6 +468,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 #### Notes 
 * Google Docs
 * Evernote | http://evernote.com
+* Google Keep | http://keep.google.com
 * Workflowy | https://workflowy.com/
 * Quip | https://quip.com/
 * Etherpad | http://etherpad.org/

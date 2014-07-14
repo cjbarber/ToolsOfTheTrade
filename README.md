@@ -281,6 +281,9 @@ IN MINUTES | PickFu is a tool that provides instant, unbiased and insightful pub
 * Kafka | http://sna-projects.com/kafka/ | [@ApacheKafka](https://twitter.com/ApacheKafka) |  | A high-throughput distributed messaging system. | Apache Kafka is publish-subscribe messaging rethought as a distributed commit log.
 * Scribe | https://github.com/facebook/scribe/
 
+#### Cron Monitoring
+* Cronitor | https://cronitor.io | [@cronitorio](https://twitter.com/cronitorio) | $7/mo - $50/mo  | Add simple monitoring to cron or other scheduled jobs. Receive email/sms alerts if your job fails to run on time, runs for too long, or finishes too quickly.
+
 #### Accounting/Invoicing
 * Harvest | http://www.getharvest.com/ | [@harvest](http://twitter.com/harvest) | $12/mo-  $99/mo | Time Tracking Made Easy | Time tracking is simple and lightning fast with Harvest. Set up takes seconds, and there’s nothing to install. We’ve simplified the timesheet and timesheets approval process so you can stay focused on work.
 * Ballpark | http://www.getballpark.com/ |  | $12/mo-  $99/mo | Stop sending your clients ugly paper invoices. Go paperless today, with Ballpark. | Our beautiful, web-based invoices and estimates make it easier than ever to get paid and discuss projects with your clients and colleagues.

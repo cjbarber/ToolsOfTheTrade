@@ -94,6 +94,7 @@ and send personalized messages to the right users at the right time.
 
 #### HR
 * Workday | http://www.workday.com/ | [@workday](https://twitter.com/workday) |  | Workday works the way people work—collaboratively, on the go, and in real-time. Explore the product previews below to learn how Workday can change the way you work. | With powerful business applications and a user experience that's unmatched in enterprise software, Workday gives you everything you need to transform your business.
+* Kin HR | http://kinhr.com/ | [@kin_hr](https://twitter.com/kin_hr) | $5 per user per month | Kin HR Software streamlines HR for your entire team with employee file & data management, time-off tracking and new hire onboarding.
 
 #### Payroll 
 * ZenPayroll | https://zenpayroll.com/ | [@zenpayroll](https://twitter.com/zenpayroll) | $25/mo - $243/mo | The most delightful — and only — payroll service you'll ever use. We love, love, love helping  | Provide your employees direct access to their paystubs, pay history and information. Streamline changes and approvals.

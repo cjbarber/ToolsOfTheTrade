@@ -135,7 +135,7 @@ and send personalized messages to the right users at the right time.
 * LogEntries | https://logentries.com | [@logentries](https://twitter.com/logentries) | $16/mo - $245/mo | Log Management & Analytics Made Easy | Logentries provides an easy-to-use cloud service for log management and analytics.
 * Sumo Logic | http://www.sumologic.com/ | [@#!/SumoLogic](https://twitter.com/#!/SumoLogic) |  | Log Data is Big Data | Once enabled by the administrator, the new data will be searchable in the customer account. Sumo Logic  provides an Application for Data Volume for out-of–the-box dashboards and searches that deliver a comprehensive view of data usage volume by category, collector, source name, and hosts.
 * statsd | https://github.com/etsy/statsd/
-* Graphite | http://graphite.wikidot.com/
+* Graphite | http://graphite.readthedocs.org/
 * Graylog2 | http://graylog2.org | [@graylog2](https://twitter.com/graylog2) | Field-tested open source data analytics system used and trusted all around the world. Search your logs, create charts, send reports and be alerted when something happens. All running on the existing JVM in your datacenter.
 * Graphdat | http://www.graphdat.com/ | [@graphdat](http://twitter.com/graphdat) | $10/ mo | Proactive application and infrastructure monitoring that looks beautiful | 
 * Stackify | http://www.stackify.com/ | [@Stackify](https://twitter.com/Stackify) | $15/ mo | Connecting the dots for you | Stackify focuses on application health, magnifying critical insights for developers, operations, and support teams.

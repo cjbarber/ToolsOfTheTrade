@@ -131,6 +131,7 @@ Instant project management for GitHub repositories |
 * JIRA | https://www.atlassian.com/software/jira | [@JIRA](https://twitter.com/JIRA) | $10/mo hosted - $10/yr self-hosted | JIRA is the tracker for teams planning and building great products. Thousands of teams choose JIRA to capture and organize issues, assign work, and follow team activity. At your desk or on the go with the new mobile interface, JIRA helps your team get the job done.
 
 #### Planning & Project Management
+* Aha! | http://aha.io/ | [@aha_io](https://twitter.com/aha_io) | $69/mo, Ask about startup plan | The new way to create brilliant product strategy and visual roadmaps.
 * Sprintly | http://sprint.ly | [@sprintly](https://twitter.com/sprintly) | $49/mo- $399/mo | Don't ask how projects are going.
 Watch how they're going in real-time. | Use our elegant interface to prioritize, tag, manage, estimate, 
 and measure your software developers' progress in real-time.

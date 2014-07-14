@@ -143,6 +143,7 @@ and send personalized messages to the right users at the right time.
 #### Application Performance 
 * New Relic | http://newrelic.com/ | [@NewRelic](http://www.twitter.com/NewRelic) | $149/ mo | Application monitoring for all your web apps. | It’s about gaining actionable, real-time business insights from the billions of metrics your software is producing, including user click streams, mobile activity, end user experiences and transactions.
 * AppSignal | https://appsignal.com/ | [@AppSignal](https://twitter.com/AppSignal) | $49/mo - $259/mo | Better monitoring for your Rails applications. | Get detailled statistics on your site's performance with mean and 90th percentile measurements.
+* Takipi | http://takipi.com | [@Takipid](http://www.twitter.com/takipid) | $99/ mo | God mode in production code. | See the code and variables behind errors. Dive deeper with pinpoint analysis. Solve monster bugs. (JVM only)
 
 #### Load Testing 
 * Blitz | https://www.blitz.io/ | [@blitz_io](http://twitter.com/blitz_io) | $19.99/mo - $399.99/mo | LOAD TESTING FROM THE CLOUD | Building mobile applications, websites or APIs is an iterative process. New features and capabilities are being added constantly. Your application is rapidly and iteratively going through several distinct phases - Development, Staging, Production and Operations. At every step of the way, the ability to ensure that your application meets the highest levels of user satisfaction is critical.

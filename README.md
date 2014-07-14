@@ -295,6 +295,9 @@ TRUSTED BY THOUSANDS, WORLDWIDE | Cashboard is the tool we designed to remedy th
 Easier Invoicing 
 Online Payments | In Paydirt, you can start a timer from any page in one click. No fiddly menus. No navigating around. Just a start button for each task.
 
+#### Legal Documents
+* iubenda | http://iubenda.com/ | [@iubenda](https://twitter.com/iubenda) | free - $27/year - customization services | Add your third party services to your iubenda account and it will automatically create a privacy policy. Choose between 6 languages. Iubenda hosts and keeps the documents up to date. 
+
 #### Income Analytics
 * Baremetrics | https://baremetrics.io/ | [@Baremetrics](https://twitter.com/Baremetrics) | $79/mo-  $249/mo | One click and you get dozens of valuable metrics from your Stripe account | 
 

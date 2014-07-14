@@ -189,6 +189,7 @@ and send personalized messages to the right users at the right time.
 
 #### Continuous Integration/Code Quality
 * Travis | https://travis-ci.org | [@travisci](https://twitter.com/travisci) | Hi I’m Travis CI, a hosted continuous integration service for open source and private projects: http://travis-ci.com  System status updates: @traviscistatus
+* AppVeyor | http://www.appveyor.com | [@appveyor](https://twitter.com/appveyor) | AppVeyor automates building, testing and deployment of .NET applications, helping your team to focus on delivering great apps.
 * Circle | http://circleci.com | [@circleci](https://twitter.com/circleci) | $19/mo - $269/mo | Ship better code, faster | Easy, fast, continuous integration and deployment for web apps.
 * CodeClimate | http://codeclimate.com | [@codeclimate](http://twitter.com/codeclimate) |  | Automated  Code Review | GitHub is the largest code host on the planet with over 13.2 million repositories. Large or small, every repository comes with the same powerful tools. These tools are open to the community for public projects and secure for private projects.
 * Sempaphore | https://semaphoreapp.com | [@semaphoreapp](https://twitter.com/semaphoreapp) | $14/mo - $899/mo | Create an Amazing Workflow. | Semaphore assumes that your private or open source project is on GitHub. There are no new dependencies, hooks or SSH keys to manage. It works without any change in source code.

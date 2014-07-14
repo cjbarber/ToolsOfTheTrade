@@ -40,6 +40,7 @@ It's hosted on GitHub for a reason! Please submit pull requests.
 * Huboard | https://huboard.com | [@huboard](https://twitter.com/huboard) | $7/mo - $24/mo | GitHub issues made awesome
 Instant project management for GitHub repositories | 
 * Post It Notes on a (Physical) Wall
+* FogBugz | Free & Paid | http://www.fogbugz.com | Offers a pretty solid & free hosted 2 user student/startup version perfect for providing email support and doing project management.  Beyond 2 years, it costs $25/user a month, and can be installed locally or remain hosted.
 
 #### Planning & Project Management
 * Sprintly | http://sprint.ly | [@sprintly](https://twitter.com/sprintly) | $49/mo- $399/mo | Don't ask how projects are going.
@@ -63,6 +64,7 @@ Watch how they're going in real-time. | Use our elegant interface to prioritize,
 and measure your software developers' progress in real-time.
 * Tom's Planner | http://www.tomsplanner.com/ | [@tomsplanner](https://twitter.com/tomsplanner) | $9/mo - $19/mo |  | Tom's Planner is online Gantt chart software that allows anyone to create, collaborate and share Gantt Charts online with drag and drop simplicity. It's web based, extremely intuitive and easy-to-use.
 * LeanKit | http://leankit.com/ | [@leankit](http://twitter.com/leankit) | $15/mo - $19/mo | Instant Project visibility | In LeanKit, you map your organization’s processes onto virtual whiteboards. On each board the process steps are represented as vertical and horizontal lanes. Cards represent work items, which team members update and move from across the board as they complete their share of the work. Rather than having to ask for status reports, managers and customers can just look at the board. Board updates are visible in seconds around the globe and e-mail alerts and RSS feeds are available, so you and your team can take immediate action to resolve issues before they turn into serious problems.
+* TeamworkPM | http://teamworkpm.net | Wider and more flexible project management system that handles a lot of scenarios related to projects, including recurring tasks, non-tech or dev projects, and simply keeping on top of things.
 
 #### App Developer Tools 
 * App Annie | http://www.appannie.com | [@appannie/](https://twitter.com/appannie/) | free |  | Make better decisions with our app store data. We are the leader for app store analytics, app rankings, and market intelligence.
@@ -81,6 +83,7 @@ don't have time for analytics | We take your data and present in a beautiful tim
 * Chartbeat | https://chartbeat.com/ | [@chartbeat](http://twitter.com/chartbeat) | $9.95/mo - $49.95/mo | Build a loyal and valuable audience for your site. | Chartbeat's real-time traffic and audience-behavior data shows you who's on your site and how they're engaging with your content right now — so you can take action on what matters when it matters.
 * Calq | https://calq.io | [@CalqAnalytics](http://www.twitter.com/CalqAnalytics) | $0 - $2500/mo | Advanced custom analytics for mobile and web applications. | Calq is an analytics platform that measures user actions rather than page views. An action can be anything a user does: reviewing a product, playing a level on a mobile game, making a purchase on your site, anything. Calq's ability to work with custom events AND custom data is what raises it above more traditional analytics platforms.
 
+
 #### Conversion Optimization & A/B Testing 
 * Optimizely | https://www.optimizely.com/ | [@optimizely](https://twitter.com/optimizely) | $17/mo - $359/mo | A/B testing you'll actually use | Track engagement, clicks, conversions, sign ups, or anything else that matters to you and your business. Optimizely's custom goal tracking provides an endless range of measurable actions that you can define. Just tell Optimizely what to measure, and we will do the rest.
 * Visual Website Optimizer | http://visualwebsiteoptimizer.com/ | [@wingify](http://twitter.com/wingify) | $49/mo - $129/mo | Increase your website sales and conversions | Using Visual Website Optimizer, they A/B test different versions of their website and landing pages to find out which one works best. Made for marketers, our tool is incredibly easy to use, and doesn't need IT resources.
@@ -88,6 +91,7 @@ don't have time for analytics | We take your data and present in a beautiful tim
 #### User Analytics
 * Intercom | http://intercom.io | [@intercom](https://twitter.com/intercom) | $49/mo - $449/mo | The easiest way to see and talk to your users | Intercom is a single platform where you can see in real-time who is using your product and how,
 and send personalized messages to the right users at the right time.
+* Keen.io | http://keen.io | Impressively simple & powerful way to capture all the events in your app and report on them how you need.  
 
 #### User Testing 
 * Silverback 2.0 | http://silverbackapp.com/ | [@silverbackapp](http://twitter.com/silverbackapp) | 69.95 | Guerrilla usability testing software for designers and developers | Silverback makes it easy, quick and cheap for everyone to perform guerrilla usability tests with no setup and no expense, using hardware already in your Mac.

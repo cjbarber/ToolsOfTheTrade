@@ -274,6 +274,8 @@ IN MINUTES | PickFu is a tool that provides instant, unbiased and insightful pub
 * Datomic | http://datomic.com | [@datomic_team](http://twitter.com/datomic_team) | $16000/mo | The fully transactional, cloud-ready, immutable database. | Immutable data means strong consistency combined with horizontal read scalability, plus built-in caching. Datomic is a distributed database designed to enable scalable, flexible and intelligent applications, running on next-generation cloud architectures.
 
 #### Log Monitoring
+
+* Scalyr | https://www.scalyr.com | [@scalyr](https://twitter.com/scalyr) | $19 - $499 | Log aggregation, search, analysis, dashboards & alerts all in one tool. Diagnose server issues faster and on one screen.
 * Logstash | http://logstash.net | [@logstash](https://twitter.com/logstash) |  | Ship logs from any source, parse them, get the right timestamp, index them, and search them. | logstash is a tool for managing events and logs. You can use it to collect logs, parse them, and store them for later use (like, for searching). Speaking of searching, logstash comes with a web interface for searching and drilling into all of your logs.
 * Lumberjack | https://github.com/jordansissel/lumberjack
 * Fluentd | http://fluentd.org | [@fluentd](https://twitter.com/fluentd) |  | Set Up Once, Collect More | Fluentd is an open source data collector designed for processing data streams. 150+ plugins instantly enable you to store the data for Log Management, Big Data Analytics, etc

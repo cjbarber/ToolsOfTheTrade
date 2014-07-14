@@ -605,4 +605,8 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 
 Star the repo to help ensure it is maintained.
 
+[Follow me on Twitter](https://twitter.com/chrisbarber), I like making/tweeting about the things that make it easier to find the best tools (for SaaS and more).
+
 Issue a pull request or edit on [Prose](http://prose.io/#cjbarber/ToolsOfTheTrade/edit/master/README.md)
+
+If you'd like to issue a PR to add your own tool, I will merge it ASAP if you include one other fix/bit of maintenance to the repo, to help keep it updated.

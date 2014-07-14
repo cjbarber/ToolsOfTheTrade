@@ -139,6 +139,12 @@ and send personalized messages to the right users at the right time.
 * Graylog2 | http://graylog2.org | [@graylog2](https://twitter.com/graylog2) | Field-tested open source data analytics system used and trusted all around the world. Search your logs, create charts, send reports and be alerted when something happens. All running on the existing JVM in your datacenter.
 * Graphdat | http://www.graphdat.com/ | [@graphdat](http://twitter.com/graphdat) | $10/ mo | Proactive application and infrastructure monitoring that looks beautiful | 
 * Stackify | http://www.stackify.com/ | [@Stackify](https://twitter.com/Stackify) | $15/ mo | Connecting the dots for you | Stackify focuses on application health, magnifying critical insights for developers, operations, and support teams.
+* Logstash | http://logstash.net | [@logstash](https://twitter.com/logstash) |  | Ship logs from any source, parse them, get the right timestamp, index them, and search them. | logstash is a tool for managing events and logs. You can use it to collect logs, parse them, and store them for later use (like, for searching). Speaking of searching, logstash comes with a web interface for searching and drilling into all of your logs.
+* Lumberjack | https://github.com/jordansissel/lumberjack
+* Fluentd | http://fluentd.org | [@fluentd](https://twitter.com/fluentd) |  | Set Up Once, Collect More | Fluentd is an open source data collector designed for processing data streams. 150+ plugins instantly enable you to store the data for Log Management, Big Data Analytics, etc
+* Flume | https://github.com/cloudera/flume
+* Kafka | http://sna-projects.com/kafka/ | [@ApacheKafka](https://twitter.com/ApacheKafka) |  | A high-throughput distributed messaging system. | Apache Kafka is publish-subscribe messaging rethought as a distributed commit log.
+* Scribe | https://github.com/facebook/scribe/
 
 #### Application Performance 
 * New Relic | http://newrelic.com/ | [@NewRelic](http://www.twitter.com/NewRelic) | $149/ mo | Application monitoring for all your web apps. | It’s about gaining actionable, real-time business insights from the billions of metrics your software is producing, including user click streams, mobile activity, end user experiences and transactions.
@@ -272,14 +278,6 @@ IN MINUTES | PickFu is a tool that provides instant, unbiased and insightful pub
 * Tinkerpop | http://www.tinkerpop.com/ | Open source software products in the graph space. | 
 * Bulbs | http://bulbflow.com
 * Datomic | http://datomic.com | [@datomic_team](http://twitter.com/datomic_team) | $16000/mo | The fully transactional, cloud-ready, immutable database. | Immutable data means strong consistency combined with horizontal read scalability, plus built-in caching. Datomic is a distributed database designed to enable scalable, flexible and intelligent applications, running on next-generation cloud architectures.
-
-#### Log Monitoring
-* Logstash | http://logstash.net | [@logstash](https://twitter.com/logstash) |  | Ship logs from any source, parse them, get the right timestamp, index them, and search them. | logstash is a tool for managing events and logs. You can use it to collect logs, parse them, and store them for later use (like, for searching). Speaking of searching, logstash comes with a web interface for searching and drilling into all of your logs.
-* Lumberjack | https://github.com/jordansissel/lumberjack
-* Fluentd | http://fluentd.org | [@fluentd](https://twitter.com/fluentd) |  | Set Up Once, Collect More | Fluentd is an open source data collector designed for processing data streams. 150+ plugins instantly enable you to store the data for Log Management, Big Data Analytics, etc
-* Flume | https://github.com/cloudera/flume
-* Kafka | http://sna-projects.com/kafka/ | [@ApacheKafka](https://twitter.com/ApacheKafka) |  | A high-throughput distributed messaging system. | Apache Kafka is publish-subscribe messaging rethought as a distributed commit log.
-* Scribe | https://github.com/facebook/scribe/
 
 #### Accounting/Invoicing
 * Harvest | http://www.getharvest.com/ | [@harvest](http://twitter.com/harvest) | $12/mo-  $99/mo | Time Tracking Made Easy | Time tracking is simple and lightning fast with Harvest. Set up takes seconds, and there’s nothing to install. We’ve simplified the timesheet and timesheets approval process so you can stay focused on work.

@@ -499,7 +499,9 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Screenmailer | https://www.screenmailer.com
 
 #### DNS 
-* DynDNS
+* DynDNS | https://dyn.com/dns/
+* Cloudflare | https://www.cloudflare.com/
+* Amazon Route 53 | http://aws.amazon.com/route53/
 
 #### Status Blogs/User Alerts
 * StatusPage.io

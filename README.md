@@ -249,7 +249,7 @@ your customers.
 * Tender | http://tenderapp.com | [@tenderapp](http://twitter.com/tenderapp) | $9/mo - $99/mo | Better, Simpler, Customer Support Software. | Support your customers in the open! With public forums, you can offer a public space to your users to discuss common issues and get feedback, while still keeping certain categories private (billing, orders, ...). Power users can subscribe to categories and new discussions, and help out other customers.
 * SupportFu | http://www.supportfu.com/ | [@supportfu](http://www.twitter.com/supportfu) | $9/ mo | It's like gmail on steroids! | SupportFu is a powerful helpdesk that helps your team deliver awesome support to each and every customer. To your customers, it's just email. They will never see a ticket number and will never have to log into anything!
 * Freshdesk | http://freshdesk.com/ | [@freshdesk](https://twitter.com/freshdesk) | $16/mo - $70/mo | Everything you need to deliver
-Exceptional
+Exceptional | http://www.exceptional.io/ | [@exceptional](https://twitter.com/exceptional) | $9/mo | Exceptional tracks errors in web apps. It reports them in real-time and gathers the info you need to fix them fast.
 Customer Support | Freshdesk keeps you from running behind issues blindly and gets your customer support issues under control.
 
 #### Transactional Email 

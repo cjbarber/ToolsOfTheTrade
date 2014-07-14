@@ -243,7 +243,8 @@ for Your Enterprise | Whether planning ahead or booking on the fly, find and res
 * Discourse | http://www.discourse.org/ | [@discourse](https://twitter.com/discourse) |  | Ready for a new discussion platform? | scussion software is a group of people interested in a common topic who are willing to type paragraphs to each other on a web page.
 
 #### Personal Productivity
-* Do.com
+* Do.com | https://do.com/
+* Doit.im | http://doit.im/
 
 #### Prototyping/Mockups
 * Keynote | http://www.apple.com/in/mac/keynote/ | [@keynote](https://twitter.com/keynote) | $19.99 |  | Easily create gorgeous presentations with the all-new Keynote, featuring powerful yet easy-to-use tools and dazzling effects that will make you a very hard act to follow.
@@ -482,8 +483,8 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Deployd
 
 #### Password Management
-* Lastpass
-* 1Password
+* Lastpass | https://lastpass.com/
+* 1Password | https://agilebits.com/onepassword/
 * Passpack | https://www.passpack.com/
 
 #### Sources of Clicks/Ad Platforms

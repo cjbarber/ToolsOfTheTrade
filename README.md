@@ -150,6 +150,7 @@ Features: goals of the week, week view and quadrant matrix, pomodoro timer, shar
 * JIRA Agile | https://www.atlassian.com/software/jira/agile | [@atlassian](https://twitter.com/atlassian) | $10/mo - $30/mo | Dream big, work smart, deliver fast | Makers of @JIRA, @Confluence, @Bitbucket, @HipChat, and more. Software to plan, collaborate, code, and support. Built for teams
 * Tom's Planner | http://www.tomsplanner.com/ | [@tomsplanner](https://twitter.com/tomsplanner) | $9/mo - $19/mo |  | Tom's Planner is online Gantt chart software that allows anyone to create, collaborate and share Gantt Charts online with drag and drop simplicity. It's web based, extremely intuitive and easy-to-use.
 * LeanKit | http://leankit.com/ | [@leankit](http://twitter.com/leankit) | $15/mo - $19/mo | Instant Project visibility | In LeanKit, you map your organization’s processes onto virtual whiteboards. On each board the process steps are represented as vertical and horizontal lanes. Cards represent work items, which team members update and move from across the board as they complete their share of the work. Rather than having to ask for status reports, managers and customers can just look at the board. Board updates are visible in seconds around the globe and e-mail alerts and RSS feeds are available, so you and your team can take immediate action to resolve issues before they turn into serious problems.
+* TaskWorkshop | https://taskworkshop.com/ | [@TaskWorkshop](https://twitter.com/TaskWorkshop) | $19/mo - $249/mo | Build great software, faster. Task tracking targeted for developers, neat integrations (dropbox, exception tracking, desktop clients, keyboard shortcuts). Supports statuses, mentions, live notifications and much more.
 
 #### App Developer Tools 
 * App Annie | http://www.appannie.com | [@appannie/](https://twitter.com/appannie/) | free |  | Make better decisions with our app store data. We are the leader for app store analytics, app rankings, and market intelligence.
@@ -221,6 +222,7 @@ and send personalized messages to the right users at the right time.
 * ExceptionNotifier
 * Airbrake | https://www.airbrake.io/ | [@airbrake](https://twitter.com/airbrake) | $39/mo - $199/mo | No More Searching Log Files Capture and Track Your Application's Exceptions in 3 Minutes | Airbrake is the leading exception reporting service, currently providing error tracking for 50,000 applications with support for 18 programming languages.
 * Errbit | OSS
+* TaskWorkshop | https://taskworkshop.com/ | [@TaskWorkshop](https://twitter.com/TaskWorkshop) | $19/mo - $249/mo | Build great software, faster. Task tracking integrated with multiplatform exception tracking plugins (plugins are opensourced on github). Create an actionable task from an error log with just one click.
 
 #### Log Monitoring 
 * Loggly | http://loggly.com | [@loggly](https://twitter.com/loggly) | $49/mo - $349/mo | Solve operational problems faster. | Loggly helps cloud-centric organizations—organizations that build and manage cloud-facing applications—to solve operational problems faster.

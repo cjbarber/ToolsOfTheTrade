@@ -169,6 +169,7 @@ To your customers, it's just email. They will never see a ticket number and will
 * Freshdesk | http://freshdesk.com/ | [@freshdesk](https://twitter.com/freshdesk) | $16/mo - $70/mo | Everything you need to deliver
 Exceptional
 Customer Support | Freshdesk keeps you from running behind issues blindly and gets your customer support issues under control.
+* UserDeck | http://userdeck.com | [@user_deck](http://twitter.com/user_deck) | $0 - $25/mo | Customer support software that embeds into your existing website.
 
 #### Transactional Email 
 * Postmark | https://postmarkapp.com | [@postmarkapp](http://twitter.com/postmarkapp) | $1.50 | Email delivery for web apps – done right. | Postmark removes the headaches of delivering and parsing transactional email for webapps with minimal setup time and zero maintenance. We have years of experience getting email to the inbox, so you can work and rest easier.

@@ -526,7 +526,10 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Clever Cloud | http://www.clever-cloud.com/ |
 
 #### VPS 
-* Linode |  
+* Linode |  https://www.linode.com/
+* Ramnode | http://www.ramnode.com/
+* DigitalOcean | https://www.digitalocean.com/
+* Vultr | https://www.vultr.com/
 
 #### Heroku Tools 
 * Hirefire |  

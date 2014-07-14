@@ -423,6 +423,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 #### PaaS 
 * Heroku
 * Pagodabox | https://pagodabox.com/ |  
+* Clever Cloud | http://www.clever-cloud.com/ |
 
 #### VPS 
 * Linode |  

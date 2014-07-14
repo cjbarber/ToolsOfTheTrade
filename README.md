@@ -331,7 +331,7 @@ inside Gmail | Streak lets you keep track of all your deals right from your inbo
 for Your Enterprise | Whether planning ahead or booking on the fly, find and reserve a great place to work. Rent professional conference and meeting rooms, private offices, or coworking spaces daily or hourly.
 
 #### Community Tools
-* Discourse | http://www.discourse.org/ | [@discourse](https://twitter.com/discourse) |  | Ready for a new discussion platform? | scussion software is a group of people interested in a common topic who are willing to type paragraphs to each other on a web page.
+* Discourse | http://www.discourse.org/ | [@discourse](https://twitter.com/discourse) |  | Ready for a new discussion platform? | Discussion software is a group of people interested in a common topic who are willing to type paragraphs to each other on a web page.
 
 #### Personal Productivity
 * Do.com

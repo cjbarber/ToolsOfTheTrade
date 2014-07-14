@@ -530,7 +530,8 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Ylastic |  
 
 #### Database-aaS 
-* Mongolab | http://www.mongolab.com |  
+* MongoHQ | http://mongohq.com | MongoHQ is a fully-managed platform used by developers to deploy, host and scale MongoDB databases.
+* Mongolab | http://www.mongolab.com |
 
 #### Backend-aaS
 * Parse | https://parse.com/

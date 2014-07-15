@@ -539,7 +539,8 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 
 #### Backend-aaS
 * Parse | https://parse.com/
-* Firebase | https://www.firebase.com/ |  
+* Firebase | https://www.firebase.com/
+* Hoodie | http://www.hood.ie/
 
 #### WebSockets-aaS
 * Pusher | http://www.pusherapp.com |  

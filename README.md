@@ -279,6 +279,7 @@ Customer Support | Freshdesk keeps you from running behind issues blindly and ge
 * Postage | http://postageapp.com | [@postagebird](http://twitter.com/postagebird) | $9/mo - $399/mo | The easier way
 to send email
 from web apps | ostageApp helps design, send, and analyze emails within minutes.
+* Sendwithus | https://www.sendwithus.com/ | [@sendwithus](https://twitter.com/send_with_us) | Free 'Hacker' plan of 1000 messages/month | Transactional email A/B testing and drip campaigns |
 
 #### Other APIs 
 * Filepicker | http://www.filepicker.io | [@FilePicker](https://twitter.com/FilePicker) | $19/mo - $499/mo | Easy, Powerful File Uploads | Connect, Store, and Process any file from anywhere on the Internet

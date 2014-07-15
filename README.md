@@ -567,7 +567,8 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Hoodie | http://www.hood.ie/
 
 #### WebSockets-aaS
-* Pusher | http://www.pusherapp.com |  
+* Pusher | http://www.pusherapp.com | 
+* ScaleDrone | http://www.scaledrone.com | 
 
 #### Hadoop-aaS
 * Mortar | http://www.mortardata.com/ |  

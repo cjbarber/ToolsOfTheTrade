@@ -113,7 +113,7 @@ It's hosted on GitHub for a reason! Please submit pull requests.
 #### Browser/Email Testing
 * BrowserStack | http://www.browserstack.com |  | $35/mo - $359/mo | Live, Web-Based Browser Testing | Instant access to all desktop and mobile browsers.
 * Litmus | http://litmus.com | [@litmusapp]([@litmusapp] https://twitter.com/litmusapp) | $79/mo - $399/mo | Test and track your emails | Lets you preview your campaigns across 30+ real email clients and devices in minutes.
-* Sauce Labs | https://saucelabs.com/ | [@saucelabs](https://twitter.com/saucelabs) | $12/mo - $149/mo | Testing made awesome | Run you web and mobile app tests across hundreds
+* Sauce Labs | https://saucelabs.com/ | [@saucelabs](https://twitter.com/saucelabs) | $12/mo - $149/mo | Testing made awesome | Run your web and mobile app tests across hundreds of real browsers and platforms instantly
 * EmailOnAcid | http://www.emailonacid.com | [@emailonacid](https://twitter.com/EmailonAcid) | $45/mo - $295/mo | Quickly ensure that your emails don't look like crap in any email client. | Email previews on 70+ clients and spam testing
 
 #### Bug/Issue Tracking

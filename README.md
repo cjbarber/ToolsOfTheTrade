@@ -12,6 +12,7 @@
     * [Business & Traffic Analytics](#user-content-business--traffic-analytics)
     * [Conversion Optimization & A/B Testing](#user-content-conversion-optimization--ab-testing)
     * [User Analytics](#user-content-user-analytics)
+    * [Localization & Internationalization](#localization--internationalization)
     * [User Testing](#user-content-user-testing)
     * [HR](#user-content-hr)
     * [Payroll](#user-content-payroll)

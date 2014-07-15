@@ -540,7 +540,10 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Google App Engine | https://developers.google.com/appengine/ |
 
 #### VPS 
-* Linode |  
+* Linode |  https://www.linode.com/
+* Ramnode | http://www.ramnode.com/
+* DigitalOcean | https://www.digitalocean.com/
+* Vultr | https://www.vultr.com/
 
 #### Heroku Tools 
 * Hirefire |  

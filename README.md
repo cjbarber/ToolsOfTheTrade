@@ -569,8 +569,11 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Arq + S3/Glacier |  
 
 #### Remote Workers
-* oDesk |  
-* TaskArmy | http://taskarmy.com  
+* oDesk | https://www.odesk.com/
+* Freelancer | http://www.freelancer.com/
+* TaskArmy | http://taskarmy.com
+* 99Designs | http://99designs.com/
+* Fiverr | http://www.fiverr.com/
 
 #### Deployment
 * Chef | http://www.getchef.com

@@ -331,6 +331,7 @@ inside Gmail | Streak lets you keep track of all your deals right from your inbo
 * 42Floors | http://42floors.com/ | [@42floors](https://twitter.com/42floors) |  | The Best Place to Find Office & Commercial Space Rentals | We're gathering listing data from everyone in the market. Even including off-market listings that landlords haven't yet posted on 42Floors.com or anywhere else.
 * Liquidspace | https://liquidspace.com/ | [@LiquidSpace](https://twitter.com/LiquidSpace) |  | Optimize Real Estate
 for Your Enterprise | Whether planning ahead or booking on the fly, find and reserve a great place to work. Rent professional conference and meeting rooms, private offices, or coworking spaces daily or hourly.
+* PivotDesk | http://pivotdesk.com | [@PivotDesk](https://twitter.com/PivotDesk) | | An office sharing marketplace that helps startups that need space find host companies that have excess space. 
 
 #### Community Tools
 * Discourse | http://www.discourse.org/ | [@discourse](https://twitter.com/discourse) |  | Ready for a new discussion platform? | scussion software is a group of people interested in a common topic who are willing to type paragraphs to each other on a web page.
@@ -343,7 +344,7 @@ for Your Enterprise | Whether planning ahead or booking on the fly, find and res
 * OmniGraffle | http://www.omnigroup.com/omniGraffle | [@omniGraffle](https://twitter.com/omniGraffle) | $99.99 | Diagramming Worth a Thousand Words | Need a diagram, process chart, quick page-layout, website wireframe or graphic design? OmniGraffle can help you make eye-popping graphic documents quickly by keeping lines connected to shapes even when they're moved, providing powerful styling tools, and magically organizing diagrams with just one click. Whether you need a quick 
 * moqups | https://moqups.com/ | [@moqups](https://twitter.com/moqups) | $9/mo-  $39/mo | Moqups is a nifty HTML5 App used to create wireframes, mockups or UI concepts, prototypes
 depending on how you like to call them. | The most stunning HTML5 app for creating resolution-independent SVG mockups & wireframes for your next project.
-* Balsamiq | http://balsamiq.com/ | Life's too short for bad software! | Balsamiq Mockups is a rapid wireframing tool that helps you Work Faster & Smarter. It reproduces the experience of sketching on a whiteboard, but using a computer.
+* Balsamiq | http://balsamiq.com/ | [@balsamiq](https://twitter.com/balsamiq) | Life's too short for bad software! | Balsamiq Mockups is a rapid wireframing tool that helps you Work Faster & Smarter. It reproduces the experience of sketching on a whiteboard, but using a computer.
 * POP - PrototypeOnPaper | https://popapp.in/ | Free iPhone prototype app, turn back of napkin sketches into prototypes
 
 #### Content Creation/Infographics
@@ -417,7 +418,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Spreedly Core | https://core.spreedly.com | [@spreedly](http://twitter.com/spreedly) | $150/mo-  $1500/mo | Payments as a Platform | One of Spreedly's major benefits is reaching a large number of merchant accounts by working across multiple payment gateways. As a direct merchant you can transact globally but deposit funds in unique merchant accounts based on geographic or other business rules. As a SaaS platform you can support the unique merchant accounts of your individual customers. A payment gateway token is your way to indicate to us which unique merchant account this particular transaction will go against. Each unique merchant account = one unique payment gateway token.
 
 #### Banking 
-* Simple | http://simple.com
+* Simple | http://simple.com [@simple](https://twitter.com/simple) | The way banking should be. 
 
 #### Phone/PBX/SMS
 * Plivo | http://plivo.com/

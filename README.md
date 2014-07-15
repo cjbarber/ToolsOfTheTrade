@@ -294,6 +294,7 @@ or don't do in your app | Customer.io lets you send newsletters to segments of c
 * Vero | https://www.getvero.com/ | [@veroapp](https://twitter.com/veroapp) | $99/mo | Send emails based on what your customers do | Vero makes it easy to create segments of customers based on the attributes you capture (e.g. age, location, gender) and the actions your customers take (e.g. logged in, used feature x, checked out, etc.).
 * MailChimp
 * Campaign Monitor | http://www.campaignmonitor.com/ | [@](http://www.campaignmonitor.com/customers/) | $9/mo - $699/mo | CAMPUnbounce Feature Tour | 
+* Intercom | http://intercom.io | @intercom | $49/mo - $449/mo | The easiest way to see and talk to your users | Intercom is a single platform where you can see in real-time who is using your product and send personalized messages to the right users at the right time based on their behavior.
 
 #### Email Collection/Landing Page Apps 
 * Launchrock | http://launchrock.com | [@launchrock](https://twitter.com/launchrock) | $49/mo - $199/mo |  | Even if you know how to code a web page with HTML, you'll love how much faster it is with our landing page builder. Load up your logo and graphic assets, set up a few base colors from your brand palette and publish away.

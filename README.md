@@ -594,6 +594,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Deployd
 
 #### Password Management
+* PasswordBox
 * Lastpass
 * 1Password
 * Passpack | https://www.passpack.com/

@@ -482,7 +482,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Limechat
 * Flowdock
 * HipChat | Free | https://www.hipchat.com
-* Slack
+* Slack | https://slack.com/
 * Campfire
 * Skype
 * Google Hangouts

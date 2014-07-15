@@ -351,7 +351,7 @@ depending on how you like to call them. | The most stunning HTML5 app for creati
 journalists, animators and developers are standing by to help you achieve
 your goals and take your project to the next level.
 
-#### Customer Feedback/Surveys
+#### Customer Feedback
 * PickFu | http://www.pickfu.com/ | [@pickfu](http://twitter.com/pickfu) | $20/mo-  $299/mo | REAL CONSUMER FEEDBACK 
 IN MINUTES | PickFu is a tool that provides instant, unbiased and insightful public opinion on questions that you care about.
 
@@ -506,9 +506,10 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Tumblr
 * HelloBar | https://www.hellobar.com/ |  
 
-#### Forms 
+#### Forms / Surveys
 * Wufoo
 * Google Forms
+* Typeform | https://www.typeform.com | [@typeform](http://www.twitter.com/typeform) | $0/mo - $25/mo | Ask Awesomely! | Typeform makes asking questions easy, human & beautiful. A user experience that makes your questions look & feel great everywhere. Stimulated, inspired, excited, happy respondents boost completion rates. Gain insights with integrated analysis tools.
 
 #### Source Code Hosting 
 * BitBucket

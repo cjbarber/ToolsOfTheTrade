@@ -83,6 +83,7 @@
     * [API Builder](#user-content-api-builder)
     * [Password Management](#user-content-password-management)
     * [Sources of Clicks/Ad Platforms](#user-content-sources-of-clicksad-platforms)
+    * [Task Scheduling](#user-content-task-scheduling)
   * [Next Steps](#user-content-next-steps)
 
 
@@ -605,6 +606,9 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Google Adwords | http://adwords.google.com/
 * Facebook Advertising | https://www.facebook.com/advertising
 
+#### Task Scheduling
+* EasyCron | https://www.easycron.com/
+* IFTTT | https://ifttt.com/
 
 ## Next Steps
 

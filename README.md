@@ -448,7 +448,6 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Burp | http://www.portswigger.net/burp/intruder.html
 * DuoSecurity | https://www.duosecurity.com/
 * Authy | https://www.authy.com/
-* CryptoSeal | http://cryptoseal.com/
 * AnchorFree | http://www.anchorfree.com/
 * Cloak | https://www.getcloak.com/
 * Tinfoil Security | https://www.tinfoilsecurity.com/

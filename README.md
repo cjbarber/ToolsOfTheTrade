@@ -505,7 +505,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Kato | http://www.kato.im
 * Convo | https://www.convo.com/
 * Sqwiggle | https://www.sqwiggle.com/
-* Pie | https://www.sqwiggle.com/
+* Pie | https://www.piethis.com/
 
 #### Remote Collaboration  
 * TeamViewer | http://www.teamviewer.com/en/index.aspx

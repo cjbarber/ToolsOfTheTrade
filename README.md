@@ -193,6 +193,7 @@ and send personalized messages to the right users at the right time.
 * AppVeyor | http://www.appveyor.com | [@appveyor](https://twitter.com/appveyor) | AppVeyor automates building, testing and deployment of .NET applications, helping your team to focus on delivering great apps.
 * Circle | http://circleci.com | [@circleci](https://twitter.com/circleci) | $19/mo - $269/mo | Ship better code, faster | Easy, fast, continuous integration and deployment for web apps.
 * CodeClimate | http://codeclimate.com | [@codeclimate](http://twitter.com/codeclimate) | $0/mo - $399/mo | Automated  Code Review | Code Climate hosted software metrics help you ship quality Ruby and JavaScript code faster. Get control of your technical debt with real time static analysis of your code.
+* Codacy | https://www.codacy.com/ | [@codacy](https://twitter.com/codacy) | free - $149.99/mo | Automated Code Review | Codacy is a flexible and customizable automated code review tool for your Git projects. Free for open source projects. JavaScript, PHP, Scala, CSS and Python supported
 * Sempaphore | https://semaphoreapp.com | [@semaphoreapp](https://twitter.com/semaphoreapp) | $14/mo - $899/mo | Create an Amazing Workflow. | Semaphore assumes that your private or open source project is on GitHub. There are no new dependencies, hooks or SSH keys to manage. It works without any change in source code.
 * CruiseControl
 * Integrity

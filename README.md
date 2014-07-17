@@ -517,14 +517,14 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Notable PDF | http://notablepdf.com/ | Notable PDF is a browser-based PDF reader with real-time annotation capabilities. (Chrome / Google Drive app)
 
 #### Group Communication/Chat Tools
-* Kandan
-* Yammer | OSS
-* Limechat
-* Flowdock | Free for teams up to 5 people | https://www.flowdock.com
+* Kandan | http://kandanapp.com/
+* Yammer | https://www.yammer.com/
+* Limechat | http://limechat.net/
+* Flowdock | Free for teams up to 5 people | https://www.flowdock.com/
 * HipChat | Free | https://www.hipchat.com
 * Slack | https://slack.com/
-* Campfire
-* Skype
+* Campfire | https://campfirenow.com/
+* Skype | http://www.skype.com
 * Google Hangouts
 * GoToMeeting | http://www.gotomeeting.com/online/default
 * IRCCloud | https://www.irccloud.com/
@@ -550,12 +550,12 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * ClouDNS | https://www.cloudns.net/
 
 #### Status Blogs/User Alerts
-* StatusPage.io
-* Tumblr
-* HelloBar | https://www.hellobar.com/ |
+* StatusPage.io | https://www.statuspage.io/
+* Tumblr | https://www.tumblr.com/
+* HelloBar | https://www.hellobar.com/ |  
 
 #### Forms / Surveys
-* Wufoo
+* Wufoo | http://www.wufoo.com/
 * Google Forms
 * Typeform | https://www.typeform.com | [@typeform](http://www.twitter.com/typeform) | $0/mo - $25/mo | Ask Awesomely! | Typeform makes asking questions easy, human & beautiful. A user experience that makes your questions look & feel great everywhere. Stimulated, inspired, excited, happy respondents boost completion rates. Gain insights with integrated analysis tools.
 
@@ -566,17 +566,17 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Unfuddle | https://unfuddle.com/
 * GitLab | https://gitlab.com
 
-#### Design Collaboration
-* Pixelapse
-* ConceptShare
+#### Design Collaboration 
+* Pixelapse | https://www.pixelapse.com/
+* ConceptShare | http://www.conceptshare.com/
 * Framebench | http://www.framebench.com/ | [@framebench](https://twitter.com/framebench) | The 'smooth' way to Share, Review & Discuss any file online.
 * Notable | http://www.notableapp.com/
 * LayerVault | http://www.layervault.com/ | [@layervault](http://twitter.com/layervault) | $29/mo per designer
 * InvisionApp | http://www.invisionapp.com/ | [@invisionapp](http://twitter.com/invisionapp) | $0-$100/mo
 
 #### PaaS
-* Heroku
-* Pagodabox | https://pagodabox.com/ |
+* Heroku | http://heroku.com
+* Pagodabox | https://pagodabox.com/ |  
 * Clever Cloud | http://www.clever-cloud.com/ |
 * Google App Engine | https://developers.google.com/appengine/ |
 * Pogoapp | http://www.pogoapp.com
@@ -588,11 +588,11 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * DigitalOcean | https://www.digitalocean.com/
 * Vultr | https://www.vultr.com/
 
-#### Heroku Tools
-* Hirefire |
+#### Heroku Tools 
+* Hirefire | http://hirefire.io/
 
 #### AWS Tools
-* Ylastic |
+* Ylastic | http://ylastic.com/
 
 #### Database-aaS
 * Mongolab | http://www.mongolab.com |
@@ -615,12 +615,12 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Mortar | http://www.mortardata.com/ |
 
 #### Ops Alerts and Scheduling
-* PagerDuty |
+* PagerDuty | http://www.pagerduty.com/
 * Opsgenie | http://www.opsgenie.com/ | @opsgenie | $0 - $16 user/month | We make alerts work for you | We provide the tools you need to design meaningful, actionable alerts and ensure the right people are notified.
 
 #### Accounting
-* inDinero
-* Xero |
+* inDinero | https://indinero.com/
+* Xero | https://www.xero.com/
 
 #### Video Hosting
 * Wistia | http://wistia.com/ |
@@ -636,8 +636,8 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * SpiderOak | https://spideroak.com/ | [@spideroak](https://twitter.com/spideroak) | First 2gb free - $100/100gb/year (check their twitter for deals) | Store. Sync. Share. Privately.
 
 #### Personal Machine Backups
-* Crashplan
-* Arq + S3/Glacier |
+* Crashplan | https://www.crashplan.com/
+* Arq + S3/Glacier |  
 
 #### Remote Workers
 * oDesk | https://www.odesk.com/
@@ -663,10 +663,10 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * WooRank | http://www.woorank.com/ | [@woorank](http://twitter.com/woorank) | Free - $49/mo | WooRank analyzes your website for optimization best practices and shows how it ranks against your competition. Its real-time brandable reports, consisting of over 150 data-points, help you to instantly spot critical issues that impact traffic, usability and conversions. Sync your analytics, social accounts and keywords for even more robust tracking.
 
 #### API Builder
-* Deployd
+* Deployd | http://deployd.com/
 
 #### Password Management
-* PasswordBox
+* PasswordBox | https://www.passwordbox.com/
 * Lastpass | https://lastpass.com
 * 1Password  | https://agilebits.com/onepassword
 * Passpack | https://www.passpack.com/

@@ -83,6 +83,7 @@
     * [API Builder](#user-content-api-builder)
     * [Password Management](#user-content-password-management)
     * [Sources of Clicks/Ad Platforms](#user-content-sources-of-clicksad-platforms)
+    * [Founder Tools](#user-founder-tools)
   * [Next Steps](#user-content-next-steps)
 
 
@@ -605,6 +606,8 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Google Adwords | http://adwords.google.com/
 * Facebook Advertising | https://www.facebook.com/advertising
 
+#### Founder Tools
+* Startup Growth Calculator | http://growth.tlb.org
 
 ## Next Steps
 

@@ -193,7 +193,6 @@ don't have time for analytics | We take your data and present in a beautiful tim
 and send personalized messages to the right users at the right time.
 
 #### User Management
-
 * Stormpath | https://stormpath.com/ | [@gostormpath](https://twitter.com/gostormpath) | free | Securely create, store, and manage user accounts, API keys, and user data for your web applications.
 
 #### User Testing
@@ -219,6 +218,7 @@ and send personalized messages to the right users at the right time.
 * Jenkins | http://jenkins-ci.org | [@jenkinsci](https://twitter.com/jenkinsci) | $60/mo - $200/mo | Continuous Integration on-premise, in the cloud or anywhere in between | Learn best practices for dealing with the challenges of mobile development on iOS and Android, optimization of the user experience, interaction with back-end services, integration with other services (location, alerts, maps) and managment of the wide range of form factors, devices and OS versions
 * Bamboo | https://www.atlassian.com/software/bamboo | [@atlassian](http://twitter.com/atlassian) | $10/mo - $1000/mo |  | Bamboo does more than just run builds and tests. It connects issues, commits, test results, and deploys so the whole picture is available to your entire product team – from project managers, to devs and testers, to sys admins.
 * Buildbox | https://buildbox.io | [@buildboxhq](https://twitter.com/buildboxhq) | $9/mo - $199/mo | Self-hosted continuous integration and deployment | Buildbox uses your own infrastructure to run builds, so it doesn't matter whether your application is in Java, Ruby or Go. You have the ability to use whatever language you want.
+* PullReview | https://pullreview.com | [@pullreview](https://twitter.com/pullreview) | €0/mo - €20/dev/mo | Automated Code Review for Ruby and Rails | PullReview helps you to quickly ship a Rails app with confidence. It reviews the Ruby code you just wrote and tells you what's wrong, why, and how to fix it - from style to security.
 
 #### Dashboards
 * Ducksboard | http://ducksboard.com | [@ducksboard](http://twitter.com/ducksboard) | $16/mo - $129/mo | All of your data. In one place. | Business dashboards don’t need to be complicated, boring or hard to look at. Ducksboard makes it easy to gather, visualize and share the data that matters most to you and your team.
@@ -242,7 +242,6 @@ and send personalized messages to the right users at the right time.
 * Airbrake | https://www.airbrake.io/ | [@airbrake](https://twitter.com/airbrake) | $39/mo - $199/mo | No More Searching Log Files Capture and Track Your Application's Exceptions in 3 Minutes | Airbrake is the leading exception reporting service, currently providing error tracking for 50,000 applications with support for 18 programming languages.
 * Errbit | OSS
 * Takipi | https://www.takipi.com | [@takipid](https://twitter.com/takipid) | God Mode in Production Code for java and scala applications.
-
 
 #### Application Distribution
 * HockeyApp | http://hockeyapp.net | [@hockeyapp](https://twitter.com/hockeyapp) | $10/mo - $129/mo depending on number of apps and number of owners | Distribution of iOS, Android, Windows Phone and Mac OS apps | Includes analytics, user feedback and crash reports.
@@ -471,6 +470,9 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Twilio | http://www.twilio.com/
 * PhoneBooth | http://www.phonebooth.com/
 
+#### Recommendation Systems
+* Runa PerfectOffer | http://www.runa.com/products/perfectoffer/
+
 #### System Monitoring
 * AppNeta (Tracelytics) | http://www.appneta.com
 * Riemann | http://riemann.io
@@ -552,7 +554,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 #### Status Blogs/User Alerts
 * StatusPage.io | https://www.statuspage.io/
 * Tumblr | https://www.tumblr.com/
-* HelloBar | https://www.hellobar.com/ |  
+* HelloBar | https://www.hellobar.com/ |
 
 #### Forms / Surveys
 * Wufoo | http://www.wufoo.com/
@@ -566,7 +568,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Unfuddle | https://unfuddle.com/
 * GitLab | https://gitlab.com
 
-#### Design Collaboration 
+#### Design Collaboration
 * Pixelapse | https://www.pixelapse.com/
 * ConceptShare | http://www.conceptshare.com/
 * Framebench | http://www.framebench.com/ | [@framebench](https://twitter.com/framebench) | The 'smooth' way to Share, Review & Discuss any file online.
@@ -576,7 +578,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 
 #### PaaS
 * Heroku | http://heroku.com
-* Pagodabox | https://pagodabox.com/ |  
+* Pagodabox | https://pagodabox.com/ |
 * Clever Cloud | http://www.clever-cloud.com/ |
 * Google App Engine | https://developers.google.com/appengine/ |
 * Pogoapp | http://www.pogoapp.com
@@ -588,7 +590,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * DigitalOcean | https://www.digitalocean.com/
 * Vultr | https://www.vultr.com/
 
-#### Heroku Tools 
+#### Heroku Tools
 * Hirefire | http://hirefire.io/
 
 #### AWS Tools
@@ -637,7 +639,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 
 #### Personal Machine Backups
 * Crashplan | https://www.crashplan.com/
-* Arq + S3/Glacier |  
+* Arq + S3/Glacier |
 
 #### Remote Workers
 * oDesk | https://www.odesk.com/

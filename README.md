@@ -5,6 +5,7 @@
   * [Background](#user-content-background)
   * [Now](#user-content-now)
   * [The List](#user-content-the-list)
+    * [Identity Verification](#user-content-identity-verification)
     * [Browser/Email Testing](#user-content-browseremail-testing)
     * [Bug/Issue Tracking](#user-content-bugissue-tracking)
     * [Planning & Project Management](#user-content-planning--project-management)
@@ -109,6 +110,9 @@ I collected more data from Hacker News, AngelList and Quora, to make the 2014 | 
 It's hosted on GitHub for a reason! Please submit pull requests.
 
 ## The List
+
+#### Identity Verification
+* BlockScore | https://blockscore.com | [@getblockscore](https://twitter.com/getblockscore) | $1/verification | Individual ID verifications and company verifications | Verify customers in realtime. Implement in hours.
 
 #### Browser/Email Testing
 * BrowserStack | http://www.browserstack.com |  | $35/mo - $359/mo | Live, Web-Based Browser Testing | Instant access to all desktop and mobile browsers.

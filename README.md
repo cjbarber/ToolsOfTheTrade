@@ -607,7 +607,9 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Facebook Advertising | https://www.facebook.com/advertising
 
 #### Founder Tools
-* Startup Growth Calculator | http://growth.tlb.org
+* Startup Growth Calculator | http://growth.tlb.org | Web tool to calculate how
+  much funding your startup needs, and when it will reach profitability, and how
+  much capital you'll burn through before then.
 
 ## Next Steps
 

@@ -565,6 +565,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Parse | https://parse.com/
 * Firebase | https://www.firebase.com/
 * Hoodie | http://www.hood.ie/
+* BaasBox | http://www.baasbox.com/
 
 #### WebSockets-aaS
 * Pusher | http://www.pusherapp.com | 
@@ -620,7 +621,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 
 #### Password Management
 * PasswordBox
-* Lastpass
+* Lastpass | https://lastpass.com
 * 1Password  | https://agilebits.com/onepassword 
 * Passpack | https://www.passpack.com/
 * Locko | http://www.binarynights.com/locko/ | $0.99 | Mac OS X app including extensions for Safari, Chrome, Firefox and Opera.

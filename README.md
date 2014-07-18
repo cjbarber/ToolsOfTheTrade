@@ -283,7 +283,7 @@ from web apps | ostageApp helps design, send, and analyze emails within minutes.
 
 #### Other APIs 
 * Filepicker | http://www.filepicker.io | [@FilePicker](https://twitter.com/FilePicker) | $19/mo - $499/mo | Easy, Powerful File Uploads | Connect, Store, and Process any file from anywhere on the Internet
-* Twilio | http://www.twilio.com/ | [@twilio](https://twitter.com/twilio) | $1/mo - $400/mo | Communications power business. Twillo powers communications. | We are changing communications forever by empowering software people to build the future of our modern communications apps.
+* Twilio | http://www.twilio.com/ | [@twilio](https://twitter.com/twilio) | $1/mo - $400/mo | Communications power business. Twilio powers communications. | We are changing communications forever by empowering software people to build the future of our modern communications apps.
 * Zapier | https://zapier.com/ | [@#!/zapier](https://twitter.com/#!/zapier) | $99/mo - $15/mo | Superpowers to get your work done. | A Zap is a link between two apps (a "trigger" and an "action"). Zaps run automatically in the background every few minutes to move and manage data on your behalf. Only live Zaps count against your limit — you can have as many paused and unfinished Zaps as you'd like. For example, one Zap might be "Send me an SMS every time I get a new email".
 * BlockScore
 * Open Exchange Rates | https://openexchangerates.org/ |  | $12/mo - $97/mo | Real-time exchange rates &
@@ -437,7 +437,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 #### Phone/PBX/SMS
 * Plivo | http://plivo.com/
 * Tropo | https://www.tropo.com/
-* Twillo | http://www.twilio.com/
+* Twilio | http://www.twilio.com/
 * PhoneBooth | http://www.phonebooth.com/
 
 #### Recommendation Systems

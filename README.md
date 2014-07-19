@@ -609,6 +609,8 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Puppet | http://puppetlabs.com/
 * Ansible | http://www.ansible.com/
 * Vagrant | http://www.vagrantup.com/
+* Capistrano | http://capistranorb.com/
+* Hubot | https://hubot.github.com/
 
 #### SEO Tools
 * Pretty Tracker | https://prettytracker.com/ | [@prettytracker](http://twitter.com/prettytracker) | Free - $49/mo | Beautiful, Simple Google Rank Tracking | Monitor how your website ranks in the top 300 results of Google for all of your keywords. Track the success of your SEO campaigns so you know what works. Beautiful graphs are easy to use and share. Monitor 10 keywords for free.

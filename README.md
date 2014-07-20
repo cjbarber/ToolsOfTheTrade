@@ -482,8 +482,11 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Sortfolio | http://sortfolio.com/
 
 #### Notes 
-* Google Docs
+* Google Keep | https://keep.google.com/
 * Evernote | http://evernote.com
+* Microsoft OneNote  | http://www.onenote.com/
+* RedNotebook | http://rednotebook.sourceforge.net/
+* Laverna | https://laverna.cc/
 * Workflowy | https://workflowy.com/
 * Quip | https://quip.com/
 * Etherpad | http://etherpad.org/

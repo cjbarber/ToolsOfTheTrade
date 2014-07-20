@@ -12,6 +12,7 @@
     * [Business & Traffic Analytics](#user-content-business--traffic-analytics)
     * [Conversion Optimization & A/B Testing](#user-content-conversion-optimization--ab-testing)
     * [User Analytics](#user-content-user-analytics)
+    * [Localization & Internationalization](#localization--internationalization)
     * [User Testing](#user-content-user-testing)
     * [HR](#user-content-hr)
     * [Payroll](#user-content-payroll)
@@ -179,6 +180,10 @@ don't have time for analytics | We take your data and present in a beautiful tim
 #### User Analytics
 * Intercom | http://intercom.io | [@intercom](https://twitter.com/intercom) | $49/mo - $449/mo | The easiest way to see and talk to your users | Intercom is a single platform where you can see in real-time who is using your product and how,
 and send personalized messages to the right users at the right time.
+
+#### Localization & Internationalization
+* Localize.js | https://localizejs.com | $25/mo - $150/mo | Automatic website translation with a few lines of code.
+* Gengo | http://gengo.com/ | $0.05 - $0.17 per word | Human translation API
 
 #### User Testing 
 * Silverback 2.0 | http://silverbackapp.com/ | [@silverbackapp](http://twitter.com/silverbackapp) | 69.95 | Guerrilla usability testing software for designers and developers | Silverback makes it easy, quick and cheap for everyone to perform guerrilla usability tests with no setup and no expense, using hardware already in your Mac.

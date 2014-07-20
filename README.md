@@ -515,6 +515,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * DynDNS | https://dyn.com/dns/
 * Cloudflare | https://www.cloudflare.com/
 * Amazon Route 53 | http://aws.amazon.com/route53/
+* dnsimple | https://dnsimple.com/
 
 #### Status Blogs/User Alerts
 * StatusPage.io

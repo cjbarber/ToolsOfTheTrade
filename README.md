@@ -506,6 +506,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Convo | https://www.convo.com/
 * Sqwiggle | https://www.sqwiggle.com/
 * Pie | https://www.sqwiggle.com/
+* Gitter | https://gitter.im | Chat for open-source and private development teams, with strong Github integration features
 
 #### Remote Collaboration  
 * TeamViewer | http://www.teamviewer.com/en/index.aspx
@@ -560,6 +561,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 
 #### Database-aaS 
 * Mongolab | http://www.mongolab.com |  
+* MongoHQ | https://www.mongohq.com
 
 #### Backend-aaS
 * Parse | https://parse.com/

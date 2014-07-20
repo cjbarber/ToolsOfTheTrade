@@ -248,6 +248,7 @@ and send personalized messages to the right users at the right time.
 
 #### Server Monitoring 
 * Server Density | https://www.serverdensity.com/ | [@serverdensity](https://twitter.com/serverdensity) |  | Premium hosted website and server monitoring tool. | All your activity syncs in real time - from starting new instances to upgrading or deleting old ones. Work wherever you want - through web, mobile, API or directly with your provider. Everything stays in sync.
+* Scout | https://scoutapp.com/ | [@scoutapp](http://twitter.com/scoutapp) | | Beautiful, super easy to install server monitoring tool. Download a one-size-fits-all agent to each server, and it will autogenerate graphs. Hundreds of plugins available, and you can make your own with less than 30 lines of Ruby code.
 
 #### Customer Support/Help Desks
 * Desk | http://desk.com | [@desk](https://twitter.com/desk) | $3/mo - $50/mo | Deliver Customer Service That Wows | Desk.com creates the leading customer service application, which helps fast-growing companies deliver outstanding customer support. Desk.com's intuitive user interface and powerful features make solving customers' problems more efficient for the entire company. Plus, Desk.com is the only Customer Service Application backed by Salesforce, providing easy integration with other Salesforce services and robust security. There are thousands of companies using Desk.com as their help desk software application, from household names like Square and Instagram to the burrito shop down the street. Give it a try for free.

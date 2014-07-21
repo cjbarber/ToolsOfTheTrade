@@ -592,6 +592,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Google App Engine | https://developers.google.com/appengine/ |
 * Pogoapp | http://www.pogoapp.com
 * Ninefold | https://ninefold.com/ | [@ninefold](https://twitter.com/ninefold) | Ruby on Rails Hosting & App Deployment
+* Open Shift | http://openshift.com | OpenShift gives you all the tools you need to develop, host and scale your apps in the public or private cloud. Get started today.
 
 #### VPS
 * Linode |  https://www.linode.com/
@@ -665,6 +666,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Ansible | http://www.ansible.com/
 * Vagrant | http://www.vagrantup.com/
 * Salt | http://www.saltstack.com/community/
+* Prelang | http://prelang.com | Free | Automatic Rails Development
 
 #### SEO Tools
 * AccuRanker | https://www.accuranker.com/
@@ -695,7 +697,6 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Outbrain | http://www.outbrain.com/
 * Google Adwords | http://adwords.google.com/
 * Facebook Advertising | https://www.facebook.com/advertising
-
 
 #### Storage
 * Kloudless | https://kloudless.com | [@Kloudless](https://twitter.com/Kloudless) | $10/10k API requests/month | Kloudless provides developers with a single cloud storage API in the place of many | Kloudless is the last cloud storage API you'll ever need. Integrate a single REST API instead of many and use our UI tools to quickly build cloud storage support into your app. We maintain all the integrations so you can focus on building awesome products.

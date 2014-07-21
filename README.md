@@ -515,6 +515,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * DynDNS | https://dyn.com/dns/
 * Cloudflare | https://www.cloudflare.com/
 * Amazon Route 53 | http://aws.amazon.com/route53/
+* DNSimple | https://dnsimple.com | $3 - $50 | We make DNS simple with low cost hosted DNS, an easy to use web interface and a REST API for automation. Hosted DNS has never been this easy.
 
 #### Status Blogs/User Alerts
 * StatusPage.io
@@ -532,7 +533,6 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * GitHub | https://github.com/
 * Unfuddle | https://unfuddle.com/
 
-
 #### Design Collaboration 
 * Pixelapse
 * ConceptShare
@@ -545,6 +545,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Pagodabox | https://pagodabox.com/ |  
 * Clever Cloud | http://www.clever-cloud.com/ |
 * Google App Engine | https://developers.google.com/appengine/ |
+* Open Shift | http://openshift.com | Free - $20/month | OpenShift gives you all the tools you need to develop, host and scale your apps in the public or private cloud. Get started today.
 
 #### VPS 
 * Linode |  https://www.linode.com/
@@ -609,6 +610,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Puppet | http://puppetlabs.com/
 * Ansible | http://www.ansible.com/
 * Vagrant | http://www.vagrantup.com/
+* Prelang | http://prelang.com | Free | Automatic Rails Development
 
 #### SEO Tools
 * Pretty Tracker | https://prettytracker.com/ | [@prettytracker](http://twitter.com/prettytracker) | Free - $49/mo | Beautiful, Simple Google Rank Tracking | Monitor how your website ranks in the top 300 results of Google for all of your keywords. Track the success of your SEO campaigns so you know what works. Beautiful graphs are easy to use and share. Monitor 10 keywords for free.
@@ -636,7 +638,6 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Google Adwords | http://adwords.google.com/
 * Facebook Advertising | https://www.facebook.com/advertising
 * Google Adwords | http://adwords.google.com/
-* Facebook Advertising | https://www.facebook.com/advertising
 
 #### Task Scheduling
 * EasyCron | https://www.easycron.com/

@@ -506,6 +506,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Convo | https://www.convo.com/
 * Sqwiggle | https://www.sqwiggle.com/
 * Pie | https://www.sqwiggle.com/
+* Zoom | https://www.zoom.us/
 
 #### Remote Collaboration  
 * TeamViewer | http://www.teamviewer.com/en/index.aspx

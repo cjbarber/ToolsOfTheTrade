@@ -472,22 +472,23 @@ Features: goals of the week, week view and quadrant matrix, pomodoro timer, shar
 * Flowdock
 * HipChat | Free | https://www.hipchat.com
 * Slack | https://slack.com/
-* Campfire
-* Skype
-* Google Hangouts
+* Campfire | http://campfire.com/
+* Skype | http://skype.com/
+* Google Hangouts | https://www.google.com/hangouts/
 * GoToMeeting | http://www.gotomeeting.com/online/default
 * IRCCloud | https://www.irccloud.com/
 
 [More Group Chat Tools](https://github.com/cjbarber/hipchat-alternatives
 
-* Kato | http://www.kato.im/
-* Convo | https://www.convo.com/
-* Sqwiggle | https://www.sqwiggle.com/
-* Pie | https://www.sqwiggle.com/
+* Kato | http://www.kato.im/ |
+* Convo | https://www.convo.com/ |
+* Sqwiggle | https://www.sqwiggle.com/ |
+* Pie | https://www.sqwiggle.com/ |
 
 #### Remote Collaboration  
 * TeamViewer | http://www.teamviewer.com/en/index.aspx
 * Screenmailer | https://www.screenmailer.com/
+* Grabilla Capture | http://grabilla.com/ | Free | Capture screenshots and upload them with 1 click. Edit and annotate before upload. Annotate screenshots right on webpage. Video capture with voice comments, animated gif capture. History of captures on site.
 
 #### DNS 
 * DynDNS | https://dyn.com/dns/
@@ -495,7 +496,7 @@ Features: goals of the week, week view and quadrant matrix, pomodoro timer, shar
 * Amazon Route 53 | http://aws.amazon.com/route53/
 
 #### Status Blogs/User Alerts
-* StatusPage.io | http://StatusPage.io/
+* StatusPage.io | http://StatusPage.io/ |
 * Tumblr | 
 * HelloBar | https://www.hellobar.com/ |  
 

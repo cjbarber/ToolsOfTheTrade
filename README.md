@@ -488,7 +488,7 @@ Features: goals of the week, week view and quadrant matrix, pomodoro timer, shar
 #### Remote Collaboration  
 * TeamViewer | http://www.teamviewer.com/en/index.aspx
 * Screenmailer | https://www.screenmailer.com/
-* Grabilla Capture | http://grabilla.com/ | Free | Capture screenshots and upload them with 1 click. Edit and annotate before upload. Annotate screenshots right on webpage. Video capture with voice comments, animated gif capture. History of captures on site.
+* Grabilla Capture | http://grabilla.com/ | [@GrabillaScreen](https://twitter.com/grabillascreen) | Free | Capture screenshots and upload them with 1 click. Edit and annotate before upload. Annotate screenshots right on webpage. Video capture with voice comments, animated gif capture. History of captures on site.
 
 #### DNS 
 * DynDNS | https://dyn.com/dns/

@@ -114,7 +114,8 @@ It's hosted on GitHub for a reason! Please submit pull requests.
 * BrowserStack | http://www.browserstack.com |  | $35/mo - $359/mo | Live, Web-Based Browser Testing | Instant access to all desktop and mobile browsers.
 * Litmus | http://litmus.com | [@litmusapp]([@litmusapp] https://twitter.com/litmusapp) | $79/mo - $399/mo | Test and track your emails | Lets you preview your campaigns across 30+ real email clients and devices in minutes.
 * Sauce Labs | https://saucelabs.com/ | [@saucelabs](https://twitter.com/saucelabs) | $12/mo - $149/mo | Testing made awesome | Run your web and mobile app tests across hundreds of real browsers and platforms instantly
-* EmailOnAcid | http://www.emailonacid.com | [@emailonacid](https://twitter.com/EmailonAcid) | $45/mo - $295/mo | Quickly ensure that your emails don't look like crap in any email client. | Email previews on 70+ clients and spam testing
+* EmailOnAcid | http://www.emailonacid.com | [@emailonacid](https://twitter.com/EmailonAcid) | $45/mo - $295/mo | Quickly ensure that your emails don't look like crap in any email client. | Email previews on 70+ clients and spam testing.
+* BrowserShots | http://browsershots.org/  |  | Free | Browsershots makes screenshots of your web design in different operating systems and browsers. It is a free open-source online web application providing developers a convenient way to test their website's browser compatibility in one place.
 
 #### Bug/Issue Tracking
 * BugHerd | http://bugherd.com | [@bugherd](https://twitter.com/bugherd) | $29/mo - $180/mo | Turn client feedback into actionable tasks. | BugHerd lets you quickly see, at a glance, how your project is going and what everyone is working on. The task board lets you keep team members in sync by assigning and scheduling tasks with a simple drag and drop.

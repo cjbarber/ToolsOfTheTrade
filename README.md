@@ -186,6 +186,7 @@ and send personalized messages to the right users at the right time.
 #### HR
 * Workday | http://www.workday.com/ | [@workday](https://twitter.com/workday) |  | Workday works the way people work—collaboratively, on the go, and in real-time. Explore the product previews below to learn how Workday can change the way you work. | With powerful business applications and a user experience that's unmatched in enterprise software, Workday gives you everything you need to transform your business.
 * Lever | http://lever.co | [@lever](https://twitter.com/lever) | A modern web app for hiring | Leverage your entire company – interviewers, managers, and recruiters – to source, vet, and close.
+* eJobSoftware | http://www.ejobsoftware.com/ | $82/mo - $3360 (Source Code) | Job Board Software, make recruitment simple. | .NET driven Job Board management software enabling companies big and small to advertise their current vacancies quickly and easily. With it's simple design and intuitive to use web interface, you will be hiring new starters before you know it.
 
 #### Payroll 
 * ZenPayroll | https://zenpayroll.com/ | [@zenpayroll](https://twitter.com/zenpayroll) | $25/mo - $243/mo | The most delightful — and only — payroll service you'll ever use. We love, love, love helping  | Provide your employees direct access to their paystubs, pay history and information. Streamline changes and approvals.

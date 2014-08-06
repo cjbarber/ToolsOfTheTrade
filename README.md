@@ -117,7 +117,7 @@ It's hosted on GitHub for a reason! Please submit pull requests.
 * EmailOnAcid | http://www.emailonacid.com | [@emailonacid](https://twitter.com/EmailonAcid) | $45/mo - $295/mo | Quickly ensure that your emails don't look like crap in any email client. | Email previews on 70+ clients and spam testing
 
 #### Sales
-* SalesZip | https://saleszip.com/ | [@saleszip](https://twitter.com/saleszip)| Sales as a service |Reach your future customers today.| We’re a team of marketers who are passionate about selling. We’re here to help you sell the products and tools of the future. We focus on improving the ROI and efficiency of sales and marketing departments. We help our customers accelerate revenue by identifying, profiling and nurturing the right decision makers within their target accounts.
+* SalesZip | http://saleszip.com/ | [@saleszip](https://twitter.com/saleszip)| Sales as a service |Reach your future customers today.| We’re a team of marketers who are passionate about selling. We’re here to help you sell the products and tools of the future. We focus on improving the ROI and efficiency of sales and marketing departments. We help our customers accelerate revenue by identifying, profiling and nurturing the right decision makers within their target accounts.
 
 #### Bug/Issue Tracking
 * BugHerd | http://bugherd.com | [@bugherd](https://twitter.com/bugherd) | $29/mo - $180/mo | Turn client feedback into actionable tasks. | BugHerd lets you quickly see, at a glance, how your project is going and what everyone is working on. The task board lets you keep team members in sync by assigning and scheduling tasks with a simple drag and drop.

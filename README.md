@@ -116,6 +116,9 @@ It's hosted on GitHub for a reason! Please submit pull requests.
 * Sauce Labs | https://saucelabs.com/ | [@saucelabs](https://twitter.com/saucelabs) | $12/mo - $149/mo | Testing made awesome | Run your web and mobile app tests across hundreds of real browsers and platforms instantly
 * EmailOnAcid | http://www.emailonacid.com | [@emailonacid](https://twitter.com/EmailonAcid) | $45/mo - $295/mo | Quickly ensure that your emails don't look like crap in any email client. | Email previews on 70+ clients and spam testing
 
+#### Sales
+* SalesZip | https://saleszip.com/ | [@saleszip](https://twitter.com/saleszip)| Sales as a service |Reach your future customers today.| We’re a team of marketers who are passionate about selling. We’re here to help you sell the products and tools of the future. We focus on improving the ROI and efficiency of sales and marketing departments. We help our customers accelerate revenue by identifying, profiling and nurturing the right decision makers within their target accounts.
+
 #### Bug/Issue Tracking
 * BugHerd | http://bugherd.com | [@bugherd](https://twitter.com/bugherd) | $29/mo - $180/mo | Turn client feedback into actionable tasks. | BugHerd lets you quickly see, at a glance, how your project is going and what everyone is working on. The task board lets you keep team members in sync by assigning and scheduling tasks with a simple drag and drop.
 * Lighthouse | http://lighthouseapp.com | [@lighthouseapp](http://twitter.com/lighthouseapp) | $25/mo - $100/mo | Whether you're a large company or a small bootstrapped team, Lighthouse is the perfect ticket tracking solution. | Collaborate effortlessly on projects. Whether you’re a team of 5 or studio of 50, Lighthouse will help you keep track of your project development with ease.
@@ -367,9 +370,6 @@ your goals and take your project to the next level.
 #### Customer Feedback
 * PickFu | http://www.pickfu.com/ | [@pickfu](http://twitter.com/pickfu) | $20/mo-  $299/mo | REAL CONSUMER FEEDBACK 
 IN MINUTES | PickFu is a tool that provides instant, unbiased and insightful public opinion on questions that you care about.
-
-#### Sales
-* ElasticSales | https://elasticsales.com/ | [@elasticsales](https://twitter.com/elasticsales) |  | Sales as a service | We provide companies a scalable sales team on demand. You can manage your entire sales force via the cloud and get analytics and metrics in real-time. We have the best sales reps in technology and have a powerful operational process to onboarding highly technical products and platforms and scaling their revenue quickly.
 
 #### Data
 * Factual | http://www.factual.com/ | [@Factual](http://www.twitter.com/Factual) |  | GLOBAL DATA. LOCAL CONTEXT. | Factual’s location platform enriches mobile location signals with definitive global data, enabling personalized and contextually relevant mobile experiences. Built from billions of inputs, the data is constantly updated by Factual’s real-time data stack.

@@ -156,6 +156,7 @@ Features: goals of the week, week view and quadrant matrix, pomodoro timer, shar
 * Artisan Mobile | http://useartisan.com/ | [@ArtisanMobile](https://twitter.com/ArtisanMobile) | Free - 10k/mo | The Artisan Mobile Experience Management platform makes it easy to understand your user's behavior and activity, experiment with all aspects of your mobile app, and engage your users with targeted, branded experiences — all in one platform.
 
 #### Business & Traffic Analytics
+* Appboy | http://www.appboy.com | [@appboy.com](https://twitter.com/appboy) | free for up to 1K users–$100/mo | Empower your marketing efforts by knowing what campaigns are most effective. Whether you hope to learn about LTV, stickiness, social media activity or more, you'll find a detailed snapshot on Appboy's dashboard. 
 * KISSmetrics | http://kissmetrics.com | [@kissmetrics/](https://twitter.com/kissmetrics/) | $150/mo - $500/mo | KISSmetrics tells you who’s doing it. | Every last piece gets connected to a real person. All of it. It doesn’t matter if people bounce around between different browsers and devices. Or even if it takes them 6 months to come back. You’ll see what real people do.
 * Mixpanel | http://mixpanel.com | [@mixpanel/](https://twitter.com/mixpanel/) | $150/mo - $2000/mo | Actions speak louder than page views. | For years, companies have pushed page views as a primary measure of success. Page view counts are popular because they are easy to report, but ultimately cannot tell you how engaged your visitors are. Mixpanel lets you measure what customers do in your app by reporting actions, not page views.
 * Amplitude | https://amplitude.com/ | $299/mo | Mobile Analytics for decision makers
@@ -172,11 +173,13 @@ don't have time for analytics | We take your data and present in a beautiful tim
 * Improvely | https://www.improvely.com | [@improvelycom](http://www.twitter.com/improvelycom) | $29 - $899/mo | Conversion tracking and click fraud monitoring platform. The easiest way to track the performance of marketing campaigns and monitor them for click fraud.
 * Keen IO | http://keen.io | [@keen_io](https://twitter.com/keen_io) | $0 - $2000+/mo | Custom analytics shouldn't be a pain in the backend. Keen IO's powerful APIs do the heavy lifting for you, so you can gather all the data you want and start getting the answers you need.
 
-#### Conversion Optimization & A/B Testing 
+#### Conversion Optimization & A/B Testing
+* Appboy | http://www.appboy.com | [@appboy.com](https://twitter.com/appboy) | free for up to 1K users–$100/mo | For the first time ever mobile marketers can text six variants and choose the most effective messaging possible for push notifications, email and in-app messaging.
 * Optimizely | https://www.optimizely.com/ | [@optimizely](https://twitter.com/optimizely) | $17/mo - $359/mo | A/B testing you'll actually use | Track engagement, clicks, conversions, sign ups, or anything else that matters to you and your business. Optimizely's custom goal tracking provides an endless range of measurable actions that you can define. Just tell Optimizely what to measure, and we will do the rest.
 * Visual Website Optimizer | http://visualwebsiteoptimizer.com/ | [@wingify](http://twitter.com/wingify) | $49/mo - $129/mo | Increase your website sales and conversions | Using Visual Website Optimizer, they A/B test different versions of their website and landing pages to find out which one works best. Made for marketers, our tool is incredibly easy to use, and doesn't need IT resources.
 
 #### User Analytics
+* Appboy | http://www.appboy.com | [@appboy.com](https://twitter.com/appboy) | free for up to 1K users–$100/mo | Get to know your users and target them effectively with rich user profiles populated with demographic, social, behavioral and in-app purchase data. You can also add custom attributes and events to further enhance each profile, and see analytics by particular segment.
 * Intercom | http://intercom.io | [@intercom](https://twitter.com/intercom) | $49/mo - $449/mo | The easiest way to see and talk to your users | Intercom is a single platform where you can see in real-time who is using your product and how,
 and send personalized messages to the right users at the right time.
 
@@ -268,7 +271,8 @@ Customer Support | Freshdesk keeps you from running behind issues blindly and ge
 * Olark | http://olark.com
 * SnapEngage | http://www.snapengage.com/
 
-#### Transactional Email 
+#### Transactional Email
+* Appboy | http://www.appboy.com | [@appboy.com](https://twitter.com/appboy) | free for up to 1K users–$100/mo | Engage your mobile users outside of the app through rich email messages that inspire action and help grow ROI. 
 * Postmark | https://postmarkapp.com | [@postmarkapp](http://twitter.com/postmarkapp) | $1.50 | Email delivery for web apps – done right. | Postmark removes the headaches of delivering and parsing transactional email for webapps with minimal setup time and zero maintenance. We have years of experience getting email to the inbox, so you can work and rest easier.
 * Mandrill | http://mandrill.com | [@mandrillapp](https://twitter.com/mandrillapp) | $0.20/mo - $0.10/mo | THE FASTEST WAY TO DELIVER EMAIL | Mandrill is a scalable and affordable email infrastructure service. Whether you're just getting started, have some questions, or are looking for a quick reference, we've got you covered.
 * MailGun | http://www.mailgun.com | [@Mail_Gun](http://twitter.com/Mail_Gun) | $20.00 | The Email Service For Developers | Easy SMTP integration and a simple, RESTful API abstracts away the messy details of email. Scale quickly, whether you need to send 10 or 10 million emails.
@@ -294,7 +298,8 @@ currency conversion JSON API | A simple and easy-to-integrate exchange rates API
 * Algolia | http://www.algolia.com/ | [@Algolia](http://www.twitter.com/Algolia) | $49/mo - $449/mo | Build Realtime Search | Algolia is a fully hosted search service, available as a REST API. API clients are also available for all major frameworks, platforms and languages.
 * Apache Solr | http://lucene.apache.org/solr/ - an open source search platform, based and co-released with Apache Lucene. [SiLK](http://www.lucidworks.com/lucidworks-silk/) provides analytics and log management on top of Solr.
 
-#### Email Marketing 
+#### Email Marketing
+* Appboy | http://www.appboy.com | [@appboy.com](https://twitter.com/appboy) | free for up to 1K users–$100/mo | Engage your mobile users outside of the app through rich email messages that inspire action and help grow ROI. 
 * Customer.io | http://customer.io/ |  | $50/mo - $1250/Mo | Send email based on what people do 
 or don't do in your app | Customer.io lets you send newsletters to segments of customers using data from your site.
 * Vero | https://www.getvero.com/ | [@veroapp](https://twitter.com/veroapp) | $99/mo | Send emails based on what your customers do | Vero makes it easy to create segments of customers based on the attributes you capture (e.g. age, location, gender) and the actions your customers take (e.g. logged in, used feature x, checked out, etc.).
@@ -313,6 +318,7 @@ VIRAL LAUNCHES | Launch Effect is a free responsive one-page WordPress theme tha
 * LaunchGator | http://launch.deskgator.com | [@fizzysoftware](http://twitter.com/fizzysoftware) |  | Create a Viral Launching Soon page | Create awesome coming soon pages for your upcoming website. Log In and add your website information. Add custom colors and backgrounds that highlight your service.
 
 #### CRM/Sales Tools 
+* Appboy | http://www.appboy.com | [@appboy.com](https://twitter.com/appboy) | free for up to 1K users–$100/mo | With Appboy's in-app feedback form and customer support, you can access the profiles of users with issues and quickly address problems to minimize negative app store reviews. Rather use another tool? No problem. We enable you to send feedback tickets with rich user data to third-party programs like Zendesk, desk.com and UserVoice.
 * Salesforce | http://www.salesforce.com | [@salesforce](http://twitter.com/salesforce) |  | TRANSFORM CONSUMERS INTO CUSTOMERS ACROSS ALL DIGITAL CHANNELS. | The ExactTarget Marketing Cloud, built on the Salesforce1 Platform, allows marketers to create 1:1 campaigns like never before. So you can combine traditional digital channels like email, mobile, social, and the web with any conceivable IP-addressable product to turn consumers into customers.
 * RelateIQ | https://www.relateiq.com | [@relateiq](http://twitter.com/relateiq) | $49/mo - $99/mo | Goodbye, Relationship Management.
 Hello, Relationship Intelligence. | RelateIQ automates, simplifies, and deepens the way you engage with professional relationships. Whether you are managing a sales pipeline or tracking deals to closure, RelateIQ provides tools and insights to increase your effectiveness. It automatically tracks and analyzes the day-to-day interactions that drive relationships in business development, sales, and more, using data and algorithms to make you better at your job.

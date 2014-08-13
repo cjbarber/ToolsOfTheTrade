@@ -300,7 +300,7 @@ currency conversion JSON API | A simple and easy-to-integrate exchange rates API
 
 #### Email Marketing
 * Appboy | http://www.appboy.com | [@appboy.com](https://twitter.com/appboy) | free for up to 1K users–$100/mo | Engage your mobile users outside of the app through rich email messages that inspire action and help grow ROI. 
-* Customer.io | http://customer.io/ |  | $50/mo - $1250/Mo | Send email based on what people do 
+* Customer.io | http://customer.io/ | [@CustomerIO](https://twitter.com/CustomerIO) | $50/mo - $1250/Mo | Send email based on what people do 
 or don't do in your app | Customer.io lets you send newsletters to segments of customers using data from your site.
 * Vero | https://www.getvero.com/ | [@veroapp](https://twitter.com/veroapp) | $99/mo | Send emails based on what your customers do | Vero makes it easy to create segments of customers based on the attributes you capture (e.g. age, location, gender) and the actions your customers take (e.g. logged in, used feature x, checked out, etc.).
 * MailChimp

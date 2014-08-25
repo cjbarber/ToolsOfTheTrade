@@ -539,6 +539,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Notable | http://www.notableapp.com/
 * LayerVault | http://www.layervault.com/ | [@layervault](http://twitter.com/layervault) | $29/mo per designer
 * InvisionApp | http://www.invisionapp.com/ | [@invisionapp](http://twitter.com/invisionapp) | $0-$100/mo
+* Framebench | http://www.framebench.com/ | [@framebench](http://twitter.com/framebench) | $19-99/mo
 
 #### PaaS 
 * Heroku

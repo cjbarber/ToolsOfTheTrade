@@ -171,6 +171,7 @@ don't have time for analytics | We take your data and present in a beautiful tim
 * Calq | https://calq.io | [@CalqAnalytics](http://www.twitter.com/CalqAnalytics) | $0 - $2500/mo | Advanced custom analytics for mobile and web applications. | Calq is an analytics platform that measures user actions rather than page views. An action can be anything a user does: reviewing a product, playing a level on a mobile game, making a purchase on your site, anything. Calq's ability to work with custom events AND custom data is what raises it above more traditional analytics platforms.
 * Improvely | https://www.improvely.com | [@improvelycom](http://www.twitter.com/improvelycom) | $29 - $899/mo | Conversion tracking and click fraud monitoring platform. The easiest way to track the performance of marketing campaigns and monitor them for click fraud.
 * Keen IO | http://keen.io | [@keen_io](https://twitter.com/keen_io) | $0 - $2000+/mo | Custom analytics shouldn't be a pain in the backend. Keen IO's powerful APIs do the heavy lifting for you, so you can gather all the data you want and start getting the answers you need.
+* Heap Analytics | http://heapanalytics.com | [@heap](https://twitter.com/heap) | $0 - $399/mo | Instant and retroactive analytics for web and iOS. No code required.
 
 #### Conversion Optimization & A/B Testing 
 * Optimizely | https://www.optimizely.com/ | [@optimizely](https://twitter.com/optimizely) | $17/mo - $359/mo | A/B testing you'll actually use | Track engagement, clicks, conversions, sign ups, or anything else that matters to you and your business. Optimizely's custom goal tracking provides an endless range of measurable actions that you can define. Just tell Optimizely what to measure, and we will do the rest.
@@ -379,7 +380,7 @@ IN MINUTES | PickFu is a tool that provides instant, unbiased and insightful pub
 * Tinkerpop | http://www.tinkerpop.com/ | Open source software products in the graph space. | 
 * Bulbs | http://bulbflow.com
 * Datomic | http://datomic.com | [@datomic_team](http://twitter.com/datomic_team) | $16000/mo | The fully transactional, cloud-ready, immutable database. | Immutable data means strong consistency combined with horizontal read scalability, plus built-in caching. Datomic is a distributed database designed to enable scalable, flexible and intelligent applications, running on next-generation cloud architectures.
-
+* MongoDB | http://mongodb.com | [@MongoDB] (http://twitter.com/MongoDB) | Free | Open source, JSON-based, document database with dynamic schemas.
 #### Log Monitoring
 * Logstash | http://logstash.net | [@logstash](https://twitter.com/logstash) |  | Ship logs from any source, parse them, get the right timestamp, index them, and search them. | logstash is a tool for managing events and logs. You can use it to collect logs, parse them, and store them for later use (like, for searching). Speaking of searching, logstash comes with a web interface for searching and drilling into all of your logs.
 * Lumberjack | https://github.com/jordansissel/lumberjack
@@ -480,6 +481,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 #### Designers 
 * Dribble | http://dribbble.com/
 * Sortfolio | http://sortfolio.com/
+* Behance | http://behance.net/
 
 #### Notes 
 * Google Docs
@@ -539,6 +541,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Notable | http://www.notableapp.com/
 * LayerVault | http://www.layervault.com/ | [@layervault](http://twitter.com/layervault) | $29/mo per designer
 * InvisionApp | http://www.invisionapp.com/ | [@invisionapp](http://twitter.com/invisionapp) | $0-$100/mo
+* Framebench | http://www.framebench.com/ | [@framebench](http://twitter.com/framebench) | $19-99/mo
 
 #### PaaS 
 * Heroku
@@ -560,6 +563,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 
 #### Database-aaS 
 * Mongolab | http://www.mongolab.com |  
+* Compose | http://compose.io |
 
 #### Backend-aaS
 * Parse | https://parse.com/
@@ -580,7 +584,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 #### Accounting
 * inDinero
 * Xero |  
-
+* QuickBooks | http://quickbooks.intuit.com/
 #### Video Hosting 
 * Wistia | http://wistia.com/ |  
 

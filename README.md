@@ -171,6 +171,7 @@ don't have time for analytics | We take your data and present in a beautiful tim
 * Calq | https://calq.io | [@CalqAnalytics](http://www.twitter.com/CalqAnalytics) | $0 - $2500/mo | Advanced custom analytics for mobile and web applications. | Calq is an analytics platform that measures user actions rather than page views. An action can be anything a user does: reviewing a product, playing a level on a mobile game, making a purchase on your site, anything. Calq's ability to work with custom events AND custom data is what raises it above more traditional analytics platforms.
 * Improvely | https://www.improvely.com | [@improvelycom](http://www.twitter.com/improvelycom) | $29 - $899/mo | Conversion tracking and click fraud monitoring platform. The easiest way to track the performance of marketing campaigns and monitor them for click fraud.
 * Keen IO | http://keen.io | [@keen_io](https://twitter.com/keen_io) | $0 - $2000+/mo | Custom analytics shouldn't be a pain in the backend. Keen IO's powerful APIs do the heavy lifting for you, so you can gather all the data you want and start getting the answers you need.
+* Heap Analytics | http://heapanalytics.com | [@heap](https://twitter.com/heap) | $0 - $399/mo | Instant and retroactive analytics for web and iOS. No code required.
 
 #### Conversion Optimization & A/B Testing 
 * Optimizely | https://www.optimizely.com/ | [@optimizely](https://twitter.com/optimizely) | $17/mo - $359/mo | A/B testing you'll actually use | Track engagement, clicks, conversions, sign ups, or anything else that matters to you and your business. Optimizely's custom goal tracking provides an endless range of measurable actions that you can define. Just tell Optimizely what to measure, and we will do the rest.
@@ -480,6 +481,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 #### Designers 
 * Dribble | http://dribbble.com/
 * Sortfolio | http://sortfolio.com/
+* Behance | http://behance.net/
 
 #### Notes 
 * Google Docs

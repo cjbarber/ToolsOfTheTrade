@@ -379,7 +379,7 @@ IN MINUTES | PickFu is a tool that provides instant, unbiased and insightful pub
 * Tinkerpop | http://www.tinkerpop.com/ | Open source software products in the graph space. | 
 * Bulbs | http://bulbflow.com
 * Datomic | http://datomic.com | [@datomic_team](http://twitter.com/datomic_team) | $16000/mo | The fully transactional, cloud-ready, immutable database. | Immutable data means strong consistency combined with horizontal read scalability, plus built-in caching. Datomic is a distributed database designed to enable scalable, flexible and intelligent applications, running on next-generation cloud architectures.
-
+* MongoDB | http://mongodb.com | [@MongoDB] (http://twitter.com/MongoDB) | Free | Open source, JSON-based, document database with dynamic schemas.
 #### Log Monitoring
 * Logstash | http://logstash.net | [@logstash](https://twitter.com/logstash) |  | Ship logs from any source, parse them, get the right timestamp, index them, and search them. | logstash is a tool for managing events and logs. You can use it to collect logs, parse them, and store them for later use (like, for searching). Speaking of searching, logstash comes with a web interface for searching and drilling into all of your logs.
 * Lumberjack | https://github.com/jordansissel/lumberjack
@@ -560,6 +560,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 
 #### Database-aaS 
 * Mongolab | http://www.mongolab.com |  
+* Compose | http://compose.io |
 
 #### Backend-aaS
 * Parse | https://parse.com/
@@ -580,7 +581,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 #### Accounting
 * inDinero
 * Xero |  
-
+* QuickBooks | http://quickbooks.intuit.com/
 #### Video Hosting 
 * Wistia | http://wistia.com/ |  
 

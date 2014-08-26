@@ -642,6 +642,11 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * EasyCron | https://www.easycron.com/
 * IFTTT | https://ifttt.com/
 
+
+#### Translation / Localisation
+* Tolq.com | http://www.tolq.com/
+
+
 ## Next Steps
 
 Star the repo to help ensure it is maintained.

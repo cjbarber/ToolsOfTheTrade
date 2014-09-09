@@ -1,7 +1,7 @@
 # Startup Tools of The Trade
 **Table of Contents**
 
-* [HN Tools of The Trade, 2014 Edition](#user-content-hn-tools-of-the-trade-2014-edition)
+* [Tools of The Trade, 2014 Edition](#user-content-hn-tools-of-the-trade-2014-edition)
   * [Background](#user-content-background)
   * [Now](#user-content-now)
   * [The List](#user-content-the-list)

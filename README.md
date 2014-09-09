@@ -2,8 +2,7 @@
 **Table of Contents**
 
 * [Tools of The Trade, 2014 Edition](#user-content-hn-tools-of-the-trade-2014-edition)
-  * [Background](#user-content-background)
-  * [Now](#user-content-now)
+ 
   * [The List](#user-content-the-list)
     * [Browser/Email Testing](#user-content-browseremail-testing)
     * [Sales](#user-content-sales)
@@ -86,27 +85,6 @@
   * [Next Steps](#user-content-next-steps)
 
 
-#### Background
-
-In 2010, Joshua Schachter, the founder of Delicious, [posted the following](https://news.ycombinator.com/item?id=1769910) on Hacker News:
-
-> When I first started delicious, we had to host most of the services ourselves. CVS, mail, mailing lists, etc etc etc.
-> These days, lots of that stuff is available as SaaS. What are the tools and services people use instead of hosting their own?
-> | I'm not talking about actual production services like EC2 and Heroku and whatnot. We can go over this in another thread.
-
-In 2013, Sharjeel Qureshi, [posted the following](https://news.ycombinator.com/item?id=5235137):
-
-> Few years ago, Joshua Schachter started this thread on HN for discussing hosted useful services: https://news.ycombinator.com/item?id=1769910
-> The contribution in thread introduced many interesting SaaS services which can immensely help in deploying services as well as development.
-> It's been three years since then. What do we have today?
-
-Many thanks to the big contributors to the previous threads, including garrettdimon, espeed, netshade, and cmadan, and many more that I haven't named.
-
-##### Now
-
-I collected more data from Hacker News, AngelList and Quora, to make the 2014 | and hopefully beyond |  version. 
-
-It's hosted on GitHub for a reason! Please submit pull requests.
 
 ## The List
 

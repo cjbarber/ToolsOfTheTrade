@@ -531,6 +531,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Codebase | https://www.codebasehq.com/
 * GitHub | https://github.com/
 * Unfuddle | https://unfuddle.com/
+* Rhodecode | https://rhodecode.com/
 
 
 #### Design Collaboration 

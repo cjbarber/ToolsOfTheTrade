@@ -212,6 +212,7 @@ and send personalized messages to the right users at the right time.
 * Dashing | https://dashing.io | Dashing is a Sinatra based framework that lets you build beautiful dashboards.
 
 #### Error/Exception Handling
+* Crashlytics | http://crashlytics.com | [@crashlytics](https://twitter.com/crashlytics) | Free | Crash reports and grouping for easier analysis. Basic analytics and reports. | iOS & Android
 * Sentry | https://getsentry.com | [@getsentry](http://twitter.com/getsentry) | $24/mo - $199/mo | Sentry notifies you when your users experience errors. | Know immediately when things happen in your application. Engage users before they have a chance to report a problem.
 * Coalmine | https://www.getcoalmine.com
 * HoneyBadger | https://www.honeybadger.io | [@honeybadgerapp](http://twitter.com/honeybadgerapp) | $39/mo - $249/mo | Exception, uptime, and performance monitoring for Ruby. | It tells you about errors, downtime and performance issues as they happen. And it gives you the tools you need to fix them ...without burying you in data. Without silly rate limits or per-server fees.
@@ -224,6 +225,9 @@ and send personalized messages to the right users at the right time.
 * ExceptionNotifier
 * Airbrake | https://www.airbrake.io/ | [@airbrake](https://twitter.com/airbrake) | $39/mo - $199/mo | No More Searching Log Files Capture and Track Your Application's Exceptions in 3 Minutes | Airbrake is the leading exception reporting service, currently providing error tracking for 50,000 applications with support for 18 programming languages.
 * Errbit | OSS
+
+#### Application Distribution
+* HockeyApp | http://hockeyapp.net | [@hockeyapp](https://twitter.com/hockeyapp) | $10/mo - $129/mo depending on number of apps and number of owners | Distribution of iOS, Android, Windows Phone and Mac OS apps | Includes analytics, user feedback and crash reports.
 
 #### Log Monitoring 
 * Loggly | http://loggly.com | [@loggly](https://twitter.com/loggly) | $49/mo - $349/mo | Solve operational problems faster. | Loggly helps cloud-centric organizations—organizations that build and manage cloud-facing applications—to solve operational problems faster.

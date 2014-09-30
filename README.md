@@ -18,6 +18,7 @@
     * [Continuous Integration/Code Quality](#user-content-continuous-integrationcode-quality)
     * [Dashboards](#user-content-dashboards)
     * [Error/Exception Handling](#user-content-errorexception-handling)
+    * [Application Distribution] (#user-content-application-distribution)
     * [Log Monitoring](#user-content-log-monitoring)
     * [Application Performance](#user-content-application-performance)
     * [Load Testing](#user-content-load-testing)

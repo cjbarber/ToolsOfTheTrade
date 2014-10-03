@@ -128,6 +128,8 @@ It's hosted on GitHub for a reason! Please submit pull requests.
 Instant project management for GitHub repositories | 
 * Pinitto.me | https://pinitto.me | Post It Notes on a virtual corkboard (OSS)
 * Bugify | $59 | http://www.bugify.com | [@bugify](https://twitter.com/bugify) | Self hosted issue management system. One-time payment. Written in PHP.
+* Post It Notes on a (Physical) Wall
+* JIRA | https://www.atlassian.com/software/jira | [@JIRA](https://twitter.com/JIRA) | $10/mo hosted - $10/yr self-hosted | JIRA is the tracker for teams planning and building great products. Thousands of teams choose JIRA to capture and organize issues, assign work, and follow team activity. At your desk or on the go with the new mobile interface, JIRA helps your team get the job done.
 
 #### Planning & Project Management
 * Sprintly | http://sprint.ly | [@sprintly](https://twitter.com/sprintly) | $49/mo- $399/mo | Don't ask how projects are going.

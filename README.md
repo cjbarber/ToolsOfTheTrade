@@ -536,7 +536,6 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Pie | https://www.piethis.com/
 * Zoom | https://www.zoom.us/
 
-
 #### Remote Collaboration  
 * TeamViewer | http://www.teamviewer.com/en/index.aspx
 * Screenmailer | https://www.screenmailer.com

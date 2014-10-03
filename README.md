@@ -458,7 +458,6 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 #### Search 
 * Bonsai | http://www.bonsai.io
 * WebSolr | http://websolr.com/
-s
 * Searchify | http://www.searchify.com/
 * CloudSearch | http://aws.amazon.com/cloudsearch/
 * SearchBlox | http://www.searchblox.com/

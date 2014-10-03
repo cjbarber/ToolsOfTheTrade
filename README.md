@@ -556,6 +556,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Pagodabox | https://pagodabox.com/ |  
 * Clever Cloud | http://www.clever-cloud.com/ |
 * Google App Engine | https://developers.google.com/appengine/ |
+* Pogoapp | http://www.pogoapp.com
 
 #### VPS 
 * Linode |  https://www.linode.com/

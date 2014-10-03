@@ -316,6 +316,7 @@ currency conversion JSON API | A simple and easy-to-integrate exchange rates API
 
 #### Site Search 
 * Elasticsearch | http://www.elasticsearch.org/ | [@elasticsearch](https://twitter.com/elasticsearch) |  | an end-to-end search and analytics platform. infinitely versatile. | By combining the massively popular Elasticsearch, Logstash and Kibana we have created an end-to-end stack that delivers actionable insights in real-time from almost any type of structured and unstructured data source. Built and supported by the engineers behind each of these open source products, the Elasticsearch ELK stack makes searching and analyzing data easier than ever before.
+* Swiftype | http://www.swiftype.com/ | [@Swiftype](http://twitter.com/swiftype) | Free - $250/mo, Enterprise Plans available | Swiftype is a hosted website search service, available as a web crawler or as an API integration. API clients are available for major frameworks and languages, plugins are available for major third party platforms.
 * Algolia | http://www.algolia.com/ | [@Algolia](http://www.twitter.com/Algolia) | $49/mo - $449/mo | Build Realtime Search | Algolia is a fully hosted search service, available as a REST API. API clients are also available for all major frameworks, platforms and languages.
 * Apache Solr | http://lucene.apache.org/solr/ - an open source search platform, based and co-released with Apache Lucene. [SiLK](http://www.lucidworks.com/lucidworks-silk/) provides analytics and log management on top of Solr.
 * Amazon Cloudsearch | http://aws.amazon.com/en/cloudsearch/ | Search SaaS  
@@ -478,7 +479,6 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 #### Search 
 * Bonsai | http://www.bonsai.io
 * WebSolr | http://websolr.com/
-* Swiftype | https://swiftype.com/
 * Searchify | http://www.searchify.com/
 * CloudSearch | http://aws.amazon.com/cloudsearch/
 * SearchBlox | http://www.searchblox.com/

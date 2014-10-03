@@ -270,6 +270,7 @@ and send personalized messages to the right users at the right time.
 * Blitz | https://www.blitz.io/ | [@blitz_io](http://twitter.com/blitz_io) | $19.99/mo - $399.99/mo | LOAD TESTING FROM THE CLOUD | Building mobile applications, websites or APIs is an iterative process. New features and capabilities are being added constantly. Your application is rapidly and iteratively going through several distinct phases - Development, Staging, Production and Operations. At every step of the way, the ability to ensure that your application meets the highest levels of user satisfaction is critical.
 * Bees with Machine Guns! | https://github.com/newsapps/beeswithmachineguns
 * Neustar Website Load Testing | http://www.neustar.biz/services/web-performance/load-testing | [@#!/Neustar](http://twitter.com/#!/Neustar) | $80/mo |  | Tackle performance problems such as bandwidth limitations, error rates exceeding thresholds, server PU limitations and much more.
+* Locust.io | http://locust.io/ | [@locustio](http://twitter.com/locustio) | Open Source
 
 #### Server Monitoring 
 * Server Density | https://www.serverdensity.com/ | [@serverdensity](https://twitter.com/serverdensity) |  | Premium hosted website and server monitoring tool. | All your activity syncs in real time - from starting new instances to upgrading or deleting old ones. Work wherever you want - through web, mobile, API or directly with your provider. Everything stays in sync.
@@ -690,5 +691,3 @@ Love working with tools? An awesome friend of mine is an executive at a tech com
 If you'd like to issue a PR to add your own tool, I will merge it ASAP if you include one other fix/bit of maintenance to the repo, to help keep it updated.
 
 **To be clear, I will not merge in pull requests to add your own tool**, without maintenance/improvements to the repo. This is to ensure this repos longevity.
-
-Issue a pull request or edit on [Prose](http://prose.io/#cjbarber/ToolsOfTheTrade/edit/master/README.md)

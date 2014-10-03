@@ -497,7 +497,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Kandan
 * Yammer | OSS
 * Limechat
-* Flowdock
+* Flowdock | Free for teams up to 5 people | https://www.flowdock.com
 * HipChat | Free | https://www.hipchat.com
 * Slack | https://slack.com/
 * Campfire

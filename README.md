@@ -527,6 +527,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * GoToMeeting | http://www.gotomeeting.com/online/default
 * IRCCloud | https://www.irccloud.com/
 * Buddycloud | http://hosting.buddycloud.org
+* Gitter | https://gitter.im | Chat for open-source and private development teams, with strong Github integration features
 
 [More Group Chat Tools](https://github.com/cjbarber/hipchat-alternatives)
 * Kato | http://www.kato.im
@@ -592,6 +593,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 #### Database-aaS 
 * Mongolab | http://www.mongolab.com |  
 * Orchestrate | http://orchestrate.io | [@OrchestrateIO](http://twitter.com/OrchestrateIO) | $0/mo - $749/mo | One API for search, key/value, graph, and events.
+* MongoHQ | https://www.mongohq.com
 
 #### Backend-aaS
 * Parse | https://parse.com/

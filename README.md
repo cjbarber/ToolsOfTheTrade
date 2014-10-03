@@ -128,6 +128,7 @@ Instant project management for GitHub repositories |
 * Bugify | $59 | http://www.bugify.com | [@bugify](https://twitter.com/bugify) | Self hosted issue management system. One-time payment. Written in PHP.
 * Post It Notes on a (Physical) Wall
 * JIRA | https://www.atlassian.com/software/jira | [@JIRA](https://twitter.com/JIRA) | $10/mo hosted - $10/yr self-hosted | JIRA is the tracker for teams planning and building great products. Thousands of teams choose JIRA to capture and organize issues, assign work, and follow team activity. At your desk or on the go with the new mobile interface, JIRA helps your team get the job done.
+* GitLab Issues | https://about.gitlab.com | [@gitlabhq](https://twitter.com/gitlabhq) | free |GitLab is open source software to collaborate on code that is used by more than 100,000 organisations worldwide. Unlimited private repositories on GitLab.com or host your own instance. Enterprise Edition includes deep LDAP support.
 
 #### Planning & Project Management
 * Sprintly | http://sprint.ly | [@sprintly](https://twitter.com/sprintly) | $49/mo- $399/mo | Don't ask how projects are going.
@@ -532,7 +533,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Codebase | https://www.codebasehq.com/
 * GitHub | https://github.com/
 * Unfuddle | https://unfuddle.com/
-
+* GitLab | https://gitlab.com
 
 #### Design Collaboration 
 * Pixelapse

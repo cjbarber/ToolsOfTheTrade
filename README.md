@@ -125,6 +125,7 @@ It's hosted on GitHub for a reason! Please submit pull requests.
 * Redmine | OSS | | http://www.redmine.org | [@redmine](https://twitter.com/redmine) | Flexible project management web application. Written using Ruby on Rails framework, it is cross-platform and cross-database.
 * Huboard | https://huboard.com | [@huboard](https://twitter.com/huboard) | $7/mo - $24/mo | GitHub issues made awesome
 Instant project management for GitHub repositories | 
+* Pinitto.me | https://pinitto.me | Post It Notes on a virtual corkboard (OSS)
 * Bugify | $59 | http://www.bugify.com | [@bugify](https://twitter.com/bugify) | Self hosted issue management system. One-time payment. Written in PHP.
 * Post It Notes on a (Physical) Wall
 * JIRA | https://www.atlassian.com/software/jira | [@JIRA](https://twitter.com/JIRA) | $10/mo hosted - $10/yr self-hosted | JIRA is the tracker for teams planning and building great products. Thousands of teams choose JIRA to capture and organize issues, assign work, and follow team activity. At your desk or on the go with the new mobile interface, JIRA helps your team get the job done.
@@ -507,7 +508,9 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Google Hangouts
 * GoToMeeting | http://www.gotomeeting.com/online/default
 * IRCCloud | https://www.irccloud.com/
-[More Group Chat Tools](https://github.com/cjbarber/hipchat-alternatives
+* Buddycloud | http://hosting.buddycloud.org
+
+[More Group Chat Tools](https://github.com/cjbarber/hipchat-alternatives)
 * Kato | http://www.kato.im
 * Convo | https://www.convo.com/
 * Sqwiggle | https://www.sqwiggle.com/

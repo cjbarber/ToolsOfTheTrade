@@ -218,7 +218,6 @@ and send personalized messages to the right users at the right time.
 
 #### Error/Exception Handling
 * Sentry | https://getsentry.com | [@getsentry](http://twitter.com/getsentry) | $24/mo - $199/mo | Sentry notifies you when your users experience errors. | Know immediately when things happen in your application. Engage users before they have a chance to report a problem.
-* Coalmine | https://www.getcoalmine.com
 * HoneyBadger | https://www.honeybadger.io | [@honeybadgerapp](http://twitter.com/honeybadgerapp) | $39/mo - $249/mo | Exception, uptime, and performance monitoring for Ruby. | It tells you about errors, downtime and performance issues as they happen. And it gives you the tools you need to fix them ...without burying you in data. Without silly rate limits or per-server fees.
 * BugSnag | https://bugsnag.com | [@bugsnag](https://twitter.com/bugsnag) | $29/mo - $249/mo | Automatic, full-stack error monitoring | Web app monitoring for Rails, PHP, Node.js, Java, and every other leading platform.
 * Raygun | http://raygun.io | [@raygunio](https://twitter.com/raygunio) | $14/mo - $199/mo | Exceptional Error Tracking | Your software faults get automatically sent to the Raygun service and analysis begins immediately. Raygun intelligently groups your errors so you're dealing with root causes, not every single error instance!

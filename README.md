@@ -362,7 +362,7 @@ for Your Enterprise | Whether planning ahead or booking on the fly, find and res
 * Do.com
 
 #### Prototyping/Mockups
-* Keynote | http://www.apple.com/in/mac/keynote/ | [@keynote](https://twitter.com/keynote) | $19.99 |  | Easily create gorgeous presentations with the all-new Keynote, featuring powerful yet easy-to-use tools and dazzling effects that will make you a very hard act to follow.
+* Keynote | http://www.apple.com/in/mac/keynote/ | [@keynote](https://twitter.com/keynote) | $19.99 |  | Easily create gorgeous presentations with the all-new Keynote, featuring powerful yet easy-to-use tools and dazzling effects that will make you a very hard act to follow. Also checkout the [Keynotopia Themes](http://keynotopia.com/) to get all the common UI elements for iOS, Android etc.
 * OmniGraffle | http://www.omnigroup.com/omniGraffle | [@omniGraffle](https://twitter.com/omniGraffle) | $99.99 | Diagramming Worth a Thousand Words | Need a diagram, process chart, quick page-layout, website wireframe or graphic design? OmniGraffle can help you make eye-popping graphic documents quickly by keeping lines connected to shapes even when they're moved, providing powerful styling tools, and magically organizing diagrams with just one click. Whether you need a quick 
 * moqups | https://moqups.com/ | [@moqups](https://twitter.com/moqups) | $9/mo-  $39/mo | Moqups is a nifty HTML5 App used to create wireframes, mockups or UI concepts, prototypes
 depending on how you like to call them. | The most stunning HTML5 app for creating resolution-independent SVG mockups & wireframes for your next project.
@@ -633,6 +633,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * 1Password  | https://agilebits.com/onepassword 
 * Passpack | https://www.passpack.com/
 * Locko | http://www.binarynights.com/locko/ | $0.99 | Mac OS X app including extensions for Safari, Chrome, Firefox and Opera.
+* KeePassX | http://www.keepassx.org/ | [Recommended by EFF](https://www.eff.org/deeplinks/2014/07/protecting-your-anonymity-how-sex-workers)
 
 #### Sources of Clicks/Ad Platforms
 * NeoReach | http://neoreach.com/

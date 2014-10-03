@@ -575,6 +575,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 #### WebSockets-aaS
 * Pusher | http://www.pusherapp.com | 
 * ScaleDrone | http://www.scaledrone.com | 
+* Hydna | https://www.hydna.com | 
 
 #### Hadoop-aaS
 * Mortar | http://www.mortardata.com/ |  

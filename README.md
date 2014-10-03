@@ -587,6 +587,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Firebase | https://www.firebase.com/
 * Hoodie | http://www.hood.ie/
 * BaasBox | http://www.baasbox.com/
+* LoopBack | http://loopback.io/
 
 #### WebSockets-aaS
 * Pusher | http://www.pusherapp.com | 

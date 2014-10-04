@@ -647,6 +647,8 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Puppet | http://puppetlabs.com/
 * Ansible | http://www.ansible.com/
 * Vagrant | http://www.vagrantup.com/
+* Capistrano | http://capistranorb.com/
+* Hubot | https://hubot.github.com/
 
 #### SEO Tools
 * AccuRanker | https://www.accuranker.com/

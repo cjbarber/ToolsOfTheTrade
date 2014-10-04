@@ -507,8 +507,11 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Sortfolio | http://sortfolio.com/
 
 #### Notes 
-* Google Docs
+* Google Keep | https://keep.google.com/
 * Evernote | http://evernote.com
+* Microsoft OneNote  | http://www.onenote.com/
+* RedNotebook | http://rednotebook.sourceforge.net/
+* Laverna | https://laverna.cc/
 * Workflowy | https://workflowy.com/
 * Quip | https://quip.com/
 * Etherpad | http://etherpad.org/
@@ -660,8 +663,10 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Deployd
 
 #### Password Management
-* PasswordBox
 * Lastpass | https://lastpass.com
+* KeePass | http://keepass.com/
+* Password Safe | https://www.schneier.com/passsafe.html
+* PasswordBox | https://www.passwordbox.com/
 * 1Password  | https://agilebits.com/onepassword 
 * Passpack | https://www.passpack.com/
 * Locko | http://www.binarynights.com/locko/ | $0.99 | Mac OS X app including extensions for Safari, Chrome, Firefox and Opera.

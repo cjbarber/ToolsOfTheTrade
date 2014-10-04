@@ -271,6 +271,7 @@ and send personalized messages to the right users at the right time.
 * Bees with Machine Guns! | https://github.com/newsapps/beeswithmachineguns
 * Neustar Website Load Testing | http://www.neustar.biz/services/web-performance/load-testing | [@#!/Neustar](http://twitter.com/#!/Neustar) | $80/mo |  | Tackle performance problems such as bandwidth limitations, error rates exceeding thresholds, server PU limitations and much more.
 * Loader.io | http://loader.io/ | Free to 100.00$ / mo | Loader.io is a free load testing service that allows you to stress test your web-apps/apis with thousands of concurrent connections.
+* Locust.io | http://locust.io/ | [@locustio](http://twitter.com/locustio) | Open Source
 
 #### Server Monitoring 
 * Server Density | https://www.serverdensity.com/ | [@serverdensity](https://twitter.com/serverdensity) |  | Premium hosted website and server monitoring tool. | All your activity syncs in real time - from starting new instances to upgrading or deleting old ones. Work wherever you want - through web, mobile, API or directly with your provider. Everything stays in sync.

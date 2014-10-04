@@ -685,3 +685,5 @@ Love working with tools? An awesome friend of mine is an executive at a tech com
 If you'd like to issue a PR to add your own tool, I will merge it ASAP if you include one other fix/bit of maintenance to the repo, to help keep it updated.
 
 **To be clear, I will not merge in pull requests to add your own tool**, without maintenance/improvements to the repo. This is to ensure this repos longevity.
+
+Issue a pull request or edit on [Prose](http://prose.io/#cjbarber/ToolsOfTheTrade/edit/master/README.md)

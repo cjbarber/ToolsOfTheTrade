@@ -544,6 +544,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Cloudflare | https://www.cloudflare.com/
 * Amazon Route 53 | http://aws.amazon.com/route53/
 * DNSimple | https://dnsimple.com/
+* ClouDNS | https://www.cloudns.net/
 
 #### Status Blogs/User Alerts
 * StatusPage.io
@@ -647,6 +648,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Puppet | http://puppetlabs.com/
 * Ansible | http://www.ansible.com/
 * Vagrant | http://www.vagrantup.com/
+* Salt | http://www.saltstack.com/community/
 
 #### SEO Tools
 * AccuRanker | https://www.accuranker.com/

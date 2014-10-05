@@ -467,9 +467,6 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Twilio | http://www.twilio.com/
 * PhoneBooth | http://www.phonebooth.com/
 
-#### Recommendation Systems
-* Runa PerfectOffer | http://www.runa.com/products/perfectoffer/
-
 #### System Monitoring 
 * AppNeta (Tracelytics) | http://www.appneta.com
 * Riemann | http://riemann.io

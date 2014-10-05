@@ -630,6 +630,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 #### Offsite Backups
 * Tarsnap |  
 * Rsync.net |
+* SpiderOak | https://spideroak.com/ | [@spideroak](https://twitter.com/spideroak) | First 2gb free - $100/100gb/year (check their twitter for deals) | Store. Sync. Share. Privately.
 
 #### Personal Machine Backups
 * Crashplan

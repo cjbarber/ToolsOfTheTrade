@@ -577,6 +577,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Clever Cloud | http://www.clever-cloud.com/ |
 * Google App Engine | https://developers.google.com/appengine/ |
 * Pogoapp | http://www.pogoapp.com
+* Ninefold | https://ninefold.com/ | [@ninefold](https://twitter.com/ninefold) | Ruby on Rails Hosting & App Deployment
 
 #### VPS 
 * Linode |  https://www.linode.com/

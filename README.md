@@ -598,7 +598,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 #### Database-aaS
 * Mongolab | http://www.mongolab.com |
 * Orchestrate | http://orchestrate.io | [@OrchestrateIO](http://twitter.com/OrchestrateIO) | $0/mo - $749/mo | One API for search, key/value, graph, and events.
-* MongoHQ | https://www.mongohq.com
+* Compose | https://compose.io/ | Compose is a fully-managed platform used by developers to deploy, host and scale databases (Elasticsearch and MongoDB.)
 
 #### Backend-aaS
 * Parse | https://parse.com/

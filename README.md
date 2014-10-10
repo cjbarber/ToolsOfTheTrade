@@ -437,6 +437,9 @@ Easier Invoicing
 Online Payments | In Paydirt, you can start a timer from any page in one click. No fiddly menus. No navigating around. Just a start button for each task.
 * SpikeTime | http://www.spiketime.net | | $6/mo- $7/mo | Easy and powerful time tracking for freelancers and project teams | Easy and fast time tracking with a lot of features. No installation needed - just sign up and start to track your work hours. Provides useful reports about time and revenue and helps you to remember to track your times with notifications.
 
+#### Privacy Policy, Terms & Conditions, Legal Documents
+* iubenda | http://www.iubenda.com/ | [@iubenda](https://twitter.com/iubenda) | free - $27/year - customization services | The easiest way to generate a professional, customizable, self-updating privacy policy. Choose between 6 languages. Documents hosted and kept up to date. Backed by real lawyers. Additional assistance service with premium legal team for custom Privacy Policy and Terms & Conditions.
+
 #### Income Analytics
 * Baremetrics | https://baremetrics.io/ | [@Baremetrics](https://twitter.com/Baremetrics) | $79/mo-  $249/mo | One click and you get dozens of valuable metrics from your Stripe account |
 

@@ -388,7 +388,8 @@ for Your Enterprise | Whether planning ahead or booking on the fly, find and res
 
 #### Personal Productivity
 * Tomatoes | http://tomato.es | [@tomatoesapp](http://twitter.com/tomatoesapp) |  | Track your time and be productive with the Pomodoro Technique | Tomatoes is a "pomodoro tracker", a Pomodoro technique® driven time tracker. Track your time using 25 minutes slots called "pomodoros".
-* Do.com
+* Do.com | https://do.com/ | [@DoWorkTogether](https://twitter.com/DoWorkTogether) |  | Do helps people run productive meetings | Visual Timeline of Your Meetings. With Do, you can easily and delightfully see what you have going on.
+* Doit.im | https://doit.im/ | [@doitim](https://twitter.com/doitim) |  | The smart way to manage your tasks | Personal Task Manager for Android, iOS, Mac, Windows and the web. It follows the GTD methodology. 
 
 #### Prototyping/Mockups
 * Keynote | http://www.apple.com/in/mac/keynote/ | [@keynote](https://twitter.com/keynote) | $19.99 |  | Easily create gorgeous presentations with the all-new Keynote, featuring powerful yet easy-to-use tools and dazzling effects that will make you a very hard act to follow. Also checkout the [Keynotopia Themes](http://keynotopia.com/) to get all the common UI elements for iOS, Android etc.
@@ -512,7 +513,8 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Sortfolio | http://sortfolio.com/
 
 #### Notes
-* Google Docs
+* Google Docs | https://docs.google.com
+* Google Keep | https://google.com/keep
 * Evernote | http://evernote.com
 * Workflowy | https://workflowy.com/
 * Quip | https://quip.com/
@@ -592,7 +594,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Vultr | https://www.vultr.com/
 
 #### Heroku Tools
-* Hirefire |
+* Hirefire | hirefire.io/
 
 #### AWS Tools
 * Ylastic |
@@ -669,7 +671,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Deployd
 
 #### Password Management
-* PasswordBox
+* PasswordBox | https://www.passwordbox.com/
 * Lastpass | https://lastpass.com
 * 1Password  | https://agilebits.com/onepassword
 * Passpack | https://www.passpack.com/

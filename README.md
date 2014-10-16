@@ -42,6 +42,7 @@
     * [Sales](#user-content-sales)
     * [Data](#user-content-data)
     * [Database](#user-content-database)
+    * [Database Tools](#user-content-database-tools)
     * [Accounting/Invoicing](#user-content-accountinginvoicing)
     * [Income Analytics](#user-content-income-analytics)
     * [Payments, Billing & Downloads](#user-content-payments-billing--downloads)
@@ -420,6 +421,10 @@ IN MINUTES | PickFu is a tool that provides instant, unbiased and insightful pub
 * Tinkerpop | http://www.tinkerpop.com/ | Open source software products in the graph space. |
 * Bulbs | http://bulbflow.com
 * Datomic | http://datomic.com | [@datomic_team](http://twitter.com/datomic_team) | The fully transactional, cloud-ready, immutable database. | Immutable data means strong consistency combined with horizontal read scalability, plus built-in caching. Datomic is a distributed database designed to enable scalable, flexible and intelligent applications, running on next-generation cloud architectures.
+
+
+#### Database Tools
+* Redsmin | https://redsmin.com | [@redsmin](http://twitter.com/redsmin) | Free plans | $5.99/mo- $29.99/mo | Developer oriented, online real-time monitoring and administration service for Redis.
 
 #### Accounting/Invoicing
 * Harvest | http://www.getharvest.com/ | [@harvest](http://twitter.com/harvest) | $12/mo-  $99/mo | Time Tracking Made Easy | Time tracking is simple and lightning fast with Harvest. Set up takes seconds, and there’s nothing to install. We’ve simplified the timesheet and timesheets approval process so you can stay focused on work.

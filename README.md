@@ -242,7 +242,7 @@ and send personalized messages to the right users at the right time.
 * Errorception | https://errorception.com | [@errorception](https://twitter.com/errorception) | $5/mo - $59/mo | Painless JavaScript Error Tracking | Errorception is a simple and painless way to find out about JavaScript errors, as they occur in your users' browsers. All you need to do is insert a script tag on your page, and you will start recording errors as they happen in real-time.
 * ExceptionNotifier
 * Airbrake | https://www.airbrake.io/ | [@airbrake](https://twitter.com/airbrake) | $39/mo - $199/mo | No More Searching Log Files Capture and Track Your Application's Exceptions in 3 Minutes | Airbrake is the leading exception reporting service, currently providing error tracking for 50,000 applications with support for 18 programming languages.
-* Errbit | OSS
+* Errbit | OSS | http://errbit.github.io/errbit/ | The open source error catcher that's Airbrake API compliant. 
 * Takipi | https://www.takipi.com | [@takipid](https://twitter.com/takipid) | God Mode in Production Code for java and scala applications.
 
 #### Application Distribution

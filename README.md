@@ -332,6 +332,7 @@ currency conversion JSON API | A simple and easy-to-integrate exchange rates API
 * Amazon Cloudsearch | http://aws.amazon.com/en/cloudsearch/ | Search SaaS
 
 #### Email Marketing
+* MailCharts | http://www.mailcharts.com/ | [@mailcharts](https://twitter.com/mailcharts) | $30/mo | Track & understand how your competitors use email marketing | MailCharts tracks over a thousand companies, bringing you actionable insights to help you improve your email marketing strategy, make data-driven decisions and gain design and content inspiration.
 * Customer.io | http://customer.io/ |  | $50/mo - $1250/Mo | Send email based on what people do
 or don't do in your app | Customer.io lets you send newsletters to segments of customers using data from your site.
 * Vero | https://www.getvero.com/ | [@veroapp](https://twitter.com/veroapp) | $99/mo | Send emails based on what your customers do | Vero makes it easy to create segments of customers based on the attributes you capture (e.g. age, location, gender) and the actions your customers take (e.g. logged in, used feature x, checked out, etc.).

@@ -211,6 +211,7 @@ and send personalized messages to the right users at the right time.
 #### Continuous Integration/Code Quality
 * Travis | https://travis-ci.org | [@travisci](https://twitter.com/travisci) | Hi I’m Travis CI, a hosted continuous integration service for open source and private projects: [http://travis-ci.com](http://travis-ci.com)  System status updates: [@traviscistatus](https://twitter.com/traviscistatus)
 * AppVeyor | http://www.appveyor.com | [@appveyor](https://twitter.com/appveyor) | AppVeyor automates building, testing and deployment of .NET applications, helping your team to focus on delivering great apps.
+* Codeship | https://codeship.io | [@codeship](https://twitter.com/codeship) | Continuous Delivery as a service, start testing and deploying your code immediately | Start with 100 builds per month free, Unlimited plans start at 49$
 * Circle | http://circleci.com | [@circleci](https://twitter.com/circleci) | $19/mo - $269/mo | Ship better code, faster | Easy, fast, continuous integration and deployment for web apps.
 * Hound | http://houndci.com | [@houndci](http://twitter.com/houndci) | Free | Automated Code Review | Take care of pesky code reviews with a trusty Hound
 * CodeClimate | http://codeclimate.com | [@codeclimate](http://twitter.com/codeclimate) | $0/mo - $399/mo | Automated  Code Review | Code Climate hosted software metrics help you ship quality Ruby and JavaScript code faster. Get control of your technical debt with real time static analysis of your code.

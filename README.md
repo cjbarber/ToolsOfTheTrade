@@ -408,6 +408,11 @@ depending on how you like to call them. | The most stunning HTML5 app for creati
 journalists, animators and developers are standing by to help you achieve
 your goals and take your project to the next level.
 
+* Contently | http://www.contently.com | [@Contently](https://twitter.com/Contently) | Software to empower brands in content creation| Our mission:
+Help journalists build careers doing what they love.
+Help brands become compelling publishers.
+Help journalists and brands connect and tell great stories.
+
 #### Customer Feedback
 * PickFu | http://www.pickfu.com/ | [@pickfu](http://twitter.com/pickfu) | $20/mo-  $299/mo | REAL CONSUMER FEEDBACK
 IN MINUTES | PickFu is a tool that provides instant, unbiased and insightful public opinion on questions that you care about.

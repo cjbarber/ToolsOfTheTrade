@@ -336,7 +336,7 @@ currency conversion JSON API | A simple and easy-to-integrate exchange rates API
 * Customer.io | http://customer.io/ |  | $50/mo - $1250/Mo | Send email based on what people do
 or don't do in your app | Customer.io lets you send newsletters to segments of customers using data from your site.
 * Vero | https://www.getvero.com/ | [@veroapp](https://twitter.com/veroapp) | $99/mo | Send emails based on what your customers do | Vero makes it easy to create segments of customers based on the attributes you capture (e.g. age, location, gender) and the actions your customers take (e.g. logged in, used feature x, checked out, etc.).
-* MailChimp
+* MailChimp | http://mailchimp.com
 * Campaign Monitor | http://www.campaignmonitor.com/ | [@](http://www.campaignmonitor.com/customers/) | $9/mo - $699/mo | CAMPUnbounce Feature Tour |
 * Intercom | http://intercom.io | @intercom | $49/mo - $449/mo | The easiest way to see and talk to your users | Intercom is a single platform where you can see in real-time who is using your product and send personalized messages to the right users at the right time based on their behavior.
 
@@ -556,6 +556,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * StatusPage.io | https://www.statuspage.io/
 * Tumblr | https://www.tumblr.com/
 * HelloBar | https://www.hellobar.com/ |
+* Status.io | https://status.io | [@statusio](http://www.twitter.com/statusio) | Hosted system status pages
 
 #### Forms / Surveys
 * Wufoo | http://www.wufoo.com/
@@ -596,6 +597,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 
 #### AWS Tools
 * Ylastic | http://ylastic.com/
+* Skeddly | http://www.skeddly.com/
 
 #### Database-aaS
 * Mongolab | http://www.mongolab.com |
@@ -634,7 +636,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * SlimWiki | http://slimwiki.com/ |
 
 #### Offsite Backups
-* Tarsnap |
+* Tarsnap | http://www.tarsnap.com
 * Rsync.net |
 * SpiderOak | https://spideroak.com/ | [@spideroak](https://twitter.com/spideroak) | First 2gb free - $100/100gb/year (check their twitter for deals) | Store. Sync. Share. Privately.
 

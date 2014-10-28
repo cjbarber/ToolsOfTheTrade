@@ -140,6 +140,7 @@ Instant project management for GitHub repositories |
 * Usersnap | https://usersnap.com/ | [@usersnap](https://twitter.com/usersnap) | $19/mo-$99/mo | Usersnap is visual bug reporting for anyone working on web projects. | Get visual feedback and precious browser information with every bug report to reproduce and fix them even faster.
 
 #### Planning & Project Management
+* Aha! | http://aha.io/ | [@aha_io](https://twitter.com/aha_io) | $69/mo, Ask about startup plan | The new way to create brilliant product strategy and visual roadmaps.
 * Sprintly | http://sprint.ly | [@sprintly](https://twitter.com/sprintly) | $49/mo- $399/mo | Don't ask how projects are going.
 Watch how they're going in real-time. | Use our elegant interface to prioritize, tag, manage, estimate,
 and measure your software developers' progress in real-time.

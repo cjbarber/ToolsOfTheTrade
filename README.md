@@ -222,6 +222,8 @@ and send personalized messages to the right users at the right time.
 * Circle | http://circleci.com | [@circleci](https://twitter.com/circleci) | $19/mo - $269/mo | Ship better code, faster | Easy, fast, continuous integration and deployment for web apps.
 * Hound | http://houndci.com | [@houndci](http://twitter.com/houndci) | Free | Automated Code Review | Take care of pesky code reviews with a trusty Hound
 * CodeClimate | http://codeclimate.com | [@codeclimate](http://twitter.com/codeclimate) | $0/mo - $399/mo | Automated  Code Review | Code Climate hosted software metrics help you ship quality Ruby and JavaScript code faster. Get control of your technical debt with real time static analysis of your code.
+* Codacy | http://codacy.com | $0-$150/mo | Automated Code Review | Continuous Static Analysis designed to complement your unit tests. Similar to CodeClimate.
+* PullReview | https://www.pullreview.com/ | 0€-24.2€/mo/developer | Automated Code Review | Similar to Codacy/CodeClimate (?) but only for ruby.
 * Semaphore | https://semaphoreapp.com | [@semaphoreapp](https://twitter.com/semaphoreapp) | $14/mo - $899/mo | Create an Amazing Workflow. | Semaphore assumes that your private or open source project is on GitHub. There are no new dependencies, hooks or SSH keys to manage. It works without any change in source code.
 * CruiseControl | http://cruisecontrolrb.thoughtworks.com/ | Open Source | CruiseControl.rb is a continuous integration tool. Its basic purpose in life is to alert members of a software project when one of them checks something into source control that breaks the build.
 * Integrity | http://integrityapp.com/ | [@integrityapp](https://twitter.com/integrityapp)
@@ -564,6 +566,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Amazon Route 53 | http://aws.amazon.com/route53/
 * DNSimple | https://dnsimple.com/
 * ClouDNS | https://www.cloudns.net/
+* FreeDNS | http://freedns.afraid.org
 
 #### Status Blogs/User Alerts
 * StatusPage.io | https://www.statuspage.io/
@@ -582,6 +585,15 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * GitHub | https://github.com/
 * Unfuddle | https://unfuddle.com/
 * GitLab | https://gitlab.com
+* Google Code | https://code.google.com
+* SourceForge | https://www.sourceforge.net
+* Launchpad | https://www.launchpad.net
+* Codeplex | https://www.codeplex.com
+* Gitorious | https://www.gitorious.org/
+* SSHControl | http://sshcontrol.com/
+* TuxFamily | https://tuxfamily.org
+* KForge | http://www.kforgeproject.com/
+* VersionShelf | https://www.versionshelf.com/ | 30-day Free trial, [free for students/teachers](https://www.versionshelf.com/about_free_plan).
 
 #### Design Collaboration
 * Pixelapse | https://www.pixelapse.com/
@@ -592,18 +604,29 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * InvisionApp | http://www.invisionapp.com/ | [@invisionapp](http://twitter.com/invisionapp) | $0-$100/mo
 
 #### PaaS
-* Heroku | http://heroku.com
+* Heroku | http://heroku.com | 1 free app
 * Pagodabox | https://pagodabox.com/ |
 * Clever Cloud | http://www.clever-cloud.com/ |
 * Google App Engine | https://developers.google.com/appengine/ |
 * Pogoapp | http://www.pogoapp.com
 * Ninefold | https://ninefold.com/ | [@ninefold](https://twitter.com/ninefold) | Ruby on Rails Hosting & App Deployment
+* OpenShift | http://openshift.redhat.com | 3 free apps
+* Engine Yard | https://www.engineyard.com
+* AppFog | https://www.appfog.com
+* Jelastic | http://jelastic.com
+* CloudBees | https://www.cloudbees.com
+* ShellyCloud | https://shellycloud.com | Rails only
+* dotCloud | https://www.dotcloud.com
+* Microsoft Azure | https://azure.microsoft.com | Known for IaaS, [also has PaaS](http://azure.microsoft.com/en-us/services/websites/)
+* Amazon Web Services | https://aws.amazon.com/elasticbeanstalk | Like Azure, it's more known for IaaS, [but it also has PaaS offerings](https://aws.amazon.com/elasticbeanstalk/).
+* Deis | http://deis.io (DIY PaaS)
 
 #### VPS
 * Linode |  https://www.linode.com/
 * Ramnode | http://www.ramnode.com/
 * DigitalOcean | https://www.digitalocean.com/
 * Vultr | https://www.vultr.com/
+* OVH | https://www.ovh.com
 
 #### Heroku Tools
 * Hirefire | http://hirefire.io/

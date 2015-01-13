@@ -233,6 +233,7 @@ and send personalized messages to the right users at the right time.
 * Buildbox | https://buildbox.io | [@buildboxhq](https://twitter.com/buildbox) | $15/dev/mo | Semi-hosted continuous integration and deployment | Buildbox uses your own infrastructure to run builds so you can test any language or run any deployment scripts. You can run as many parallel agents (and builds) as you want.
 * PullReview | https://pullreview.com | [@pullreview](https://twitter.com/pullreview) | €0/mo - €20/dev/mo | Automated Code Review for Ruby and Rails | PullReview helps you to quickly ship a Rails app with confidence. It reviews the Ruby code you just wrote and tells you what's wrong, why, and how to fix it - from style to security.
 * Crucible | https://www.atlassian.com/software/crucible | [@atlassian](http://twitter.com/atlassian) | $10/mo - $8000/mo | Code review system | Review code, discuss changes, share knowledge, and identify defects with Crucible's flexible review workflow. It's code review made easy for Git, Subversion, CVS, Perforce, and more.
+* IBM DevOps Services | https://hub.jazz.net/ | [@JazzHub](https://twitter.com/JazzHub) | Delivery Pipeline [Free Allotments + $50.00/ Application Instance/mo + $0.05 USD / Minute of build time per project](https://hub.jazz.net/learn/cost) | Automate release and deployment on the cloud with the IBM DevOps services for Continuous Delivery Pipeline service
 
 #### Dashboards
 * Ducksboard | http://ducksboard.com | [@ducksboard](http://twitter.com/ducksboard) | $16/mo - $129/mo | All of your data. In one place. | Business dashboards don’t need to be complicated, boring or hard to look at. Ducksboard makes it easy to gather, visualize and share the data that matters most to you and your team.
@@ -297,7 +298,7 @@ and send personalized messages to the right users at the right time.
 * Librato | https://metrics.librato.com/ | [@Librato](https://twitter.com/Librato) | $0.05/metric/mo to $0.30/metric/mo | Librato provides a complete solution for monitoring and understanding the metrics that impact your business at all levels of the stack.
 
 #### Customer Support/Help Desks
-* Desk | http://desk.com | [@desk](https://twitter.com/desk) | $3/mo - $50/mo | Deliver Customer Service That Wows | Desk.com creates the leading customer service application, which helps fast-growing companies deliver outstanding customer support. Desk.com's intuitive user interface and powerful features make solving customers' problems more efficient for the entire company. Plus, Desk.com is the only Customer Service Application backed by Salesforce, providing easy integration with other Salesforce services and robust security. There are thousands of companies using Desk.com as their help desk software application, from household names like Square and Instagram to the burrito shop down the street. Give it a try for free.
+* Desk | http://desk.com | [@desk](https://twitter.com/desk) | $3/mo - $135/mo | Deliver Customer Service That Wows | Desk.com creates the leading customer service application, which helps fast-growing companies deliver outstanding customer support. Desk.com's intuitive user interface and powerful features make solving customers' problems more efficient for the entire company. Plus, Desk.com is the only Customer Service Application backed by Salesforce, providing easy integration with other Salesforce services and robust security. There are thousands of companies using Desk.com as their help desk software application, from household names like Square and Instagram to the burrito shop down the street. Give it a try for free.
 * HelpScout | http://helpscout.net | [@helpscout](https://twitter.com/helpscout) | $15/ mo | Scalable customer support, no help desk headaches | Based on conditions you specify, Help Scout automatically performs one or more actions.
 * ZenDesk | http://zendesk.com | [@zendesk](http://www.twitter.com/zendesk) | $1/mo - $195/mo | Relationships between businesses and their customers can be hard. | Better customer service starts with better communication
 Zendesk brings all your customer conversations into one place.
@@ -621,6 +622,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Microsoft Azure | https://azure.microsoft.com | Known for IaaS, [also has PaaS](http://azure.microsoft.com/en-us/services/websites/)
 * Amazon Web Services | https://aws.amazon.com/elasticbeanstalk | Like Azure, it's more known for IaaS, [but it also has PaaS offerings](https://aws.amazon.com/elasticbeanstalk/).
 * Deis | http://deis.io (DIY PaaS)
+* IBM Bluemix&trade; | https://www.bluemix.net | [@ibmbluemix](https://twitter.com/ibmbluemix) | Run apps &lt;2 GB of total memory free first month. 0.5 GB free/mo after 30 days | An open-standards, CloudFoundry-based platform, [also has IaaS via SoftLayer](http://www.softlayer.com/).
 
 #### VPS
 * Linode |  https://www.linode.com/

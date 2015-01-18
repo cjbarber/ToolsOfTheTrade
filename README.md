@@ -240,6 +240,7 @@ and send personalized messages to the right users at the right time.
 * Instrumental | https://instrumentalapp.com | [@instrumentalapp](https://twitter.com/instrumentalapp) | $15/mo - $150/mo | Monitor Your App in Realtime | Instrumental’s made to monitor metrics at a ridiculously high scale. At rates of 500,000 metrics per second and higher, it doesn’t even break a sweat
 * Telemetry | https://telemetryapp.com | [@telemetryapp](https://twitter.com/telemetryapp) | $9/mo - $749/mo | Build realtime dashboard with powerful visualizations that look beautiful on big screen TVs, desktop computers, mobile devices, and embedded systems—all using a simple REST API that works with all modern languages.
 * Dashing | https://dashing.io | Dashing is a Sinatra based framework that lets you build beautiful dashboards.
+* Klipfolio | http://klipfolio.com | [@klipfolio](https://twitter.com/klipfolio) | $5/user/mo - $20/user/mo | Meet Your Business Dashboard | Connect to any data service to bring your key numbers together on one dashboard. Assign your data to visualizations to show the story behind the numbers. Cultivate a data-driven culture by sharing dashboards with everyone on your team.
 
 #### Error/Exception Handling
 * Crashlytics | http://crashlytics.com | [@crashlytics](https://twitter.com/crashlytics) | Free | Crash reports and grouping for easier analysis. Basic analytics and reports. | iOS & Android

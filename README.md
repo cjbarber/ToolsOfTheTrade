@@ -285,6 +285,7 @@ and send personalized messages to the right users at the right time.
 #### Load Testing
 * Blitz | https://www.blitz.io/ | [@blitz_io](http://twitter.com/blitz_io) | $19.99/mo - $399.99/mo | LOAD TESTING FROM THE CLOUD | Building mobile applications, websites or APIs is an iterative process. New features and capabilities are being added constantly. Your application is rapidly and iteratively going through several distinct phases - Development, Staging, Production and Operations. At every step of the way, the ability to ensure that your application meets the highest levels of user satisfaction is critical.
 * Bees with Machine Guns! | https://github.com/newsapps/beeswithmachineguns
+* Flood.io | https://flood.io/ | [@flood_io](https://twitter.com/flood_io) | Free to $399/mo | Auto setup and results summaries/graphs of JMeter and Gatling load tests.  Can easily scale to 100K+ reqs/min.
 * Neustar Website Load Testing | http://www.neustar.biz/services/web-performance/load-testing | [@#!/Neustar](http://twitter.com/#!/Neustar) | $80/mo |  | Tackle performance problems such as bandwidth limitations, error rates exceeding thresholds, server PU limitations and much more.
 * Loader.io | http://loader.io/ | Free to 100.00$ / mo | Loader.io is a free load testing service that allows you to stress test your web-apps/apis with thousands of concurrent connections.
 * Locust.io | http://locust.io/ | [@locustio](http://twitter.com/locustio) | Open Source
@@ -640,6 +641,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Mongolab | http://www.mongolab.com |
 * Orchestrate | http://orchestrate.io | [@OrchestrateIO](http://twitter.com/OrchestrateIO) | $0/mo - $749/mo | One API for search, key/value, graph, and events.
 * Compose | https://compose.io/ | Compose is a fully-managed platform used by developers to deploy, host and scale databases (Elasticsearch and MongoDB.)
+* RedisLabs | https://redislabs.com/ | [@RedisLabsInc](https://twitter.com/RedisLabsInc) | free - $338+/mo | RedisLabs offers fully-managed cloud service for hosting and running your redis or memcache datasets in a highly-available and scalable manner, with predictable and stable top performance.
 
 #### Backend-aaS
 * Parse | https://parse.com/ | [@ParseIt](https://twitter.com/ParseIt) | Parse is the perfect cloud to power your app on any platform | The Parse Cloud handles your entire backend so your team can focus on making an engaging user experience. Don't worry about databases, performance, or scaling.

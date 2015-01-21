@@ -28,6 +28,7 @@
     * [Transactional Email](#user-content-transactional-email)
     * [Other APIs](#user-content-other-apis)
     * [Site Search](#user-content-site-search)
+    * [Search](#user-content-search)
     * [Email Marketing](#user-content-email-marketing)
     * [Email Collection/Landing Page Apps](#user-content-email-collectionlanding-page-apps)
     * [CRM/Sales Tools](#user-content-crmsales-tools)
@@ -50,7 +51,6 @@
     * [Phone/PBX/SMS](#user-content-phonepbxsms)
     * [Recommendation Systems](#user-content-recommendation-systems)
     * [System Monitoring](#user-content-system-monitoring)
-    * [Search](#user-content-search)
     * [Security](#user-content-security)
     * [Shipping](#user-content-shipping)
     * [User Feedback](#user-content-user-feedback)
@@ -121,6 +121,7 @@ Do you like to talk?
 
 #### Identity Verification
 * BlockScore | https://blockscore.com | [@getblockscore](https://twitter.com/getblockscore) | $1/verification | Individual ID verifications and company verifications | Verify customers in realtime. Implement in hours.
+* IDology | https://www.idology.com | [@idology](https://twitter.com/idology) | < $1/basic verification | Individual identity verification and age verification solutions, KBA products, Photo ID verification
 
 #### Browser/Email Testing
 * BrowserStack | http://www.browserstack.com |  | $35/mo - $359/mo | Live, Web-Based Browser Testing | Instant access to all desktop and mobile browsers.
@@ -343,6 +344,12 @@ currency conversion JSON API | A simple and easy-to-integrate exchange rates API
 * Apache Solr | http://lucene.apache.org/solr/ - an open source search platform, based and co-released with Apache Lucene. [SiLK](http://www.lucidworks.com/lucidworks-silk/) provides analytics and log management on top of Solr.
 * Amazon Cloudsearch | http://aws.amazon.com/en/cloudsearch/ | Search SaaS
 
+#### Search
+* Bonsai | http://www.bonsai.io
+* WebSolr | http://websolr.com/
+* Searchify | http://www.searchify.com/
+* SearchBlox | http://www.searchblox.com/
+
 #### Email Marketing
 * MailCharts | http://www.mailcharts.com/ | [@mailcharts](https://twitter.com/mailcharts) | $30/mo | Track & understand how your competitors use email marketing | MailCharts tracks over a thousand companies, bringing you actionable insights to help you improve your email marketing strategy, make data-driven decisions and gain design and content inspiration.
 * Customer.io | http://customer.io/ |  | $50/mo - $1250/Mo | Send email based on what people do
@@ -500,13 +507,6 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Where's It Up? | http://wheresitup.com/
 * Nagios
 * Smokeping
-
-#### Search
-* Bonsai | http://www.bonsai.io
-* WebSolr | http://websolr.com/
-* Searchify | http://www.searchify.com/
-* CloudSearch | http://aws.amazon.com/cloudsearch/
-* SearchBlox | http://www.searchblox.com/
 
 #### Security
 * Burp | http://www.portswigger.net/burp/intruder.html

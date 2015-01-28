@@ -182,7 +182,7 @@ Features: goals of the week, week view and quadrant matrix, pomodoro timer, shar
 * Snowplow | http://snowplowanalytics.com | [@SnowPlowData](https://twitter.com/SnowPlowData) |  | Snowplow is the most powerful, flexible, scalable web analytics platform in the world. | Snowplow enables analysts to perform a wide variety of both simple and sophisticated analytics on your web analytics data.
 * DigMyData | http://digmydata.com | [@digmydata](https://twitter.com/digmydata) | $39/mo | The analytics dashboard for those who
 don't have time for analytics | We take your data and present in a beautiful timeline chart. We bet you’ve never seen some of your data – and certainly not all together in one place.
-* Segment.io | http://segment.io |  | $29/mo - $349/mo | The right way to manage your tools. | The idea is simple: one pipeline for all your data. Send data to any third-party tool with a single integration.
+* Segment | http://segment.com |  | $29/mo - $349/mo | The right way to manage your tools. | The idea is simple: one pipeline for all your data. Send data to any third-party tool with a single integration.
 * Clicky | http://clicky.com/ | [@clicky](http://twitter.com/clicky) | $9.99/mo - $19.99/mo | Real Time Web Analytics | Clicky lets you see every visitor and every action they take on your web site, with the option to attach custom data to visitors, such as usernames or email addresses. Analyze each visitor individually and see their full history.
 * Google Analytics
 * Piwik | http://piwik.org/ | [@piwik](http://twitter.com/piwik) |  | Liberating Web Analytics | Whether you are an individual blogger, a small business, or a large corporation, Piwik helps you gain valuable insights to help your business or readership grow.

@@ -241,6 +241,7 @@ and send personalized messages to the right users at the right time.
 * Telemetry | https://telemetryapp.com | [@telemetryapp](https://twitter.com/telemetryapp) | $9/mo - $749/mo | Build realtime dashboard with powerful visualizations that look beautiful on big screen TVs, desktop computers, mobile devices, and embedded systems—all using a simple REST API that works with all modern languages.
 * Dashing | https://dashing.io | Dashing is a Sinatra based framework that lets you build beautiful dashboards.
 * Biziboard | https://www.biziboard.com | Never miss a beat with real time social media and custom data aggregation all in one place. Share your data with your clients or your organisation, set up alerts or add target lines. Everything you need to get a head. 
+
 #### Error/Exception Handling
 * Crashlytics | http://crashlytics.com | [@crashlytics](https://twitter.com/crashlytics) | Free | Crash reports and grouping for easier analysis. Basic analytics and reports. | iOS & Android
 * Sentry | https://getsentry.com | [@getsentry](http://twitter.com/getsentry) | $24/mo - $199/mo | Sentry notifies you when your users experience errors. | Know immediately when things happen in your application. Engage users before they have a chance to report a problem.

@@ -1,4 +1,4 @@
-# HN Tools of The Trade, 2014 Edition
+# HN Tools of The Trade, 2015 Edition
 **Table of Contents**
 
 * [HN Tools of The Trade, 2014 Edition](#user-content-hn-tools-of-the-trade-2014-edition)

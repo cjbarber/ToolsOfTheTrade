@@ -168,6 +168,7 @@ Features: goals of the week, week view and quadrant matrix, pomodoro timer, shar
 * Tom's Planner | http://www.tomsplanner.com/ | [@tomsplanner](https://twitter.com/tomsplanner) | $9/mo - $19/mo |  | Tom's Planner is online Gantt chart software that allows anyone to create, collaborate and share Gantt Charts online with drag and drop simplicity. It's web based, extremely intuitive and easy-to-use.
 * LeanKit | http://leankit.com/ | [@leankit](http://twitter.com/leankit) | $15/mo - $19/mo | Instant Project visibility | In LeanKit, you map your organization’s processes onto virtual whiteboards. On each board the process steps are represented as vertical and horizontal lanes. Cards represent work items, which team members update and move from across the board as they complete their share of the work. Rather than having to ask for status reports, managers and customers can just look at the board. Board updates are visible in seconds around the globe and e-mail alerts and RSS feeds are available, so you and your team can take immediate action to resolve issues before they turn into serious problems.
 * Breeze | http://breeze.pm/ | [@BreezeTeam](http://twitter.com/BreezeTeam) | $29/mo - $129/mo | Organize and track everything. Breeze shows you what's being worked on, who's working on what, where things are in the workflow and how much time it took.
+* Sandglaz | https://www.sandglaz.com | [@Sandglaz](http://twitter.com/sandglaz) | $5/mo | Simplest project management for agile teams. Sandglaz combines the simplicity of a todo list with the planning ability of Gantt charts. It's the last tool  you'll try.
 
 #### App Developer Tools
 * App Annie | http://www.appannie.com | [@appannie/](https://twitter.com/appannie/) | free |  | Make better decisions with our app store data. We are the leader for app store analytics, app rankings, and market intelligence.
@@ -192,6 +193,7 @@ don't have time for analytics | We take your data and present in a beautiful tim
 * GoSquared | https://www.gosquared.com/ | [@gosquared](http://www.twitter.com/GoSquared) | £21.60 - £396/mo | Easy to use real-time web analytics.
 * Improvely | https://www.improvely.com | [@improvelycom](http://www.twitter.com/improvelycom) | $29 - $899/mo | Conversion tracking and click fraud monitoring platform. The easiest way to track the performance of marketing campaigns and monitor them for click fraud.
 * Keen IO | http://keen.io | [@keen_io](https://twitter.com/keen_io) | $0 - $2000+/mo | Custom analytics shouldn't be a pain in the backend. Keen IO's powerful APIs do the heavy lifting for you, so you can gather all the data you want and start getting the answers you need.
+* Heap Analytics | http://heapanalytics.com | [@heap](http://twitter.com/heap) | 0 - $599+ | Instant, retroactive analytics for web and iOS. No code required.
 
 #### Conversion Optimization & A/B Testing
 * Optimizely | https://www.optimizely.com/ | [@optimizely](https://twitter.com/optimizely) | $17/mo - $359/mo | A/B testing you'll actually use | Track engagement, clicks, conversions, sign ups, or anything else that matters to you and your business. Optimizely's custom goal tracking provides an endless range of measurable actions that you can define. Just tell Optimizely what to measure, and we will do the rest.
@@ -214,6 +216,7 @@ and send personalized messages to the right users at the right time.
 
 #### Payroll
 * ZenPayroll | https://zenpayroll.com/ | [@zenpayroll](https://twitter.com/zenpayroll) | $25/mo - $243/mo | The most delightful — and only — payroll service you'll ever use. We love, love, love helping  | Provide your employees direct access to their paystubs, pay history and information. Streamline changes and approvals.
+* WagePoint | http://wagepoint.com/ | [@wagepoint](https://twitter.com/wagepoint) | $20 + $2/employy | The Simple, Fast & Friendly way to pay your employees.
 
 #### Continuous Integration/Code Quality
 * Travis | https://travis-ci.org | [@travisci](https://twitter.com/travisci) | Hi I’m Travis CI, a hosted continuous integration service for open source and private projects: [http://travis-ci.com](http://travis-ci.com)  System status updates: [@traviscistatus](https://twitter.com/traviscistatus)
@@ -290,7 +293,7 @@ and send personalized messages to the right users at the right time.
 * Locust.io | http://locust.io/ | [@locustio](http://twitter.com/locustio) | Open Source
 
 #### Server Monitoring
-* Server Density | https://www.serverdensity.com/ | [@serverdensity](https://twitter.com/serverdensity) |  | Premium hosted website and server monitoring tool. | All your activity syncs in real time - from starting new instances to upgrading or deleting old ones. Work wherever you want - through web, mobile, API or directly with your provider. Everything stays in sync.
+* Server Density | https://www.serverdensity.com/ | [@serverdensity](https://twitter.com/serverdensity) |  | Premium hosted website and server monitoring tool. | All your activity syncs in real time - from starting new instances to upgradinKg or deleting old ones. Work wherever you want - through web, mobile, API or directly with your provider. Everything stays in sync.
 * Datadog | https://www.datadoghq.com | [@datadoghq](http://twitter.com/datadoghq) | $0/mo - $15/host/mo | Datadog is a monitoring service for IT, Operations and Development teams who write and run applications at scale, and want to turn the massive amounts of data produced by their apps, tools and services into actionable insight.
 * Circonus | http://www.circonus.com | [@circonus](http://www.twitter.com/circonus) | $15/host/mo - $25/host/mo | Circonus combines multiple monitoring, alerting, event reporting, and analytical tools into one unified solution. Use any data, in any application, from any system, and visualize it in real-time.
 * Boundary | http://boundary.com/ | [@Boundary](http://twitter.com/Boundary) | | Boundary delivers a second by second in context view of application health, infrastructure performance and metrics, with a consolidated view of all events, alerts & changes that are taking place.  Boundary helps you find anomalies and problems in real-time.

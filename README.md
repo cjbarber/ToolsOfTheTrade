@@ -217,6 +217,7 @@ and send personalized messages to the right users at the right time.
 * Hired | https://hired.com/ | | 15-25% first year salary (can be over 24 months) | Hired is the first two-sided marketplace created specifically for Engineers, Data Scientists, Designers and Product Managers who are overwhelmed with job opportunities.
 * Greenhouse | https://www.greenhouse.io | (ATS) Our goal is to teach an entire company how to hire. Greenhouse is the only platform that helps you build and scale talent operations.
 * Underdog | https://underdog.io/ | [@underdogjobs](https://twitter.com/underdogjobs) | ~10% first-year salary | Candidates looking for startup jobs in NYC submit their resumes and other basic information. Using a combination of human intelligence and technology, Underdog.io reviews and ranks candidates and sends curated weekly batches to our hiring network. Founders and hiring managers contact candidates directly and take them through their normal hiring process.
+* Angel List | https://angel.co/ | AngelList is a platform for startups—started by the dudes who do Venture Hacks. | Matching service for candidates and companies facilitates intro once both parties ask to be connected.
 
 #### Payroll
 * ZenPayroll | https://zenpayroll.com/ | [@zenpayroll](https://twitter.com/zenpayroll) | $25/mo - $243/mo | The most delightful — and only — payroll service you'll ever use. We love, love, love helping  | Provide your employees direct access to their paystubs, pay history and information. Streamline changes and approvals.

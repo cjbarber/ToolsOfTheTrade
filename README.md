@@ -364,6 +364,7 @@ depending on how you like to call them. | The most stunning HTML5 app for creati
 * Visual.ly | http://visual.ly/ | [@Visually](https://twitter.com/Visually) | $195/mo-  $994/mo | ORIGINAL VISUAL CONTENT FOR BRANDS | We only work with the best creative talent available. Thousands of designers,
 journalists, animators and developers are standing by to help you achieve
 your goals and take your project to the next level.
+* [Canva](canva.com)
 
 #### Customer Feedback
 * PickFu | http://www.pickfu.com/ | [@pickfu](http://twitter.com/pickfu) | $20/mo-  $299/mo | REAL CONSUMER FEEDBACK
@@ -518,13 +519,13 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 
 #### Status Blogs/User Alerts
 * StatusPage.io
-* Tumblr
 * HelloBar | https://www.hellobar.com/ |
 
 #### Forms / Surveys
 * Wufoo
 * Google Forms
 * Typeform | https://www.typeform.com | [@typeform](http://www.twitter.com/typeform) | $0/mo - $25/mo | Ask Awesomely! | Typeform makes asking questions easy, human & beautiful. A user experience that makes your questions look & feel great everywhere. Stimulated, inspired, excited, happy respondents boost completion rates. Gain insights with integrated analysis tools.
+* Survata | [Survata.com](survata.com) | [@survata](twitter.com/survata) | Survata lets you quickly survey your target audience online. We find qualified respondents to answer your survey.
 
 #### Source Code Hosting
 * BitBucket | https://bitbucket.org/
@@ -541,7 +542,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * InvisionApp | http://www.invisionapp.com/ | [@invisionapp](http://twitter.com/invisionapp) | $0-$100/mo
 
 #### PaaS
-* Heroku
+* [Heroku](heroku.com)
 * Pagodabox | https://pagodabox.com/ |
 * Clever Cloud | http://www.clever-cloud.com/ |
 * Google App Engine | https://developers.google.com/appengine/ |
@@ -601,6 +602,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * TaskArmy | http://taskarmy.com
 * 99Designs | http://99designs.com/
 * Fiverr | http://www.fiverr.com/
+* Elance | elance.com
 
 #### Deployment
 * Chef | http://www.getchef.com
@@ -617,6 +619,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 
 #### API Builder
 * Deployd
+* Kimono Labs
 
 #### Password Management
 * PasswordBox
@@ -640,6 +643,9 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 #### Task Scheduling
 * EasyCron | https://www.easycron.com/
 * IFTTT | https://ifttt.com/
+
+#### Surveywalls
+* Survata Publisher Network | [Survata Publisher Network](survata.com/publisher-network) | Instead of a paywall or intrusive ads, gate content and experiences with a surveywall. Get paid between $0.20 and $0.50 per validated response.
 
 ## Next Steps
 

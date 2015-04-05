@@ -6,6 +6,7 @@
   * [Now](#user-content-now)
   * [The List](#user-content-the-list)
     * [Identity Verification](#user-content-identity-verification)
+    * [Mobile number Verification](#user-content-international-mobile-number-verification)
     * [Browser/Email Testing](#user-content-browseremail-testing)
     * [Bug/Issue Tracking](#user-content-bugissue-tracking)
     * [Planning & Project Management](#user-content-planning--project-management)
@@ -121,6 +122,11 @@ Do you like to talk?
 
 #### Identity Verification
 * BlockScore | https://blockscore.com | [@getblockscore](https://twitter.com/getblockscore) | $1/verification | Individual ID verifications and company verifications | Verify customers in realtime. Implement in hours.
+
+
+
+#### International Mobile Number Verification
+* Cognalys,Inc | https://www.cognalys.com | [@cognalys](https://twitter.com/cognalys) | $12 /mo 1200 Tries per day | Freemium mobile number verification through an innovative and relaible  method than using SMS gateway. Free accounts will have 70 Tries and 50 verifications per day .Both API and android SDK's are available .
 
 #### Browser/Email Testing
 * BrowserStack | http://www.browserstack.com |  | $35/mo - $359/mo | Live, Web-Based Browser Testing | Instant access to all desktop and mobile browsers.

@@ -549,6 +549,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * IRCCloud | https://www.irccloud.com/
 * Buddycloud | http://hosting.buddycloud.org
 * Gitter | https://gitter.im | Chat for open-source and private development teams, with strong Github integration features
+* appear.in | one click video conversations
 
 [More Group Chat Tools](https://github.com/cjbarber/hipchat-alternatives)
 * Kato | http://www.kato.im

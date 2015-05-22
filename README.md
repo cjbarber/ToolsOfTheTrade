@@ -586,7 +586,6 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * GitHub | https://github.com/
 * Unfuddle | https://unfuddle.com/
 * GitLab | https://gitlab.com
-* Google Code | https://code.google.com
 * SourceForge | https://www.sourceforge.net
 * Launchpad | https://www.launchpad.net
 * Codeplex | https://www.codeplex.com

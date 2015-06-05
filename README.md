@@ -107,15 +107,9 @@ Many thanks to the big contributors to the previous threads, including garrettdi
 
 ##### Now
 
-I collected more data from Hacker News, AngelList and Quora, to make the 2014 (and hopefully beyond) version.
+I collected more data from Hacker News, AngelList and Quora, to make the 2015 (and hopefully beyond) version.
 
 It's hosted on GitHub for a reason! Please submit pull requests.
-
-##### I'd like to learn from you
-
-Do you like to talk?
-
- * Are you an employee of a well funded startup or larger company? [I'd like to ask you about your day and the software you use!](http://goo.gl/forms/1xl5zZpmim) 
 
 ## The List
 

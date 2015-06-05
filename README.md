@@ -276,6 +276,7 @@ and send personalized messages to the right users at the right time.
 
 #### Application Performance
 * AppNeta | http://appneta.com/ | [@AppNeta](http://www.twitter.com/AppNeta) | Free to $119 / mo | Full-stack application monitoring for web apps | Get visibility into code, network, and end user, especially for polyglot and service-oriented applications, by looking at transactions, errors, browser metrics, host metrics, and more.
+* DripStat | https://dripstat.com/ | [@DripStat](http://www.twitter.com/dripstat) | $20/ mo | Application monitoring for Java | Next gen Java APM. Full visibility across your stack.  Specificially designed for Java. Supports SQL databases, MongoDB and Cassandra.
 * New Relic | http://newrelic.com/ | [@NewRelic](http://www.twitter.com/NewRelic) | $149/ mo | Application monitoring for all your web apps. | It’s about gaining actionable, real-time business insights from the billions of metrics your software is producing, including user click streams, mobile activity, end user experiences and transactions.
 * AppSignal | https://appsignal.com/ | [@AppSignal](https://twitter.com/AppSignal) | $49/mo - $259/mo | Better monitoring for your Rails applications. | Get detailled statistics on your site's performance with mean and 90th percentile measurements.
 

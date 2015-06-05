@@ -492,6 +492,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Tropo | https://www.tropo.com/
 * Twilio | http://www.twilio.com/
 * PhoneBooth | http://www.phonebooth.com/
+* TalkDesk | http://talkdesk.com/
 
 #### System Monitoring
 * AppNeta (Tracelytics) | http://www.appneta.com

@@ -241,7 +241,7 @@ and send personalized messages to the right users at the right time.
 * Geckoboard | http://www.geckoboard.com | [@geckoboard](https://twitter.com/geckoboard) | $17/mo - $899/mo | Meet Geckoboard. It's Your Key Data, In One Place. | Geckoboard monitors your business’s vital signs – don’t wait, see it live on a business dashboard as it happens. Focus on what matters and react faster to important events.
 * Instrumental | https://instrumentalapp.com | [@instrumentalapp](https://twitter.com/instrumentalapp) | $15/mo - $150/mo | Monitor Your App in Realtime | Instrumental’s made to monitor metrics at a ridiculously high scale. At rates of 500,000 metrics per second and higher, it doesn’t even break a sweat
 * Telemetry | https://telemetryapp.com | [@telemetryapp](https://twitter.com/telemetryapp) | $9/mo - $749/mo | Build realtime dashboard with powerful visualizations that look beautiful on big screen TVs, desktop computers, mobile devices, and embedded systems—all using a simple REST API that works with all modern languages.
-* Dashing | https://dashing.io | Dashing is a Sinatra based framework that lets you build beautiful dashboards.
+* Dashing | http://dashing.io | Dashing is a Sinatra based framework that lets you build beautiful dashboards.
 
 #### Error/Exception Handling
 * Crashlytics | http://crashlytics.com | [@crashlytics](https://twitter.com/crashlytics) | Free | Crash reports and grouping for easier analysis. Basic analytics and reports. | iOS & Android

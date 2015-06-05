@@ -10,6 +10,7 @@
     * [Bug/Issue Tracking](#user-content-bugissue-tracking)
     * [Planning & Project Management](#user-content-planning--project-management)
     * [App Developer Tools](#user-content-app-developer-tools)
+    * [Localization & Internationalization](#localization--internationalization)
     * [Business & Traffic Analytics](#user-content-business--traffic-analytics)
     * [Conversion Optimization & A/B Testing](#user-content-conversion-optimization--ab-testing)
     * [User Analytics](#user-content-user-analytics)
@@ -168,6 +169,10 @@ Features: goals of the week, week view and quadrant matrix, pomodoro timer, shar
 * Artisan Mobile | http://useartisan.com/ | [@ArtisanMobile](https://twitter.com/ArtisanMobile) | Free - 10k/mo | The Artisan Mobile Experience Management platform makes it easy to understand your user's behavior and activity, experiment with all aspects of your mobile app, and engage your users with targeted, branded experiences — all in one platform.
 * Flurry Analytics | http://www.flurry.com/solutions/analytics | free | Industry Standard for free user insights in your mobile app
 * App Figures | https://appfigures.com/ | [@appfigures](https://twitter.com/appfigures) | $9/mo | A beautiful app tracking platform for app developers and publishers.
+
+#### Localization & Internationalization
+* Localize.js | https://localizejs.com | $25/mo - $150/mo | Website translation with just a few lines of code.
+* Gengo | http://gengo.com/ | $0.06 - $0.17 per word | Human translation API
 
 #### Business & Traffic Analytics
 * KISSmetrics | http://kissmetrics.com | [@kissmetrics/](https://twitter.com/kissmetrics/) | $150/mo - $500/mo | KISSmetrics tells you who’s doing it. | Every last piece gets connected to a real person. All of it. It doesn’t matter if people bounce around between different browsers and devices. Or even if it takes them 6 months to come back. You’ll see what real people do.

@@ -223,6 +223,7 @@ and send personalized messages to the right users at the right time.
 * Hound | http://houndci.com | [@houndci](http://twitter.com/houndci) | Free | Automated Code Review | Take care of pesky code reviews with a trusty Hound
 * CodeClimate | http://codeclimate.com | [@codeclimate](http://twitter.com/codeclimate) | $0/mo - $399/mo | Automated  Code Review | Code Climate hosted software metrics help you ship quality Ruby and JavaScript code faster. Get control of your technical debt with real time static analysis of your code.
 * Codacy | http://codacy.com | $0-$150/mo | Automated Code Review | Continuous Static Analysis designed to complement your unit tests. Similar to CodeClimate.
+* Codecov | http://codecov.io | $0-$5/mo | Hosted Code Coverage | Code coverage reporting done right.
 * PullReview | https://www.pullreview.com/ | 0€-24.2€/mo/developer | Automated Code Review | Similar to Codacy/CodeClimate (?) but only for ruby.
 * Semaphore | https://semaphoreapp.com | [@semaphoreapp](https://twitter.com/semaphoreapp) | $14/mo - $899/mo | Create an Amazing Workflow. | Semaphore assumes that your private or open source project is on GitHub. There are no new dependencies, hooks or SSH keys to manage. It works without any change in source code.
 * CruiseControl | http://cruisecontrolrb.thoughtworks.com/ | Open Source | CruiseControl.rb is a continuous integration tool. Its basic purpose in life is to alert members of a software project when one of them checks something into source control that breaks the build.

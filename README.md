@@ -173,6 +173,7 @@ Features: goals of the week, week view and quadrant matrix, pomodoro timer, shar
 #### Localization & Internationalization
 * Localize.js | https://localizejs.com | $25/mo - $150/mo | Website translation with just a few lines of code.
 * Gengo | http://gengo.com/ | $0.06 - $0.17 per word | Human translation API
+* Google Website Translator | https://translate.google.com/manager/website/ | Make your website instantly available in 90+ languages
 
 #### Business & Traffic Analytics
 * KISSmetrics | http://kissmetrics.com | [@kissmetrics/](https://twitter.com/kissmetrics/) | $150/mo - $500/mo | KISSmetrics tells you who’s doing it. | Every last piece gets connected to a real person. All of it. It doesn’t matter if people bounce around between different browsers and devices. Or even if it takes them 6 months to come back. You’ll see what real people do.
@@ -355,6 +356,7 @@ or don't do in your app | Customer.io lets you send newsletters to segments of c
 * MailChimp | http://mailchimp.com
 * Campaign Monitor | http://www.campaignmonitor.com/ | [@](http://www.campaignmonitor.com/customers/) | $9/mo - $699/mo | CAMPUnbounce Feature Tour |
 * Intercom | http://intercom.io | @intercom | $49/mo - $449/mo | The easiest way to see and talk to your users | Intercom is a single platform where you can see in real-time who is using your product and send personalized messages to the right users at the right time based on their behavior.
+* Sendy | https://sendy.co | [@getsendy](https://twitter.com/getSendy) | $59 one time fee, host yourselfor use a hosted sendy instance from a variety of providers.
 
 #### Email Collection/Landing Page Apps
 * Launchrock | http://launchrock.com | [@launchrock](https://twitter.com/launchrock) | $49/mo - $199/mo |  | Even if you know how to code a web page with HTML, you'll love how much faster it is with our landing page builder. Load up your logo and graphic assets, set up a few base colors from your brand palette and publish away.
@@ -421,6 +423,7 @@ depending on how you like to call them. | The most stunning HTML5 app for creati
 * Visual.ly | http://visual.ly/ | [@Visually](https://twitter.com/Visually) | $195/mo-  $994/mo | ORIGINAL VISUAL CONTENT FOR BRANDS | We only work with the best creative talent available. Thousands of designers,
 journalists, animators and developers are standing by to help you achieve
 your goals and take your project to the next level.
+* Canva | https://www.canva.com | [@canva](https://twitter.com/canva) | Design great social media images with text and graphics for free or a few bucks depending on the images you select
 
 #### Customer Feedback
 * PickFu | http://www.pickfu.com/ | [@pickfu](http://twitter.com/pickfu) | $20/mo-  $299/mo | REAL CONSUMER FEEDBACK
@@ -493,6 +496,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Twilio | http://www.twilio.com/
 * PhoneBooth | http://www.phonebooth.com/
 * TalkDesk | http://talkdesk.com/
+* HelloFax | https://hellofax.com
 
 #### System Monitoring
 * AppNeta (Tracelytics) | http://www.appneta.com
@@ -585,6 +589,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Wufoo | http://www.wufoo.com/
 * Google Forms
 * Typeform | https://www.typeform.com | [@typeform](http://www.twitter.com/typeform) | $0/mo - $25/mo | Ask Awesomely! | Typeform makes asking questions easy, human & beautiful. A user experience that makes your questions look & feel great everywhere. Stimulated, inspired, excited, happy respondents boost completion rates. Gain insights with integrated analysis tools.
+* Qualaroo | https://qualaroo.com/ | [@qualarooinc](https://twitter.com/qualarooinc) | $63/mo -499/mo | Qualaroo website surveys uncover customer insights that lead to better business results.
 
 #### Source Code Hosting
 * BitBucket | https://bitbucket.org/
@@ -611,6 +616,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 
 #### PaaS
 * Heroku | http://heroku.com | 1 free app
+* Cloud Foundry | http://cloudfoundry.org | host it yourself, or use one of MANY hosting services
 * Pagodabox | https://pagodabox.com/ |
 * Clever Cloud | http://www.clever-cloud.com/ |
 * Google App Engine | https://developers.google.com/appengine/ |
@@ -669,6 +675,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 
 #### Accounting
 * inDinero | https://indinero.com/
+* QuickBooks Online | https://qbo.intuit.com
 * Xero | https://www.xero.com/
 
 #### Video Hosting
@@ -739,6 +746,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 #### Task Scheduling
 * EasyCron | https://www.easycron.com/
 * IFTTT | https://ifttt.com/
+* Zapier | https://zapier.com
 
 #### Documentation
 * Dash | https://www.kapeli.com/dash

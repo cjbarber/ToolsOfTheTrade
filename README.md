@@ -505,6 +505,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Zipkin | https://github.com/twitter/zipkin/
 * Pulse | https://github.com/heroku/pulse/
 * Pingdom | https://www.pingdom.com/
+* UptimeButler | https://uptimebutler.com/
 * UptimeRobot | https://uptimerobot.com/
 * Where's It Up? | http://wheresitup.com/
 * Nagios

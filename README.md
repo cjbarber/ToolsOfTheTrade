@@ -218,10 +218,12 @@ and send personalized messages to the right users at the right time.
 #### HR
 * Workday | http://www.workday.com/ | [@workday](https://twitter.com/workday) |  | Workday works the way people work—collaboratively, on the go, and in real-time. Explore the product previews below to learn how Workday can change the way you work. | With powerful business applications and a user experience that's unmatched in enterprise software, Workday gives you everything you need to transform your business.
 * Lever | http://lever.co | [@lever](https://twitter.com/lever) | A modern web app for hiring | Leverage your entire company – interviewers, managers, and recruiters – to source, vet, and close.
+* Zenefits | https://www.zenefits.com | [@zenefits](https://twitter.com/zenefits) | $0/mo | The #1 All-In-One HR Platform | Payroll. Benefits. Time. Compliance. All online, all in one place.
 
 #### Payroll
 * ZenPayroll | https://zenpayroll.com/ | [@zenpayroll](https://twitter.com/zenpayroll) | $25/mo - $243/mo | The most delightful — and only — payroll service you'll ever use. We love, love, love helping  | Provide your employees direct access to their paystubs, pay history and information. Streamline changes and approvals.
 * WagePoint | http://wagepoint.com/ | [@wagepoint](https://twitter.com/wagepoint) | $20 + $2/employy | The Simple, Fast & Friendly way to pay your employees.
+* Zenefits | https://www.zenefits.com | [@zenefits](https://twitter.com/zenefits) | $0/mo | The #1 All-In-One HR Platform | Payroll. Benefits. Time. Compliance. All online, all in one place.
 
 #### Continuous Integration/Code Quality
 * Travis | https://travis-ci.org | [@travisci](https://twitter.com/travisci) | free - $489/mo | Hi I’m Travis CI, a hosted continuous integration service for open source and private projects: [http://travis-ci.com](http://travis-ci.com)  System status updates: [@traviscistatus](https://twitter.com/traviscistatus)

@@ -193,6 +193,7 @@ don't have time for analytics | We take your data and present in a beautiful tim
 * GoSquared | https://www.gosquared.com/ | [@gosquared](http://www.twitter.com/GoSquared) | £21.60 - £396/mo | Easy to use real-time web analytics.
 * Improvely | https://www.improvely.com | [@improvelycom](http://www.twitter.com/improvelycom) | $29 - $899/mo | Conversion tracking and click fraud monitoring platform. The easiest way to track the performance of marketing campaigns and monitor them for click fraud.
 * Keen IO | http://keen.io | [@keen_io](https://twitter.com/keen_io) | $0 - $2000+/mo | Custom analytics shouldn't be a pain in the backend. Keen IO's powerful APIs do the heavy lifting for you, so you can gather all the data you want and start getting the answers you need.
+* Gauges | http://get.gaug.es | [@GaugesApp](https://twitter.com/gaugesapp) | $6-$48/mo | Gauges provides real time web analytics such as how many people visit your site, where they come from, and where they go.
 
 #### Conversion Optimization & A/B Testing
 * Optimizely | https://www.optimizely.com/ | [@optimizely](https://twitter.com/optimizely) | $17/mo - $359/mo | A/B testing you'll actually use | Track engagement, clicks, conversions, sign ups, or anything else that matters to you and your business. Optimizely's custom goal tracking provides an endless range of measurable actions that you can define. Just tell Optimizely what to measure, and we will do the rest.

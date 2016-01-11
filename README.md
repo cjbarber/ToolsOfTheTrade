@@ -266,7 +266,6 @@ and send personalized messages to the right users at the right time.
 #### Log Monitoring
 * Fluentd | http://fluentd.org | [@fluentd](https://twitter.com/fluentd) |  | Set Up Once, Collect More | Fluentd is an open source data collector designed for processing data streams. 150+ plugins instantly enable you to store the data for Log Management, Big Data Analytics, etc
 * Flume | https://github.com/cloudera/flume
-* Graphdat | http://www.graphdat.com/ | [@graphdat](http://twitter.com/graphdat) | $10/ mo | Proactive application and infrastructure monitoring that looks beautiful |
 * Graphite | http://graphite.readthedocs.org/
 * Graylog2 | http://graylog2.org | [@graylog2](https://twitter.com/graylog2) | Field-tested open source data analytics system used and trusted all around the world. Search your logs, create charts, send reports and be alerted when something happens. All running on the existing JVM in your datacenter.
 * Kafka | http://sna-projects.com/kafka/ | [@ApacheKafka](https://twitter.com/ApacheKafka) |  | A high-throughput distributed messaging system. | Apache Kafka is publish-subscribe messaging rethought as a distributed commit log.

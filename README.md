@@ -436,10 +436,13 @@ IN MINUTES | PickFu is a tool that provides instant, unbiased and insightful pub
 * Factual | http://www.factual.com/ | [@Factual](http://www.twitter.com/Factual) |  | GLOBAL DATA. LOCAL CONTEXT. | Factual’s location platform enriches mobile location signals with definitive global data, enabling personalized and contextually relevant mobile experiences. Built from billions of inputs, the data is constantly updated by Factual’s real-time data stack.
 
 #### Database
-* Titan | http://thinkaurelius.com/ | Distributed Graph Database | Titan is a scalable graph database optimized for storing and querying graphs containing hundreds of billions of vertices and edges distributed across a multi-machine cluster. Titan is a transactional database that can support thousands of concurrent users executing complex graph traversals.
-* Tinkerpop | http://www.tinkerpop.com/ | Open source software products in the graph space. |
 * Bulbs | http://bulbflow.com
 * Datomic | http://datomic.com | [@datomic_team](http://twitter.com/datomic_team) | The fully transactional, cloud-ready, immutable database. | Immutable data means strong consistency combined with horizontal read scalability, plus built-in caching. Datomic is a distributed database designed to enable scalable, flexible and intelligent applications, running on next-generation cloud architectures.
+* Tinkerpop | http://www.tinkerpop.com/ | Open source software products in the graph space.
+* Titan | http://thinkaurelius.com/ | Distributed Graph Database | Titan is a scalable graph database optimized for storing and querying graphs containing hundreds of billions of vertices and edges distributed across a multi-machine cluster. Titan is a transactional database that can support thousands of concurrent users executing complex graph traversals.
+* Vertabelo | http://www.vertabelo.com | Web-based tool for database design | [@vertabelo](https://twitter.com/Vertabelo) | Vertabelo allows you to visually design database models for PostgreSQL, MySQL, Oracle, SQL Server, SQLite, and IBM DB2. You can import the existing database structure from SQL, XML, or using reverse engineering tool. After you design a model, you can generate SQL script or ready-to-use code for various ORMs (Propel, jOOQ, SQLAlchemy, or [Vertabelo Mobile ORM](http://mobile-orm.vertabelo.com/)).
+
+
 
 #### Accounting/Invoicing
 * Harvest | http://www.getharvest.com/ | [@harvest](http://twitter.com/harvest) | $12/mo-  $99/mo | Time Tracking Made Easy | Time tracking is simple and lightning fast with Harvest. Set up takes seconds, and there’s nothing to install. We’ve simplified the timesheet and timesheets approval process so you can stay focused on work.

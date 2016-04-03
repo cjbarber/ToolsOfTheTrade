@@ -247,7 +247,7 @@ and send personalized messages to the right users at the right time.
 
 #### Dashboards
 * Geckoboard | http://www.geckoboard.com | [@geckoboard](https://twitter.com/geckoboard) | $17/mo - $899/mo | Meet Geckoboard. It's Your Key Data, In One Place. | Geckoboard monitors your business’s vital signs – don’t wait, see it live on a business dashboard as it happens. Focus on what matters and react faster to important events.
-* Telemetry | https://telemetryapp.com | [@telemetryapp](https://twitter.com/telemetryapp) | $9/mo - $749/mo | Build realtime dashboard with powerful visualizations that look beautiful on big screen TVs, desktop computers, mobile devices, and embedded systems—all using a simple REST API that works with all modern languages.
+* Telemetry | https://telemetryapp.com | [@telemetrytv](https://twitter.com/telemetrytv) | $9/mo - $749/mo | Build realtime dashboard with powerful visualizations that look beautiful on big screen TVs, desktop computers, mobile devices, and embedded systems—all using a simple REST API that works with all modern languages.
 * Dashing | http://dashing.io | Dashing is a Sinatra based framework that lets you build beautiful dashboards.
 * Klipfolio | http://klipfolio.com | [@klipfolio](https://twitter.com/klipfolio) | $5/user/mo - $20/user/mo | Meet Your Business Dashboard | Connect to any data service to bring your key numbers together on one dashboard. Assign your data to visualizations to show the story behind the numbers. Cultivate a data-driven culture by sharing dashboards with everyone on your team.
 

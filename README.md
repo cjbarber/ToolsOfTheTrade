@@ -469,6 +469,7 @@ Online Payments | In Paydirt, you can start a timer from any page in one click. 
 
 #### Income Analytics
 * Baremetrics | https://baremetrics.io/ | [@Baremetrics](https://twitter.com/Baremetrics) | $79/mo-  $249/mo | One click and you get dozens of valuable metrics from your Stripe account |
+* getMetrics | https://getmetrics.io/ | [@getMetrics](https://twitter.com/getMEtrics) | $25/mo-  $39/mo | Stripe metrics and notifications for Stripe events |
 
 #### Payments, Billing & Downloads
 * PayPal | https://www.paypal.com | [@PayPal](https://twitter.com/PayPal) | PayPal is an international e-commerce business allowing payments and money transfers to be made through the Internet. Online money transfers serve as electronic alternatives to paying with traditional paper methods, such as checks and money orders
@@ -513,6 +514,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Zipkin | https://github.com/twitter/zipkin/
 * Pulse | https://github.com/heroku/pulse/
 * Pingdom | https://www.pingdom.com/
+* UptimeButler | https://uptimebutler.com/
 * UptimeRobot | https://uptimerobot.com/
 * Where's It Up? | http://wheresitup.com/
 * Nagios

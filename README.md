@@ -645,7 +645,6 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Jelastic | http://jelastic.com
 * CloudBees | https://www.cloudbees.com
 * ShellyCloud | https://shellycloud.com | Rails only
-* dotCloud | https://www.dotcloud.com
 * Microsoft Azure | https://azure.microsoft.com | Known for IaaS, [also has PaaS](http://azure.microsoft.com/en-us/services/websites/)
 * Amazon Web Services | https://aws.amazon.com/elasticbeanstalk | Like Azure, it's more known for IaaS, [but it also has PaaS offerings](https://aws.amazon.com/elasticbeanstalk/).
 * Deis | http://deis.io (DIY PaaS)

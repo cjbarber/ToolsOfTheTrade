@@ -609,7 +609,6 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Pagodabox | https://pagodabox.com/ |
 * Clever Cloud | http://www.clever-cloud.com/ |
 * Google App Engine | https://developers.google.com/appengine/ |
-* Pogoapp | http://www.pogoapp.com
 * OpenShift | http://openshift.redhat.com | OpenShift gives you all the tools you need to develop, host and scale your apps in the public or private cloud. Get started today.
 * Engine Yard | https://www.engineyard.com
 * AppFog | https://www.appfog.com

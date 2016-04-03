@@ -124,6 +124,7 @@ It's hosted on GitHub for a reason! Please submit pull requests.
 * Sauce Labs | https://saucelabs.com/ | [@saucelabs](https://twitter.com/saucelabs) | $12/mo - $149/mo | Testing made awesome | Run your web and mobile app tests across hundreds of real browsers and platforms instantly
 * EmailOnAcid | http://www.emailonacid.com | [@emailonacid](https://twitter.com/EmailonAcid) | $45/mo - $295/mo | Quickly ensure that your emails don't look like crap in any email client. | Email previews on 70+ clients and spam testing
 * Rainforest QA | https://www.rainforestqa.com | [@rainforestqa](https://twitter.com/rainforestqa) | $500/mo - $2000/mo | Insanely simple integration testing
+* DebugMail | https://debugmail.io | [@debug_mail](https://twitter.com/debug_mail) | free | Easy to use fake mail (SMTP) server for developers
 
 #### Bug/Issue Tracking
 * BitBucket Issues | https://bitbucket.org | [@bitbucket](https://twitter.com/bitbucket) | $10/mo - $200/mo | Unlimited private code repositories | Host, manage, and share Git and Mercurial repositories in the cloud. Free, unlimited private repositories for up to 5 developers give teams the flexibility to grow and code without restrictions.
@@ -414,6 +415,7 @@ for Your Enterprise | Whether planning ahead or booking on the fly, find and res
 #### Personal Productivity
 * Tomatoes | http://tomato.es | [@tomatoesapp](http://twitter.com/tomatoesapp) |  | Track your time and be productive with the Pomodoro Technique | Tomatoes is a "pomodoro tracker", a Pomodoro technique® driven time tracker. Track your time using 25 minutes slots called "pomodoros".
 * Do.com
+* RescueTime | https://www.rescuetime.com/ | [@rescuetime](https://twitter.com/rescuetime) | $9 | RescueTime gives you an accurate picture of how you spend your time to help you become more productive every day.
 
 #### Prototyping/Mockups
 * Creately | http://creately.com | [@creately](https://twitter.com/creately) | Free - $750/mo | Creately | Web based diagramming tool for fast easy diagrams. Supports flowcharts, mock-ups, wire-frames, mind maps, organizational charts, network diagrams, AWS diagrams, UML diagrams and many other diagram types. Real-time collaboration plus innovative productivity features to create diagrams 3 times faster.

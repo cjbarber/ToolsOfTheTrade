@@ -209,7 +209,7 @@ don't have time for analytics | We take your data and present in a beautiful tim
 * Zenefits | https://www.zenefits.com | [@zenefits](https://twitter.com/zenefits) | $0/mo | The #1 All-In-One HR Platform | Payroll. Benefits. Time. Compliance. All online, all in one place.
 
 #### Payroll
-* ZenPayroll | https://zenpayroll.com/ | [@zenpayroll](https://twitter.com/zenpayroll) | $25/mo - $243/mo | The most delightful — and only — payroll service you'll ever use. We love, love, love helping  | Provide your employees direct access to their paystubs, pay history and information. Streamline changes and approvals.
+* Gusto | https://gusto.com | [@gustohq](https://twitter.com/gustohq) | $29/mo + $6/user | Payroll and benefits that put people first, easy setup, automated tax filings and thoughtful support.
 * WagePoint | http://wagepoint.com/ | [@wagepoint](https://twitter.com/wagepoint) | $20 + $2/employy | The Simple, Fast & Friendly way to pay your employees.
 
 #### Continuous Integration/Code Quality

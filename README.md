@@ -544,7 +544,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Uservoice | https://www.uservoice.com/
 
 #### Designers
-* Dribble | http://dribbble.com/
+* Dribbble | http://dribbble.com/
 * Sortfolio | http://sortfolio.com/
 
 #### Notes

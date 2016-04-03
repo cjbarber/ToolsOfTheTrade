@@ -319,7 +319,6 @@ your customers.
 * MailGun | http://www.mailgun.com | [@Mail_Gun](https://twitter.com/Mail_Gun) | $20.00 | The Email Service For Developers | Easy SMTP integration and a simple, RESTful API abstracts away the messy details of email. Scale quickly, whether you need to send 10 or 10 million emails.
 * AWS SES
 * SendGrid | http://sendgrid.com | [@SendGrid](https://twitter.com/SendGrid) | $9.95/mo - $399.95 | Email Delivery. Simplified. | SendGrid delivers billions of emails for companies of all sizes every month. Select the package that best fits with your sending volume, set-up your account, and let SendGrid take care of the rest!
-* CloudSMTP | http://www.cloudsmtp.com | [@cloudsmtp](https://twitter.com/cloudsmtp) |  | SMTP in the cloud |
 * CritSend | http://www.critsend.com | [@critsend](https://twitter.com/critsend) | $50/mo - $3000/Mo | The Best SMTP Relay for Developers | Use the most reliable infrastructure for your transactional and bulk emails. It only takes 5 minutes to setup Critsend and start enjoying fast delivery time and automatic scalability.
 * Postage | http://postageapp.com | [@postagebird](https://twitter.com/postagebird) | $9/mo - $399/mo | The easier way
 to send email

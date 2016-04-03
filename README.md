@@ -390,6 +390,7 @@ inside Gmail | Streak lets you keep track of all your deals right from your inbo
 #### Naming
 * Trademarkia | http://www.trademarkia.com/ | [@trademarkia](http://twitter.com/trademarkia) |  | Trademarkia is one of the largest trademark search engines in the world. | LegalForce's network of licensed patent attorneys and agents have filed hundreds of patent applications for companies of every size.
 * NameRobot | http://www.namerobot.com/ | [@namerobotEN](https://twitter.com/namerobotEN)] | 0$ - 300$/mo | Find, create and check the name for your project. NameRobot offers everything you need to create suitable naming ideas in a short time.
+* DomainTools Whois Lookup | http://whois.domaintools.com | [@DomainTools](https://twitter.com/DomainTools) | free / $99/mo | Go beyond ordinary Whois to discover the people or organizations behind a domain name or IP address.
 
 #### Space Rental
 * 42Floors | http://42floors.com/ | [@42floors](https://twitter.com/42floors) |  | The Best Place to Find Office & Commercial Space Rentals | We're gathering listing data from everyone in the market. Even including off-market listings that landlords haven't yet posted on 42Floors.com or anywhere else.

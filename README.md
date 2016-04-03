@@ -533,7 +533,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Workflowy | https://workflowy.com/
 * Quip | https://quip.com/
 * Etherpad | http://etherpad.org/
-* Notable PDF | http://notablepdf.com/ | Notable PDF is a browser-based PDF reader with real-time annotation capabilities. (Chrome / Google Drive app)
+* Kami | https://www.kamihq.com | View, edit, annotate, and collaborate on documents on your browser
 
 #### Group Communication/Chat Tools
 * Kandan | http://kandanapp.com/

@@ -635,7 +635,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 
 #### Database-aaS
 * HumongouS.io | http://www.humongous.io | HumongouS.io is a web-based user interface (GUI) for MongoDB.
-* Mongolab | http://www.mongolab.com |
+* mLab | https://mlab.com |
 * Orchestrate | http://orchestrate.io | [@OrchestrateIO](https://twitter.com/OrchestrateIO) | $0/mo - $749/mo | One API for search, key/value, graph, and events.
 * Compose | https://compose.io/ | Compose is a fully-managed platform used by developers to deploy, host and scale databases (Elasticsearch and MongoDB.)
 * RedisLabs | https://redislabs.com/ | [@RedisLabsInc](https://twitter.com/RedisLabsInc) | free - $338+/mo | RedisLabs offers fully-managed cloud service for hosting and running your redis or memcache datasets in a highly-available and scalable manner, with predictable and stable top performance.

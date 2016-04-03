@@ -732,6 +732,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Locko | http://www.binarynights.com/locko/ | $0.99 | Mac OS X app including extensions for Safari, Chrome, Firefox and Opera.
 * KeePassX | http://www.keepassx.org/ | [Recommended by EFF](https://www.eff.org/deeplinks/2014/07/protecting-your-anonymity-how-sex-workers)
 * Enpass | http://enpass.sinew.in
+* KeePass | http://keepass.info/
 
 #### Sources of Clicks/Ad Platforms
 * NeoReach | http://neoreach.com/

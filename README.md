@@ -13,7 +13,6 @@
     * [Localization & Internationalization](#localization--internationalization)
     * [Business & Traffic Analytics](#user-content-business--traffic-analytics)
     * [Conversion Optimization & A/B Testing](#user-content-conversion-optimization--ab-testing)
-    * [User Analytics](#user-content-user-analytics)
     * [User Testing](#user-content-user-testing)
     * [HR](#user-content-hr)
     * [Payroll](#user-content-payroll)
@@ -136,9 +135,7 @@ Instant project management for GitHub repositories |
 * Lighthouse | http://lighthouseapp.com | [@lighthouseapp](http://twitter.com/lighthouseapp) | $25/mo - $100/mo | Whether you're a large company or a small bootstrapped team, Lighthouse is the perfect ticket tracking solution. | Collaborate effortlessly on projects. Whether you’re a team of 5 or studio of 50, Lighthouse will help you keep track of your project development with ease.
 * Pinitto.me | https://pinitto.me | Post It Notes on a virtual corkboard (OSS)
 * Post It Notes on a (Physical) Wall
-* Redmine | OSS | | http://www.redmine.org | [@redmine](https://twitter.com/redmine) | Flexible project management web application. Written using Ruby on Rails framework, it is cross-platform and cross-database.
 * Sifter | http://sifterapp.com | [@sifterapp](https://twitter.com/sifterapp) | $29/mo - $149/mo | Less configuring. More doing. | We've put in the time researching bug tracking to help create the simplest possible workflow for you to get work done. From time-to-time we even blog about some of our ideas around this optimal bug tracking process…
-* Trello | https://trello.com | [@trello](https://twitter.com/trello) | $5/mo | Organize anything, together | Trello is the fastest, easiest way to organize anything, from your day-to-day work, to a favorite side project, to your greatest life plans.
 * Usersnap | https://usersnap.com/ | [@usersnap](https://twitter.com/usersnap) | $19/mo-$99/mo | Usersnap is visual bug reporting for anyone working on web projects. | Get visual feedback and precious browser information with every bug report to reproduce and fix them even faster.
 
 #### Planning & Project Management
@@ -202,10 +199,6 @@ don't have time for analytics | We take your data and present in a beautiful tim
 * Visual Website Optimizer | http://visualwebsiteoptimizer.com/ | [@wingify](http://twitter.com/wingify) | $49/mo - $129/mo | Increase your website sales and conversions | Using Visual Website Optimizer, they A/B test different versions of their website and landing pages to find out which one works best. Made for marketers, our tool is incredibly easy to use, and doesn't need IT resources.
 * EyeQuant | http://www.eyequant.com | [@eyequant](https://twitter.com/eyequant) | $199/mo - $999/mo | Instantly understand what your visitors will see and miss in their first seconds on your site, and improve your conversions. Analyse live sites or mockups within seconds, no code required.
 
-#### User Analytics
-* Intercom | http://intercom.io | [@intercom](https://twitter.com/intercom) | $49/mo - $449/mo | The easiest way to see and talk to your users | Intercom is a single platform where you can see in real-time who is using your product and how,
-and send personalized messages to the right users at the right time.
-
 #### User Management
 * Stormpath | https://stormpath.com/ | [@gostormpath](https://twitter.com/gostormpath) | free | Securely create, store, and manage user accounts, API keys, and user data for your web applications.
 
@@ -220,10 +213,9 @@ and send personalized messages to the right users at the right time.
 #### Payroll
 * ZenPayroll | https://zenpayroll.com/ | [@zenpayroll](https://twitter.com/zenpayroll) | $25/mo - $243/mo | The most delightful — and only — payroll service you'll ever use. We love, love, love helping  | Provide your employees direct access to their paystubs, pay history and information. Streamline changes and approvals.
 * WagePoint | http://wagepoint.com/ | [@wagepoint](https://twitter.com/wagepoint) | $20 + $2/employy | The Simple, Fast & Friendly way to pay your employees.
-* Zenefits | https://www.zenefits.com | [@zenefits](https://twitter.com/zenefits) | $0/mo | The #1 All-In-One HR Platform | Payroll. Benefits. Time. Compliance. All online, all in one place.
 
 #### Continuous Integration/Code Quality
-* Travis | https://travis-ci.org | [@travisci](https://twitter.com/travisci) | free - $489/mo | Hi I’m Travis CI, a hosted continuous integration service for open source and private projects: [http://travis-ci.com](http://travis-ci.com)  System status updates: [@traviscistatus](https://twitter.com/traviscistatus)
+* Travis | https://travis-ci.org | [@travisci](https://twitter.com/travisci) | free - $489/mo | Hi I’m Travis CI, a hosted continuous integration service for open source and private projects: [travis-ci.com](http://travis-ci.com)  System status updates: [@traviscistatus](https://twitter.com/traviscistatus)
 * AppVeyor | http://www.appveyor.com | [@appveyor](https://twitter.com/appveyor) | AppVeyor automates building, testing and deployment of .NET applications, helping your team to focus on delivering great apps.
 * Codeship | https://codeship.io | [@codeship](https://twitter.com/codeship) | Continuous Delivery as a service, start testing and deploying your code immediately | Start with 100 builds per month free, Unlimited plans start at 49$
 * Circle | http://circleci.com | [@circleci](https://twitter.com/circleci) | $19/mo - $269/mo | Ship better code, faster | Easy, fast, continuous integration and deployment for web apps.
@@ -259,7 +251,6 @@ and send personalized messages to the right users at the right time.
 * Exceptional | http://www.exceptional.io/ | [@exceptional](https://twitter.com/exceptional) | $9/mo | Exceptional tracks errors in web apps. It reports them in real-time and gathers the info you need to fix them fast.
 * Atatus | https://www.atatus.com/ | [@atatusapp](https://twitter.com/atatusapp) | $12/mo - $159/mo | Simple JavaScript Error Tracking | Atatus is a simple error tracking and uptime monitoring system. Add two lines of code and get alerted on any errors that occurs in your application in realtime.
 * Rollbar | https://rollbar.com/ | [@rollbar](https://twitter.com/rollbar) | $12/mo - $1249/mo | Take control of your errors | Rollbar is platform-agnostic and can accept data from anything that can speak HTTP and JSON. You can use our official libraries for Ruby, Python, PHP, Node.js, JavaScript, Android, iOS, or Flash, or roll your own with our API.
-* PaperTrail | https://papertrailapp.com | [@papertrailapp](http://twitter.com/papertrailapp) | $7/mo - $230/mo | Frustration-free log management. Get started in seconds. | Use Papertrail's time-saving log tools, flexible system groups, team-wide access, long-term archives, charts and analytics exports, monitoring webhooks, and 45-second setup.
 * Errorception | https://errorception.com | [@errorception](https://twitter.com/errorception) | $5/mo - $59/mo | Painless JavaScript Error Tracking | Errorception is a simple and painless way to find out about JavaScript errors, as they occur in your users' browsers. All you need to do is insert a script tag on your page, and you will start recording errors as they happen in real-time.
 * Airbrake | https://www.airbrake.io/ | [@airbrake](https://twitter.com/airbrake) | $39/mo - $199/mo | No More Searching Log Files Capture and Track Your Application's Exceptions in 3 Minutes | Airbrake is the leading exception reporting service, currently providing error tracking for 50,000 applications with support for 18 programming languages.
 * Errbit | OSS | http://errbit.github.io/errbit/ | The open source error catcher that's Airbrake API compliant.
@@ -342,7 +333,6 @@ from web apps | ostageApp helps design, send, and analyze emails within minutes.
 
 #### Other APIs
 * Filepicker | http://www.filepicker.io | [@FilePicker](https://twitter.com/FilePicker) | $19/mo - $499/mo | Easy, Powerful File Uploads | Connect, Store, and Process any file from anywhere on the Internet
-* Twilio | http://www.twilio.com/ | [@twilio](https://twitter.com/twilio) | $1/mo - $400/mo | Communications power business. Twilio powers communications. | We are changing communications forever by empowering software people to build the future of our modern communications apps.
 * Zapier | https://zapier.com/ | [@#!/zapier](https://twitter.com/#!/zapier) | $99/mo - $15/mo | Superpowers to get your work done. | A Zap is a link between two apps (a "trigger" and an "action"). Zaps run automatically in the background every few minutes to move and manage data on your behalf. Only live Zaps count against your limit — you can have as many paused and unfinished Zaps as you'd like. For example, one Zap might be "Send me an SMS every time I get a new email".
 * BlockScore
 * Open Exchange Rates | https://openexchangerates.org/ |  | $12/mo - $97/mo | Real-time exchange rates &
@@ -362,7 +352,6 @@ or don't do in your app | Customer.io lets you send newsletters to segments of c
 * Vero | https://www.getvero.com/ | [@veroapp](https://twitter.com/veroapp) | $99/mo | Send emails based on what your customers do | Vero makes it easy to create segments of customers based on the attributes you capture (e.g. age, location, gender) and the actions your customers take (e.g. logged in, used feature x, checked out, etc.).
 * MailChimp | http://mailchimp.com
 * Campaign Monitor | http://www.campaignmonitor.com/ | [@](http://www.campaignmonitor.com/customers/) | $9/mo - $699/mo | CAMPUnbounce Feature Tour |
-* Intercom | http://intercom.io | @intercom | $49/mo - $449/mo | The easiest way to see and talk to your users | Intercom is a single platform where you can see in real-time who is using your product and send personalized messages to the right users at the right time based on their behavior.
 * Sendy | https://sendy.co | [@getsendy](https://twitter.com/getSendy) | $59 one time fee, host yourselfor use a hosted sendy instance from a variety of providers.
 
 #### Email Collection/Landing Page Apps
@@ -492,7 +481,6 @@ per successful charge. | Feature-packed payments | No need to design payment for
 per successful charge. | Payments, Rebooted. | Accepting credit card payments from a global audience typically requires a merchant acount. The process of establishing a merchant account for each currency can be too difficult and costly for small businesses.
 * PayMill | http://paymill.com | [@Paymill](https://twitter.com/Paymill) | 0.28 € - 0.25 € | Online payments made easy | Make payments personal by customising the checkout according to the flow of your website
 * Recurly | http://recurly.com | [@Recurly](http://twitter.com/Recurly) | $99/mo - $299/mo | Subscription Billing Automation | As the leading recurring billing platform, Recurly ensures setup is easy, integrations are quick, and our service scales with the needs of your business. With Recurly you'll be ready to accept payments and focus on growing your sales in no time.
-* Chargify | http://chargify.com/ | [@chargify](https://twitter.com/chargify) | $459/mo-  $65/mo | Easily Manage Your Recurring Revenue Business | Customers sign up, make payments, use coupons, upgrade... You bill one-time & recurring fees using whatever pricing model you need, charge cards, send invoices & reminders, etc.
 * Spreedly | http://spreedly.com | [@spreedly](http://twitter.com/spreedly) | $150/mo-  $1500/mo | Payments as a Platform | One of Spreedly's major benefits is reaching a large number of merchant accounts by working across multiple payment gateways. As a direct merchant you can transact globally but deposit funds in unique merchant accounts based on geographic or other business rules. As a SaaS platform you can support the unique merchant accounts of your individual customers. A payment gateway token is your way to indicate to us which unique merchant account this particular transaction will go against. Each unique merchant account = one unique payment gateway token.
 * Spreedly Core | https://core.spreedly.com | [@spreedly](http://twitter.com/spreedly) | $150/mo-  $1500/mo | Payments as a Platform | One of Spreedly's major benefits is reaching a large number of merchant accounts by working across multiple payment gateways. As a direct merchant you can transact globally but deposit funds in unique merchant accounts based on geographic or other business rules. As a SaaS platform you can support the unique merchant accounts of your individual customers. A payment gateway token is your way to indicate to us which unique merchant account this particular transaction will go against. Each unique merchant account = one unique payment gateway token.
 * WePay | https://www.wepay.com | [@wepay](http://twitter.com/wepay) | 2.9% + 30¢ per transaction. | WePay is the first payments engine to offer platforms — marketplaces, crowdfunding, and business software/tools — a way to own their customer experience while still shielding them from 100 percent of fraud and regulatory risk.
@@ -622,7 +610,6 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * ConceptShare | http://www.conceptshare.com/
 * Framebench | http://www.framebench.com/ | [@framebench](https://twitter.com/framebench) | The 'smooth' way to Share, Review & Discuss any file online.
 * Notable | http://www.notableapp.com/
-* InvisionApp | http://www.invisionapp.com/ | [@invisionapp](http://twitter.com/invisionapp) | $0-$100/mo
 
 #### PaaS
 * Heroku | http://heroku.com | 1 free app

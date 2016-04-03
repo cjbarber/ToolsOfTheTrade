@@ -820,9 +820,8 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 
 ## Contributing
 
-Star the repo to help ensure it is maintained.
-
-[Tweet this repo](https://twitter.com/intent/tweet?related=chrisbarber&text=HN Tools of The Trade, 2014 Edition&url=https%3A%2F%2Fgithub.com%2Fcjbarber%2FToolsOfTheTrade&via=chrisbarber) so that more people discover it, and add to it.
+- Star this repo to help ensure it is maintained.
+- [Tweet this repo](https://twitter.com/intent/tweet?related=chrisbarber&text=HN%20Tools%20of%20The%20Trade,%202015%20Edition&url=https%3A%2F%2Fgithub.com%2Fcjbarber%2FToolsOfTheTrade&via=chrisbarber) so that more people can discover and add to it.
 
 ### Can I Add My Own Tool?
 

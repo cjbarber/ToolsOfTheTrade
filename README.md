@@ -322,6 +322,7 @@ your customers.
 * SnapEngage | http://www.snapengage.com/
 * Get Satisfaction! | http://getsatisfaction.com/ | Customer communities for social support, social marketing & customer feedback - online community software | Get Satisfaction is the leading customer engagement platform that helps companies build better relationships with their customers and prospects, through the best online customer community.
 * Reamaze | http://www.reamaze.com/ | [@reamaze](https://twitter.com/reamaze) | $15/mo | Lightweight, Lightspeed Help Desk. Email, Social, Branded, Integrated. | Reamaze provides your team with helpdesk functionality that integrates with your application, as well as integrations with popular 3rd party tools in your workflow.
+* Jitbit Helpdesk | http://jitbit.com/web-helpdesk/ | [@jitbithelpdesk](https://twitter.com/jitbithelpdesk) | $29/mo - $199/mo | A help desk app that actually makes your work easier, not harder. | Comes in both hosted and on-premise versions. Very well designed and easy to use. Has all the must-have features and doesn't get in your way.
 
 #### Transactional Email
 * Postmark | https://postmarkapp.com | [@postmarkapp](http://twitter.com/postmarkapp) | $1.50 | Email delivery for web apps – done right. | Postmark removes the headaches of delivering and parsing transactional email for webapps with minimal setup time and zero maintenance. We have years of experience getting email to the inbox, so you can work and rest easier.
@@ -530,7 +531,6 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 
 #### Shipping
 * Postmaster.io | https://www.postmaster.io/
-* Runa PerfectShipping | http://www.runa.com/products/perfectshipping/ |
 
 #### User Feedback
 * Uservoice | https://www.uservoice.com/
@@ -560,7 +560,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Google Hangouts
 * GoToMeeting | http://www.gotomeeting.com/online/default
 * IRCCloud | https://www.irccloud.com/
-* Buddycloud | http://hosting.buddycloud.org
+* Buddycloud | https://hosting.buddycloud.com/
 * Gitter | https://gitter.im | Chat for open-source and private development teams, with strong Github integration features
 * appear.in | one click video conversations
 

@@ -185,7 +185,7 @@ Features: goals of the week, week view and quadrant matrix, pomodoro timer, shar
 don't have time for analytics | We take your data and present in a beautiful timeline chart. We bet you’ve never seen some of your data – and certainly not all together in one place.
 * Segment | http://segment.com |  | $29/mo - $349/mo | The right way to manage your tools. | The idea is simple: one pipeline for all your data. Send data to any third-party tool with a single integration.
 * Clicky | http://clicky.com/ | [@clicky](http://twitter.com/clicky) | $9.99/mo - $19.99/mo | Real Time Web Analytics | Clicky lets you see every visitor and every action they take on your web site, with the option to attach custom data to visitors, such as usernames or email addresses. Analyze each visitor individually and see their full history.
-* Google Analytics
+* Google Analytics | http://www.google.com/analytics/ | Google Analytics lets you measure your advertising ROI as well as track your Flash, video, and social networking sites and applications.
 * Piwik | http://piwik.org/ | [@piwik](http://twitter.com/piwik) |  | Liberating Web Analytics | Whether you are an individual blogger, a small business, or a large corporation, Piwik helps you gain valuable insights to help your business or readership grow.
 * Chartio | https://chartio.com/ | [@chartio](https://twitter.com/chartio) |  | Visualize and explore your data with Chartio. | Create interactive charts and perfect dashboards through an intuitive drag and drop interface. Switch from basic tables to sophisticated data visualizations in a single click. Powerful filters let you slice and dice your data, and you can drill down into most charts without configuring a thing.
 * Chartbeat | https://chartbeat.com/ | [@chartbeat](http://twitter.com/chartbeat) | $9.95/mo - $49.95/mo | Build a loyal and valuable audience for your site. | Chartbeat's real-time traffic and audience-behavior data shows you who's on your site and how they're engaging with your content right now — so you can take action on what matters when it matters.
@@ -236,6 +236,7 @@ and send personalized messages to the right users at the right time.
 * Buildkite (Buildbox) | https://buildkite.com | [@buildkite](https://twitter.com/buildkite) | $15/dev/mo | Semi-hosted continuous integration and deployment | Buildkite uses your own infrastructure to run builds so you can test any language or run any deployment scripts. You can run as many parallel agents (and builds) as you want.
 * PullReview | https://pullreview.com | [@pullreview](https://twitter.com/pullreview) | €0/mo - €20/dev/mo | Automated Code Review for Ruby and Rails | PullReview helps you to quickly ship a Rails app with confidence. It reviews the Ruby code you just wrote and tells you what's wrong, why, and how to fix it - from style to security.
 * Crucible | https://www.atlassian.com/software/crucible | [@atlassian](http://twitter.com/atlassian) | $10/mo - $8000/mo | Code review system | Review code, discuss changes, share knowledge, and identify defects with Crucible's flexible review workflow. It's code review made easy for Git, Subversion, CVS, Perforce, and more.
+* Coveralls | https://coveralls.io | [@coverallsapp](https://twitter.com/coverallsapp) | $0/mo - $50/mo | Coveralls works with your continuous integration server to give you test coverage history and statistics. It integrates with any langauge and is free for open source.
 
 #### Dashboards
 * Ducksboard | http://ducksboard.com | [@ducksboard](http://twitter.com/ducksboard) | $16/mo - $129/mo | All of your data. In one place. | Business dashboards don’t need to be complicated, boring or hard to look at. Ducksboard makes it easy to gather, visualize and share the data that matters most to you and your team.
@@ -257,7 +258,7 @@ and send personalized messages to the right users at the right time.
 * Errorception | https://errorception.com | [@errorception](https://twitter.com/errorception) | $5/mo - $59/mo | Painless JavaScript Error Tracking | Errorception is a simple and painless way to find out about JavaScript errors, as they occur in your users' browsers. All you need to do is insert a script tag on your page, and you will start recording errors as they happen in real-time.
 * ExceptionNotifier
 * Airbrake | https://www.airbrake.io/ | [@airbrake](https://twitter.com/airbrake) | $39/mo - $199/mo | No More Searching Log Files Capture and Track Your Application's Exceptions in 3 Minutes | Airbrake is the leading exception reporting service, currently providing error tracking for 50,000 applications with support for 18 programming languages.
-* Errbit | OSS | http://errbit.github.io/errbit/ | The open source error catcher that's Airbrake API compliant. 
+* Errbit | OSS | http://errbit.github.io/errbit/ | The open source error catcher that's Airbrake API compliant.
 * Takipi | https://www.takipi.com | [@takipid](https://twitter.com/takipid) | God Mode in Production Code for java and scala applications.
 
 #### Application Distribution
@@ -393,7 +394,7 @@ inside Gmail | Streak lets you keep track of all your deals right from your inbo
 
 #### Naming
 * Trademarkia | http://www.trademarkia.com/ | [@trademarkia](http://twitter.com/trademarkia) |  | Trademarkia is one of the largest trademark search engines in the world. | LegalForce's network of licensed patent attorneys and agents have filed hundreds of patent applications for companies of every size.
-* NameRobot | http://www.namerobot.com/ | [@namerobotEN](https://twitter.com/namerobotEN)] | 0$ - 300$/mo | Find, create and check the name for your project. NameRobot offers everything you need to create suitable naming ideas in a short time. 
+* NameRobot | http://www.namerobot.com/ | [@namerobotEN](https://twitter.com/namerobotEN)] | 0$ - 300$/mo | Find, create and check the name for your project. NameRobot offers everything you need to create suitable naming ideas in a short time.
 
 #### Space Rental
 * 42Floors | http://42floors.com/ | [@42floors](https://twitter.com/42floors) |  | The Best Place to Find Office & Commercial Space Rentals | We're gathering listing data from everyone in the market. Even including off-market listings that landlords haven't yet posted on 42Floors.com or anywhere else.
@@ -570,6 +571,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 #### Remote Collaboration
 * TeamViewer | http://www.teamviewer.com/en/index.aspx
 * Screenmailer | https://www.screenmailer.com
+* Screenhero | http://screenhero.com/
 
 #### DNS
 * DynDNS | https://dyn.com/dns/

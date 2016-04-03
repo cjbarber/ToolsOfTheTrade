@@ -705,7 +705,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Deployd | http://deployd.com/
 
 #### Password Management
-* PasswordBox | https://www.passwordbox.com/
+
 * Lastpass | https://lastpass.com
 * 1Password  | https://agilebits.com/onepassword
 * Passpack | https://www.passpack.com/

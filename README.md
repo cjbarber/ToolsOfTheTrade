@@ -733,7 +733,6 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * AccuRanker | https://www.accuranker.com/
 * Ahrefs | https://ahrefs.com/ | [@ahrefs](http://twitter.com/ahrefs) | $79/mo - $2500/mo | Ahrefs provide a complete digital marketing suite with tools for analyzing back links, analizing websites, rank tracking, content exploring and more.
 * SerpBook | http://serpbook.com/
-* Serp Rank Checker | https://serprankchecker.com/ |
 * WooRank | http://www.woorank.com/ | [@woorank](http://twitter.com/woorank) | Free - $49/mo | WooRank analyzes your website for optimization best practices and shows how it ranks against your competition. Its real-time brandable reports, consisting of over 150 data-points, help you to instantly spot critical issues that impact traffic, usability and conversions. Sync your analytics, social accounts and keywords for even more robust tracking.
 * Moz | https://moz.com/ | [@moz](http://twitter.com/moz) | $99/mo - $599/mo | Moz provides you all the tools you need to effectively do search engine optimization. On site optimization graders, competitor tracking, back link analysis, rank trakcing and many more features available to users.
 

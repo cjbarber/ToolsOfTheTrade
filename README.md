@@ -493,7 +493,6 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * AppNeta (Tracelytics) | http://www.appneta.com
 * Sensu | http://sensuapp.org
 * Riemann | http://riemann.io
-* Zipkin | https://github.com/twitter/zipkin/
 * Pulse | https://github.com/heroku/pulse/
 * Pingdom | https://www.pingdom.com/
 * UptimeButler | https://uptimebutler.com/

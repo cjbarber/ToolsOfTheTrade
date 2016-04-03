@@ -71,7 +71,6 @@
     * [Database-aaS](#user-content-database-aas)
     * [Backend-aaS](#user-content-backend-aas)
     * [WebSockets-aaS](#user-content-websockets-aas)
-    * [Hadoop-aaS](#user-content-hadoop-aas)
     * [Ops Alerts and Scheduling](#user-content-ops-alerts-and-scheduling)
     * [Accounting](#user-content-accounting)
     * [Video Hosting](#user-content-video-hosting)
@@ -683,9 +682,6 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Pusher | http://www.pusherapp.com |
 * ScaleDrone | http://www.scaledrone.com |
 * Hydna | https://www.hydna.com |
-
-#### Hadoop-aaS
-* Mortar | http://www.mortardata.com/ |
 
 #### Ops Alerts and Scheduling
 * PagerDuty | http://www.pagerduty.com/

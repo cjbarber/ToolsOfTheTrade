@@ -40,7 +40,6 @@
     * [Prototyping/Mockups](#user-content-prototypingmockups)
     * [Content Creation/Infographics](#user-content-content-creationinfographics)
     * [Customer Feedback/Surveys](#user-content-customer-feedbacksurveys)
-    * [Sales](#user-content-sales)
     * [Data](#user-content-data)
     * [Database](#user-content-database)
     * [Accounting/Invoicing](#user-content-accountinginvoicing)
@@ -439,9 +438,6 @@ your goals and take your project to the next level.
 #### Customer Feedback
 * PickFu | http://www.pickfu.com/ | [@pickfu](http://twitter.com/pickfu) | $20/mo-  $299/mo | REAL CONSUMER FEEDBACK
 IN MINUTES | PickFu is a tool that provides instant, unbiased and insightful public opinion on questions that you care about.
-
-#### Sales
-* ElasticSales | https://elasticsales.com/ | [@elasticsales](https://twitter.com/elasticsales) |  | Sales as a service | We provide companies a scalable sales team on demand. You can manage your entire sales force via the cloud and get analytics and metrics in real-time. We have the best sales reps in technology and have a powerful operational process to onboarding highly technical products and platforms and scaling their revenue quickly.
 
 #### Data
 * Factual | http://www.factual.com/ | [@Factual](http://www.twitter.com/Factual) |  | GLOBAL DATA. LOCAL CONTEXT. | Factual’s location platform enriches mobile location signals with definitive global data, enabling personalized and contextually relevant mobile experiences. Built from billions of inputs, the data is constantly updated by Factual’s real-time data stack.

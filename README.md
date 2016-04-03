@@ -162,7 +162,6 @@ Features: goals of the week, week view and quadrant matrix, pomodoro timer, shar
 
 #### App Developer Tools
 * App Annie | http://www.appannie.com | [@appannie/](https://twitter.com/appannie/) | free |  | Make better decisions with our app store data. We are the leader for app store analytics, app rankings, and market intelligence.
-* Artisan Mobile | http://useartisan.com/ | [@ArtisanMobile](https://twitter.com/ArtisanMobile) | Free - 10k/mo | The Artisan Mobile Experience Management platform makes it easy to understand your user's behavior and activity, experiment with all aspects of your mobile app, and engage your users with targeted, branded experiences — all in one platform.
 * Flurry Analytics | http://www.flurry.com/solutions/analytics | free | Industry Standard for free user insights in your mobile app
 * App Figures | https://appfigures.com/ | [@appfigures](https://twitter.com/appfigures) | $9/mo | A beautiful app tracking platform for app developers and publishers.
 

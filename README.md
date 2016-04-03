@@ -29,6 +29,7 @@
     * [Transactional Email](#user-content-transactional-email)
     * [Other APIs](#user-content-other-apis)
     * [Site Search](#user-content-site-search)
+    * [Search](#user-content-search)
     * [Email Marketing](#user-content-email-marketing)
     * [Email Collection/Landing Page Apps](#user-content-email-collectionlanding-page-apps)
     * [CRM/Sales Tools](#user-content-crmsales-tools)
@@ -50,7 +51,6 @@
     * [Phone/PBX/SMS](#user-content-phonepbxsms)
     * [Recommendation Systems](#user-content-recommendation-systems)
     * [System Monitoring](#user-content-system-monitoring)
-    * [Search](#user-content-search)
     * [Security](#user-content-security)
     * [Shipping](#user-content-shipping)
     * [User Feedback](#user-content-user-feedback)
@@ -115,6 +115,7 @@ It's hosted on GitHub for a reason! Please submit pull requests.
 
 #### Identity Verification
 * BlockScore | https://blockscore.com | [@getblockscore](https://twitter.com/getblockscore) | $1/verification | Individual ID verifications and company verifications | Verify customers in realtime. Implement in hours.
+* IDology | https://www.idology.com | [@idology](https://twitter.com/idology) | < $1/basic verification | Individual identity verification and age verification solutions, KBA products, Photo ID verification
 
 #### Browser/Email Testing
 * BrowserStack | http://www.browserstack.com |  | $35/mo - $359/mo | Live, Web-Based Browser Testing | Instant access to all desktop and mobile browsers.
@@ -216,6 +217,12 @@ and send personalized messages to the right users at the right time.
 * Workday | http://www.workday.com/ | [@workday](https://twitter.com/workday) |  | Workday works the way people work—collaboratively, on the go, and in real-time. Explore the product previews below to learn how Workday can change the way you work. | With powerful business applications and a user experience that's unmatched in enterprise software, Workday gives you everything you need to transform your business.
 * Lever | http://lever.co | [@lever](https://twitter.com/lever) | A modern web app for hiring | Leverage your entire company – interviewers, managers, and recruiters – to source, vet, and close.
 * Zenefits | https://www.zenefits.com | [@zenefits](https://twitter.com/zenefits) | $0/mo | The #1 All-In-One HR Platform | Payroll. Benefits. Time. Compliance. All online, all in one place.
+
+#### Recruiting
+* Hired | https://hired.com/ | | 15-25% first year salary (can be over 24 months) | Hired is the first two-sided marketplace created specifically for Engineers, Data Scientists, Designers and Product Managers who are overwhelmed with job opportunities.
+* Greenhouse | https://www.greenhouse.io | (ATS) Our goal is to teach an entire company how to hire. Greenhouse is the only platform that helps you build and scale talent operations.
+* Underdog | https://underdog.io/ | [@underdogjobs](https://twitter.com/underdogjobs) | ~10% first-year salary | Candidates looking for startup jobs in NYC submit their resumes and other basic information. Using a combination of human intelligence and technology, Underdog.io reviews and ranks candidates and sends curated weekly batches to our hiring network. Founders and hiring managers contact candidates directly and take them through their normal hiring process.
+* Angel List | https://angel.co/ | AngelList is a platform for startups—started by the dudes who do Venture Hacks. | Matching service for candidates and companies facilitates intro once both parties ask to be connected.
 
 #### Payroll
 * ZenPayroll | https://zenpayroll.com/ | [@zenpayroll](https://twitter.com/zenpayroll) | $25/mo - $243/mo | The most delightful — and only — payroll service you'll ever use. We love, love, love helping  | Provide your employees direct access to their paystubs, pay history and information. Streamline changes and approvals.
@@ -354,6 +361,12 @@ currency conversion JSON API | A simple and easy-to-integrate exchange rates API
 * Algolia | http://www.algolia.com/ | [@Algolia](http://www.twitter.com/Algolia) | $49/mo - $449/mo | Build Realtime Search | Algolia is a fully hosted search service, available as a REST API. API clients are also available for all major frameworks, platforms and languages.
 * Apache Solr | http://lucene.apache.org/solr/ - an open source search platform, based and co-released with Apache Lucene. [SiLK](http://www.lucidworks.com/lucidworks-silk/) provides analytics and log management on top of Solr.
 * Amazon Cloudsearch | http://aws.amazon.com/en/cloudsearch/ | Search SaaS
+
+#### Search
+* Bonsai | http://www.bonsai.io
+* WebSolr | http://websolr.com/
+* Searchify | http://www.searchify.com/
+* SearchBlox | http://www.searchblox.com/
 
 #### Email Marketing
 * MailCharts | http://www.mailcharts.com/ | [@mailcharts](https://twitter.com/mailcharts) | $30/mo | Track & understand how your competitors use email marketing | MailCharts tracks over a thousand companies, bringing you actionable insights to help you improve your email marketing strategy, make data-driven decisions and gain design and content inspiration.
@@ -520,13 +533,6 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Where's It Up? | http://wheresitup.com/
 * Nagios
 * Smokeping
-
-#### Search
-* Bonsai | http://www.bonsai.io
-* WebSolr | http://websolr.com/
-* Searchify | http://www.searchify.com/
-* CloudSearch | http://aws.amazon.com/cloudsearch/
-* SearchBlox | http://www.searchblox.com/
 
 #### Security
 * Burp | http://www.portswigger.net/burp/intruder.html

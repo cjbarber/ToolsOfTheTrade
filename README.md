@@ -5,7 +5,7 @@
 <p align="center">
 <b><a href="#table-of-contents">Table of Contents</a></b>
 ·
-<b><a href="#license--credits">Contributing</a></b>
+<b><a href="#contributing">Contributing</a></b>
 </p>
 
 ##### Background
@@ -823,10 +823,12 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 - Star this repo to help ensure it is maintained.
 - [Tweet this repo](https://twitter.com/intent/tweet?related=chrisbarber&text=HN%20Tools%20of%20The%20Trade,%202015%20Edition&url=https%3A%2F%2Fgithub.com%2Fcjbarber%2FToolsOfTheTrade&via=chrisbarber) so that more people can discover and add to it.
 
-### Can I Add My Own Tool?
+### Additions
 
-If you'd like to issue a PR to add your own tool, I will merge it ASAP if you include one other fix/bit of maintenance to the repo, to help keep it updated.
-
-**To be clear, I will not merge in pull requests to add your own tool**, without maintenance/improvements to the repo. This is to ensure this repos longevity.
-
-Issue a pull request or edit on [Prose](http://prose.io/#cjbarber/ToolsOfTheTrade/edit/master/README.md)
+- **If you are adding a tool you are affiliated with please include other improvements/fixes to the repo.**
+- Ideally the tool should be hosted as this is stated in the background of the list.
+- Descriptions should be concise, descriptive and not marketing-focused.
+- Follow the addition format which is currently:
+```
+ * Tool Name | https://toolname.com | [@toolname](https://twitter.com/toolname) | cost | description
+```

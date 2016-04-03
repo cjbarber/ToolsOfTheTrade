@@ -727,6 +727,8 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * SerpBook | http://serpbook.com/
 * Serp Rank Checker | https://serprankchecker.com/ |
 * WooRank | http://www.woorank.com/ | [@woorank](http://twitter.com/woorank) | Free - $49/mo | WooRank analyzes your website for optimization best practices and shows how it ranks against your competition. Its real-time brandable reports, consisting of over 150 data-points, help you to instantly spot critical issues that impact traffic, usability and conversions. Sync your analytics, social accounts and keywords for even more robust tracking.
+* Seomator | https://seomator.com | Free | Comprehensive and easy-to-use solution for website crawling and SEO audit.
+We monitor technical and architecture issues, analyze them, then provide you with helpful tips.
 
 #### API Builder
 * Deployd | http://deployd.com/

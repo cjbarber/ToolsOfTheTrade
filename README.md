@@ -651,6 +651,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * TuxFamily | https://tuxfamily.org
 * KForge | http://www.kforgeproject.com/
 * VersionShelf | https://www.versionshelf.com/ | 30-day Free trial, [free for students/teachers](https://www.versionshelf.com/about_free_plan).
+* Assembla | https://www.assembla.com/
 
 #### Design Collaboration
 

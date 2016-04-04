@@ -216,7 +216,7 @@ don't have time for analytics | We take your data and present in a beautiful tim
 #### HR
 
 * Workday | http://www.workday.com | [@workday](https://twitter.com/workday) |  | Workday works the way people work—collaboratively, on the go, and in real-time. Explore the product previews below to learn how Workday can change the way you work. | With powerful business applications and a user experience that's unmatched in enterprise software, Workday gives you everything you need to transform your business.
-* Lever | https://www.lever.co/ | [@lever](https://twitter.com/lever) | A modern web app for hiring | Leverage your entire company – interviewers, managers, and recruiters – to source, vet, and close.
+* Lever | https://www.lever.co | [@lever](https://twitter.com/lever) | A modern web app for hiring | Leverage your entire company – interviewers, managers, and recruiters – to source, vet, and close.
 * Zenefits | https://www.zenefits.com | [@zenefits](https://twitter.com/zenefits) | $0/mo | The #1 All-In-One HR Platform | Payroll. Benefits. Time. Compliance. All online, all in one place.
 
 #### Payroll
@@ -444,7 +444,7 @@ depending on how you like to call them. | The most stunning HTML5 app for creati
 
 #### Content Creation/Infographics
 
-* Visual.ly | http://visual.ly/ | [@Visually](https://twitter.com/Visually) | $195/mo-  $994/mo | ORIGINAL VISUAL CONTENT FOR BRANDS | We only work with the best creative talent available. Thousands of designers,
+* Visual.ly | http://visual.ly | [@Visually](https://twitter.com/Visually) | $195/mo-  $994/mo | ORIGINAL VISUAL CONTENT FOR BRANDS | We only work with the best creative talent available. Thousands of designers,
 journalists, animators and developers are standing by to help you achieve
 your goals and take your project to the next level.
 * Canva | https://www.canva.com | [@canva](https://twitter.com/canva) | Design great social media images with text and graphics for free or a few bucks depending on the images you select

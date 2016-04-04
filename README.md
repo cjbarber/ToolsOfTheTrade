@@ -670,7 +670,6 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * AppFog | https://www.ctl.io/appfog/
 * Jelastic | https://jelastic.com/
 * CloudBees | https://www.cloudbees.com
-* ShellyCloud | https://shellycloud.com | Rails only
 * Microsoft Azure | https://azure.microsoft.com | Known for IaaS
 * Amazon Web Services | https://aws.amazon.com/elasticbeanstalk/ | Like Azure, it's more known for IaaS
 * Deis | http://deis.io (DIY PaaS)

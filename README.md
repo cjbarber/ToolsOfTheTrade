@@ -528,6 +528,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * PhoneBooth | http://www.phonebooth.com/
 * TalkDesk | https://www.talkdesk.com/
 * HelloFax | https://www.hellofax.com/
+* Dailpad | https://dialpad.com | [@DialpadHQ](https://twitter.com/dialpadHQ) | $15/mo | Dialpad is the people-first phone and meeting system that allows businesses to be more productive when and where they work best.
 
 #### System Monitoring
 

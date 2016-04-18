@@ -528,7 +528,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * PhoneBooth | http://www.phonebooth.com/
 * TalkDesk | https://www.talkdesk.com/
 * HelloFax | https://www.hellofax.com/
-* Dailpad | https://dialpad.com | [@DialpadHQ](https://twitter.com/dialpadHQ) | $15/mo | people-first phone and meeting system that includes internet fax and follows you where you work
+* Dialpad | https://dialpad.com | [@DialpadHQ](https://twitter.com/dialpadHQ) | $15/user/mo | people-first phone and meeting system that includes internet fax and follows you where you work
 
 #### System Monitoring
 

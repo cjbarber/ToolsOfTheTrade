@@ -732,7 +732,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 #### Knowledge Tracking/Wiki
 
 * Confluence | https://www.atlassian.com/software/confluence
-* Confluence Questions (Q&A for your team) | https://www.atlassian.com/software/confluence-questions
+* Confluence Questions (Q&A for your team) | https://www.atlassian.com/software/confluence/questions
 * SlimWiki | https://slimwiki.com |
 
 #### Offsite Backups

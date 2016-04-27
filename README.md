@@ -758,7 +758,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 
 * Chef | https://www.chef.io/
 * Fabric | http://www.fabfile.org/
-* Puppet | https://puppetlabs.com/
+* Puppet | https://puppet.com
 * Ansible | https://www.ansible.com/
 * Vagrant | https://www.vagrantup.com/
 * Salt | http://saltstack.com/community/

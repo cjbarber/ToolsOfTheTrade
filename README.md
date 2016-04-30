@@ -311,6 +311,10 @@ don't have time for analytics | We take your data and present in a beautiful tim
 * Librato | https://www.librato.com | [@Librato](https://twitter.com/Librato) | $0.05/metric/mo to $0.30/metric/mo | Librato provides a complete solution for monitoring and understanding the metrics that impact your business at all levels of the stack.
 * Scout | https://scoutapp.com/
 
+#### Server Management
+
+* Userify | https://userify.com | [@userify](https://twitter.com/userify) | free | Securely manage server user accounts, SSH keys, and sudo roles in your cloud or datacenter.
+
 #### Customer Support/Help Desks
 
 * Desk | http://www.desk.com | [@desk](https://twitter.com/desk) | $3/mo - $50/mo | Deliver Customer Service That Wows | Desk.com creates the leading customer service application, which helps fast-growing companies deliver outstanding customer support. Desk.com's intuitive user interface and powerful features make solving customers' problems more efficient for the entire company. Plus, Desk.com is the only Customer Service Application backed by Salesforce, providing easy integration with other Salesforce services and robust security. There are thousands of companies using Desk.com as their help desk software application, from household names like Square and Instagram to the burrito shop down the street. Give it a try for free.

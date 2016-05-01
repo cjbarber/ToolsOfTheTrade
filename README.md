@@ -357,13 +357,13 @@ currency conversion JSON API | A simple and easy-to-integrate exchange rates API
 
 * Elasticsearch | https://www.elastic.co/products/elasticsearch | [@elasticsearch](https://twitter.com/elasticsearch) |  | an end-to-end search and analytics platform. infinitely versatile. | By combining the massively popular Elasticsearch, Logstash and Kibana we have created an end-to-end stack that delivers actionable insights in real-time from almost any type of structured and unstructured data source. Built and supported by the engineers behind each of these open source products, the Elasticsearch ELK stack makes searching and analyzing data easier than ever before.
 * Swiftype | https://swiftype.com | [@Swiftype](https://twitter.com/swiftype) | Free - $250/mo, Enterprise Plans available | Swiftype is a hosted website search service, available as a web crawler or as an API integration. API clients are available for major frameworks and languages, plugins are available for major third party platforms.
-* Algolia | http://www.algolia.com | [@Algolia](https://twitter.com/Algolia) | $49/mo - $449/mo | Build Realtime Search | Algolia is a fully hosted search service, available as a REST API. API clients are also available for all major frameworks, platforms and languages.
+* Algolia | https://www.algolia.com | [@Algolia](https://twitter.com/Algolia) | $49/mo - $449/mo | Build Realtime Search | Algolia is a fully hosted search service, available as a REST API. API clients are also available for all major frameworks, platforms and languages.
 * Apache Solr | http://lucene.apache.org/solr/ - an open source search platform, based and co-released with Apache Lucene. [SiLK](https://lucidworks.com/products/silk/) provides analytics and log management on top of Solr.
 * Amazon Cloudsearch | https://aws.amazon.com/cloudsearch/ | Search SaaS
 
 #### Email Marketing
 
-* MailCharts | http://www.mailcharts.com | [@mailcharts](https://twitter.com/mailcharts) | $30/mo | Track & understand how your competitors use email marketing | MailCharts tracks over a thousand companies, bringing you actionable insights to help you improve your email marketing strategy, make data-driven decisions and gain design and content inspiration.
+* MailCharts | https://www.mailcharts.com | [@mailcharts](https://twitter.com/mailcharts) | $30/mo | Track & understand how your competitors use email marketing | MailCharts tracks over a thousand companies, bringing you actionable insights to help you improve your email marketing strategy, make data-driven decisions and gain design and content inspiration.
 * Customer.io | https://customer.io |  | $50/mo - $1250/Mo | Send email based on what people do
 or don't do in your app | Customer.io lets you send newsletters to segments of customers using data from your site.
 * Vero | https://www.getvero.com | [@veroapp](https://twitter.com/veroapp) | $99/mo | Send emails based on what your customers do | Vero makes it easy to create segments of customers based on the attributes you capture (e.g. age, location, gender) and the actions your customers take (e.g. logged in, used feature x, checked out, etc.).

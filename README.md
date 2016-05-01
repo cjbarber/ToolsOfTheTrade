@@ -51,6 +51,7 @@ It's hosted on GitHub for a reason! Please submit pull requests.
 * [Application Performance](#application-performance)
 * [Load Testing](#load-testing)
 * [Server Monitoring](#server-monitoring)
+* [Server Management](#server-management)
 * [Customer Support/Help Desks](#customer-supporthelp-desks)
 * [Transactional Email](#transactional-email)
 * [Other APIs](#other-apis)

@@ -787,7 +787,6 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 #### Sources of Clicks/Ad Platforms
 
 * NeoReach | https://neoreach.com/
-* nRelate | http://nrelate.com/
 * SiteScout | http://www.sitescout.com/
 * Bing Ads | http://advertise.bingads.microsoft.com
 * Taboola | https://www.taboola.com/

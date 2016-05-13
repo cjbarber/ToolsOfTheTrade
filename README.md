@@ -580,6 +580,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Quip | https://quip.com/
 * Etherpad | http://etherpad.org/
 * Kami | https://www.kamihq.com | View, edit, annotate, and collaborate on documents on your browser
+* OneNote | http://www.onenote.com/ | [@msonenote](https://twitter.com/msonenote) | free | The digital note-taking app for your devices
 
 #### Group Communication/Chat Tools
 

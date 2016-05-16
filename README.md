@@ -825,6 +825,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 - **If you are adding a tool you are affiliated with please include other improvements/fixes to the repo.**
 - Ideally the tool should be hosted as this is stated in the background of the list.
 - Descriptions should be concise, descriptive and not marketing-focused.
+- Avoid links prepended with `/en`, `gb` etc. so that the link will redirect to the user's own language/location.
 - Follow the addition format which is currently:
 ```
  * Tool Name | https://toolname.com | [@toolname](https://twitter.com/toolname) | cost | description

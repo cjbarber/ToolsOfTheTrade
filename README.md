@@ -452,6 +452,7 @@ your goals and take your project to the next level.
 
 * PickFu | https://www.pickfu.com | [@pickfu](https://twitter.com/pickfu) | $20/mo-  $299/mo | REAL CONSUMER FEEDBACK
 IN MINUTES | PickFu is a tool that provides instant, unbiased and insightful public opinion on questions that you care about.
+* Promoter.io | https://www.promoter.io | [@Promoter_io](https://www.twitter.com/promoter_io) | $50/mo - $500/mo | Promoter.io helps companies quickly gain predictive customer intelligence & insights driven by NPS (Net Promoter) to increase revenue and reduce churn.
 
 #### Data
 

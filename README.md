@@ -774,6 +774,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 #### API Builder
 
 * Deployd | http://deployd.com/
+ * Apiary | https://apiary.io | [@apiary](https://twitter.com/apiaryio) | Free - $99/mo | Powerful API Design Stack. Built for Developers. | Work together to quickly design, prototype, document and test APIs.
 
 #### Password Management
 

@@ -114,7 +114,7 @@ It's hosted on GitHub for a reason! Please submit pull requests.
 
 #### Identity Verification
 
-* BlockScore | https://blockscore.com | [@getblockscore](https://twitter.com/getblockscore) | $1/verification | Individual ID verifications and company verifications | Verify customers in realtime. Implement in hours.
+* BlockScore | https://blockscore.com | [@getblockscore](https://twitter.com/getblockscore) | $1/verification - $5/verification | Individual ID verifications and company verifications | Verify customers in realtime. Implement in hours.
 
 #### Browser/Email Testing
 
@@ -349,7 +349,6 @@ from web apps | ostageApp helps design, send, and analyze emails within minutes.
 
 * Filepicker | https://www.filestack.com | [@FilePicker](https://twitter.com/FilePicker) | $19/mo - $499/mo | Easy, Powerful File Uploads | Connect, Store, and Process any file from anywhere on the Internet
 * Zapier | https://zapier.com | [Zapier](https://twitter.com/zapier) | $99/mo - $15/mo | Superpowers to get your work done. | A Zap is a link between two apps (a "trigger" and an "action"). Zaps run automatically in the background every few minutes to move and manage data on your behalf. Only live Zaps count against your limit — you can have as many paused and unfinished Zaps as you'd like. For example, one Zap might be "Send me an SMS every time I get a new email".
-* BlockScore
 * Open Exchange Rates | https://openexchangerates.org |  | $12/mo - $97/mo | Real-time exchange rates &
 currency conversion JSON API | A simple and easy-to-integrate exchange rates API in JSON format, with HTTPS and JSONP support, with examples, guides and full documentation.
 
@@ -452,6 +451,7 @@ your goals and take your project to the next level.
 
 * PickFu | https://www.pickfu.com | [@pickfu](https://twitter.com/pickfu) | $20/mo-  $299/mo | REAL CONSUMER FEEDBACK
 IN MINUTES | PickFu is a tool that provides instant, unbiased and insightful public opinion on questions that you care about.
+* Promoter.io | https://www.promoter.io | [@Promoter_io](https://www.twitter.com/promoter_io) | $50/mo - $500/mo | Helps companies quickly gain predictive customer intelligence & insights driven by NPS (Net Promoter) to increase revenue and reduce churn.
 
 #### Data
 
@@ -773,7 +773,8 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 
 #### API Builder
 
-* Deployd | http://deployd.com/
+* Deployd | http://deployd.com | [@deploydapp](https://twitter.com/deploydapp) | Free (OSS) | Design, build, and scale APIs for web and mobile apps in minutes instead of days.
+* Apiary | https://apiary.io | [@apiary](https://twitter.com/apiaryio) | Free - $99/mo | Powerful API Design Stack. Built for Developers. | Work together to quickly design, prototype, document and test APIs.
 
 #### Password Management
 

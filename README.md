@@ -114,7 +114,7 @@ It's hosted on GitHub for a reason! Please submit pull requests.
 
 #### Identity Verification
 
-* BlockScore | https://blockscore.com | [@getblockscore](https://twitter.com/getblockscore) | $1/verification | Individual ID verifications and company verifications | Verify customers in realtime. Implement in hours.
+* BlockScore | https://blockscore.com | [@getblockscore](https://twitter.com/getblockscore) | $1/verification - $5/verification | Individual ID verifications and company verifications | Verify customers in realtime. Implement in hours.
 
 #### Browser/Email Testing
 

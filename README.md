@@ -168,7 +168,6 @@ Features: goals of the week, week view and quadrant matrix, pomodoro timer, shar
 #### App Developer Tools
 
 * App Annie | https://www.appannie.com | [@appannie/](https://twitter.com/appannie/) | free |  | Make better decisions with our app store data. We are the leader for app store analytics, app rankings, and market intelligence.
-* Flurry Analytics | http://www.flurry.com/solutions/analytics | free | Industry Standard for free user insights in your mobile app
 * App Figures | https://appfigures.com | [@appfigures](https://twitter.com/appfigures) | $9/mo | A beautiful app tracking platform for app developers and publishers.
 
 #### Localization & Internationalization

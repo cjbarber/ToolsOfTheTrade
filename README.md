@@ -807,6 +807,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 #### Documentation
 
 * Dash | https://kapeli.com/dash
+* Zeal | https://zealdocs.org | [@zealdocs](https://twitter.com/zealdocs) | Free | Offline documentation browser
 
 #### Business Cards and Print Material
 

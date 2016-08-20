@@ -814,6 +814,11 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * PSPrint | https://www.psprint.com
 * Vista Print | http://vistaprint.com
 
+#### Presentations / Slides
+
+* Prezi | https://prezi.com/
+* markpress | https://github.com/gamell/markpress | HTML presentaitons from Markdown files
+
 ## Contributing
 
 - Star this repo to help ensure it is maintained.

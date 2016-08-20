@@ -111,6 +111,7 @@ It's hosted on GitHub for a reason! Please submit pull requests.
 * [Task Scheduling](#task-scheduling)
 * [Documentation](#documentation)
 * [Business Cards and Print Material](#business-cards-and-print-material)
+* [Presentations / Slides](#presentations--slides)
 
 #### Identity Verification
 

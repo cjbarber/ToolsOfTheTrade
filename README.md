@@ -579,6 +579,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Etherpad | http://etherpad.org/
 * Kami | https://www.kamihq.com | View, edit, annotate, and collaborate on documents on your browser
 * OneNote | http://www.onenote.com/ | [@msonenote](https://twitter.com/msonenote) | free | The digital note-taking app for your devices
+* Inkdrop | https://www.inkdrop.info/ | The notebook app for Markdown lovers
 
 #### Group Communication/Chat Tools
 

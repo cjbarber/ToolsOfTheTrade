@@ -244,6 +244,7 @@ don't have time for analytics | We take your data and present in a beautiful tim
 * PullReview | https://www.pullreview.com | [@pullreview](https://twitter.com/pullreview) | €0/mo - €20/dev/mo | Automated Code Review for Ruby and Rails | PullReview helps you to quickly ship a Rails app with confidence. It reviews the Ruby code you just wrote and tells you what's wrong, why, and how to fix it - from style to security.
 * Crucible | https://www.atlassian.com/software/crucible | [@atlassian](https://twitter.com/atlassian) | $10/mo - $8000/mo | Code review system | Review code, discuss changes, share knowledge, and identify defects with Crucible's flexible review workflow. It's code review made easy for Git, Subversion, CVS, Perforce, and more.
 * Coveralls | https://coveralls.io | [@coverallsapp](https://twitter.com/coverallsapp) | $0/mo - $50/mo | Coveralls works with your continuous integration server to give you test coverage history and statistics. It integrates with any langauge and is free for open source.
+* Testributor | http://about.testributor.com | [@testributor](https://twitter.com/testributor) | Free | Testributor is an open source Continuous Integration platform. A hosted version is available for free, both for open source and private projects.
 
 #### Dashboards
 
@@ -587,10 +588,10 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Limechat | http://limechat.net/
 * Flowdock | Free for teams up to 5 people | https://www.flowdock.com/
 * HipChat | Free | https://www.hipchat.com
-* Slack | https://slack.com/
+* Slack | https://slack.com/ | Free - $12.5/user | Team collaboration and chat tool. Supports webhooks and has integrations with other tools.
 * Campfire | https://campfirenow.com/
-* Skype | http://www.skype.com
-* Google Hangouts
+* Skype | http://www.skype.com | Free | Video conference, chat and voice call VOIP application.
+* Google Hangouts | https://hangouts.google.com/ | Free | Video conference and chat application by Google. It is browser based and supports multiple participants on the same video call.
 * GoToMeeting | https://www.gotomeeting.com
 * IRCCloud | https://www.irccloud.com/
 * Buddycloud | http://buddycloud.com
@@ -658,7 +659,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 
 #### PaaS
 
-* Heroku | https://www.heroku.com | 1 free app
+* Heroku | https://www.heroku.com | 1000 free hours/month for verified accounts
 * Cloud Foundry | https://www.cloudfoundry.org | host it yourself, or use one of MANY hosting services
 * Pagodabox | https://pagodabox.io |
 * Clever Cloud | https://www.clever-cloud.com |

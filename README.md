@@ -223,8 +223,7 @@ don't have time for analytics | We take your data and present in a beautiful tim
 * Gusto | https://gusto.com | [@gustohq](https://twitter.com/gustohq) | $29/mo + $6/user | Payroll and benefits that put people first, easy setup, automated tax filings and thoughtful support.
 * WagePoint | https://wagepoint.com | [@wagepoint](https://twitter.com/wagepoint) | $20 + $2/employy | The Simple, Fast & Friendly way to pay your employees.
 
-#### 
-Integration/Code Quality
+#### Continuous Integration/Code Quality
 
 * Travis | https://travis-ci.org | [@travisci](https://twitter.com/travisci) | free - $489/mo | Hi I’m Travis CI, a hosted continuous integration service for open source and private projects: [travis-ci.com](https://travis-ci.com/)  System status updates: [@traviscistatus](https://twitter.com/traviscistatus)
 * AppVeyor | http://www.appveyor.com | [@appveyor](https://twitter.com/appveyor) | AppVeyor automates building, testing and deployment of .NET applications, helping your team to focus on delivering great apps.

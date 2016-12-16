@@ -111,6 +111,7 @@ It's hosted on GitHub for a reason! Please submit pull requests.
 * [Task Scheduling](#task-scheduling)
 * [Documentation](#documentation)
 * [Business Cards and Print Material](#business-cards-and-print-material)
+* [Presentations / Slides](#presentations--slides)
 
 #### Identity Verification
 
@@ -818,6 +819,11 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Moo | https://www.moo.com
 * PSPrint | https://www.psprint.com
 * Vista Print | http://vistaprint.com
+
+#### Presentations / Slides
+
+* Prezi | https://prezi.com/
+* markpress | https://github.com/gamell/markpress | HTML presentaitons from Markdown files
 
 ## Contributing
 

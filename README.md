@@ -657,7 +657,6 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 
 ### Design Collaboration
 
-* Pixelapse | https://www.pixelapse.com/
 * ConceptShare | http://www.conceptshare.com/
 * Framebench | http://www.framebench.com | [@framebench](https://twitter.com/framebench) | The 'smooth' way to Share, Review & Discuss any file online.
 * Notable | http://www.notableapp.com/

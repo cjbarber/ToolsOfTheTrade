@@ -40,6 +40,7 @@ It's hosted on GitHub for a reason! Please submit pull requests.
 * [Localization & Internationalization](#localization--internationalization)
 * [Business & Traffic Analytics](#business--traffic-analytics)
 * [Conversion Optimization & A/B Testing](#conversion-optimization--ab-testing)
+* [User Management](#user-management)
 * [User Testing](#user-testing)
 * [HR](#hr)
 * [Payroll](#payroll)

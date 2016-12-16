@@ -271,7 +271,7 @@ don't have time for analytics | We take your data and present in a beautiful tim
 * Rollbar | https://rollbar.com | [@rollbar](https://twitter.com/rollbar) | $12/mo - $1249/mo | Take control of your errors | Rollbar is platform-agnostic and can accept data from anything that can speak HTTP and JSON. You can use our official libraries for Ruby, Python, PHP, Node.js, JavaScript, Android, iOS, or Flash, or roll your own with our API.
 * Errorception | https://errorception.com | [@errorception](https://twitter.com/errorception) | $5/mo - $59/mo | Painless JavaScript Error Tracking | Errorception is a simple and painless way to find out about JavaScript errors, as they occur in your users' browsers. All you need to do is insert a script tag on your page, and you will start recording errors as they happen in real-time.
 * Errbit | OSS | http://errbit.com | The open source error catcher that's Airbrake API compliant.
-* Takipi | https://www.takipi.com | [@takipid](https://twitter.com/takipid) | God Mode in Production Code for java and scala applications.
+* OverOps | https://www.overops.com | [@overopshq](https://twitter.com/overopshq) | God Mode in Production Code for java and scala applications.
 
 ### Application Distribution
 

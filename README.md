@@ -312,21 +312,21 @@ don't have time for analytics | We take your data and present in a beautiful tim
 
 * Server Density | https://www.serverdensity.com | [@serverdensity](https://twitter.com/serverdensity) |  | Premium hosted website and server monitoring tool. | All your activity syncs in real time - from starting new instances to upgrading or deleting old ones. Work wherever you want - through web, mobile, API or directly with your provider. Everything stays in sync.
 * Datadog | https://www.datadoghq.com | [@datadoghq](https://twitter.com/datadoghq) | $0/mo - $15/host/mo | Datadog is a monitoring service for IT, Operations and Development teams who write and run applications at scale, and want to turn the massive amounts of data produced by their apps, tools and services into actionable insight.
-* Circonus | http://www.circonus.com | [@circonus](https://twitter.com/circonus) | $15/host/mo - $25/host/mo | Circonus combines multiple monitoring, alerting, event reporting, and analytical tools into one unified solution. Use any data, in any application, from any system, and visualize it in real-time.
+* Circonus | https://www.circonus.com | [@circonus](https://twitter.com/circonus) | $15/host/mo - $25/host/mo | Circonus combines multiple monitoring, alerting, event reporting, and analytical tools into one unified solution. Use any data, in any application, from any system, and visualize it in real-time.
 * TrueSight Pulse | http://www.bmc.com/truesightpulse | [@truesightpulse](https://twitter.com/truesightpulse) | | Real-time visibility into cloud and server infrastructure
 * Librato | https://www.librato.com | [@Librato](https://twitter.com/Librato) | $0.05/metric/mo to $0.30/metric/mo | Librato provides a complete solution for monitoring and understanding the metrics that impact your business at all levels of the stack.
 * Scout | https://scoutapp.com/
 
 ### Customer Support/Help Desks
 
-* Desk | http://www.desk.com | [@desk](https://twitter.com/desk) | $3/mo - $50/mo | Deliver Customer Service That Wows | Desk.com creates the leading customer service application, which helps fast-growing companies deliver outstanding customer support. Desk.com's intuitive user interface and powerful features make solving customers' problems more efficient for the entire company. Plus, Desk.com is the only Customer Service Application backed by Salesforce, providing easy integration with other Salesforce services and robust security. There are thousands of companies using Desk.com as their help desk software application, from household names like Square and Instagram to the burrito shop down the street. Give it a try for free.
+* Desk | https://www.desk.com | [@desk](https://twitter.com/desk) | $3/mo - $50/mo | Deliver Customer Service That Wows | Desk.com creates the leading customer service application, which helps fast-growing companies deliver outstanding customer support. Desk.com's intuitive user interface and powerful features make solving customers' problems more efficient for the entire company. Plus, Desk.com is the only Customer Service Application backed by Salesforce, providing easy integration with other Salesforce services and robust security. There are thousands of companies using Desk.com as their help desk software application, from household names like Square and Instagram to the burrito shop down the street. Give it a try for free.
 * HelpScout | https://www.helpscout.net | [@helpscout](https://twitter.com/helpscout) | $15/ mo | Scalable customer support, no help desk headaches | Based on conditions you specify, Help Scout automatically performs one or more actions.
 * ZenDesk | https://www.zendesk.com | [@zendesk](https://twitter.com/zendesk) | $1/mo - $195/mo | Relationships between businesses and their customers can be hard. | Better customer service starts with better communication
 Zendesk brings all your customer conversations into one place.
 * Groove | https://www.groovehq.com | [@groove](https://twitter.com/groove) | $15/ mo | Everything you need to deliver awesome,
 personal support to every customer. | Your customers will never know that you’re using a helpdesk. To them, your messages look like regular emails. It feels like personal support, and it helps you build deeper relationships with
 your customers.
-* Intercom | https://www.intercom.io | [@intercom](https://twitter.com/intercom) | $49/mo - $449/mo | The easiest way to see and talk to your users | Intercom is a single platform where you can see in real-time who is using your product and send personalized messages to the right users at the right time based on their behavior.
+* Intercom | https://www.intercom.com | [@intercom](https://twitter.com/intercom) | $49/mo - $449/mo | The easiest way to see and talk to your users | Intercom is a single platform where you can see in real-time who is using your product and send personalized messages to the right users at the right time based on their behavior.
 * Tender | http://tenderapp.com | [@tenderapp](https://twitter.com/tenderapp) | $9/mo - $99/mo | Better, Simpler, Customer Support Software. | Support your customers in the open! With public forums, you can offer a public space to your users to discuss common issues and get feedback, while still keeping certain categories private (billing, orders, ...). Power users can subscribe to categories and new discussions, and help out other customers.
 * Enchant | http://www.enchant.com | [@enchanthq](https://twitter.com/enchanthq) | $9/ mo | It's like gmail on steroids! | Enchant is a powerful helpdesk that helps your team deliver awesome support to each and every customer. To your customers, it's just email. They will never see a ticket number and will never have to log into anything!
 * Freshdesk | https://freshdesk.com | [@freshdesk](https://twitter.com/freshdesk) | $16/mo - $70/mo | Everything you need to deliver Exceptional Customer Support | Freshdesk keeps you from running behind issues blindly and gets your customer support issues under control.
@@ -371,7 +371,7 @@ currency conversion JSON API | A simple and easy-to-integrate exchange rates API
 * Customer.io | https://customer.io |  | $50/mo - $1250/Mo | Send email based on what people do
 or don't do in your app | Customer.io lets you send newsletters to segments of customers using data from your site.
 * Vero | https://www.getvero.com | [@veroapp](https://twitter.com/veroapp) | $99/mo | Send emails based on what your customers do | Vero makes it easy to create segments of customers based on the attributes you capture (e.g. age, location, gender) and the actions your customers take (e.g. logged in, used feature x, checked out, etc.).
-* MailChimp | http://mailchimp.com
+* MailChimp | https://mailchimp.com
 * Campaign Monitor | https://www.campaignmonitor.com | [@](https://www.campaignmonitor.com/customers/) | $9/mo - $699/mo | CAMPUnbounce Feature Tour |
 * Sendy | https://sendy.co | [@getsendy](https://twitter.com/getSendy) | $59 one time fee, host yourselfor use a hosted sendy instance from a variety of providers.
 
@@ -381,7 +381,7 @@ or don't do in your app | Customer.io lets you send newsletters to segments of c
 * Unbounce | http://unbounce.com | [@unbounce](https://twitter.com/unbounce) | $49/mo - $199/mo |  | Unbounce empowers marketers to act independently from technical teams, improving their efficiency and their ability to generate sales. Produce high-converting landing pages without dealing with I.T. bottlenecks. See how Unbounce can enhance your campaigns and maximize your marketing spend.
 * KickoffLabs | https://kickofflabs.com | [@kickofflabs](https://twitter.com/kickofflabs) | $29/mo - $99/mo | Stop building landing pages.
 Start building smarter campaigns. | Send customers to a tailored page that speaks to them. Keep them engaged with signup-forms, newsletters and – best of all – a very cool, unique REWARD system for customer referrals.
-* Launch Effect | http://launcheffectapp.com | [@LaunchEffect](https://twitter.com/LaunchEffect) | $35/mo-  $65/mo | A WORDPRESS THEME FOR
+* Launch Effect | https://www.launcheffectapp.com | [@LaunchEffect](https://twitter.com/LaunchEffect) | $35/mo-  $65/mo | A WORDPRESS THEME FOR
 VIRAL LAUNCHES | Launch Effect is a free responsive one-page WordPress theme that lets you create a viral campaign in minutes
 * Prefinery | https://www.prefinery.com | [@prefinery](https://twitter.com/prefinery) | $19/mo-  $399/mo | Stress-free Beta Invitation and Management | Prefinery is beta invitations & management for serious product launches. You need more than just a landing page -- outsource your beta to Prefinery!
 * LaunchGator | http://launch.deskgator.com | [@fizzysoftware](https://twitter.com/fizzysoftware) |  | Create a Viral Launching Soon page | Create awesome coming soon pages for your upcoming website. Log In and add your website information. Add custom colors and backgrounds that highlight your service.
@@ -392,7 +392,7 @@ VIRAL LAUNCHES | Launch Effect is a free responsive one-page WordPress theme tha
 * SalesforceIQ | https://www.salesforceiq.com | [@salesforceiq](https://twitter.com/salesforceiq) | £17-85/user/mo | Helps businesses build stronger relationships using Relationship Intelligence.
 * SugarCRM | http://www.sugarcrm.com | [@sugarcrm](https://twitter.com/sugarcrm) | $35/mo - $150/mo | Sugar's open, flexible platform easily solves real business problems. From automating sales, marketing and customer support to creating a custom CRM application, we've got you covered. | By placing the individual at the center of its solution, SugarCRM puts the "i" in CRM and empowers every customer-facing individual to create extraordinary customer relationships.
 * Insight.ly | https://www.insightly.com | [@insightlyapp](https://twitter.com/insightlyapp) | $7/mo | Small Business CRM | Manage contacts, organizations, partners, vendors and suppliers. See everything from background, email history, events, projects or opportunities
-* Close.io | http://close.io | [@closeio](https://twitter.com/closeio) | $59/mo - $299/mo | Sales Communication Platform | Close.io automatically logs sent and received emails with your leads. You can send/receive emails painlessly from Close.io. Or, by entering your IMAP and SMTP mail settings, Close.io can track emails that you send from Gmail or any email client.
+* Close.io | https://close.io | [@closeio](https://twitter.com/closeio) | $59/mo - $299/mo | Sales Communication Platform | Close.io automatically logs sent and received emails with your leads. You can send/receive emails painlessly from Close.io. Or, by entering your IMAP and SMTP mail settings, Close.io can track emails that you send from Gmail or any email client.
 * Streak | https://www.streak.com | [@streak](https://twitter.com/streak) |  | Manage email support
 inside Gmail | Streak lets you keep track of all your deals right from your inbox. We let you group emails from the same customer together into one view and push that customer through your pipeline. When a new email comes in, you'll have all the context you need.
 * Base | https://getbase.com | [@getbase](https://twitter.com/getbase) | $15/mo - $125/mo | The Sales and CRM Software Your Team Will Actually Use | Base is designed to significantly boost your team’s sales productivity and give you the core sales tools you need to grow your business. Your leads come from a variety of sources. Lead management in Base helps you organize leads and assign them to the right sales reps so they can be followed up on and qualified quickly. After being qualified, convert a lead in Base and all of the contact information you have about your lead is transferred your new customer contact card. Optionally, you can specify follow up tasks and even create a deal at the same time.
@@ -434,7 +434,7 @@ for Your Enterprise | Whether planning ahead or booking on the fly, find and res
 
 ### Prototyping/Mockups
 
-* Creately | http://creately.com | [@creately](https://twitter.com/creately) | Free - $750/mo | Creately | Web based diagramming tool for fast easy diagrams. Supports flowcharts, mock-ups, wire-frames, mind maps, organizational charts, network diagrams, AWS diagrams, UML diagrams and many other diagram types. Real-time collaboration plus innovative productivity features to create diagrams 3 times faster.
+* Creately | https://creately.com | [@creately](https://twitter.com/creately) | Free - $750/mo | Creately | Web based diagramming tool for fast easy diagrams. Supports flowcharts, mock-ups, wire-frames, mind maps, organizational charts, network diagrams, AWS diagrams, UML diagrams and many other diagram types. Real-time collaboration plus innovative productivity features to create diagrams 3 times faster.
 * Keynote | http://www.apple.com/in/mac/keynote/ | $19.99 | Easily create gorgeous presentations with the all-new Keynote, featuring powerful yet easy-to-use tools and dazzling effects that will make you a very hard act to follow. Also checkout the [Keynotopia Themes](http://keynotopia.com/) to get all the common UI elements for iOS, Android etc.
 * OmniGraffle | https://www.omnigroup.com/omniGraffle | [@omniGraffle](https://twitter.com/omniGraffle) | $99.99 | Diagramming Worth a Thousand Words | Need a diagram, process chart, quick page-layout, website wireframe or graphic design? OmniGraffle can help you make eye-popping graphic documents quickly by keeping lines connected to shapes even when they're moved, providing powerful styling tools, and magically organizing diagrams with just one click. Whether you need a quick 
 * moqups | https://moqups.com | [@moqups](https://twitter.com/moqups) | $9/mo-  $39/mo | Moqups is a nifty HTML5 App used to create wireframes, mockups or UI concepts, prototypes
@@ -443,7 +443,7 @@ depending on how you like to call them. | The most stunning HTML5 app for creati
 * POP - PrototypeOnPaper | https://popapp.in/ | Free iPhone prototype app, turn back of napkin sketches into prototypes
 * Proto.io | https://proto.io | [@protoio](https://twitter.com/protoio) | $24/mo- $199/mo | Silly-fast mobile prototyping | Build high-fidelity fully interactive mobile app prototypes in minutes. Prototypes can be viewed on browser or device giving a real experience to the user how the app will look like and behave. Multiple devices like smart phones and tablets/pads are supported including iPhone, iPad and Android devices.
 * invision | https://www.invisionapp.com | [@InVisionApp](https://twitter.com/InVisionApp) | $0/mo- $100+/mo | Free Web & Mobile (iOS, Android) Prototyping and UI Mockup Tool | Transform your Web & Mobile (iOS, Android) designs into clickable, interactive Prototypes and Mockups. Share and Collaborate on them with others.
-* Sketch | http://www.sketchapp.com | [@sketchapp](https://twitter.com/sketchapp) | $79 | Professional digital design for Mac. Sketch gives you the power, flexibility and speed you always wanted in a lightweight and easy-to-use package. Finally you can focus on what you do best: Design.
+* Sketch | https://www.sketchapp.com | [@sketchapp](https://twitter.com/sketchapp) | $79 | Professional digital design for Mac. Sketch gives you the power, flexibility and speed you always wanted in a lightweight and easy-to-use package. Finally you can focus on what you do best: Design.
 
 ### Content Creation/Infographics
 
@@ -476,7 +476,7 @@ IN MINUTES | PickFu is a tool that provides instant, unbiased and insightful pub
 * Ballpark | http://www.getballpark.com |  | $12/mo-  $99/mo | Stop sending your clients ugly paper invoices. Go paperless today, with Ballpark. | Our beautiful, web-based invoices and estimates make it easier than ever to get paid and discuss projects with your clients and colleagues.
 * PaySimple | https://paysimple.com | [@PaySimple](https://twitter.com/PaySimple) | $34.95/mo | Simplify how you bill and collect | PaySimple is an industry-leading provider of payment management solutions. PaySimple simplifies billing and collection processes by enabling you to bill, collect and deposit all of your payments automatically. Our customized, secure ASP solution includes auto-recurring billing, electronic check processing, direct debit and credit card processing at some of the lowest rates available.
 * FreshBooks | https://www.freshbooks.com | [@freshbooks](https://twitter.com/freshbooks) | $19.95/mo-  $39.95/mo | Accounting Made for You, the Non-Accountant | FreshBooks is simple and intuitive, so accounting isn't intimidating. Plus you can talk to a real, live person anytime you have a question, 9am-6pm EDT, Mon-Fri.
-* FreeAgent | http://www.freeagent.com | [@freeagent](https://twitter.com/freeagent) | US $20 /mo | Accounting software trusted by over 35,000 freelancers and small businesses | Reconcile money in and out of the business via your electronic bank statements and build monthly balance charts.
+* FreeAgent | https://www.freeagent.com | [@freeagent](https://twitter.com/freeagent) | US $20 /mo | Accounting software trusted by over 35,000 freelancers and small businesses | Reconcile money in and out of the business via your electronic bank statements and build monthly balance charts.
 * Blinksale | https://www.blinksale.com | [@blinksale](https://twitter.com/blinksale) | $15.00 | INTRODUCING BLINKSALE UNLIMITED. ONE PLAN. ONE PRICE. UNLIMITED EVERYTHING. | Blinksale makes you look your best. With over a dozen invoice designs & thank you notes, you’re sure to put your best foot forward. Every time.
 * Cashboard | http://cashboardapp.com | [@cashboard](https://twitter.com/cashboard) | $8.25/mo-  $250/mo | FREELANCE TIME TRACKING & INVOICE SOFTWARE
 TRUSTED BY THOUSANDS, WORLDWIDE | Cashboard is the tool we designed to remedy that situation. It works for our software consultancy and we think it’ll work for you too. We launched Cashboard in Spring of 2007after many sleepless nights of hard work. It was the first solution to combine estimates, invoices, time tracking, and online payments into one tool.
@@ -514,7 +514,7 @@ per successful charge. | Feature-packed payments | No need to design payment for
 * Pin | https://pin.net.au | [@pin_payments](https://twitter.com/pin_payments) | 2.9% + 30¢
 per successful charge. | Payments, Rebooted. | Accepting credit card payments from a global audience typically requires a merchant acount. The process of establishing a merchant account for each currency can be too difficult and costly for small businesses.
 * PayMill | https://www.paymill.com | [@Paymill](https://twitter.com/Paymill) | 0.28 € - 0.25 € | Online payments made easy | Make payments personal by customising the checkout according to the flow of your website
-* Spreedly | https://spreedly.com | [@spreedly](https://twitter.com/spreedly) | $150/mo-  $1500/mo | Payments as a Platform | One of Spreedly's major benefits is reaching a large number of merchant accounts by working across multiple payment gateways. As a direct merchant you can transact globally but deposit funds in unique merchant accounts based on geographic or other business rules. As a SaaS platform you can support the unique merchant accounts of your individual customers. A payment gateway token is your way to indicate to us which unique merchant account this particular transaction will go against. Each unique merchant account = one unique payment gateway token.
+* Spreedly | https://www.spreedly.com | [@spreedly](https://twitter.com/spreedly) | $150/mo-  $1500/mo | Payments as a Platform | One of Spreedly's major benefits is reaching a large number of merchant accounts by working across multiple payment gateways. As a direct merchant you can transact globally but deposit funds in unique merchant accounts based on geographic or other business rules. As a SaaS platform you can support the unique merchant accounts of your individual customers. A payment gateway token is your way to indicate to us which unique merchant account this particular transaction will go against. Each unique merchant account = one unique payment gateway token.
 * WePay | https://go.wepay.com | [@wepay](https://twitter.com/wepay) | 2.9% + 30¢ per transaction. | WePay is the first payments engine to offer platforms — marketplaces, crowdfunding, and business software/tools — a way to own their customer experience while still shielding them from 100 percent of fraud and regulatory risk.
 
 ### Banking
@@ -655,7 +655,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 
 ### Design Collaboration
 
-* ConceptShare | http://www.conceptshare.com/
+* ConceptShare | https://www.conceptshare.com
 * Framebench | http://www.framebench.com | [@framebench](https://twitter.com/framebench) | The 'smooth' way to Share, Review & Discuss any file online.
 * Notable | http://www.notableapp.com/
 
@@ -768,7 +768,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 
 * AccuRanker | https://www.accuranker.com/
 * Ahrefs | https://ahrefs.com | [@ahrefs](https://twitter.com/ahrefs) | $79/mo - $2500/mo | Ahrefs provide a complete digital marketing suite with tools for analyzing back links, analizing websites, rank tracking, content exploring and more.
-* SerpBook | http://serpbook.com/
+* SerpBook | https://serpbook.com
 * WooRank | https://www.woorank.com | [@woorank](https://twitter.com/woorank) | Free - $49/mo | WooRank analyzes your website for optimization best practices and shows how it ranks against your competition. Its real-time brandable reports, consisting of over 150 data-points, help you to instantly spot critical issues that impact traffic, usability and conversions. Sync your analytics, social accounts and keywords for even more robust tracking.
 * Moz | https://moz.com | [@moz](https://twitter.com/moz) | $99/mo - $599/mo | Moz provides you all the tools you need to effectively do search engine optimization. On site optimization graders, competitor tracking, back link analysis, rank trakcing and many more features available to users.
 
@@ -779,7 +779,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 
 ### Password Management
 
-* Lastpass | https://lastpass.com
+* Lastpass | https://www.lastpass.com
 * 1Password  | https://1password.com
 * Passpack | https://www.passpack.com/
 * Locko | http://www.binarynights.com/locko/ | $0.99 | Mac OS X app including extensions for Safari, Chrome, Firefox and Opera.

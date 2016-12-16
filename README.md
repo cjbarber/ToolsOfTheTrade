@@ -283,7 +283,6 @@ don't have time for analytics | We take your data and present in a beautiful tim
 
 * Fluentd | http://www.fluentd.org | [@fluentd](https://twitter.com/fluentd) |  | Set Up Once, Collect More | Fluentd is an open source data collector designed for processing data streams. 150+ plugins instantly enable you to store the data for Log Management, Big Data Analytics, etc
 * Flume | https://github.com/cloudera/flume
-* Graphite | http://graphite.readthedocs.org/
 * Graylog | ttps://www.graylog.org| [@graylog2](https://twitter.com/graylog2) | Field-tested open source data analytics system used and trusted all around the world. Search your logs, create charts, send reports and be alerted when something happens. All running on the existing JVM in your datacenter.
 * LogEntries | https://logentries.com | [@logentries](https://twitter.com/logentries) | $16/mo - $245/mo | Log Management & Analytics Made Easy | Logentries provides an easy-to-use cloud service for log management and analytics.
 * Loggly | https://www.loggly.com | [@loggly](https://twitter.com/loggly) | $49/mo - $349/mo | Solve operational problems faster. | Loggly helps cloud-centric organizations—organizations that build and manage cloud-facing applications—to solve operational problems faster.
@@ -306,7 +305,7 @@ don't have time for analytics | We take your data and present in a beautiful tim
 * Blitz | https://www.blitz.io | [@blitz_io](https://twitter.com/blitz_io) | $19.99/mo - $399.99/mo | LOAD TESTING FROM THE CLOUD | Building mobile applications, websites or APIs is an iterative process. New features and capabilities are being added constantly. Your application is rapidly and iteratively going through several distinct phases - Development, Staging, Production and Operations. At every step of the way, the ability to ensure that your application meets the highest levels of user satisfaction is critical.
 * Bees with Machine Guns! | https://github.com/newsapps/beeswithmachineguns
 * Flood.io | https://flood.io | [@flood_io](https://twitter.com/flood_io) | Free to $399/mo | Auto setup and results summaries/graphs of JMeter and Gatling load tests.  Can easily scale to 100K+ reqs/min.
-* Neustar Website Load Testing | http://www.neustar.biz/services/web-performance/load-testing | [@Neustar](https://twitter.com/Neustar) | $80/mo |  | Tackle performance problems such as bandwidth limitations, error rates exceeding thresholds, server PU limitations and much more.
+* Neustar Website Load Testing | https://www.neustar.biz/services/web-performance/load-testing | [@Neustar](https://twitter.com/Neustar) | $80/mo |  | Tackle performance problems such as bandwidth limitations, error rates exceeding thresholds, server PU limitations and much more.
 * Loader.io | http://loader.io | Free to 100.00$ / mo | Loader.io is a free load testing service that allows you to stress test your web-apps/apis with thousands of concurrent connections.
 * Locust.io | http://locust.io | [@locustio](https://twitter.com/locustio) | Open Source
 
@@ -408,7 +407,7 @@ inside Gmail | Streak lets you keep track of all your deals right from your inbo
 * Buffer | https://buffer.com | [@buffer](https://twitter.com/buffer) | $10/mo | Buffer is the easiest way to publish on social media | Buffer helps you share to Twitter, Facebook and more. 
 * HootSuite | https://hootsuite.com | [@HootSuite](https://twitter.com/HootSuite) | $8.99/mo | Add speed and agility to your social media strategy | From one dashboard you’ll schedule Tweets and Facebook posts, monitor conversations, and more. When you need to prove your social ROI, quickly create and customize ready-to-present analytics reports.
 * Claim.io | http://claim.io/welcome | [@claimio](https://twitter.com/claimio) | $189/mo-  $499/mo |  | Owning your name on 300 Social media sites not only makes it easier for people to find you or your business online - it also works as a "social media identity insurance", protecting you from name squatting and identity fraud, minimizing risk to your brand.
-* Exacttarget Marketing Cloud/Buddy Media | http://www.salesforce.com/marketing-cloud/overview/ | [@marketingcloud](https://twitter.com/marketingcloud) |  | Bringing you closer to your social customers with an integrated social content solution. | Run integrated campaigns across Facebook, Twitter, YouTube and your websites Increase fans, followers and advocates. Publish engaging and interactive social apps. Easily create landing pages and microsites and extend social to your websites. Understand engagement trends, demographics, conversions and business metrics with powerful analytics.
+* Exacttarget Marketing Cloud/Buddy Media | http://www.salesforce.com/products/marketing-cloud/overview/ | [@marketingcloud](https://twitter.com/marketingcloud) |  | Bringing you closer to your social customers with an integrated social content solution. | Run integrated campaigns across Facebook, Twitter, YouTube and your websites Increase fans, followers and advocates. Publish engaging and interactive social apps. Easily create landing pages and microsites and extend social to your websites. Understand engagement trends, demographics, conversions and business metrics with powerful analytics.
 * Sprout Social | http://sproutsocial.com | [@sproutsocial](https://twitter.com/sproutsocial) | $59/mo-  $1500/mo | Powerful Social Media Software | Sprout lets you post messages on Facebook, Twitter, Google+ and LinkedIn simultaneously from one easy-to-use message composition tool. Shorten links, attach photos, target your audience on Facebook, customize your posts and much more.
 
 ### Naming
@@ -596,7 +595,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * HipChat | Free | https://www.hipchat.com
 * Slack | https://slack.com/ | Free - $12.5/user | Team collaboration and chat tool. Supports webhooks and has integrations with other tools.
 * Campfire | https://campfirenow.com/
-* Skype | http://www.skype.com | Free | Video conference, chat and voice call VOIP application.
+* Skype | https://www.skype.com | Free | Video conference, chat and voice call VOIP application.
 * Google Hangouts | https://hangouts.google.com/ | Free | Video conference and chat application by Google. It is browser based and supports multiple participants on the same video call.
 * GoToMeeting | https://www.gotomeeting.com
 * IRCCloud | https://www.irccloud.com/
@@ -611,7 +610,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 
 ### Remote Collaboration
 
-* TeamViewer | http://www.teamviewer.com
+* TeamViewer | https://www.teamviewer.com
 * Screenmailer | https://www.screenmailer.com
 * Screenhero | https://screenhero.com/
 

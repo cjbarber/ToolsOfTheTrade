@@ -559,7 +559,9 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 
 #### Shipping
 
-* Postmaster.io | https://www.postmaster.io/
+* Shipwire | https://www.shipwire.com/
+* Shyp | https://www.shyp.com/
+* Whiplash | https://www.whiplashmerch.com/
 
 #### User Feedback
 

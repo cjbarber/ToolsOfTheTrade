@@ -69,6 +69,7 @@ It's hosted on GitHub for a reason! Please submit pull requests.
 * [Data](#data)
 * [Database](#database)
 * [Accounting/Invoicing](#accountinginvoicing)
+* [Privacy Policy, Terms & Conditions, Legal Documents](#privacy-policy-terms--conditions-legal-documents)
 * [Income Analytics](#income-analytics)
 * [Payments, Billing & Downloads](#payments-billing--downloads)
 * [Billing & Payment Processing](#billing--payment-processing)

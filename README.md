@@ -846,5 +846,5 @@ This list also uses tags to help when searching the contents:
 - Avoid links prepended with `/en`, `gb` etc. so that the link will redirect to the user's own language/location.
 - Follow the addition format which is currently:
 ```
- * Tool Name | https://toolname.com | [@toolname](https://twitter.com/toolname) | cost | description + tags
+ * Example | https://example.com | [@example](https://twitter.com/example) | cost | description + tags
 ```

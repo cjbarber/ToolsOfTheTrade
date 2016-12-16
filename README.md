@@ -649,7 +649,6 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * SourceForge | https://sourceforge.net/
 * Launchpad | https://launchpad.net/
 * Codeplex | https://www.codeplex.com
-* Gitorious | https://www.gitorious.org/
 * TuxFamily | https://www.tuxfamily.org
 * KForge | https://pypi.python.org/pypi/kforge
 * VersionShelf | https://www.versionshelf.com | 30-day Free trial, [free for students/teachers](https://www.versionshelf.com/about_free_plan).

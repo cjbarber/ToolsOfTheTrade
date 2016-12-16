@@ -605,7 +605,6 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * appear.in | one click video conversations
 * Kato | http://kato.im/
 * Convo | https://www.convo.com/
-* Sqwiggle | https://www.sqwiggle.com/
 * Zoom | https://www.zoom.us/
 
 [More Group Chat Tools](https://github.com/cjbarber/hipchat-alternatives)

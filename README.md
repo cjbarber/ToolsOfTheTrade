@@ -5,6 +5,8 @@
 <p align="center">
 <b><a href="#contents">Contents</a></b>
 ·
+<b><a href="#use">Use</a></b>
+·
 <b><a href="#contributing">Contributing</a></b>
 </p>
 
@@ -30,7 +32,7 @@ Many thanks to the big contributors to the previous threads, including garrettdi
 
 ##### Now
 
-I've collected more data from Hacker News, AngelList and Quora, to make the 2015 (and hopefully beyond) version.
+I've collected more data from Hacker News, AngelList and Quora, to make the 2015 (and hopefully beyond) version. This list also includes self-hosted as well as hosted services.
 
 It's hosted on GitHub for a reason! Please submit pull requests.
 
@@ -399,7 +401,7 @@ inside Gmail | Streak lets you keep track of all your deals right from your inbo
 * Pipedrive | https://www.pipedrive.com | | $9/ mo | Pipeline software that gets you organized. | Pipedrive is built for salespeople who need to put in serious effort to turn leads into sales. It helps to organize the work and spend less time on admin.
 * Contactually | https://www.contactually.com | [@Contactually](https://twitter.com/contactually) | $17.99/mo - $99.99/mo | Maximize your network ROI. More referrals. More repeat business | Contactually helps businesses follow up with the right people, at the right time, to maximize relationship ROI.
 
-[See more CRMs](https://github.com/cjbarber/best-crm-for-startups)
+[Best CRM Software for Startups](https://github.com/cjbarber/best-crm-for-startups)
 
 ### Social Media Marketing
 
@@ -606,7 +608,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Convo | https://www.convo.com/
 * Zoom | https://www.zoom.us/
 
-[More Group Chat Tools](https://github.com/cjbarber/hipchat-alternatives)
+[HipChat Alternatives](https://github.com/cjbarber/hipchat-alternatives)
 
 ### Remote Collaboration
 
@@ -821,12 +823,23 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 ### Presentations / Slides
 
 * Prezi | https://prezi.com/
-* markpress | https://github.com/gamell/markpress | HTML presentaitons from Markdown files
+* markpress | https://github.com/gamell/markpress | HTML presentations from Markdown files
+
+## Use
+
+The best ways to use this list are:
+
+- by browing the [contents](#contents)
+- by using <kbd>command</kbd> + <kbd>F</kbd> to search the contents
+
+This list also uses tags to help when searching the contents:
+
+- **Hosted?** `Hosted`, `Self-hosted`
 
 ## Contributing
 
 - Star this repo to help ensure it is maintained.
-- [Tweet this repo](https://twitter.com/intent/tweet?related=chrisbarber&text=HN%20Tools%20of%20The%20Trade,%202015%20Edition&url=https%3A%2F%2Fgithub.com%2Fcjbarber%2FToolsOfTheTrade&via=chrisbarber) so that more people can discover and add to it.
+- [Tweet this repo](https://twitter.com/intent/tweet?related=chrisbarber&text=Hacker%20News%20Tools%20of%20The%20Trade&url=https%3A%2F%2Fgithub.com%2Fcjbarber%2FToolsOfTheTrade&via=chrisbarber) so that more people can discover and add to it.
 
 ### Additions
 
@@ -836,5 +849,5 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 - Avoid links prepended with `/en`, `gb` etc. so that the link will redirect to the user's own language/location.
 - Follow the addition format which is currently:
 ```
- * Tool Name | https://toolname.com | [@toolname](https://twitter.com/toolname) | cost | description
+ * Tool Name | https://toolname.com | [@toolname](https://twitter.com/toolname) | cost | description + tags
 ```

@@ -3,7 +3,7 @@
 > Tools of The Trade, from [Hacker News](https://news.ycombinator.com).
 
 <p align="center">
-<b><a href="#table-of-contents">Table of Contents</a></b>
+<b><a href="#contents">Contents</a></b>
 ·
 <b><a href="#contributing">Contributing</a></b>
 </p>
@@ -30,7 +30,7 @@ I've collected more data from Hacker News, AngelList and Quora, to make the 2015
 
 It's hosted on GitHub for a reason! Please submit pull requests.
 
-## Table of Contents
+## Contents
 
 * [Identity Verification](#identity-verification)
 * [Browser/Email Testing](#browseremail-testing)

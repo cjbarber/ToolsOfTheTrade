@@ -1,4 +1,4 @@
-# HN Tools of The Trade, 2015 Edition [![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f3/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Hacker News Tools of the Trade [![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f3/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > Tools of The Trade, from [Hacker News](https://news.ycombinator.com).
 
@@ -26,7 +26,7 @@ Many thanks to the big contributors to the previous threads, including garrettdi
 
 ##### Now
 
-I collected more data from Hacker News, AngelList and Quora, to make the 2015 (and hopefully beyond) version.
+I've collected more data from Hacker News, AngelList and Quora, to make the 2015 (and hopefully beyond) version.
 
 It's hosted on GitHub for a reason! Please submit pull requests.
 

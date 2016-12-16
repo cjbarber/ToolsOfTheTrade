@@ -51,6 +51,7 @@ It's hosted on GitHub for a reason! Please submit pull requests.
 * [Application Performance](#application-performance)
 * [Load Testing](#load-testing)
 * [Server Monitoring](#server-monitoring)
+* [Server Management](#server-management)
 * [Customer Support/Help Desks](#customer-supporthelp-desks)
 * [Transactional Email](#transactional-email)
 * [Other APIs](#other-apis)
@@ -312,6 +313,10 @@ don't have time for analytics | We take your data and present in a beautiful tim
 * TrueSight Pulse | http://www.bmc.com/truesightpulse | [@truesightpulse](https://twitter.com/truesightpulse) | | Real-time visibility into cloud and server infrastructure
 * Librato | https://www.librato.com | [@Librato](https://twitter.com/Librato) | $0.05/metric/mo to $0.30/metric/mo | Librato provides a complete solution for monitoring and understanding the metrics that impact your business at all levels of the stack.
 * Scout | https://scoutapp.com/
+
+#### Server Management
+
+* Userify | https://userify.com | [@userify](https://twitter.com/userify) | free | Securely manage server user accounts, SSH keys, and sudo roles in your cloud or datacenter.
 
 #### Customer Support/Help Desks
 

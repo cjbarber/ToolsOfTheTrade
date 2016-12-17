@@ -821,6 +821,8 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 
 * Prezi | https://prezi.com/
 * markpress | https://github.com/gamell/markpress | HTML presentations from Markdown files
+* Reveal.js | https://github.com/hakimel/reveal.js | Flexible HTML presenation framework for creating beautiful slides
+* Slides | https://slides.com/ | Free - $20/mo | Online editor built with Reveal.js that includes a graphical interface
 
 ## Use
 

@@ -380,12 +380,15 @@ or don't do in your app | Customer.io lets you send newsletters to segments of c
 
 * Launchrock | https://www.launchrock.com | [@launchrock](https://twitter.com/launchrock) | $49/mo - $199/mo |  | Even if you know how to code a web page with HTML, you'll love how much faster it is with our landing page builder. Load up your logo and graphic assets, set up a few base colors from your brand palette and publish away.
 * Unbounce | http://unbounce.com | [@unbounce](https://twitter.com/unbounce) | $49/mo - $199/mo |  | Unbounce empowers marketers to act independently from technical teams, improving their efficiency and their ability to generate sales. Produce high-converting landing pages without dealing with I.T. bottlenecks. See how Unbounce can enhance your campaigns and maximize your marketing spend.
+* LeadPages | https://www.leadpages.net/ | $25/mo - $199/mo | Generate leads and increase revenue using the industry-leading landing page builder with accompanying suite of lead generation and opt-in tools.
+* Instapge | https://instapage.com/ | $29/mo - $127/mo | A landing page solution for optimizing your ad spend. Build, Integrate, Collaborate & Optimize.
 * KickoffLabs | https://kickofflabs.com | [@kickofflabs](https://twitter.com/kickofflabs) | $29/mo - $99/mo | Stop building landing pages.
 Start building smarter campaigns. | Send customers to a tailored page that speaks to them. Keep them engaged with signup-forms, newsletters and – best of all – a very cool, unique REWARD system for customer referrals.
 * Launch Effect | https://www.launcheffectapp.com | [@LaunchEffect](https://twitter.com/LaunchEffect) | $35/mo-  $65/mo | A WORDPRESS THEME FOR
 VIRAL LAUNCHES | Launch Effect is a free responsive one-page WordPress theme that lets you create a viral campaign in minutes
 * Prefinery | https://www.prefinery.com | [@prefinery](https://twitter.com/prefinery) | $19/mo-  $399/mo | Stress-free Beta Invitation and Management | Prefinery is beta invitations & management for serious product launches. You need more than just a landing page -- outsource your beta to Prefinery!
 * LaunchGator | http://launch.deskgator.com | [@fizzysoftware](https://twitter.com/fizzysoftware) |  | Create a Viral Launching Soon page | Create awesome coming soon pages for your upcoming website. Log In and add your website information. Add custom colors and backgrounds that highlight your service.
+* Signupper | https://www.signupper.net/ | $119/mo - $449/mo | Account signup forms for web applications. Engineering controls the tech side, while marketing gets tools to manage the account signup form. Tweak the design, add and remove 3rd party integrations, and reconfigure the signup form without help from your engineers.
 
 ### CRM/Sales Tools
 

@@ -138,7 +138,7 @@ It's hosted on GitHub for a reason! Please submit pull requests.
 
 * BitBucket Issues | https://bitbucket.org | [@bitbucket](https://twitter.com/bitbucket) | $10/mo - $200/mo | Unlimited private code repositories | Host, manage, and share Git and Mercurial repositories in the cloud. Free, unlimited private repositories for up to 5 developers give teams the flexibility to grow and code without restrictions.
 * BugHerd | https://bugherd.com | [@bugherd](https://twitter.com/bugherd) | $29/mo - $180/mo | Turn client feedback into actionable tasks. | BugHerd lets you quickly see, at a glance, how your project is going and what everyone is working on. The task board lets you keep team members in sync by assigning and scheduling tasks with a simple drag and drop.
-* Bugify | $59 | https://www.bugify.com | [@bugify](https://twitter.com/bugify) | Self hosted issue management system. One-time payment. Written in PHP.
+* Bugify | $59 | https://bugify.com | [@bugify](https://twitter.com/bugify) | Self hosted issue management system. One-time payment. Written in PHP.
 * GitHub Issues | https://github.com | [@GitHub](https://twitter.com/GitHub) | $7/mo - $50/mo | Build software better, together. | GitHub is the largest code host on the planet with over 13.2 million repositories. Large or small, every repository comes with the same powerful tools. These tools are open to the community for public projects and secure for private projects.
 * GitLab Issues | https://about.gitlab.com | [@gitlabhq](https://twitter.com/gitlabhq) | free |GitLab is open source software to collaborate on code that is used by more than 100,000 organisations worldwide. Unlimited private repositories on GitLab.com or host your own instance. Enterprise Edition includes deep LDAP support.
 * Huboard | https://huboard.com | [@huboard](https://twitter.com/huboard) | $7/mo - $24/mo | GitHub issues made awesome
@@ -219,7 +219,7 @@ don't have time for analytics | We take your data and present in a beautiful tim
 
 ### User Testing
 
-* Silverback 2.0 | https://silverbackapp.com | [@silverbackapp](https://twitter.com/silverbackapp) | 69.95 | Guerrilla usability testing software for designers and developers | Silverback makes it easy, quick and cheap for everyone to perform guerrilla usability tests with no setup and no expense, using hardware already in your Mac.
+* Silverback 2.0 | http://silverbackapp.com | [@silverbackapp](https://twitter.com/silverbackapp) | 69.95 | Guerrilla usability testing software for designers and developers | Silverback makes it easy, quick and cheap for everyone to perform guerrilla usability tests with no setup and no expense, using hardware already in your Mac.
 
 ### HR
 

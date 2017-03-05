@@ -7,7 +7,7 @@
 ·
 <b><a href="#use">Use</a></b>
 ·
-<b><a href="#contributing">Contributing</a></b>
+<b><a href="#authors">Authors</a></b>
 </p>
 
 ##### Background
@@ -840,18 +840,16 @@ This list also uses tags to help when searching the contents:
 
 - **Hosted?** `Hosted`, `Self-hosted`
 
-## Contributing
+## Authors
 
-- Star this repo to help ensure it is maintained.
-- [Tweet this repo](https://twitter.com/intent/tweet?related=chrisbarber&text=Hacker%20News%20Tools%20of%20The%20Trade&url=https%3A%2F%2Fgithub.com%2Fcjbarber%2FToolsOfTheTrade&via=chrisbarber) so that more people can discover and add to it.
+**[Chris Barber](https://www.chrisbarber.co)**
 
-### Additions
+[![](https://img.shields.io/github/followers/cjbarber.svg?style=social&label=Follow%20cjbarber)](https://github.com/cjbarber) [![](https://img.shields.io/twitter/follow/chrisbarber.svg?style=social)](https://twitter.com/chrisbarber)
 
-- **If you are adding a tool you are affiliated with please include other improvements/fixes to the repo.**
-- Ideally the tool should be hosted as this is stated in the background of the list.
-- Descriptions should be concise, descriptive and not marketing-focused.
-- Avoid links prepended with `/en`, `gb` etc. so that the link will redirect to the user's own language/location.
-- Follow the addition format which is currently:
-```
- * Example | https://example.com | [@example](https://twitter.com/example) | cost | description + tags
-```
+**[Craig Davison](https://davison.io)**
+
+[![](https://img.shields.io/github/followers/davisonio.svg?style=social&label=Follow%20davisonio)](https://github.com/davisonio) [![](https://img.shields.io/twitter/follow/davisonio.svg?style=social)](https://twitter.com/davisonio)
+
+With many thanks to the [contributors](https://github.com/davisonio/awesome-irc/graphs/contributors). :clap:
+
+**Contributions are welcome!** Check out the [Contributing Guidelines](https://github.com/davisonio/awesome-irc/blob/master/CONTRIBUTING.md). :raised_hands:

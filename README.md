@@ -377,6 +377,7 @@ or don't do in your app | Customer.io lets you send newsletters to segments of c
 * MailChimp | https://mailchimp.com
 * Campaign Monitor | https://www.campaignmonitor.com | [@](https://www.campaignmonitor.com/customers/) | $9/mo - $699/mo | CAMPUnbounce Feature Tour |
 * Sendy | https://sendy.co | [@getsendy](https://twitter.com/getSendy) | $59 one time fee, host yourselfor use a hosted sendy instance from a variety of providers.
+* Image-Charts | https://image-charts.com | [@imagecharts](https://twitter.com/imagecharts) | free - $49/mo, self-hosted plan available | Include animated charts as image into emails, no server-side rendering, 1 URL = 1 chart, compatible with Google Image Charts.
 
 ### Email Collection/Landing Page Apps
 

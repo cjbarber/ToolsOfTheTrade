@@ -123,6 +123,7 @@ It's hosted on GitHub for a reason! Please submit pull requests.
 
 ### Identity Verification
 
+* Cognito | https://cognitohq.com | [@getcognito](https://twitter.com/getcognito) | Frictionless, modern identity verification that starts with just a phone number.
 * BlockScore | https://blockscore.com | [@getblockscore](https://twitter.com/getblockscore) | $1/verification - $5/verification | Individual ID verifications and company verifications | Verify customers in realtime. Implement in hours.
 
 ### Browser/Email Testing

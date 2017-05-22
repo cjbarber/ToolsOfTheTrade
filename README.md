@@ -221,6 +221,7 @@ don't have time for analytics | We take your data and present in a beautiful tim
 ### User Testing
 
 * Silverback 2.0 | http://silverbackapp.com | [@silverbackapp](https://twitter.com/silverbackapp) | 69.95 | Guerrilla usability testing software for designers and developers | Silverback makes it easy, quick and cheap for everyone to perform guerrilla usability tests with no setup and no expense, using hardware already in your Mac.
+* HotJar | https://www.hotjar.com | [@hotjar](https://twitter.com/hotjar) | Free - $29/mo (personal) | Records videos and collects heatmaps of your site visitor actions.
 
 ### HR
 
@@ -280,7 +281,7 @@ don't have time for analytics | We take your data and present in a beautiful tim
 
 ### Application Distribution
 
-* HockeyApp | https://www.hockeyapp.net | [@hockeyapp](https://twitter.com/hockeyapp) | $10/mo - $129/mo depending on number of apps and number of owners | Distribution of iOS, Android, Windows Phone and Mac OS apps | Includes analytics, user feedback and crash reports.
+* HockeyApp | https://www.hockeyapp.net | [@hockeyapp](https://twitter.com/hockeyapp) | Free - $129/mo depending on number of apps and number of owners | Distribution of iOS, Android, Windows Phone and Mac OS apps | Includes analytics, user feedback and crash reports.
 
 ### Log Monitoring
 
@@ -372,8 +373,7 @@ currency conversion JSON API | A simple and easy-to-integrate exchange rates API
 ### Email Marketing
 
 * MailCharts | https://www.mailcharts.com | [@mailcharts](https://twitter.com/mailcharts) | $30/mo | Track & understand how your competitors use email marketing | MailCharts tracks over a thousand companies, bringing you actionable insights to help you improve your email marketing strategy, make data-driven decisions and gain design and content inspiration.
-* Customer.io | https://customer.io |  | $50/mo - $1250/Mo | Send email based on what people do
-or don't do in your app | Customer.io lets you send newsletters to segments of customers using data from your site.
+* Customer.io | https://customer.io |  | $50/mo - $1250/Mo | Send email based on what people do or don't do in your app | Customer.io lets you send newsletters to segments of customers using data from your site.
 * Vero | https://www.getvero.com | [@veroapp](https://twitter.com/veroapp) | $99/mo | Send emails based on what your customers do | Vero makes it easy to create segments of customers based on the attributes you capture (e.g. age, location, gender) and the actions your customers take (e.g. logged in, used feature x, checked out, etc.).
 * MailChimp | https://mailchimp.com
 * Campaign Monitor | https://www.campaignmonitor.com | [@](https://www.campaignmonitor.com/customers/) | $9/mo - $699/mo | CAMPUnbounce Feature Tour |

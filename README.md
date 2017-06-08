@@ -442,6 +442,7 @@ for Your Enterprise | Whether planning ahead or booking on the fly, find and res
 * Do.com
 * RescueTime | https://www.rescuetime.com | [@rescuetime](https://twitter.com/rescuetime) | $9/mo | RescueTime gives you an accurate picture of how you spend your time to help you become more productive every day.
 * Qbserve | https://qotoqot.com/qbserve/ | [@Qbserve](https://twitter.com/Qbserve) | $40 one-time | Qbserve is a time tracker for Mac that does whatever RescueTime can but also tracks project time automatically, generates invoices, and stores tracked data locally.
+* Timing | https://timingapp.com/ | [@TimingApp](https://twitter.com/TimingApp) | $29 - $79 | Automatic time and productivity tracking for Mac. Helps you stay on track with your work and ensures no billable hours get lost (if you are billing hourly).
 
 ### Prototyping/Mockups
 

@@ -674,6 +674,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 
 * Heroku | https://www.heroku.com | 1000 free hours/month for verified accounts
 * Cloud Foundry | https://www.cloudfoundry.org | host it yourself, or use one of MANY hosting services
+* IBM Bluemix | https://www.bluemix.net | Cloud Foundry, Kubernetes (Containers), OpenWhisk (Server-less) with many API including Watson
 * Pagodabox | https://pagodabox.io |
 * Clever Cloud | https://www.clever-cloud.com |
 * Google App Engine | https://cloud.google.com/appengine/docs |

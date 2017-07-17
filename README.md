@@ -381,6 +381,7 @@ currency conversion JSON API | A simple and easy-to-integrate exchange rates API
 * Sendy | https://sendy.co | [@getsendy](https://twitter.com/getSendy) | $59 one time fee, host yourselfor use a hosted sendy instance from a variety of providers.
 * Image-Charts | https://image-charts.com | [@imagecharts](https://twitter.com/imagecharts) | free - $49/mo, self-hosted plan available | Include animated charts as image into emails, no server-side rendering, 1 URL = 1 chart, compatible with Google Image Charts.
 * Drip | https://www.getdrip.com | [@getdrip](https://twitter.com/getdrip) | free for < 100 subscribers, paid plans from $49/mo | Advanced marketing automation with workflows, drip campaigns, conversion tracking etc..
+* MailerLite | https://www.mailerlite.com | [@mailerlite](https://twitter.com/mailerlite) | free - $140/month | free plan offers a lot of features
 
 ### Email Collection/Landing Page Apps
 

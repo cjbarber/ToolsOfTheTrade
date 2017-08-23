@@ -193,8 +193,6 @@ Features: goals of the week, week view and quadrant matrix, pomodoro timer, shar
 * Mixpanel | https://mixpanel.com | [@mixpanel/](https://twitter.com/mixpanel/) | $150/mo - $2000/mo | Actions speak louder than page views. | For years, companies have pushed page views as a primary measure of success. Page view counts are popular because they are easy to report, but ultimately cannot tell you how engaged your visitors are. Mixpanel lets you measure what customers do in your app by reporting actions, not page views.
 * Amplitude | https://amplitude.com | $299/mo | Mobile Analytics for decision makers
 * Snowplow | http://snowplowanalytics.com | [@SnowPlowData](https://twitter.com/SnowPlowData) |  | Snowplow is the most powerful, flexible, scalable web analytics platform in the world. | Snowplow enables analysts to perform a wide variety of both simple and sophisticated analytics on your web analytics data.
-* DigMyData | https://www.digmydata.com | [@digmydata](https://twitter.com/digmydata) | $39/mo | The analytics dashboard for those who
-don't have time for analytics | We take your data and present in a beautiful timeline chart. We bet you’ve never seen some of your data – and certainly not all together in one place.
 * Segment | https://segment.com |  | $29/mo - $349/mo | The right way to manage your tools. | The idea is simple: one pipeline for all your data. Send data to any third-party tool with a single integration.
 * Clicky | https://clicky.com | [@clicky](https://twitter.com/clicky) | $9.99/mo - $19.99/mo | Real Time Web Analytics | Clicky lets you see every visitor and every action they take on your web site, with the option to attach custom data to visitors, such as usernames or email addresses. Analyze each visitor individually and see their full history.
 * Google Analytics | http://www.google.com/analytics/ | Google Analytics lets you measure your advertising ROI as well as track your Flash, video, and social networking sites and applications.
@@ -207,6 +205,7 @@ don't have time for analytics | We take your data and present in a beautiful tim
 * Keen IO | https://keen.io | [@keen_io](https://twitter.com/keen_io) | $0 - $2000+/mo | Custom analytics shouldn't be a pain in the backend. Keen IO's powerful APIs do the heavy lifting for you, so you can gather all the data you want and start getting the answers you need.
 * Heap Analytics | https://heapanalytics.com | [@heap](https://twitter.com/heap) | 0 - $599+ | Instant, retroactive analytics for web and iOS. No code required.
 * Gauges | http://get.gaug.es | [@GaugesApp](https://twitter.com/gaugesapp) | $6-$48/mo | Gauges provides real time web analytics such as how many people visit your site, where they come from, and where they go.
+* Wisdom | https://getWisdom.io | Free - $2000+/mo | Session Replay | Wisdom is the most accurate live visitor session recorder service available. Focusing only on session replay, Wisdom reconstructs a virtual desktop screen for every visitor, across all tabs, to capture the true feel of every visitor's experience.
 
 ### Conversion Optimization & A/B Testing
 
@@ -222,6 +221,7 @@ don't have time for analytics | We take your data and present in a beautiful tim
 
 * Silverback 2.0 | http://silverbackapp.com | [@silverbackapp](https://twitter.com/silverbackapp) | 69.95 | Guerrilla usability testing software for designers and developers | Silverback makes it easy, quick and cheap for everyone to perform guerrilla usability tests with no setup and no expense, using hardware already in your Mac.
 * HotJar | https://www.hotjar.com | [@hotjar](https://twitter.com/hotjar) | Free - $29/mo (personal) | Records videos and collects heatmaps of your site visitor actions.
+* Wisdom | https://getWisdom.io | Free - $2000+/mo | Session Replay | Wisdom is the most accurate live visitor session recorder service available. Focusing only on session replay, Wisdom reconstructs a virtual desktop screen for every visitor, across all tabs, to capture the true feel of every visitor's experience.
 
 ### HR
 
@@ -287,7 +287,7 @@ don't have time for analytics | We take your data and present in a beautiful tim
 
 * Fluentd | http://www.fluentd.org | [@fluentd](https://twitter.com/fluentd) |  | Set Up Once, Collect More | Fluentd is an open source data collector designed for processing data streams. 150+ plugins instantly enable you to store the data for Log Management, Big Data Analytics, etc
 * Flume | https://github.com/cloudera/flume
-* Graylog | ttps://www.graylog.org| [@graylog2](https://twitter.com/graylog2) | Field-tested open source data analytics system used and trusted all around the world. Search your logs, create charts, send reports and be alerted when something happens. All running on the existing JVM in your datacenter.
+* Graylog | https://www.graylog.org | [@graylog2](https://twitter.com/graylog2) | Field-tested open source data analytics system used and trusted all around the world. Search your logs, create charts, send reports and be alerted when something happens. All running on the existing JVM in your datacenter.
 * LogEntries | https://logentries.com | [@logentries](https://twitter.com/logentries) | $16/mo - $245/mo | Log Management & Analytics Made Easy | Logentries provides an easy-to-use cloud service for log management and analytics.
 * Loggly | https://www.loggly.com | [@loggly](https://twitter.com/loggly) | $49/mo - $349/mo | Solve operational problems faster. | Loggly helps cloud-centric organizations—organizations that build and manage cloud-facing applications—to solve operational problems faster.
 * Logstash | https://www.elastic.co/products/logstash | [@logstash](https://twitter.com/logstash) |  | Ship logs from any source, parse them, get the right timestamp, index them, and search them. | logstash is a tool for managing events and logs. You can use it to collect logs, parse them, and store them for later use (like, for searching). Speaking of searching, logstash comes with a web interface for searching and drilling into all of your logs.
@@ -549,9 +549,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * AppNeta (Tracelytics) | https://www.appneta.com/
 * Sensu | https://sensuapp.org/
 * Riemann | http://riemann.io
-* Pulse | https://github.com/heroku/pulse/
 * Pingdom | https://www.pingdom.com/
-* UptimeButler | https://uptimebutler.com/
 * UptimeRobot | https://uptimerobot.com/
 * Where's It Up? | https://wheresitup.com/
 * Nagios
@@ -615,7 +613,6 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Buddycloud | http://buddycloud.com
 * Gitter | https://gitter.im | Chat for open-source and private development teams, with strong Github integration features
 * appear.in | one click video conversations
-* Kato | http://kato.im/
 * Convo | https://www.convo.com/
 * Zoom | https://www.zoom.us/
 

@@ -359,7 +359,7 @@ from web apps | ostageApp helps design, send, and analyze emails within minutes.
 
 ### Other APIs
 
-* Filepicker | https://www.filestack.com | [@FilePicker](https://twitter.com/FilePicker) | $19/mo - $499/mo | Easy, Powerful File Uploads | Connect, Store, and Process any file from anywhere on the Internet
+* Filestack | https://www.filestack.com | [@FileStack](https://twitter.com/FileStack) | $0/mo - $49/mo | Easy, Powerful File Uploads | Connect, Store, and Process any file from anywhere on the Internet
 * Open Exchange Rates | https://openexchangerates.org |  | $12/mo - $97/mo | Real-time exchange rates &
 currency conversion JSON API | A simple and easy-to-integrate exchange rates API in JSON format, with HTTPS and JSONP support, with examples, guides and full documentation.
 

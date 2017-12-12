@@ -596,6 +596,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Etherpad | http://etherpad.org/
 * Kami | https://www.kamihq.com | View, edit, annotate, and collaborate on documents on your browser
 * OneNote | http://www.onenote.com/ | [@msonenote](https://twitter.com/msonenote) | free | The digital note-taking app for your devices
+* Taskade | https://www.taskade.com | Collaborative notes, task lists, and outlines for teams.
 
 ### Group Communication/Chat Tools
 

@@ -580,6 +580,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 ### User Feedback
 
 * Uservoice | https://www.uservoice.com/
+* Insight Stash | https://insightstash.com/
 
 ### Designers
 

@@ -42,6 +42,7 @@ It's hosted on GitHub for a reason! Please submit pull requests.
 * [Browser/Email Testing](#browseremail-testing)
 * [Bug/Issue Tracking](#bugissue-tracking)
 * [Planning & Project Management](#planning--project-management)
+* [Time Tracking](#time-tracking)
 * [App Developer Tools](#app-developer-tools)
 * [Localization & Internationalization](#localization--internationalization)
 * [Business & Traffic Analytics](#business--traffic-analytics)
@@ -174,6 +175,14 @@ Features: goals of the week, week view and quadrant matrix, pomodoro timer, shar
 * LeanKit | https://leankit.com | [@leankit](https://twitter.com/leankit) | $15/mo - $19/mo | Instant Project visibility | In LeanKit, you map your organization’s processes onto virtual whiteboards. On each board the process steps are represented as vertical and horizontal lanes. Cards represent work items, which team members update and move from across the board as they complete their share of the work. Rather than having to ask for status reports, managers and customers can just look at the board. Board updates are visible in seconds around the globe and e-mail alerts and RSS feeds are available, so you and your team can take immediate action to resolve issues before they turn into serious problems.
 * Breeze | https://www.breeze.pm | [@BreezeTeam](https://twitter.com/BreezeTeam) | $29/mo - $129/mo | Organize and track everything. Breeze shows you what's being worked on, who's working on what, where things are in the workflow and how much time it took.
 * Sandglaz | https://www.sandglaz.com | [@Sandglaz](https://twitter.com/sandglaz) | $5/mo | Simplest project management for agile teams. Sandglaz combines the simplicity of a todo list with the planning ability of Gantt charts. It's the last tool  you'll try.
+
+### Time Tracking
+
+* Toggl | https://toggl.com | [@toggl](https://twitter.com/toggl) | free-$59/mo | Toggl’s time tracker is built for speed and ease of use. Time logging with Toggl is so simple that you’ll actually use it.
+* Clockify | https://clockify.me | [@clockifyme](https://twitter.com/clockifyme) | free | Clockify is the only 100% free time tracking software that lets you and your team track time with one click. It works like Toggl but offers unlimited features and unlimited users.
+* Hubstaff | https://hubstaff.com | [@hubstaff](https://twitter.com/Hubstaff) | free-$9/mo | Hubstaff is time tracking software designed to make remote team management more effective and efficient. You just have to sign up, download our intuitive desktop app and push the start button to begin tracking time.
+* Tickspot | https://www.tickspot.com/ | [@tickspot](https://twitter.com/tickspot) | free-$149/mo | Straightforward time tracking software to help your team run more profitable projects. Whether you prefer iOS, Android, the Apple Watch, or your desktop computer, Tick is the easiest way to track your time.
+* Kimai | http://www.kimai.org/ | [@kimai_org](https://twitter.com/kimai_org) | Kimai is a free open source timetracker. It tracks work time and prints out a summary of your activities on demand. Yearly, monthly, daily, by customer, by project, by action, etc. | self-hosted
 
 ### App Developer Tools
 

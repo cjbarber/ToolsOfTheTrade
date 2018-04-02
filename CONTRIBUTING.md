@@ -22,9 +22,10 @@ For additions, check that it hasn't been submitted already and that it is suitab
   - Additions should be added to the bottom of the section.
   - Please follow the [Addition format](#addition-format).
   - **If you are adding a tool you are affiliated with please include other improvements/fixes to the repo.**
-  - Ideally the tool should be hosted as this is stated in the background of the list.
+  - Ideally the tool should be hosted, however self-hosted tools are acceptable too.
+  - The product/service should have had some coverage on Hacker News - whether this be comments or posts.
   - Descriptions should be concise, descriptive and not marketing-focused.
-  - Avoid links prepended with `/en`, `gb` etc. so that the link will redirect to the user's own language/location.
+  - Avoid links appended with `/en`, `gb` etc. so that the link will redirect to the user's own language/location.
 
 3. Commit & [push](https://help.github.com/articles/pushing-to-a-remote/) your changes to a new branch.
 

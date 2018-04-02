@@ -581,11 +581,13 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 ### User Feedback
 
 * Uservoice | https://www.uservoice.com/
+* Userecho | https://userecho.com/
 
 ### Designers
 
-* Dribbble | https://dribbble.com/
-* Sortfolio | https://sortfolio.com
+* Dribbble | https://dribbble.com
+* Sortfolio | http://sortfolio.com
+* Behance | https://www.behance.net
 
 ### Notes
 
@@ -597,6 +599,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Etherpad | http://etherpad.org/
 * Kami | https://www.kamihq.com | View, edit, annotate, and collaborate on documents on your browser
 * OneNote | http://www.onenote.com/ | [@msonenote](https://twitter.com/msonenote) | free | The digital note-taking app for your devices
+* Taskade | https://www.taskade.com | [@taskade](https://twitter.com/taskade) | free | Real-time collaborative notes, checklists, and outlines for teams.
 
 ### Group Communication/Chat Tools
 
@@ -615,6 +618,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * appear.in | one click video conversations
 * Convo | https://www.convo.com/
 * Zoom | https://www.zoom.us/
+* Telegram | https://telegram.org/
 
 [HipChat (now Stride) Alternatives](https://github.com/cjbarber/hipchat-alternatives)
 

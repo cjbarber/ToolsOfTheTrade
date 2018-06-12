@@ -121,6 +121,7 @@ It's hosted on GitHub for a reason! Please submit pull requests.
 * [Documentation](#documentation)
 * [Business Cards and Print Material](#business-cards-and-print-material)
 * [Presentations / Slides](#presentations--slides)
+* [Web Scraping](#web-scraping)
 
 ### Identity Verification
 
@@ -832,6 +833,10 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * markpress | https://github.com/gamell/markpress | HTML presentations from Markdown files
 * Reveal.js | https://github.com/hakimel/reveal.js | Flexible HTML presenation framework for creating beautiful slides
 * Slides | https://slides.com/ | Free - $20/mo | Online editor built with Reveal.js that includes a graphical interface
+
+### Web Scraping
+
+* Scraper API | https://www.scraperapi.com | [@scraperapi](https://twitter.com/scraperapi) | $0/mo - $400/mo | Easily Build Scalable Web Scrapers | Handles proxies, browsers, and CAPTCHAs for you, so you can scrape any web page with a simple API call.
 
 ## Use
 

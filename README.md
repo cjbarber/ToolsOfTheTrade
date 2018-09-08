@@ -479,7 +479,7 @@ IN MINUTES | PickFu is a tool that provides instant, unbiased and insightful pub
 
 ### Database
 
-* Bulbs | http://bulbflow.com
+* Bulbs | http://bulbflow.org, Python persistence framework for graph databases.
 * Datomic | https://www.datomic.com | [@datomic_team](https://twitter.com/datomic_team) | The fully transactional, cloud-ready, immutable database. | Immutable data means strong consistency combined with horizontal read scalability, plus built-in caching. Datomic is a distributed database designed to enable scalable, flexible and intelligent applications, running on next-generation cloud architectures.
 * Tinkerpop | http://tinkerpop.apache.org | Open source software products in the graph space.
 * Vertabelo | http://www.vertabelo.com | Web-based tool for database design | [@vertabelo](https://twitter.com/Vertabelo) | Vertabelo allows you to visually design database models for PostgreSQL, MySQL, Oracle, SQL Server, SQLite, and IBM DB2. You can import the existing database structure from SQL, XML, or using reverse engineering tool. After you design a model, you can generate SQL script or ready-to-use code for various ORMs (Propel, jOOQ, SQLAlchemy, or [Vertabelo Mobile ORM](http://mobile-orm.vertabelo.com/)).

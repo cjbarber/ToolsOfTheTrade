@@ -119,6 +119,7 @@ It's hosted on GitHub for a reason! Please submit pull requests.
 * [Storage](#storage)
 * [Task Scheduling](#task-scheduling)
 * [Documentation](#documentation)
+* [Mail Providers](#mail-providers)
 * [Business Cards and Print Material](#business-cards-and-print-material)
 * [Presentations / Slides](#presentations--slides)
 
@@ -819,6 +820,11 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 
 * Dash | https://kapeli.com/dash
 * Zeal | https://zealdocs.org | [@zealdocs](https://twitter.com/zealdocs) | Free | Offline documentation browser
+
+### Mail Providers
+
+* Google suite | https://gsuite.google.com/
+* Zoho Mail | www.zohomail.com
 
 ### Business Cards and Print Material
 

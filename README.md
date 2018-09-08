@@ -854,6 +854,6 @@ This list also uses tags to help when searching the contents:
 
 [![](https://img.shields.io/github/followers/davisonio.svg?style=social&label=Follow%20davisonio)](https://github.com/davisonio) [![](https://img.shields.io/twitter/follow/davisonio.svg?style=social)](https://twitter.com/davisonio)
 
-With many thanks to the [contributors](https://github.com/davisonio/awesome-irc/graphs/contributors). :clap:
+With many thanks to the [contributors](https://github.com/cjbarber/ToolsOfTheTrade/graphs/contributors). :clap:
 
-**Contributions are welcome!** Check out the [Contributing Guidelines](https://github.com/davisonio/awesome-irc/blob/master/CONTRIBUTING.md). :raised_hands:
+**Contributions are welcome!** Check out the [Contributing Guidelines](https://github.com/cjbarber/ToolsOfTheTrade/blob/master/CONTRIBUTING.md). :raised_hands:

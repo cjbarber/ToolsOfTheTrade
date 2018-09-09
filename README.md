@@ -354,6 +354,9 @@ your customers.
 * Reamaze | https://www.reamaze.com | [@reamaze](https://twitter.com/reamaze) | $15/mo | Lightweight, Lightspeed Help Desk. Email, Social, Branded, Integrated. | Reamaze provides your team with helpdesk functionality that integrates with your application, as well as integrations with popular 3rd party tools in your workflow.
 * Jitbit Helpdesk | https://www.jitbit.com/helpdesk/ | [@jitbithelpdesk](https://twitter.com/jitbithelpdesk) | $29/mo - $199/mo | A help desk app that actually makes your work easier, not harder. | Comes in both hosted and on-premise versions. Very well designed and easy to use. Has all the must-have features and doesn't get in your way.
 * Drift | https://www.drift.com | [@drift](https://twitter.com/drift) | free for < 100 contacts, paid from $49/mo | Stop wasting your website traffic. | Sales-oriented live chat and in-app messaging, with chatbot automation.
+* Drift | https://www.drift.com | [@drift](https://twitter.com/drift) | free for < 100 contacts, paid from $49/mo | Stop wasting your website traffic. | Sales-oriented live chat and in-app messaging, with chatbot automation.
+* Zammad | https://www.zammad.com | [@zammadhq](https://twitter.com/zammadhq) | $0/mo - $24/mo | Zammad is a award winning open source helpdesk/customer support system with a beautiful UI and many features to manage customer communication via several channels like telephone, facebook, twitter, chat and e-mails. It is distributed under the GNU AFFERO General Public License (AGPL).
+
 
 ### Transactional Email
 

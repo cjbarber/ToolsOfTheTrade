@@ -151,6 +151,7 @@ Instant project management for GitHub repositories |
 * Post It Notes on a (Physical) Wall
 * Sifter | http://sifterapp.com | [@sifterapp](https://twitter.com/sifterapp) | $29/mo - $149/mo | Less configuring. More doing. | We've put in the time researching bug tracking to help create the simplest possible workflow for you to get work done. From time-to-time we even blog about some of our ideas around this optimal bug tracking process…
 * Usersnap | https://usersnap.com | [@usersnap](https://twitter.com/usersnap) | $19/mo-$99/mo | Usersnap is visual bug reporting for anyone working on web projects. | Get visual feedback and precious browser information with every bug report to reproduce and fix them even faster.
+* Instabug | https://instabug.com | [@instabug](https://twitter.com/instabug) | $49/mo-$349/mo | Instabug is comprehensive bug reporting and in-app feedback tool for mobile apps. | Receive detailed feedback attached with every bug report sent by your testers or users to debug  and build better apps, faster. 
 
 ### Planning & Project Management
 
@@ -222,7 +223,7 @@ Features: goals of the week, week view and quadrant matrix, pomodoro timer, shar
 
 ### User Management
 
-* Stormpath | https://stormpath.com | [@gostormpath](https://twitter.com/gostormpath) | free | Securely create, store, and manage user accounts, API keys, and user data for your web applications.
+* Okta | https://developer.okta.com/ | [@OktaDev](https://twitter.com/OktaDev) | free | Okta adds authentication, authorization, and user management to your web or mobile app within minutes.
 
 ### User Testing
 
@@ -479,8 +480,8 @@ IN MINUTES | PickFu is a tool that provides instant, unbiased and insightful pub
 
 ### Database
 
-* Bulbs | http://bulbflow.com
 * Citus | https://www.citusdata.com | Citus scales out PostgreSQL through sharding, replication, and query parallelization. So you can focus on your application, not worry about your database. Citus is available as open source, enterprise software, and fully managed database as a service.
+* Bulbs | http://bulbflow.org | Python persistence framework for graph databases.
 * Datomic | https://www.datomic.com | [@datomic_team](https://twitter.com/datomic_team) | The fully transactional, cloud-ready, immutable database. | Immutable data means strong consistency combined with horizontal read scalability, plus built-in caching. Datomic is a distributed database designed to enable scalable, flexible and intelligent applications, running on next-generation cloud architectures.
 * Tinkerpop | http://tinkerpop.apache.org | Open source software products in the graph space.
 * Vertabelo | http://www.vertabelo.com | Web-based tool for database design | [@vertabelo](https://twitter.com/Vertabelo) | Vertabelo allows you to visually design database models for PostgreSQL, MySQL, Oracle, SQL Server, SQLite, and IBM DB2. You can import the existing database structure from SQL, XML, or using reverse engineering tool. After you design a model, you can generate SQL script or ready-to-use code for various ORMs (Propel, jOOQ, SQLAlchemy, or [Vertabelo Mobile ORM](http://mobile-orm.vertabelo.com/)).
@@ -687,6 +688,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Microsoft Azure | https://azure.microsoft.com | Known for IaaS
 * Amazon Web Services | https://aws.amazon.com/elasticbeanstalk/ | Like Azure, it's more known for IaaS
 * Deis | http://deis.io (DIY PaaS)
+* Scalingo | https://scalingo.com | European PAAS
 
 ### VPS
 
@@ -855,6 +857,6 @@ This list also uses tags to help when searching the contents:
 
 [![](https://img.shields.io/github/followers/davisonio.svg?style=social&label=Follow%20davisonio)](https://github.com/davisonio) [![](https://img.shields.io/twitter/follow/davisonio.svg?style=social)](https://twitter.com/davisonio)
 
-With many thanks to the [contributors](https://github.com/davisonio/awesome-irc/graphs/contributors). :clap:
+With many thanks to the [contributors](https://github.com/cjbarber/ToolsOfTheTrade/graphs/contributors). :clap:
 
-**Contributions are welcome!** Check out the [Contributing Guidelines](https://github.com/davisonio/awesome-irc/blob/master/CONTRIBUTING.md). :raised_hands:
+**Contributions are welcome!** Check out the [Contributing Guidelines](https://github.com/cjbarber/ToolsOfTheTrade/blob/master/CONTRIBUTING.md). :raised_hands:

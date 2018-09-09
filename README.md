@@ -135,6 +135,7 @@ It's hosted on GitHub for a reason! Please submit pull requests.
 * EmailOnAcid | https://www.emailonacid.com | [@emailonacid](https://twitter.com/EmailonAcid) | $45/mo - $295/mo | Quickly ensure that your emails don't look like crap in any email client.
 * Rainforest QA | https://www.rainforestqa.com | [@rainforestqa](https://twitter.com/rainforestqa) | $500/mo - $2000/mo | Insanely simple integration testing.
 * DebugMail | https://debugmail.io | Free | Easy to use fake mail (SMTP) server for developers.
+* Mailosaur | https://mailosaur.com | [@mailosaur](https://twitter.com/mailosaur) | $19/mo - $199/mo | Email, SMS and Spam testing with virtual SMTP servers for business-grade usage.
 
 ### Bug/Issue Tracking
 
@@ -151,6 +152,7 @@ Instant project management for GitHub repositories |
 * Post It Notes on a (Physical) Wall
 * Sifter | http://sifterapp.com | [@sifterapp](https://twitter.com/sifterapp) | $29/mo - $149/mo | Less configuring. More doing. | We've put in the time researching bug tracking to help create the simplest possible workflow for you to get work done. From time-to-time we even blog about some of our ideas around this optimal bug tracking process…
 * Usersnap | https://usersnap.com | [@usersnap](https://twitter.com/usersnap) | $19/mo-$99/mo | Usersnap is visual bug reporting for anyone working on web projects. | Get visual feedback and precious browser information with every bug report to reproduce and fix them even faster.
+* Instabug | https://instabug.com | [@instabug](https://twitter.com/instabug) | $49/mo-$349/mo | Instabug is comprehensive bug reporting and in-app feedback tool for mobile apps. | Receive detailed feedback attached with every bug report sent by your testers or users to debug  and build better apps, faster. 
 
 ### Planning & Project Management
 
@@ -181,6 +183,7 @@ Features: goals of the week, week view and quadrant matrix, pomodoro timer, shar
 * Hubstaff | https://hubstaff.com | [@hubstaff](https://twitter.com/Hubstaff) | free-$9/mo | Hubstaff is time tracking software designed to make remote team management more effective and efficient. You just have to sign up, download our intuitive desktop app and push the start button to begin tracking time.
 * Tickspot | https://www.tickspot.com/ | [@tickspot](https://twitter.com/tickspot) | free-$149/mo | Straightforward time tracking software to help your team run more profitable projects. Whether you prefer iOS, Android, the Apple Watch, or your desktop computer, Tick is the easiest way to track your time.
 * Kimai | https://www.kimai.org/ | [@kimai_org](https://twitter.com/kimai_org) | Kimai is a free open source timetracker. It tracks work time and prints out a summary of your activities on demand. Yearly, monthly, daily, by customer, by project, by action, etc. | self-hosted
+* Timetrap | https://github.com/samg/timetrap | free | simple open source command line time tracking
 
 ### App Developer Tools
 
@@ -195,7 +198,7 @@ Features: goals of the week, week view and quadrant matrix, pomodoro timer, shar
 
 ### Business & Traffic Analytics
 
-* KISSmetrics | https://www.kissmetrics.com | [@kissmetrics/](https://twitter.com/kissmetrics/) | $150/mo - $500/mo | KISSmetrics tells you who’s doing it. | Every last piece gets connected to a real person. All of it. It doesn’t matter if people bounce around between different browsers and devices. Or even if it takes them 6 months to come back. You’ll see what real people do.
+* KISSmetrics | https://kissmetricshq.com | [@kissmetrics/](https://twitter.com/kissmetrics/) | $150/mo - $500/mo | KISSmetrics tells you who’s doing it. | Every last piece gets connected to a real person. All of it. It doesn’t matter if people bounce around between different browsers and devices. Or even if it takes them 6 months to come back. You’ll see what real people do.
 * Localytics | https://www.localytics.com | [@localytics/](https://twitter.com/localytics/)  |  Free up to 10k MAUs, $200/mo - $2700/mo above that  |  Find out what works in your mobile or web app.  Do more of it.  All in one place | Advanced analytics provide data and insight to help you build more successful apps.  Integrated Marketing helps you easily engage and acquire more customers.
 * Mixpanel | https://mixpanel.com | [@mixpanel/](https://twitter.com/mixpanel/) | $150/mo - $2000/mo | Actions speak louder than page views. | For years, companies have pushed page views as a primary measure of success. Page view counts are popular because they are easy to report, but ultimately cannot tell you how engaged your visitors are. Mixpanel lets you measure what customers do in your app by reporting actions, not page views.
 * Amplitude | https://amplitude.com | $299/mo | Mobile Analytics for decision makers
@@ -222,7 +225,7 @@ Features: goals of the week, week view and quadrant matrix, pomodoro timer, shar
 
 ### User Management
 
-* Stormpath | https://stormpath.com | [@gostormpath](https://twitter.com/gostormpath) | free | Securely create, store, and manage user accounts, API keys, and user data for your web applications.
+* Okta | https://developer.okta.com/ | [@OktaDev](https://twitter.com/OktaDev) | free | Okta adds authentication, authorization, and user management to your web or mobile app within minutes.
 
 ### User Testing
 
@@ -263,6 +266,7 @@ Features: goals of the week, week view and quadrant matrix, pomodoro timer, shar
 * Coveralls | https://coveralls.io | [@coverallsapp](https://twitter.com/coverallsapp) | $0/mo - $50/mo | Coveralls works with your continuous integration server to give you test coverage history and statistics. It integrates with any langauge and is free for open source.
 * Testributor | http://about.testributor.com | [@testributor](https://twitter.com/testributor) | Free | Testributor is an open source Continuous Integration platform. A hosted version is available for free, both for open source and private projects.
 * Wercker | http://www.wercker.com | [@wercker](https://twitter.com/wercker) | $0/mo - $350/mo | Wercker is a Docker-Native CI/CD Automation platform for Kubernetes & Microservice Deployments.
+* Monkey Test It | https://monkeytest.it | [@monkeytestit](https://twitter.com/monkeytestit) | $0/mo - $199/mo | Automated website checking tool to catch bugs on your website (broken links, missing images, JS errors, etc) before your users do. Integrates with Slack, most CI systems, webooks, and supports built-in scheduling.
 
 ### Dashboards
 
@@ -270,9 +274,11 @@ Features: goals of the week, week view and quadrant matrix, pomodoro timer, shar
 * Telemetry | https://www.telemetrytv.com | [@telemetrytv](https://twitter.com/telemetrytv) | $9/mo - $749/mo | Build realtime dashboard with powerful visualizations that look beautiful on big screen TVs, desktop computers, mobile devices, and embedded systems—all using a simple REST API that works with all modern languages.
 * Dashing | http://dashing.io | Dashing is a Sinatra based framework that lets you build beautiful dashboards.
 * Klipfolio | https://www.klipfolio.com | [@klipfolio](https://twitter.com/klipfolio) | $5/user/mo - $20/user/mo | Meet Your Business Dashboard | Connect to any data service to bring your key numbers together on one dashboard. Assign your data to visualizations to show the story behind the numbers. Cultivate a data-driven culture by sharing dashboards with everyone on your team.
+* Grafana | https://grafana.com | [@grafana](https://twitter.com/grafana) | $0 - $90/mo (+9/user/mo) | The analytics platform for all your metrics | Grafana allows you to query, visualize, alert on and understand your metrics no matter where they are stored. Create, explore, and share dashboards with your team and foster a data driven culture.
 
 ### Error/Exception Handling
 
+* CatchJS | https://catchjs.com | $49 - $499 | JavaScript error reporting for web apps. Can take screenshots and collect click trails, so reproducing bugs becomes easy.  
 * Crashlytics | http://try.crashlytics.com | [@crashlytics](https://twitter.com/crashlytics) | Free | Crash reports and grouping for easier analysis. Basic analytics and reports. | iOS & Android
 * Sentry | https://sentry.io/welcome/ | [@getsentry](https://twitter.com/getsentry) | $24/mo - $199/mo | Sentry notifies you when your users experience errors. | Know immediately when things happen in your application. Engage users before they have a chance to report a problem.
 * HoneyBadger | https://www.honeybadger.io | [@honeybadgerapp](https://twitter.com/honeybadgerapp) | $39/mo - $249/mo | Exception, uptime, and performance monitoring for Ruby. | It tells you about errors, downtime and performance issues as they happen. And it gives you the tools you need to fix them ...without burying you in data. Without silly rate limits or per-server fees.
@@ -312,12 +318,13 @@ Features: goals of the week, week view and quadrant matrix, pomodoro timer, shar
 
 ### Load Testing
 
-* Blitz | https://www.blitz.io | [@blitz_io](https://twitter.com/blitz_io) | $19.99/mo - $399.99/mo | LOAD TESTING FROM THE CLOUD | Building mobile applications, websites or APIs is an iterative process. New features and capabilities are being added constantly. Your application is rapidly and iteratively going through several distinct phases - Development, Staging, Production and Operations. At every step of the way, the ability to ensure that your application meets the highest levels of user satisfaction is critical.
 * Bees with Machine Guns! | https://github.com/newsapps/beeswithmachineguns
 * Flood.io | https://flood.io | [@flood_io](https://twitter.com/flood_io) | Free to $399/mo | Auto setup and results summaries/graphs of JMeter and Gatling load tests.  Can easily scale to 100K+ reqs/min.
 * Neustar Website Load Testing | https://www.neustar.biz/services/web-performance/load-testing | [@Neustar](https://twitter.com/Neustar) | $80/mo |  | Tackle performance problems such as bandwidth limitations, error rates exceeding thresholds, server PU limitations and much more.
 * Loader.io | https://loader.io | Free to 100.00$ / mo | Loader.io is a free load testing service that allows you to stress test your web-apps/apis with thousands of concurrent connections.
 * Locust.io | https://locust.io | [@locustio](https://twitter.com/locustio) | Open Source
+* k6.io | https://k6.io | [@k6_io](https://twitter.com/k6_io) | Free | Open Source | k6 is a developer centric open source load testing tool for testing the performance of your backend infrastructure. It’s built with Go and JavaScript to integrate well into your development workflow, so you can stay on top of performance without fuzz.
+* loadimpact.com | https://loadimpact.com/ | [@loadimpact](https://twitter.com/loadimpact) | $99.00+ | A SaaS performance testing solution for modern DevOps teams, built on top of the open source k6.io project.
 
 ### Server Monitoring
 
@@ -349,6 +356,9 @@ your customers.
 * Reamaze | https://www.reamaze.com | [@reamaze](https://twitter.com/reamaze) | $15/mo | Lightweight, Lightspeed Help Desk. Email, Social, Branded, Integrated. | Reamaze provides your team with helpdesk functionality that integrates with your application, as well as integrations with popular 3rd party tools in your workflow.
 * Jitbit Helpdesk | https://www.jitbit.com/helpdesk/ | [@jitbithelpdesk](https://twitter.com/jitbithelpdesk) | $29/mo - $199/mo | A help desk app that actually makes your work easier, not harder. | Comes in both hosted and on-premise versions. Very well designed and easy to use. Has all the must-have features and doesn't get in your way.
 * Drift | https://www.drift.com | [@drift](https://twitter.com/drift) | free for < 100 contacts, paid from $49/mo | Stop wasting your website traffic. | Sales-oriented live chat and in-app messaging, with chatbot automation.
+* Drift | https://www.drift.com | [@drift](https://twitter.com/drift) | free for < 100 contacts, paid from $49/mo | Stop wasting your website traffic. | Sales-oriented live chat and in-app messaging, with chatbot automation.
+* Zammad | https://www.zammad.com | [@zammadhq](https://twitter.com/zammadhq) | $0/mo - $24/mo | Zammad is a award winning open source helpdesk/customer support system with a beautiful UI and many features to manage customer communication via several channels like telephone, facebook, twitter, chat and e-mails. It is distributed under the GNU AFFERO General Public License (AGPL).
+
 
 ### Transactional Email
 
@@ -368,6 +378,7 @@ from web apps | ostageApp helps design, send, and analyze emails within minutes.
 * Filestack | https://www.filestack.com | [@FileStack](https://twitter.com/FileStack) | $0/mo - $49/mo | Easy, Powerful File Uploads | Connect, Store, and Process any file from anywhere on the Internet
 * Open Exchange Rates | https://openexchangerates.org |  | $12/mo - $97/mo | Real-time exchange rates &
 currency conversion JSON API | A simple and easy-to-integrate exchange rates API in JSON format, with HTTPS and JSONP support, with examples, guides and full documentation.
+* FormAPI | https://formapi.io | [@form_api](https://twitter.com/form_api) | $49/mo - $249/mo | PDF Service for Developers | Makes it easy for programmers to fill out and sign PDF documents. Saves a lot of development time if you need to generate a lot of contracts, invoices, etc. |
 
 ### Site Search
 
@@ -421,6 +432,7 @@ inside Gmail | Streak lets you keep track of all your deals right from your inbo
 * Claim.io | http://claim.io/welcome | [@claimio](https://twitter.com/claimio) | $189/mo-  $499/mo |  | Owning your name on 300 Social media sites not only makes it easier for people to find you or your business online - it also works as a "social media identity insurance", protecting you from name squatting and identity fraud, minimizing risk to your brand.
 * Exacttarget Marketing Cloud/Buddy Media | http://www.salesforce.com/products/marketing-cloud/overview/ | [@marketingcloud](https://twitter.com/marketingcloud) |  | Bringing you closer to your social customers with an integrated social content solution. | Run integrated campaigns across Facebook, Twitter, YouTube and your websites Increase fans, followers and advocates. Publish engaging and interactive social apps. Easily create landing pages and microsites and extend social to your websites. Understand engagement trends, demographics, conversions and business metrics with powerful analytics.
 * Sprout Social | https://sproutsocial.com | [@sproutsocial](https://twitter.com/sproutsocial) | $59/mo-  $1500/mo | Powerful Social Media Software | Sprout lets you post messages on Facebook, Twitter, Google+ and LinkedIn simultaneously from one easy-to-use message composition tool. Shorten links, attach photos, target your audience on Facebook, customize your posts and much more.
+* F5Bot | https://f5bot.com | free | F5Bot is free social media keyword monitoring | F5Bot will send you an email when your startup, your product, or your competitors are mentioned on Hacker News or Reddit.
 
 ### Naming
 
@@ -460,6 +472,8 @@ depending on how you like to call them. | The most stunning HTML5 app for creati
 * invision | https://www.invisionapp.com | [@InVisionApp](https://twitter.com/InVisionApp) | $0/mo- $100+/mo | Free Web & Mobile (iOS, Android) Prototyping and UI Mockup Tool | Transform your Web & Mobile (iOS, Android) designs into clickable, interactive Prototypes and Mockups. Share and Collaborate on them with others.
 * Sketch | https://www.sketchapp.com | [@sketchapp](https://twitter.com/sketchapp) | $99 | Professional digital design for Mac. Sketch gives you the power, flexibility and speed you always wanted in a lightweight and easy-to-use package. Finally you can focus on what you do best: Design.
 * Figma | https://www.figma.com | [@figmadesign](https://twitter.com/figmadesign) | Free - $12/editor/mo | Design and prototyping tool, with a focus on collaboration and teams.
+* Anima | https://www.animaapp.com | [@animaapp](https://twitter.com/animaapp) | $0 - $39/mo | Sketch to Code Toolkit. Anima converts web design to code. Make your Sketch design responsive, interactive and alive, and export to HTML/JS/CSS.
+
 
 ### Content Creation/Infographics
 
@@ -480,7 +494,8 @@ IN MINUTES | PickFu is a tool that provides instant, unbiased and insightful pub
 
 ### Database
 
-* Bulbs | http://bulbflow.com
+* Citus | https://www.citusdata.com | Citus scales out PostgreSQL through sharding, replication, and query parallelization. So you can focus on your application, not worry about your database. Citus is available as open source, enterprise software, and fully managed database as a service.
+* Bulbs | http://bulbflow.org | Python persistence framework for graph databases.
 * Datomic | https://www.datomic.com | [@datomic_team](https://twitter.com/datomic_team) | The fully transactional, cloud-ready, immutable database. | Immutable data means strong consistency combined with horizontal read scalability, plus built-in caching. Datomic is a distributed database designed to enable scalable, flexible and intelligent applications, running on next-generation cloud architectures.
 * Tinkerpop | http://tinkerpop.apache.org | Open source software products in the graph space.
 * Vertabelo | http://www.vertabelo.com | Web-based tool for database design | [@vertabelo](https://twitter.com/Vertabelo) | Vertabelo allows you to visually design database models for PostgreSQL, MySQL, Oracle, SQL Server, SQLite, and IBM DB2. You can import the existing database structure from SQL, XML, or using reverse engineering tool. After you design a model, you can generate SQL script or ready-to-use code for various ORMs (Propel, jOOQ, SQLAlchemy, or [Vertabelo Mobile ORM](http://mobile-orm.vertabelo.com/)).
@@ -652,6 +667,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Typeform | https://www.typeform.com | [@typeform](https://twitter.com/typeform) | $0/mo - $25/mo | Ask Awesomely! | Typeform makes asking questions easy, human & beautiful. A user experience that makes your questions look & feel great everywhere. Stimulated, inspired, excited, happy respondents boost completion rates. Gain insights with integrated analysis tools.
 * Qualaroo | https://qualaroo.com | [@qualarooinc](https://twitter.com/qualarooinc) | $63/mo -499/mo | Qualaroo website surveys uncover customer insights that lead to better business results.
 * Formcarry | https://formcarry.com | $0/mo - $99/mo | Handle forms without a single line of back-end code.
+* FormKeep | https://formkeep.com | [@formkeep](https://twitter.com/formkeep) | $59/mo - $199/mo | Premium Forms Backend service with built in spam protection, data integrations to over a 1000 services, data retention policies and more.
 
 ### Source Code Hosting
 
@@ -687,6 +703,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Microsoft Azure | https://azure.microsoft.com | Known for IaaS
 * Amazon Web Services | https://aws.amazon.com/elasticbeanstalk/ | Like Azure, it's more known for IaaS
 * Deis | http://deis.io (DIY PaaS)
+* Scalingo | https://scalingo.com | European PAAS
 
 ### VPS
 
@@ -743,6 +760,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 
 * Confluence | https://www.atlassian.com/software/confluence
 * Confluence Questions (Q&A for your team) | https://www.atlassian.com/software/confluence/questions
+* bitbucket's default Wiki - comes with own repo, markdown/creole, much lighter than Confluence.
 * SlimWiki | https://slimwiki.com |
 
 ### Offsite Backups
@@ -784,6 +802,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 
 ### API Builder
 
+* Postman | https://www.getpostman.com/ | [@postmanclient](https://twitter.com/postmanclient) | Free - $8/mo | Build, test, document and monitor your APIs faster. Used by 5 million developers and more than 100,000 companies.
 * Deployd | http://deployd.com | [@deploydapp](https://twitter.com/deploydapp) | Free (OSS) | Design, build, and scale APIs for web and mobile apps in minutes instead of days.
 * Apiary | https://apiary.io | [@apiary](https://twitter.com/apiaryio) | Free - $99/mo | Powerful API Design Stack. Built for Developers. | Work together to quickly design, prototype, document and test APIs.
 
@@ -793,8 +812,8 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * 1Password  | https://1password.com
 * Passpack | https://www.passpack.com
 * KeePassX | https://www.keepassx.org | [Recommended by EFF](https://www.eff.org/deeplinks/2014/07/protecting-your-anonymity-how-sex-workers)
+* KeePassXC | https://keepassxc.org/ | [@KeePassXC](https://twitter.com/KeePassXC) | free | further development of KeePassX
 * Enpass | https://www.enpass.io
-* KeePass | https://keepass.info
 
 ### Sources of Clicks/Ad Platforms
 
@@ -815,11 +834,14 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * EasyCron | https://www.easycron.com
 * IFTTT | https://ifttt.com
 * Zapier | https://zapier.com | [Zapier](https://twitter.com/zapier) | $99/mo - $15/mo | Superpowers to get your work done. | A Zap is a link between two apps (a "trigger" and an "action"). Zaps run automatically in the background every few minutes to move and manage data on your behalf. Only live Zaps count against your limit — you can have as many paused and unfinished Zaps as you'd like. For example, one Zap might be "Send me an SMS every time I get a new email".
+* Integromat | https://www.integromat.com | [@integromat](https://twitter.com/integromat) | free for < 1000 operations or 100 MB per month, paid from $9 per month | Automates your tasks & connects to almost any app or service.  | Very powerful toolset with features like error handling, iterators, aggregators, routers, functions, data stores, etc.
+* Dead Man's Snitch | https://deadmanssnitch.com | [@DeadMansSnitch](https://twitter.com/deadmanssnitch) | Free - $49/mo | Monitoring for scheduled tasks (like cron) and service heartbeats. Makes it easy to know when and why a particular job failed.
 
 ### Documentation
 
 * Dash | https://kapeli.com/dash
 * Zeal | https://zealdocs.org | [@zealdocs](https://twitter.com/zealdocs) | Free | Offline documentation browser
+* DevDocs | https://devdocs.io/ | [@DevDocs](https://twitter.com/DevDocs) | Free | DevDocs combines multiple API documentations in a fast, organized, and searchable interface. You don't have to use your mouse — use keyboard shortcuts. The search supports fuzzy matching. You can search using your browser's address bar. DevDocs is free and open source.
 
 ### Business Cards and Print Material
 
@@ -855,6 +877,6 @@ This list also uses tags to help when searching the contents:
 
 [![](https://img.shields.io/github/followers/davisonio.svg?style=social&label=Follow%20davisonio)](https://github.com/davisonio) [![](https://img.shields.io/twitter/follow/davisonio.svg?style=social)](https://twitter.com/davisonio)
 
-With many thanks to the [contributors](https://github.com/davisonio/awesome-irc/graphs/contributors). :clap:
+With many thanks to the [contributors](https://github.com/cjbarber/ToolsOfTheTrade/graphs/contributors). :clap:
 
-**Contributions are welcome!** Check out the [Contributing Guidelines](https://github.com/davisonio/awesome-irc/blob/master/CONTRIBUTING.md). :raised_hands:
+**Contributions are welcome!** Check out the [Contributing Guidelines](https://github.com/cjbarber/ToolsOfTheTrade/blob/master/CONTRIBUTING.md). :raised_hands:

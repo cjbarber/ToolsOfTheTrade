@@ -756,6 +756,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 
 * Confluence | https://www.atlassian.com/software/confluence
 * Confluence Questions (Q&A for your team) | https://www.atlassian.com/software/confluence/questions
+* bitbucket's default Wiki - comes with own repo, markdown/creole, much lighter than Confluence.
 * SlimWiki | https://slimwiki.com |
 
 ### Offsite Backups

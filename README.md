@@ -388,6 +388,7 @@ currency conversion JSON API | A simple and easy-to-integrate exchange rates API
 * Image-Charts | https://image-charts.com | [@imagecharts](https://twitter.com/imagecharts) | free - $49/mo, self-hosted plan available | Include animated charts as image into emails, no server-side rendering, 1 URL = 1 chart, compatible with Google Image Charts.
 * Drip | https://www.drip.com | [@getdrip](https://twitter.com/getdrip) | free for < 100 subscribers, paid plans from $49/mo | Advanced marketing automation with workflows, drip campaigns, conversion tracking etc..
 * MailerLite | https://www.mailerlite.com | [@mailerlite](https://twitter.com/mailerlite) | free - $140/month | free plan offers a lot of features
+* MarketHero | https://markethero.io/ | $99+/mo | Autoresponder / email marketing tool.
 
 ### Email Collection/Landing Page Apps
 
@@ -600,6 +601,9 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Kami | https://www.kamihq.com | View, edit, annotate, and collaborate on documents on your browser
 * OneNote | http://www.onenote.com/ | [@msonenote](https://twitter.com/msonenote) | free | The digital note-taking app for your devices
 * Taskade | https://www.taskade.com | [@taskade](https://twitter.com/taskade) | free | Real-time collaborative notes, checklists, and outlines for teams.
+* Nulis | https://nulis.io | Outliner / mind-mapping tool.
+* WritingStreak | https://writingstreak.io | Develop a writing habit, take daily notes.
+* Dynalist | https://dynalist.io/ | [@dynalisthq](https://twitter.com/dynalisthq) | Free - $8/mo | Outliner, note-taking app, checklists.
 
 ### Group Communication/Chat Tools
 
@@ -780,6 +784,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * SerpBook | https://serpbook.com
 * WooRank | https://www.woorank.com | [@woorank](https://twitter.com/woorank) | Free - $49/mo | WooRank analyzes your website for optimization best practices and shows how it ranks against your competition. Its real-time brandable reports, consisting of over 150 data-points, help you to instantly spot critical issues that impact traffic, usability and conversions. Sync your analytics, social accounts and keywords for even more robust tracking.
 * Moz | https://moz.com | [@moz](https://twitter.com/moz) | $99/mo - $599/mo | Moz provides you all the tools you need to effectively do search engine optimization. On site optimization graders, competitor tracking, back link analysis, rank trakcing and many more features available to users.
+* KWFinder | https://kwfinder.com/ | [@mangools_com](https://twitter.com/mangools_com) | $30+/mo | Keyword research tool
 
 ### API Builder
 

@@ -454,11 +454,11 @@ for Your Enterprise | Whether planning ahead or booking on the fly, find and res
 ### Personal Productivity
 
 * Tomatoes | http://www.tomato.es/ | [@tomatoesapp](https://twitter.com/tomatoesapp) |  | Track your time and be productive with the Pomodoro Technique | Tomatoes is a "pomodoro tracker", a Pomodoro technique® driven time tracker. Track your time using 25 minutes slots called "pomodoros".
-* Do.com
-* RescueTime | https://www.rescuetime.com | [@rescuetime](https://twitter.com/rescuetime) | $9/mo | RescueTime gives you an accurate picture of how you spend your time to help you become more productive every day.
+* RescueTime | https://www.rescuetime.com | [@rescuetime](https://twitter.com/rescuetime) | Free - $9/mo | RescueTime gives you an accurate picture of how you spend your time to help you become more productive every day.
 * Qbserve | https://qotoqot.com/qbserve/ | [@Qbserve](https://twitter.com/Qbserve) | $40 one-time | Qbserve is a time tracker for Mac that does whatever RescueTime can but also tracks project time automatically, generates invoices, and stores tracked data locally.
 * Timing | https://timingapp.com/ | [@TimingApp](https://twitter.com/TimingApp) | $29 - $79 | Automatic time and productivity tracking for Mac. Helps you stay on track with your work and ensures no billable hours get lost (if you are billing hourly).
 * fman | https://fman.io | [@m_herrmann](https://twitter.com/m_herrmann) | $14 | Manage and transfer your files with ease. For Windows, Mac and Linux.
+* WakaTime | https://wakatime.com | [@WakaTime](https://twitter.com/WakaTime) | Free - $9/mo | Automatic productivity metrics using text editor plugins. Goals, leaderboards, GitHub integration, automatic project/language/branch detection.
 
 ### Prototyping/Mockups
 
@@ -471,7 +471,9 @@ depending on how you like to call them. | The most stunning HTML5 app for creati
 * Proto.io | https://proto.io | [@protoio](https://twitter.com/protoio) | $24/mo- $199/mo | Silly-fast mobile prototyping | Build high-fidelity fully interactive mobile app prototypes in minutes. Prototypes can be viewed on browser or device giving a real experience to the user how the app will look like and behave. Multiple devices like smart phones and tablets/pads are supported including iPhone, iPad and Android devices.
 * invision | https://www.invisionapp.com | [@InVisionApp](https://twitter.com/InVisionApp) | $0/mo- $100+/mo | Free Web & Mobile (iOS, Android) Prototyping and UI Mockup Tool | Transform your Web & Mobile (iOS, Android) designs into clickable, interactive Prototypes and Mockups. Share and Collaborate on them with others.
 * Sketch | https://www.sketchapp.com | [@sketchapp](https://twitter.com/sketchapp) | $99 | Professional digital design for Mac. Sketch gives you the power, flexibility and speed you always wanted in a lightweight and easy-to-use package. Finally you can focus on what you do best: Design.
+* Figma | https://www.figma.com | [@figmadesign](https://twitter.com/figmadesign) | Free - $12/editor/mo | Design and prototyping tool, with a focus on collaboration and teams.
 * Anima | https://www.animaapp.com | [@animaapp](https://twitter.com/animaapp) | $0 - $39/mo | Sketch to Code Toolkit. Anima converts web design to code. Make your Sketch design responsive, interactive and alive, and export to HTML/JS/CSS.
+
 
 ### Content Creation/Infographics
 

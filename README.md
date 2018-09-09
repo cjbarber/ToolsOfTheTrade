@@ -266,6 +266,7 @@ Features: goals of the week, week view and quadrant matrix, pomodoro timer, shar
 * Coveralls | https://coveralls.io | [@coverallsapp](https://twitter.com/coverallsapp) | $0/mo - $50/mo | Coveralls works with your continuous integration server to give you test coverage history and statistics. It integrates with any langauge and is free for open source.
 * Testributor | http://about.testributor.com | [@testributor](https://twitter.com/testributor) | Free | Testributor is an open source Continuous Integration platform. A hosted version is available for free, both for open source and private projects.
 * Wercker | http://www.wercker.com | [@wercker](https://twitter.com/wercker) | $0/mo - $350/mo | Wercker is a Docker-Native CI/CD Automation platform for Kubernetes & Microservice Deployments.
+* Monkey Test It | https://monkeytest.it | [@monkeytestit](https://twitter.com/monkeytestit) | $0/mo - $199/mo | Automated website checking tool to catch bugs on your website (broken links, missing images, JS errors, etc) before your users do. Integrates with Slack, most CI systems, webooks, and supports built-in scheduling.
 
 ### Dashboards
 

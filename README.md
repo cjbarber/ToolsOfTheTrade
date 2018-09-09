@@ -592,7 +592,6 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 ### Shipping
 
 * Shipwire | https://www.shipwire.com/
-* Shyp | https://www.shyp.com/
 * Whiplash | https://www.getwhiplash.com
 
 ### User Feedback
@@ -623,12 +622,18 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 
 ### Group Communication/Chat Tools
 
-* Kandan | http://kandanapp.com/
+* Kandan | http://getkandan.com/
 * Yammer | https://www.yammer.com/
 * Limechat | http://limechat.net/
 * Flowdock | Free for teams up to 5 people | https://www.flowdock.com/
-* Stride | Free | https://www.stride.com
 * Slack | https://slack.com/ | Free - $12.5/user | Team collaboration and chat tool. Supports webhooks and has integrations with other tools.
+* Rocket.chat | https://rocket.chat
+* Riot.im | https://riot.im
+* Mattermost | https://www.mattermost.org/
+* Ryver | https://ryver.com/
+* Flock | https://flock.com/
+* Fleep | https://fleep.io/
+* Microsoft Teams | https://products.office.com/en-us/microsoft-teams/group-chat-software
 * Skype | https://www.skype.com | Free | Video conference, chat and voice call VOIP application.
 * Google Hangouts | https://hangouts.google.com/ | Free | Video conference and chat application by Google. It is browser based and supports multiple participants on the same video call.
 * GoToMeeting | https://www.gotomeeting.com
@@ -646,7 +651,6 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 
 * TeamViewer | https://www.teamviewer.com
 * Screenmailer | https://www.screenmailer.com
-* Screenhero | https://screenhero.com/
 
 ### DNS
 
@@ -696,7 +700,6 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 
 * Heroku | https://www.heroku.com | 1000 free hours/month for verified accounts
 * Cloud Foundry | https://www.cloudfoundry.org | host it yourself, or use one of MANY hosting services
-* Pagodabox | https://pagodabox.io |
 * Clever Cloud | https://www.clever-cloud.com |
 * Google App Engine |  https://cloud.google.com/appengine/docs/ |
 * OpenShift | https://www.openshift.com | OpenShift gives you all the tools you need to develop, host and scale your apps in the public or private cloud. Get started today.
@@ -706,6 +709,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * CloudBees | https://www.cloudbees.com
 * Microsoft Azure | https://azure.microsoft.com | Known for IaaS
 * Amazon Web Services | https://aws.amazon.com/elasticbeanstalk/ | Like Azure, it's more known for IaaS
+* Google Cloud | https://cloud.google.com/ | More IaaS like AWS and Azure
 * Deis | http://deis.io (DIY PaaS)
 * Scalingo | https://scalingo.com | European PAAS
 
@@ -819,6 +823,8 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * KeePassX | https://www.keepassx.org | [Recommended by EFF](https://www.eff.org/deeplinks/2014/07/protecting-your-anonymity-how-sex-workers)
 * KeePassXC | https://keepassxc.org/ | [@KeePassXC](https://twitter.com/KeePassXC) | free | further development of KeePassX
 * Enpass | https://www.enpass.io
+* KeePass | https://keepass.info
+* Bitwarden | https://bitwarden.com | Open Source alternative to Lastpass with all the same and more features. Optionally can be self-hosted.
 
 ### Sources of Clicks/Ad Platforms
 

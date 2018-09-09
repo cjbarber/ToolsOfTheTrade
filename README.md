@@ -320,6 +320,8 @@ Features: goals of the week, week view and quadrant matrix, pomodoro timer, shar
 * Neustar Website Load Testing | https://www.neustar.biz/services/web-performance/load-testing | [@Neustar](https://twitter.com/Neustar) | $80/mo |  | Tackle performance problems such as bandwidth limitations, error rates exceeding thresholds, server PU limitations and much more.
 * Loader.io | https://loader.io | Free to 100.00$ / mo | Loader.io is a free load testing service that allows you to stress test your web-apps/apis with thousands of concurrent connections.
 * Locust.io | https://locust.io | [@locustio](https://twitter.com/locustio) | Open Source
+* k6.io | https://k6.io | [@k6_io](https://twitter.com/k6_io) | Free | Open Source | k6 is a developer centric open source load testing tool for testing the performance of your backend infrastructure. It’s built with Go and JavaScript to integrate well into your development workflow, so you can stay on top of performance without fuzz.
+* loadimpact.com | https://loadimpact.com/ | [@loadimpact](https://twitter.com/loadimpact) | $99.00+ | A SaaS performance testing solution for modern DevOps teams, built on top of the open source k6.io project.
 
 ### Server Monitoring
 

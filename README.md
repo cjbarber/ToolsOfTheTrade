@@ -368,6 +368,7 @@ from web apps | ostageApp helps design, send, and analyze emails within minutes.
 * Filestack | https://www.filestack.com | [@FileStack](https://twitter.com/FileStack) | $0/mo - $49/mo | Easy, Powerful File Uploads | Connect, Store, and Process any file from anywhere on the Internet
 * Open Exchange Rates | https://openexchangerates.org |  | $12/mo - $97/mo | Real-time exchange rates &
 currency conversion JSON API | A simple and easy-to-integrate exchange rates API in JSON format, with HTTPS and JSONP support, with examples, guides and full documentation.
+* FormAPI | https://formapi.io | [@form_api](https://twitter.com/form_api) | $49/mo - $249/mo | PDF Service for Developers | Makes it easy for programmers to fill out and sign PDF documents. Saves a lot of development time if you need to generate a lot of contracts, invoices, etc. |
 
 ### Site Search
 

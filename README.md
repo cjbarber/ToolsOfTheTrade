@@ -223,7 +223,7 @@ Features: goals of the week, week view and quadrant matrix, pomodoro timer, shar
 
 ### User Management
 
-* Stormpath | https://stormpath.com | [@gostormpath](https://twitter.com/gostormpath) | free | Securely create, store, and manage user accounts, API keys, and user data for your web applications.
+* Okta | https://developer.okta.com/ | [@OktaDev](https://twitter.com/OktaDev) | free | Okta adds authentication, authorization, and user management to your web or mobile app within minutes.
 
 ### User Testing
 

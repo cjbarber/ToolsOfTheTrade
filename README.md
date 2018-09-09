@@ -181,6 +181,7 @@ Features: goals of the week, week view and quadrant matrix, pomodoro timer, shar
 * Hubstaff | https://hubstaff.com | [@hubstaff](https://twitter.com/Hubstaff) | free-$9/mo | Hubstaff is time tracking software designed to make remote team management more effective and efficient. You just have to sign up, download our intuitive desktop app and push the start button to begin tracking time.
 * Tickspot | https://www.tickspot.com/ | [@tickspot](https://twitter.com/tickspot) | free-$149/mo | Straightforward time tracking software to help your team run more profitable projects. Whether you prefer iOS, Android, the Apple Watch, or your desktop computer, Tick is the easiest way to track your time.
 * Kimai | https://www.kimai.org/ | [@kimai_org](https://twitter.com/kimai_org) | Kimai is a free open source timetracker. It tracks work time and prints out a summary of your activities on demand. Yearly, monthly, daily, by customer, by project, by action, etc. | self-hosted
+* Timetrap | https://github.com/samg/timetrap | free | simple open source command line time tracking
 
 ### App Developer Tools
 
@@ -792,8 +793,8 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * 1Password  | https://1password.com
 * Passpack | https://www.passpack.com
 * KeePassX | https://www.keepassx.org | [Recommended by EFF](https://www.eff.org/deeplinks/2014/07/protecting-your-anonymity-how-sex-workers)
+* KeePassXC | https://keepassxc.org/ | [@KeePassXC](https://twitter.com/KeePassXC) | free | further development of KeePassX
 * Enpass | https://www.enpass.io
-* KeePass | https://keepass.info
 
 ### Sources of Clicks/Ad Platforms
 

@@ -195,6 +195,7 @@ Features: goals of the week, week view and quadrant matrix, pomodoro timer, shar
 * Localize.js | https://localizejs.com | $25/mo - $150/mo | Website translation with just a few lines of code.
 * Gengo | https://gengo.com | $0.06 - $0.17 per word | Human translation API
 * Google Website Translator | https://translate.google.com/manager/website/ | Make your website instantly available in 90+ languages
+* Loco | https://localise.biz | Free up to 2k translations | Collaborative translation management dashboard and API
 
 ### Business & Traffic Analytics
 

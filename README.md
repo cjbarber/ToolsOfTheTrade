@@ -814,6 +814,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * EasyCron | https://www.easycron.com
 * IFTTT | https://ifttt.com
 * Zapier | https://zapier.com | [Zapier](https://twitter.com/zapier) | $99/mo - $15/mo | Superpowers to get your work done. | A Zap is a link between two apps (a "trigger" and an "action"). Zaps run automatically in the background every few minutes to move and manage data on your behalf. Only live Zaps count against your limit — you can have as many paused and unfinished Zaps as you'd like. For example, one Zap might be "Send me an SMS every time I get a new email".
+* Dead Man's Snitch | https://deadmanssnitch.com | [@DeadMansSnitch](https://twitter.com/deadmanssnitch) | Free - $49/mo | Monitoring for scheduled tasks (like cron) and service heartbeats. Makes it easy to know when and why a particular job failed.
 
 ### Documentation
 

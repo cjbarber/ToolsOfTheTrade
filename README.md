@@ -706,6 +706,9 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 
 * Ylastic | http://ylastic.com/
 * Skeddly | https://www.skeddly.com
+* GorillaStack's Rules Engine | https://gorillastack.com | $50/mo - $500/mo, then enterprise | Simple DevOps workflows to save time and money. | Like IFTTT or Zapier, but for AWS, a GorillaStack "rule" has a "trigger" and a pipeline of "action" and "pause" steps. For example, "For this set of AWS accounts, in these regions, every evening at 8pm turn off all EC2 Instances matching this set of tags. But first notify me at 7.30pm with a list of targeted resources and give me the option to snooze or cancel this action like an alarm clock.
+* GorillaStack's Auto Tag | https://github.com/GorillaStack/auto-tag | Open Source | Automatically tag resources with the ARN of their creator
+* GorillaStack's CloudTrail Slackbot | https://www.gorillastack.com/aws-cloudtrail-slack-integration | Free | Monitor CloudTrail events from your accounts in realtime
 
 ### Database-aaS
 

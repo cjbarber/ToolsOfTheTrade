@@ -823,6 +823,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 
 * Dash | https://kapeli.com/dash
 * Zeal | https://zealdocs.org | [@zealdocs](https://twitter.com/zealdocs) | Free | Offline documentation browser
+* DevDocs | https://devdocs.io/ | [@DevDocs](https://twitter.com/DevDocs) | Free | DevDocs combines multiple API documentations in a fast, organized, and searchable interface. You don't have to use your mouse — use keyboard shortcuts. The search supports fuzzy matching. You can search using your browser's address bar. DevDocs is free and open source.
 
 ### Business Cards and Print Material
 

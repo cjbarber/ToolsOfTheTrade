@@ -482,6 +482,7 @@ depending on how you like to call them. | The most stunning HTML5 app for creati
 journalists, animators and developers are standing by to help you achieve
 your goals and take your project to the next level.
 * Canva | https://www.canva.com | [@canva](https://twitter.com/canva) | Design great social media images with text and graphics for free or a few bucks depending on the images you select
+* Presentious | https://presentio.us | $5/mo | Narrate slide decks (PowerPoint, Keynote, etc.) to create educational content for online classes, MOOCs, sharing pitch decks, etc.
 
 ### Customer Feedback
 

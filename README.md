@@ -273,6 +273,7 @@ Features: goals of the week, week view and quadrant matrix, pomodoro timer, shar
 
 ### Error/Exception Handling
 
+* CatchJS | https://catchjs.com | $49 - $499 | JavaScript error reporting for web apps. Can take screenshots and collect click trails, so reproducing bugs becomes easy.  
 * Crashlytics | http://try.crashlytics.com | [@crashlytics](https://twitter.com/crashlytics) | Free | Crash reports and grouping for easier analysis. Basic analytics and reports. | iOS & Android
 * Sentry | https://sentry.io/welcome/ | [@getsentry](https://twitter.com/getsentry) | $24/mo - $199/mo | Sentry notifies you when your users experience errors. | Know immediately when things happen in your application. Engage users before they have a chance to report a problem.
 * HoneyBadger | https://www.honeybadger.io | [@honeybadgerapp](https://twitter.com/honeybadgerapp) | $39/mo - $249/mo | Exception, uptime, and performance monitoring for Ruby. | It tells you about errors, downtime and performance issues as they happen. And it gives you the tools you need to fix them ...without burying you in data. Without silly rate limits or per-server fees.

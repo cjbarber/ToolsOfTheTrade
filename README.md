@@ -480,6 +480,7 @@ IN MINUTES | PickFu is a tool that provides instant, unbiased and insightful pub
 
 ### Database
 
+* Citus | https://www.citusdata.com | Citus scales out PostgreSQL through sharding, replication, and query parallelization. So you can focus on your application, not worry about your database. Citus is available as open source, enterprise software, and fully managed database as a service.
 * Bulbs | http://bulbflow.org | Python persistence framework for graph databases.
 * Datomic | https://www.datomic.com | [@datomic_team](https://twitter.com/datomic_team) | The fully transactional, cloud-ready, immutable database. | Immutable data means strong consistency combined with horizontal read scalability, plus built-in caching. Datomic is a distributed database designed to enable scalable, flexible and intelligent applications, running on next-generation cloud architectures.
 * Tinkerpop | http://tinkerpop.apache.org | Open source software products in the graph space.

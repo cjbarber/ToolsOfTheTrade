@@ -823,8 +823,9 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 
 ### Mail Providers
 
-* Google suite | https://gsuite.google.com/
-* Zoho Mail | www.zohomail.com
+* Google suite | https://gsuite.google.com/ | $5/user/month
+* Zoho Mail | https://www.zohomail.com | Free until 5 users
+* Office 365 | https://www.office.com/ | 4$/user/month 
 
 ### Business Cards and Print Material
 

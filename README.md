@@ -126,6 +126,7 @@ It's hosted on GitHub for a reason! Please submit pull requests.
 
 * Cognito | https://cognitohq.com | [@getcognito](https://twitter.com/getcognito) | Frictionless, modern identity verification that starts with just a phone number.
 * BlockScore | https://blockscore.com | [@getblockscore](https://twitter.com/getblockscore) | $1/verification - $5/verification | Individual ID verifications and company verifications.
+* Onfido | https://onfido.com | [@Onfido](https://twitter.com/Onfido) | $2/verification | Individual ID verifications, Document Checks and Facial recognition.
 
 ### Browser/Email Testing
 

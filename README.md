@@ -119,6 +119,7 @@ It's hosted on GitHub for a reason! Please submit pull requests.
 * [Storage](#storage)
 * [Task Scheduling](#task-scheduling)
 * [Documentation](#documentation)
+* [Mail Providers](#mail-providers)
 * [Business Cards and Print Material](#business-cards-and-print-material)
 * [Presentations / Slides](#presentations--slides)
 
@@ -847,6 +848,12 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Dash | https://kapeli.com/dash
 * Zeal | https://zealdocs.org | [@zealdocs](https://twitter.com/zealdocs) | Free | Offline documentation browser
 * DevDocs | https://devdocs.io/ | [@DevDocs](https://twitter.com/DevDocs) | Free | DevDocs combines multiple API documentations in a fast, organized, and searchable interface. You don't have to use your mouse — use keyboard shortcuts. The search supports fuzzy matching. You can search using your browser's address bar. DevDocs is free and open source.
+
+### Mail Providers
+
+* Google suite | https://gsuite.google.com/ | $5/user/month
+* Zoho Mail | https://www.zohomail.com | Free until 5 users
+* Office 365 | https://www.office.com/ | 4$/user/month 
 
 ### Business Cards and Print Material
 

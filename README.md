@@ -785,6 +785,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * TaskArmy | https://taskarmy.com
 * 99Designs | https://99designs.com/
 * Fiverr | https://www.fiverr.com
+* Shapr | http://www.shapr.co
 
 ### Deployment
 

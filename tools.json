@@ -1,0 +1,31 @@
+{
+	"count": 2,
+	"categories": ["Identity Verification"],
+	"list":[
+	{
+		"category": "Identity Verification",
+		"name": "Cognito",
+		"url": "https://cognitohq.com",
+		"twitter":"@getcognito",
+		"description": "Frictionless, modern identity verification that starts with just a phone number.",
+		"pricing": []
+	},
+	{
+		"category": "Identity Verification",
+		"name": "BlockScore",
+		"url" : "https://blockscore.com ",
+		"twitter": "@getblockscore",
+		"description": "Individual ID verifications and company verifications.",
+		"pricing": [
+		{
+			"name": "plan1",
+			"pricing": "$1/verification"
+	 	},
+		{
+			"name": "plan2",
+			"pricing": "$5/verification"
+		}
+		]
+	}
+	]	
+}

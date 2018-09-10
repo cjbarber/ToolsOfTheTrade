@@ -322,7 +322,7 @@ Features: goals of the week, week view and quadrant matrix, pomodoro timer, shar
 * Flood.io | https://flood.io | [@flood_io](https://twitter.com/flood_io) | Free to $399/mo | Auto setup and results summaries/graphs of JMeter and Gatling load tests.  Can easily scale to 100K+ reqs/min.
 * Neustar Website Load Testing | https://www.neustar.biz/services/web-performance/load-testing | [@Neustar](https://twitter.com/Neustar) | $80/mo |  | Tackle performance problems such as bandwidth limitations, error rates exceeding thresholds, server PU limitations and much more.
 * Loader.io | https://loader.io | Free to 100.00$ / mo | Loader.io is a free load testing service that allows you to stress test your web-apps/apis with thousands of concurrent connections.
-* Locust.io | https://locust.io | [@locustio](https://twitter.com/locustio) | Open Source
+* Locust.io | https://locust.io | [@locustio](https://twitter.com/locustio) | Open Source, self-hosted load testing tool written in Python, with the tests themselves written in Python code
 * k6.io | https://k6.io | [@k6_io](https://twitter.com/k6_io) | Free | Open Source | k6 is a developer centric open source load testing tool for testing the performance of your backend infrastructure. It’s built with Go and JavaScript to integrate well into your development workflow, so you can stay on top of performance without fuzz.
 * loadimpact.com | https://loadimpact.com/ | [@loadimpact](https://twitter.com/loadimpact) | $99.00+ | A SaaS performance testing solution for modern DevOps teams, built on top of the open source k6.io project.
 
@@ -351,7 +351,7 @@ your customers.
 * UserDeck | https://userdeck.com | [@user_deck](https://twitter.com/user_deck) | $0 - $25/mo | Customer support software that embeds into your existing website.
 * Sirportly | https://sirportly.com | [@sirportly](https://twitter.com/sirportly) | £0 - £15/mo | Grow your business and provide world class customer support. Simply setup your helpdesk in less than a few minutes. Integrate with your other software tools and take advantage of the automated rules and macros to scale your customer support to a new level, become more professional and customer focused and turn your customers into raving fans with Sirportly.
 * Olark | https://www.olark.com/
-* SnapEngage | https://snapengage.com/
+* SnapEngage | https://snapengage.com/ | Custom pricing per integration, or from $81/month | Highly custom live chat integrations
 * Get Satisfaction! | https://getsatisfaction.com/corp/ | Customer communities for social support, social marketing & customer feedback - online community software | Get Satisfaction is the leading customer engagement platform that helps companies build better relationships with their customers and prospects, through the best online customer community.
 * Reamaze | https://www.reamaze.com | [@reamaze](https://twitter.com/reamaze) | $15/mo | Lightweight, Lightspeed Help Desk. Email, Social, Branded, Integrated. | Reamaze provides your team with helpdesk functionality that integrates with your application, as well as integrations with popular 3rd party tools in your workflow.
 * Jitbit Helpdesk | https://www.jitbit.com/helpdesk/ | [@jitbithelpdesk](https://twitter.com/jitbithelpdesk) | $29/mo - $199/mo | A help desk app that actually makes your work easier, not harder. | Comes in both hosted and on-premise versions. Very well designed and easy to use. Has all the must-have features and doesn't get in your way.

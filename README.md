@@ -639,6 +639,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Convo | https://www.convo.com/
 * Zoom | https://www.zoom.us/
 * Telegram | https://telegram.org/
+* Matrix | https://matrix.org/ | Free, paid, and self-hosted options available | Decentralised Open Source chat protocol with [bridges to everywhere](https://matrix.org/docs/projects/try-matrix-now.html#application-services)
 
 [HipChat (now Stride) Alternatives](https://github.com/cjbarber/hipchat-alternatives)
 

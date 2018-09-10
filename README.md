@@ -175,6 +175,7 @@ Features: goals of the week, week view and quadrant matrix, pomodoro timer, shar
 * Tom's Planner | https://www.tomsplanner.com | [@tomsplanner](https://twitter.com/tomsplanner) | $9/mo - $19/mo |  | Tom's Planner is online Gantt chart software that allows anyone to create, collaborate and share Gantt Charts online with drag and drop simplicity. It's web based, extremely intuitive and easy-to-use.
 * LeanKit | https://leankit.com | [@leankit](https://twitter.com/leankit) | $15/mo - $19/mo | Instant Project visibility | In LeanKit, you map your organization’s processes onto virtual whiteboards. On each board the process steps are represented as vertical and horizontal lanes. Cards represent work items, which team members update and move from across the board as they complete their share of the work. Rather than having to ask for status reports, managers and customers can just look at the board. Board updates are visible in seconds around the globe and e-mail alerts and RSS feeds are available, so you and your team can take immediate action to resolve issues before they turn into serious problems.
 * Breeze | https://www.breeze.pm | [@BreezeTeam](https://twitter.com/BreezeTeam) | $29/mo - $129/mo | Organize and track everything. Breeze shows you what's being worked on, who's working on what, where things are in the workflow and how much time it took.
+* Azure Boards | https://azure.microsoft.com/en-us/services/devops/boards/ | [@AzureDevOps](https://twitter.com/AzureDevOps) | Free - $30/mo | Plan smarter, collaborate better, and ship faster with a set of modern dev services. | Track work with Kanban boards, backlogs, team dashboards, and custom reporting. Combine drag-and-drop sprint planning and flexible work item tracking with comprehensive traceability to have the perfect home for all your ideas–big and small.
 
 ### Time Tracking
 
@@ -267,6 +268,7 @@ Features: goals of the week, week view and quadrant matrix, pomodoro timer, shar
 * Testributor | http://about.testributor.com | [@testributor](https://twitter.com/testributor) | Free | Testributor is an open source Continuous Integration platform. A hosted version is available for free, both for open source and private projects.
 * Wercker | http://www.wercker.com | [@wercker](https://twitter.com/wercker) | $0/mo - $350/mo | Wercker is a Docker-Native CI/CD Automation platform for Kubernetes & Microservice Deployments.
 * Monkey Test It | https://monkeytest.it | [@monkeytestit](https://twitter.com/monkeytestit) | $0/mo - $199/mo | Automated website checking tool to catch bugs on your website (broken links, missing images, JS errors, etc) before your users do. Integrates with Slack, most CI systems, webooks, and supports built-in scheduling.
+* Azure Pipelines | https://azure.microsoft.com/en-us/services/devops/pipelines/ | [@AzureDevOps](https://twitter.com/AzureDevOps) | Free - $30/mo | Continuously build, test, and deploy to any platform and cloud | Get cloud-hosted pipelines for Linux, macOS, and Windows with unlimited minutes and 10 free parallel jobs for open source. Automate your builds and deployments with Pipelines so you spend less time with the nuts and bolts and more time being creative.
 
 ### Dashboards
 
@@ -685,6 +687,8 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * KForge | https://pypi.python.org/pypi/kforge
 * VersionShelf | https://www.versionshelf.com | 30-day Free trial, [free for students/teachers](https://www.versionshelf.com/about_free_plan).
 * Assembla | https://www.assembla.com/home | [@assembla](https://twitter.com/assembla) | $24/m - $99/m | Git hosting, all tightly integrated with your tasks. Browse files online, compare revisions, merge code and maintain a sustainable codebase.
+* Azure Repos | https://azure.microsoft.com/en-us/services/devops/repos/ | [@AzureDevOps](https://twitter.com/AzureDevOps) | Free - $30/mo | Free private Git repositories, pull requests, and code search. Get unlimited private Git repository hosting and support for TFVC that scales from a hobby project to the world’s largest repository.
+
 
 ### Design Collaboration
 

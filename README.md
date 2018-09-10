@@ -147,6 +147,7 @@ It's hosted on GitHub for a reason! Please submit pull requests.
 * Huboard | https://huboard.com | [@huboard](https://twitter.com/huboard) | $7/mo - $24/mo | GitHub issues made awesome
 Instant project management for GitHub repositories |
 * JIRA | https://www.atlassian.com/software/jira | [@JIRA](https://twitter.com/JIRA) | $10/mo hosted - $10/yr self-hosted | JIRA is the tracker for teams planning and building great products. Thousands of teams choose JIRA to capture and organize issues, assign work, and follow team activity. At your desk or on the go with the new mobile interface, JIRA helps your team get the job done.
+* Marker.io | https://marker.io | [@marker_io](https://twitter.com/marker_io) | $15/mo - $49/mo | Collect visual feedback from clients & colleagues directly into your favorite tools.
 * Lighthouse | http://lighthouseapp.com | [@lighthouseapp](https://twitter.com/lighthouseapp) | $25/mo - $100/mo | Whether you're a large company or a small bootstrapped team, Lighthouse is the perfect ticket tracking solution. | Collaborate effortlessly on projects. Whether you’re a team of 5 or studio of 50, Lighthouse will help you keep track of your project development with ease.
 * Pinitto.me | https://pinitto.me | Post It Notes on a virtual corkboard (OSS)
 * Post It Notes on a (Physical) Wall

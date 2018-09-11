@@ -226,6 +226,7 @@ Features: goals of the week, week view and quadrant matrix, pomodoro timer, shar
 ### User Management
 
 * Okta | https://developer.okta.com/ | [@OktaDev](https://twitter.com/OktaDev) | free | Okta adds authentication, authorization, and user management to your web or mobile app within minutes.
+* Auth0 |https://auth0.com
 
 ### User Testing
 
@@ -766,6 +767,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Confluence Questions (Q&A for your team) | https://www.atlassian.com/software/confluence/questions
 * bitbucket's default Wiki - comes with own repo, markdown/creole, much lighter than Confluence.
 * SlimWiki | https://slimwiki.com |
+* Documize | https://documize.com
 
 ### Offsite Backups
 
@@ -819,6 +821,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * KeePassX | https://www.keepassx.org | [Recommended by EFF](https://www.eff.org/deeplinks/2014/07/protecting-your-anonymity-how-sex-workers)
 * KeePassXC | https://keepassxc.org/ | [@KeePassXC](https://twitter.com/KeePassXC) | free | further development of KeePassX
 * Enpass | https://www.enpass.io
+* Dashlane | https://www.dashlane.com
 
 ### Sources of Clicks/Ad Platforms
 

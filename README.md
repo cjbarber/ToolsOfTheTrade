@@ -292,7 +292,6 @@ Features: goals of the week, week view and quadrant matrix, pomodoro timer, shar
 * Errbit | OSS | https://errbit.com | The open source error catcher that's Airbrake API compliant.
 * OverOps | https://www.overops.com | [@overopshq](https://twitter.com/overopshq) | God Mode in Production Code for java and scala applications.
 
-
 ### Application Distribution
 
 * HockeyApp | https://www.hockeyapp.net | [@hockeyapp](https://twitter.com/hockeyapp) | Free - $129/mo depending on number of apps and number of owners | Distribution of iOS, Android, Windows Phone and Mac OS apps | Includes analytics, user feedback and crash reports.

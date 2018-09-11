@@ -334,6 +334,8 @@ Features: goals of the week, week view and quadrant matrix, pomodoro timer, shar
 * TrueSight Pulse | http://truesightpulse.bmc.com | [@truesightpulse](https://twitter.com/truesightpulse) | | Real-time visibility into cloud and server infrastructure
 * Librato | https://www.librato.com | [@Librato](https://twitter.com/Librato) | $0.05/metric/mo to $0.30/metric/mo | Librato provides a complete solution for monitoring and understanding the metrics that impact your business at all levels of the stack.
 * Scout | https://scoutapp.com/
+* Site24x7 | https://www.site24x7.com/ | [@site24x7(https://twitter.com/Site24x7)] | $9/mo starter - $225/enterprise
+* UptimeRobot | https://uptimerobot.com/ | [@uptimerobot(https://twitter.com/uptimerobot)] | Free basic HTTP/HTTPS website monitoring
 
 ### Customer Support/Help Desks
 

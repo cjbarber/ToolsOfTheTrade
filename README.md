@@ -267,6 +267,7 @@ Features: goals of the week, week view and quadrant matrix, pomodoro timer, shar
 * Testributor | http://about.testributor.com | [@testributor](https://twitter.com/testributor) | Free | Testributor is an open source Continuous Integration platform. A hosted version is available for free, both for open source and private projects.
 * Wercker | http://www.wercker.com | [@wercker](https://twitter.com/wercker) | $0/mo - $350/mo | Wercker is a Docker-Native CI/CD Automation platform for Kubernetes & Microservice Deployments.
 * Monkey Test It | https://monkeytest.it | [@monkeytestit](https://twitter.com/monkeytestit) | $0/mo - $199/mo | Automated website checking tool to catch bugs on your website (broken links, missing images, JS errors, etc) before your users do. Integrates with Slack, most CI systems, webooks, and supports built-in scheduling.
+* StyleCI | https://styleci.io | [@TeamStyleCI](https://twitter.com/TeamStyleCI) | $0/mo - $50/mo | The Web Coding Style Service. Automatically fix the style of your PHP, JS and CSS code.
 
 ### Dashboards
 

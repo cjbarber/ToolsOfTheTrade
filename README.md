@@ -152,7 +152,7 @@ Instant project management for GitHub repositories |
 * Post It Notes on a (Physical) Wall
 * Sifter | http://sifterapp.com | [@sifterapp](https://twitter.com/sifterapp) | $29/mo - $149/mo | Less configuring. More doing. | We've put in the time researching bug tracking to help create the simplest possible workflow for you to get work done. From time-to-time we even blog about some of our ideas around this optimal bug tracking process…
 * Usersnap | https://usersnap.com | [@usersnap](https://twitter.com/usersnap) | $19/mo-$99/mo | Usersnap is visual bug reporting for anyone working on web projects. | Get visual feedback and precious browser information with every bug report to reproduce and fix them even faster.
-* Instabug | https://instabug.com | [@instabug](https://twitter.com/instabug) | $49/mo-$349/mo | Instabug is comprehensive bug reporting and in-app feedback tool for mobile apps. | Receive detailed feedback attached with every bug report sent by your testers or users to debug  and build better apps, faster. 
+* Instabug | https://instabug.com | [@instabug](https://twitter.com/instabug) | $49/mo-$349/mo | Instabug is comprehensive bug reporting and in-app feedback tool for mobile apps. | Receive detailed feedback attached with every bug report sent by your testers or users to debug  and build better apps, faster.
 
 ### Planning & Project Management
 
@@ -278,7 +278,7 @@ Features: goals of the week, week view and quadrant matrix, pomodoro timer, shar
 
 ### Error/Exception Handling
 
-* CatchJS | https://catchjs.com | $49 - $499 | JavaScript error reporting for web apps. Can take screenshots and collect click trails, so reproducing bugs becomes easy.  
+* CatchJS | https://catchjs.com | $49 - $499 | JavaScript error reporting for web apps. Can take screenshots and collect click trails, so reproducing bugs becomes easy.
 * Crashlytics | http://try.crashlytics.com | [@crashlytics](https://twitter.com/crashlytics) | Free | Crash reports and grouping for easier analysis. Basic analytics and reports. | iOS & Android
 * Sentry | https://sentry.io/welcome/ | [@getsentry](https://twitter.com/getsentry) | $24/mo - $199/mo | Sentry notifies you when your users experience errors. | Know immediately when things happen in your application. Engage users before they have a chance to report a problem.
 * HoneyBadger | https://www.honeybadger.io | [@honeybadgerapp](https://twitter.com/honeybadgerapp) | $39/mo - $249/mo | Exception, uptime, and performance monitoring for Ruby. | It tells you about errors, downtime and performance issues as they happen. And it gives you the tools you need to fix them ...without burying you in data. Without silly rate limits or per-server fees.
@@ -620,6 +620,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Nulis | https://nulis.io | Outliner / mind-mapping tool.
 * WritingStreak | https://writingstreak.io | Develop a writing habit, take daily notes.
 * Dynalist | https://dynalist.io/ | [@dynalisthq](https://twitter.com/dynalisthq) | Free - $8/mo | Outliner, note-taking app, checklists.
+* Notion | https://notion.so | Write, plan, collaborate, and get organized. Notion is all you need — in one tool.
 
 ### Group Communication/Chat Tools
 

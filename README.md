@@ -226,7 +226,7 @@ Features: goals of the week, week view and quadrant matrix, pomodoro timer, shar
 ### User Management
 
 * Okta | https://developer.okta.com/ | [@OktaDev](https://twitter.com/OktaDev) | free | Okta adds authentication, authorization, and user management to your web or mobile app within minutes.
-* Auth0 |https://auth0.com
+* Auth0 | https://auth0.com
 
 ### User Testing
 

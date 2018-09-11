@@ -275,6 +275,7 @@ Features: goals of the week, week view and quadrant matrix, pomodoro timer, shar
 * Dashing | http://dashing.io | Dashing is a Sinatra based framework that lets you build beautiful dashboards.
 * Klipfolio | https://www.klipfolio.com | [@klipfolio](https://twitter.com/klipfolio) | $5/user/mo - $20/user/mo | Meet Your Business Dashboard | Connect to any data service to bring your key numbers together on one dashboard. Assign your data to visualizations to show the story behind the numbers. Cultivate a data-driven culture by sharing dashboards with everyone on your team.
 * Grafana | https://grafana.com | [@grafana](https://twitter.com/grafana) | $0 - $90/mo (+9/user/mo) | The analytics platform for all your metrics | Grafana allows you to query, visualize, alert on and understand your metrics no matter where they are stored. Create, explore, and share dashboards with your team and foster a data driven culture.
+* Redash | https://redash.io | [GitHub](https://github.com/getredash/redash) | self-hosted or $49/mo - 450/mo | "Redash has support for querying multiple databases, including: Redshift, Google BigQuery, PostgreSQL, MySQL, Graphite, Presto, Google Spreadsheets, Cloudera Impala, Hive and custom scripts."
 
 ### Error/Exception Handling
 
@@ -290,6 +291,7 @@ Features: goals of the week, week view and quadrant matrix, pomodoro timer, shar
 * Errorception | https://errorception.com | [@errorception](https://twitter.com/errorception) | $5/mo - $59/mo | Painless JavaScript Error Tracking | Errorception is a simple and painless way to find out about JavaScript errors, as they occur in your users' browsers. All you need to do is insert a script tag on your page, and you will start recording errors as they happen in real-time.
 * Errbit | OSS | https://errbit.com | The open source error catcher that's Airbrake API compliant.
 * OverOps | https://www.overops.com | [@overopshq](https://twitter.com/overopshq) | God Mode in Production Code for java and scala applications.
+
 
 ### Application Distribution
 

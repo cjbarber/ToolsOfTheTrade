@@ -542,7 +542,7 @@ your app or website | Braintree handles transactions for some of the fastest gro
 * Stripe | https://stripe.com | [@stripe](https://twitter.com/stripe) | 2.9% + 30¢
 per successful charge. | Feature-packed payments | No need to design payment forms from scratch. Stripe Checkout offers a beautiful, customizable payment flow that works great across desktop and mobile. When you use Checkout, you’re always up-to-date, with no extra code required.
 * Pin | https://pinpayments.com | [@pin_payments](https://twitter.com/pin_payments) | 2.9% + 30¢
-per successful charge. | Payments, Rebooted. | Accepting credit card payments from a global audience typically requires a merchant acount. The process of establishing a merchant account for each currency can be too difficult and costly for small businesses.
+per successful charge. | Payments, Rebooted. | Accepting credit card payments from a global audience typically requires a merchant account. The process of establishing a merchant account for each currency can be too difficult and costly for small businesses.
 * PayMill | https://www.paymill.com | [@Paymill](https://twitter.com/Paymill) | 0.28 € - 0.25 € | Online payments made easy | Make payments personal by customising the checkout according to the flow of your website
 * Spreedly | https://www.spreedly.com | [@spreedly](https://twitter.com/spreedly) | $150/mo - $1500/mo | Payments as a Platform | One of Spreedly's major benefits is reaching a large number of merchant accounts by working across multiple payment gateways. As a direct merchant you can transact globally but deposit funds in unique merchant accounts based on geographic or other business rules. As a SaaS platform you can support the unique merchant accounts of your individual customers. A payment gateway token is your way to indicate to us which unique merchant account this particular transaction will go against. Each unique merchant account = one unique payment gateway token.
 * WePay | https://go.wepay.com | [@wepay](https://twitter.com/wepay) | 2.9% + 30¢ per transaction. | WePay is the first payments engine to offer platforms — marketplaces, crowdfunding, and business software/tools — a way to own their customer experience while still shielding them from 100 percent of fraud and regulatory risk.
@@ -758,8 +758,8 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 
 ### Video Hosting
 
-* JW Player | https://developer.jwplayer.com |
 * Wistia | https://wistia.com |
+* JW Player | https://developer.jwplayer.com |
 
 ### Knowledge Tracking/Wiki
 

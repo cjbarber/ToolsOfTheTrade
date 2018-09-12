@@ -758,6 +758,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 
 ### Video Hosting
 
+* JW Player | https://developer.jwplayer.com |
 * Wistia | https://wistia.com |
 
 ### Knowledge Tracking/Wiki

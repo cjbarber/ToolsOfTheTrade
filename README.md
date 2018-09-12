@@ -759,7 +759,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 ### Video Hosting
 
 * Wistia | https://wistia.com |
-* JW Player | https://developer.jwplayer.com |
+* JW Player | https://developer.jwplayer.com | Powerful suite of APIs and tools that enable video hosting, content delivery, playback, and data insights. JW Player provides solutions to support your online video strategy and achieve your audience growth and revenue goals.
 
 ### Knowledge Tracking/Wiki
 

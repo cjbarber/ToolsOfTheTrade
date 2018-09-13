@@ -152,7 +152,7 @@ Instant project management for GitHub repositories |
 * Post It Notes on a (Physical) Wall
 * Sifter | http://sifterapp.com | [@sifterapp](https://twitter.com/sifterapp) | $29/mo - $149/mo | Less configuring. More doing. | We've put in the time researching bug tracking to help create the simplest possible workflow for you to get work done. From time-to-time we even blog about some of our ideas around this optimal bug tracking process…
 * Usersnap | https://usersnap.com | [@usersnap](https://twitter.com/usersnap) | $19/mo-$99/mo | Usersnap is visual bug reporting for anyone working on web projects. | Get visual feedback and precious browser information with every bug report to reproduce and fix them even faster.
-* Instabug | https://instabug.com | [@instabug](https://twitter.com/instabug) | $49/mo-$349/mo | Instabug is comprehensive bug reporting and in-app feedback tool for mobile apps. | Receive detailed feedback attached with every bug report sent by your testers or users to debug  and build better apps, faster. 
+* Instabug | https://instabug.com | [@instabug](https://twitter.com/instabug) | $49/mo-$349/mo | Instabug is comprehensive bug reporting and in-app feedback tool for mobile apps. | Receive detailed feedback attached with every bug report sent by your testers or users to debug  and build better apps, faster.
 
 ### Planning & Project Management
 
@@ -235,8 +235,9 @@ Features: goals of the week, week view and quadrant matrix, pomodoro timer, shar
 
 ### HR
 
-* Workday | https://www.workday.com | [@workday](https://twitter.com/workday) |  | Workday works the way people work—collaboratively, on the go, and in real-time. Explore the product previews below to learn how Workday can change the way you work. | With powerful business applications and a user experience that's unmatched in enterprise software, Workday gives you everything you need to transform your business.
-* Lever | https://www.lever.co | [@lever](https://twitter.com/lever) | A modern web app for hiring | Leverage your entire company – interviewers, managers, and recruiters – to source, vet, and close.
+* PeopleDoc | https://peopledoc.com | [@PeopleDoc_Inc](https://twitter.com/PeopleDoc_Inc) |  | HR Service delivery platform designed to simplify complex HR operations, compliance and can easily serve employees anytime, anywhere.
+* Workday | https://www.workday.com | [@workday](https://twitter.com/workday) |  | Workday works the way people work—collaboratively, on the go, and in real-time with powerful business applications and user experience.
+* Lever | https://www.lever.co | [@lever](https://twitter.com/lever) |  | Leverage your entire company – interviewers, managers, and recruiters – to source, vet, and close.
 * Zenefits | https://www.zenefits.com | [@zenefits](https://twitter.com/zenefits) | $0/mo | The #1 All-In-One HR Platform | Payroll. Benefits. Time. Compliance. All online, all in one place.
 * TestDome | https://www.testdome.com/ | [@TestDome](https://twitter.com/TestDome) | $8/candidate - $20/candidate | Automated testing of programming skills, ask candidates to write real code before calling them for an interview.
 * HackerRank | https://www.hackerrank.com/ | [@hackerrank](https://twitter.com/hackerrank) | paid | End-to-end technical recruiting platform for hiring engineers.
@@ -278,7 +279,7 @@ Features: goals of the week, week view and quadrant matrix, pomodoro timer, shar
 
 ### Error/Exception Handling
 
-* CatchJS | https://catchjs.com | $49 - $499 | JavaScript error reporting for web apps. Can take screenshots and collect click trails, so reproducing bugs becomes easy.  
+* CatchJS | https://catchjs.com | $49 - $499 | JavaScript error reporting for web apps. Can take screenshots and collect click trails, so reproducing bugs becomes easy.
 * Crashlytics | http://try.crashlytics.com | [@crashlytics](https://twitter.com/crashlytics) | Free | Crash reports and grouping for easier analysis. Basic analytics and reports. | iOS & Android
 * Sentry | https://sentry.io/welcome/ | [@getsentry](https://twitter.com/getsentry) | $24/mo - $199/mo | Sentry notifies you when your users experience errors. | Know immediately when things happen in your application. Engage users before they have a chance to report a problem.
 * HoneyBadger | https://www.honeybadger.io | [@honeybadgerapp](https://twitter.com/honeybadgerapp) | $39/mo - $249/mo | Exception, uptime, and performance monitoring for Ruby. | It tells you about errors, downtime and performance issues as they happen. And it gives you the tools you need to fix them ...without burying you in data. Without silly rate limits or per-server fees.

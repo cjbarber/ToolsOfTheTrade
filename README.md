@@ -232,7 +232,7 @@ Features: goals of the week, week view and quadrant matrix, pomodoro timer, shar
 ### User Management
 
 * Okta | https://developer.okta.com/ | [@OktaDev](https://twitter.com/OktaDev) | free | Okta adds authentication, authorization, and user management to your web or mobile app within minutes.
-* Authing | https://authing.cn/ | free | Authing provides authentication, user management, OAuth, QRCode Login to help you start business development quickly.
+* Authing | https://authing.cn/ | free | Authing provides authentication, user management, OAuth and QRCode Login to help you start business development quickly.
 
 ### User Testing
 

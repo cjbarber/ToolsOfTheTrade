@@ -709,6 +709,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Amazon Web Services | https://aws.amazon.com/elasticbeanstalk/ | Like Azure, it's more known for IaaS
 * Deis | http://deis.io (DIY PaaS)
 * Scalingo | https://scalingo.com | European PAAS
+* Eldarion | https://eldarion.cloud/ | Service for open source Kelproject that they develop in Python and Go
 
 ### VPS
 

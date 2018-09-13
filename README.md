@@ -548,6 +548,8 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * WePay | https://go.wepay.com | [@wepay](https://twitter.com/wepay) | 2.9% + 30¢ per transaction. | WePay is the first payments engine to offer platforms — marketplaces, crowdfunding, and business software/tools — a way to own their customer experience while still shielding them from 100 percent of fraud and regulatory risk.
 * Paddle | https://paddle.com | [@PaddleHQ](https://twitter.com/PaddleHQ) | 5% + 50¢ per transaction. | Payment processing and fulfillment, specialized for desktop apps and SaaS subscription services. Handles VAT and invoicing for you, so your accounting becomes easier.
 
+* Fattmerchant | https://fattmerchant.com/ | [@fattmerchant](https://twitter.com/fattmerchant) | 0% + interchange + $99+/mo | Payments unified. | Integrate your app, website, software, or hardware with the Fattmerchant API to seamlessly accept all major credit cards, ACH payments, and more! Ideal for both in-person and online transactions.
+
 ### Banking
 
 * Simple | https://www.simple.com [@simple](https://twitter.com/simple) | The way banking should be.
@@ -620,6 +622,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Nulis | https://nulis.io | Outliner / mind-mapping tool.
 * WritingStreak | https://writingstreak.io | Develop a writing habit, take daily notes.
 * Dynalist | https://dynalist.io/ | [@dynalisthq](https://twitter.com/dynalisthq) | Free - $8/mo | Outliner, note-taking app, checklists.
+* Inkdrop | https://www.inkdrop.info/ | The Note-Taking App for Markdown Lovers.
 
 ### Group Communication/Chat Tools
 

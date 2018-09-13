@@ -334,6 +334,7 @@ Features: goals of the week, week view and quadrant matrix, pomodoro timer, shar
 * TrueSight Pulse | http://truesightpulse.bmc.com | [@truesightpulse](https://twitter.com/truesightpulse) | | Real-time visibility into cloud and server infrastructure
 * Librato | https://www.librato.com | [@Librato](https://twitter.com/Librato) | $0.05/metric/mo to $0.30/metric/mo | Librato provides a complete solution for monitoring and understanding the metrics that impact your business at all levels of the stack.
 * Scout | https://scoutapp.com/
+* BinaryCanary | https://www.binarycanary.com
 
 ### Customer Support/Help Desks
 
@@ -785,6 +786,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * TaskArmy | https://taskarmy.com
 * 99Designs | https://99designs.com/
 * Fiverr | https://www.fiverr.com
+* Remotely Awesome Jobs | https://www.remotelyawesomejobs.com
 
 ### Deployment
 
@@ -833,6 +835,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 ### Storage
 
 * Kloudless | https://kloudless.com | [@Kloudless](https://twitter.com/Kloudless) | $10/10k API requests/month | Kloudless provides developers with a single cloud storage API in the place of many | Kloudless is the last cloud storage API you'll ever need. Integrate a single REST API instead of many and use our UI tools to quickly build cloud storage support into your app. We maintain all the integrations so you can focus on building awesome products.
+* CloudBuddy | https://cloudbuddy.cloud | $1/10GB/month | SFTP Online Storage
 
 ### Task Scheduling
 

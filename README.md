@@ -622,7 +622,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Nulis | https://nulis.io | Outliner / mind-mapping tool.
 * WritingStreak | https://writingstreak.io | Develop a writing habit, take daily notes.
 * Dynalist | https://dynalist.io/ | [@dynalisthq](https://twitter.com/dynalisthq) | Free - $8/mo | Outliner, note-taking app, checklists.
-* Inkdrop | https://www.inkdrop.info/ | The Note-Taking App for Markdown Lovers.
+* Inkdrop | https://www.inkdrop.info/ | $4.99/mo |The Note-Taking App for Markdown Lovers.
 
 ### Group Communication/Chat Tools
 

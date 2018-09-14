@@ -739,6 +739,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Hoodie | http://hood.ie/
 * BaasBox | https://www.baasbox.com
 * LoopBack | http://loopback.io/
+* Para | https://paraio.com | [@Para_IO](https://twitter.com/para_io) | Free - $99/mo | A flexible and affordable backend API for busy developers.
 
 ### WebSockets-aaS
 

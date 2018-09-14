@@ -226,6 +226,7 @@ Features: goals of the week, week view and quadrant matrix, pomodoro timer, shar
 ### User Management
 
 * Okta | https://developer.okta.com/ | [@OktaDev](https://twitter.com/OktaDev) | free | Okta adds authentication, authorization, and user management to your web or mobile app within minutes.
+* Connect2id | https://c2id.net | [@Connect2id](https://twitter.com/connect2id) | €299/mo - €999/mo | Hosted Connect2id server – a flexible, secure and certified OpenID Connect/OAuth 2.0 identity provider.
 
 ### User Testing
 

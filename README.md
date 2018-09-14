@@ -711,6 +711,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 
 ### VPS
 
+* Scaleway |  https://www.scaleway.com/
 * Linode |  https://www.linode.com/
 * Ramnode | http://www.ramnode.com/
 * DigitalOcean | https://www.digitalocean.com/

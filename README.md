@@ -275,6 +275,7 @@ Features: goals of the week, week view and quadrant matrix, pomodoro timer, shar
 * Dashing | http://dashing.io | Dashing is a Sinatra based framework that lets you build beautiful dashboards.
 * Klipfolio | https://www.klipfolio.com | [@klipfolio](https://twitter.com/klipfolio) | $5/user/mo - $20/user/mo | Meet Your Business Dashboard | Connect to any data service to bring your key numbers together on one dashboard. Assign your data to visualizations to show the story behind the numbers. Cultivate a data-driven culture by sharing dashboards with everyone on your team.
 * Grafana | https://grafana.com | [@grafana](https://twitter.com/grafana) | $0 - $90/mo (+9/user/mo) | The analytics platform for all your metrics | Grafana allows you to query, visualize, alert on and understand your metrics no matter where they are stored. Create, explore, and share dashboards with your team and foster a data driven culture.
+* Cyfe | https://www.cyfe.com | [@cyfe](https://twitter.com/Cyfe) | $0 - $29/mo | Cyfe offers all-in-one web dashboards for your clients to help them monitor and analyze data scattered across all their online services like Google Analytics, Salesforce, AdSense, MailChimp, Amazon, Facebook, WordPress, Twitter and more from one single location in real-time.
 
 ### Error/Exception Handling
 

@@ -561,6 +561,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * TalkDesk | https://www.talkdesk.com/
 * HelloFax | https://www.hellofax.com/
 * Dialpad | https://www.dialpad.com | [@DialpadHQ](https://twitter.com/dialpadHQ) | $15/user/mo | people-first phone and meeting system that includes internet fax and follows you where you work
+* Keypad by Smith.ai | https://smith.ai/keypad | [@smithdotai](https://twitter.com/smithdotai) | $25/mo | The most advanced & affordable cloud phone system for small businesses.
 
 ### System Monitoring
 

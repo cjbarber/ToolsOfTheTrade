@@ -226,6 +226,7 @@ Features: goals of the week, week view and quadrant matrix, pomodoro timer, shar
 ### User Management
 
 * Okta | https://developer.okta.com/ | [@OktaDev](https://twitter.com/OktaDev) | free | Okta adds authentication, authorization, and user management to your web or mobile app within minutes.
+* ORY | https://www.ory.sh | [GitHub](http://github.com/ory) | ORY is the go-to open source ecosystem for all authentication and authorization needs in cloud, web, and mobile apps.
 
 ### User Testing
 

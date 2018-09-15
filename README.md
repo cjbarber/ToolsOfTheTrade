@@ -240,6 +240,8 @@ Features: goals of the week, week view and quadrant matrix, pomodoro timer, shar
 * Zenefits | https://www.zenefits.com | [@zenefits](https://twitter.com/zenefits) | $0/mo | The #1 All-In-One HR Platform | Payroll. Benefits. Time. Compliance. All online, all in one place.
 * TestDome | https://www.testdome.com/ | [@TestDome](https://twitter.com/TestDome) | $8/candidate - $20/candidate | Automated testing of programming skills, ask candidates to write real code before calling them for an interview.
 * HackerRank | https://www.hackerrank.com/ | [@hackerrank](https://twitter.com/hackerrank) | paid | End-to-end technical recruiting platform for hiring engineers.
+* BambooHR | https://www.bamboohr.com/ | [@bamboohr](https://twitter.com/bamboohr) | paid | HR software with heart.
+BambooHR lets you focus on people, not processes.
 
 ### Payroll
 

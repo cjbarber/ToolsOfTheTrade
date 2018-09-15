@@ -152,7 +152,7 @@ Instant project management for GitHub repositories |
 * Post It Notes on a (Physical) Wall
 * Sifter | http://sifterapp.com | [@sifterapp](https://twitter.com/sifterapp) | $29/mo - $149/mo | Less configuring. More doing. | We've put in the time researching bug tracking to help create the simplest possible workflow for you to get work done. From time-to-time we even blog about some of our ideas around this optimal bug tracking process…
 * Usersnap | https://usersnap.com | [@usersnap](https://twitter.com/usersnap) | $19/mo-$99/mo | Usersnap is visual bug reporting for anyone working on web projects. | Get visual feedback and precious browser information with every bug report to reproduce and fix them even faster.
-* Instabug | https://instabug.com | [@instabug](https://twitter.com/instabug) | $49/mo-$349/mo | Instabug is comprehensive bug reporting and in-app feedback tool for mobile apps. | Receive detailed feedback attached with every bug report sent by your testers or users to debug  and build better apps, faster. 
+* Instabug | https://instabug.com | [@instabug](https://twitter.com/instabug) | $49/mo-$349/mo | Instabug is comprehensive bug reporting and in-app feedback tool for mobile apps. | Receive detailed feedback attached with every bug report sent by your testers or users to debug  and build better apps, faster.
 
 ### Planning & Project Management
 
@@ -278,14 +278,13 @@ Features: goals of the week, week view and quadrant matrix, pomodoro timer, shar
 
 ### Error/Exception Handling
 
-* CatchJS | https://catchjs.com | $49 - $499 | JavaScript error reporting for web apps. Can take screenshots and collect click trails, so reproducing bugs becomes easy.  
+* CatchJS | https://catchjs.com | $49 - $499 | JavaScript error reporting for web apps. Can take screenshots and collect click trails, so reproducing bugs becomes easy.
 * Crashlytics | http://try.crashlytics.com | [@crashlytics](https://twitter.com/crashlytics) | Free | Crash reports and grouping for easier analysis. Basic analytics and reports. | iOS & Android
 * Sentry | https://sentry.io/welcome/ | [@getsentry](https://twitter.com/getsentry) | $24/mo - $199/mo | Sentry notifies you when your users experience errors. | Know immediately when things happen in your application. Engage users before they have a chance to report a problem.
 * HoneyBadger | https://www.honeybadger.io | [@honeybadgerapp](https://twitter.com/honeybadgerapp) | $39/mo - $249/mo | Exception, uptime, and performance monitoring for Ruby. | It tells you about errors, downtime and performance issues as they happen. And it gives you the tools you need to fix them ...without burying you in data. Without silly rate limits or per-server fees.
 * BugSnag | https://www.bugsnag.com | [@bugsnag](https://twitter.com/bugsnag) | $29/mo - $249/mo | Automatic, full-stack error monitoring | Web app monitoring for Rails, PHP, Node.js, Java, and every other leading platform.
 * Raygun | https://raygun.com | [@raygunio](https://twitter.com/raygunio) | $14/mo - $199/mo | Exceptional Error Tracking | Your software faults get automatically sent to the Raygun service and analysis begins immediately. Raygun intelligently groups your errors so you're dealing with root causes, not every single error instance!
 * Airbrake | https://airbrake.io | [@airbrake](https://twitter.com/airbrake) | $49-249/mo | No More Searching Log Files Capture and Track Your Application's Exceptions in 3 Minutes | Airbrake is the leading exception reporting service, currently providing error tracking for 50,000 applications with support for 18 programming languages.
-* Atatus | https://www.atatus.com | [@atatusapp](https://twitter.com/atatusapp) | $12/mo - $159/mo | Simple JavaScript Error Tracking | Atatus is a simple error tracking and uptime monitoring system. Add two lines of code and get alerted on any errors that occurs in your application in realtime.
 * Rollbar | https://rollbar.com | [@rollbar](https://twitter.com/rollbar) | $12/mo - $1249/mo | Take control of your errors | Rollbar is platform-agnostic and can accept data from anything that can speak HTTP and JSON. You can use our official libraries for Ruby, Python, PHP, Node.js, JavaScript, Android, iOS, or Flash, or roll your own with our API.
 * Errorception | https://errorception.com | [@errorception](https://twitter.com/errorception) | $5/mo - $59/mo | Painless JavaScript Error Tracking | Errorception is a simple and painless way to find out about JavaScript errors, as they occur in your users' browsers. All you need to do is insert a script tag on your page, and you will start recording errors as they happen in real-time.
 * Errbit | OSS | https://errbit.com | The open source error catcher that's Airbrake API compliant.
@@ -311,6 +310,7 @@ Features: goals of the week, week view and quadrant matrix, pomodoro timer, shar
 ### Application Performance
 
 * AppNeta | https://www.appneta.com | [@AppNeta](https://twitter.com/AppNeta) | Free to $119 / mo | Full-stack application monitoring for web apps | Get visibility into code, network, and end user, especially for polyglot and service-oriented applications, by looking at transactions, errors, browser metrics, host metrics, and more.
+* Atatus | https://www.atatus.com | [@atatusapp](https://twitter.com/atatusapp) | $49/ mo | Application monitoring for all your apps. | Gain end-to-end visibility of every business transaction and see how each layer of your software stack affects your customer experience. With Atatus, you can monitor front-end apps, back-end apps and infrastructures.
 * DripStat | https://dripstat.com | [@DripStat](https://twitter.com/dripstat) | $20/ mo | Application monitoring for Java | Next gen Java APM. Full visibility across your stack.  Specificially designed for Java. Supports SQL databases, MongoDB and Cassandra.
 * New Relic | https://newrelic.com | [@NewRelic](https://twitter.com/NewRelic) | $149/ mo | Application monitoring for all your web apps. | It’s about gaining actionable, real-time business insights from the billions of metrics your software is producing, including user click streams, mobile activity, end user experiences and transactions.
 * AppSignal | https://appsignal.com | [@AppSignal](https://twitter.com/AppSignal) | $49/mo - $259/mo | Better monitoring for your Rails applications. | Get detailled statistics on your site's performance with mean and 90th percentile measurements.

@@ -38,94 +38,96 @@ It's hosted on GitHub for a reason! Please submit pull requests.
 
 ## Contents
 
-* [Identity Verification](#identity-verification)
+* [Accounting/Invoicing](#accountinginvoicing)
+* [API Builder](#api-builder)
+* [App Developer Tools](#app-developer-tools)
+* [Application Distribution](#application-distribution)
+* [Application Performance](#application-performance)
+* [AWS Tools](#aws-tools)
+* [Backend-aaS](#backend-aas)
+* [Banking](#banking)
+* [Billing & Payment Processing](#billing--payment-processing)
 * [Browser/Email Testing](#browseremail-testing)
 * [Bug/Issue Tracking](#bugissue-tracking)
-* [Planning & Project Management](#planning--project-management)
-* [Time Tracking](#time-tracking)
-* [App Developer Tools](#app-developer-tools)
-* [Localization & Internationalization](#localization--internationalization)
+* [Business Cards and Print Material](#business-cards-and-print-material)
 * [Business & Traffic Analytics](#business--traffic-analytics)
-* [Conversion Optimization & A/B Testing](#conversion-optimization--ab-testing)
-* [User Management](#user-management)
-* [User Testing](#user-testing)
-* [HR](#hr)
-* [Payroll](#payroll)
-* [Continuous Integration/Code Quality](#continuous-integrationcode-quality)
-* [Dashboards](#dashboards)
-* [Error/Exception Handling](#errorexception-handling)
-* [Application Distribution](#application-distribution)
-* [Log Monitoring](#log-monitoring)
-* [Application Performance](#application-performance)
-* [Load Testing](#load-testing)
-* [Server Monitoring](#server-monitoring)
-* [Customer Support/Help Desks](#customer-supporthelp-desks)
-* [Transactional Email](#transactional-email)
-* [Other APIs](#other-apis)
-* [Site Search](#site-search)
-* [Email Marketing](#email-marketing)
-* [Email Collection/Landing Page Apps](#email-collectionlanding-page-apps)
-* [CRM/Sales Tools](#crmsales-tools)
-* [Social Media Marketing](#social-media-marketing)
-* [Naming](#naming)
-* [Space Rental](#space-rental)
 * [Community Tools](#community-tools)
-* [Personal Productivity](#personal-productivity)
-* [Prototyping/Mockups](#prototypingmockups)
 * [Content Creation/Infographics](#content-creationinfographics)
+* [Continuous Integration/Code Quality](#continuous-integrationcode-quality)
+* [Conversion Optimization & A/B Testing](#conversion-optimization--ab-testing)
+* [CRM/Sales Tools](#crmsales-tools)
 * [Customer Feedback](#customer-feedback)
+* [Customer Support/Help Desks](#customer-supporthelp-desks)
+* [Dashboards](#dashboards)
 * [Data](#data)
 * [Database](#database)
-* [Accounting/Invoicing](#accountinginvoicing)
-* [Privacy Policy, Terms & Conditions, Legal Documents](#privacy-policy-terms--conditions-legal-documents)
+* [Database-aaS](#database-aas)
+* [Deployment](#deployment)
+* [Design Collaboration](#design-collaboration)
+* [Designers](#designers)
+* [Documentation](#documentation)
+* [DNS](#dns)
+* [Email Collection/Landing Page Apps](#email-collectionlanding-page-apps)
+* [Email Marketing](#email-marketing)
+* [Error/Exception Handling](#errorexception-handling)
+* [Forms / Surveys](#forms--surveys)
+* [Group Communication/Chat Tools](#group-communicationchat-tools)
+* [HR](#hr)
+* [Heroku Tools](#heroku-tools)
+* [Identity Verification](#identity-verification)
 * [Income Analytics](#income-analytics)
+* [Knowledge Tracking/Wiki](#knowledge-trackingwiki)
+* [Load Testing](#load-testing)
+* [Localization & Internationalization](#localization--internationalization)
+* [Log Monitoring](#log-monitoring)
+* [Naming](#naming)
+* [Notes](#notes)
+* [Offsite Backups](#offsite-backups)
+* [Ops Alerts and Scheduling](#ops-alerts-and-scheduling)
+* [Other APIs](#other-apis)
+* [PaaS](#paas)
+* [Password Management](#password-management)
 * [Payments, Billing & Downloads](#payments-billing--downloads)
-* [Billing & Payment Processing](#billing--payment-processing)
-* [Banking](#banking)
+* [Payroll](#payroll)
+* [Personal Machine Backups](#personal-machine-backups)
+* [Personal Productivity](#personal-productivity)
 * [Phone/PBX/SMS](#phonepbxsms)
-* [System Monitoring](#system-monitoring)
+* [Planning & Project Management](#planning--project-management)
+* [Presentations / Slides](#presentations--slides)
+* [Privacy Policy, Terms & Conditions, Legal Documents](#privacy-policy-terms--conditions-legal-documents)
+* [Prototyping/Mockups](#prototypingmockups)
+* [Remote Collaboration](#remote-collaboration)
+* [Remote Workers](#remote-workers)
 * [Search](#search)
 * [Security](#security)
-* [Shipping](#shipping)
-* [User Feedback](#user-feedback)
-* [Designers](#designers)
-* [Notes](#notes)
-* [Group Communication/Chat Tools](#group-communicationchat-tools)
-* [Remote Collaboration](#remote-collaboration)
-* [DNS](#dns)
-* [Status Blogs/User Alerts](#status-blogsuser-alerts)
-* [Forms / Surveys](#forms--surveys)
-* [Source Code Hosting](#source-code-hosting)
-* [Design Collaboration](#design-collaboration)
-* [PaaS](#paas)
-* [VPS](#vps)
-* [Heroku Tools](#heroku-tools)
-* [AWS Tools](#aws-tools)
-* [Database-aaS](#database-aas)
-* [Backend-aaS](#backend-aas)
-* [WebSockets-aaS](#websockets-aas)
-* [Ops Alerts and Scheduling](#ops-alerts-and-scheduling)
-* [Accounting](#accounting)
-* [Video Hosting](#video-hosting)
-* [Knowledge Tracking/Wiki](#knowledge-trackingwiki)
-* [Offsite Backups](#offsite-backups)
-* [Personal Machine Backups](#personal-machine-backups)
-* [Remote Workers](#remote-workers)
-* [Deployment](#deployment)
 * [SEO Tools](#seo-tools)
-* [API Builder](#api-builder)
-* [Password Management](#password-management)
+* [Server Monitoring](#server-monitoring)
+* [Shipping](#shipping)
+* [Site Search](#site-search)
+* [Social Media Marketing](#social-media-marketing)
+* [Source Code Hosting](#source-code-hosting)
 * [Sources of Clicks/Ad Platforms](#sources-of-clicksad-platforms)
+* [Space Rental](#space-rental)
+* [Status Blogs/User Alerts](#status-blogsuser-alerts)
 * [Storage](#storage)
+* [System Monitoring](#system-monitoring)
 * [Task Scheduling](#task-scheduling)
-* [Documentation](#documentation)
-* [Business Cards and Print Material](#business-cards-and-print-material)
-* [Presentations / Slides](#presentations--slides)
+* [Time Tracking](#time-tracking)
+* [Transactional Email](#transactional-email)
+* [WebSockets-aaS](#websockets-aas)
+* [User Feedback](#user-feedback)
+* [User Management](#user-management)
+* [User Testing](#user-testing)
+* [VPS](#vps)
+* [Video Hosting](#video-hosting)
 
 ### Identity Verification
 
 * Cognito | https://cognitohq.com | [@getcognito](https://twitter.com/getcognito) | Frictionless, modern identity verification that starts with just a phone number.
 * BlockScore | https://blockscore.com | [@getblockscore](https://twitter.com/getblockscore) | $1/verification - $5/verification | Individual ID verifications and company verifications.
+
+### Calendar
+* Kloudless | https://kloudless.com | [@Kloudless](https://twitter.com/Kloudless) | Free - $500/mo | Kloudless allows you to integrate with several Calendar providers via a single & comprehensive RESTful API. The Kloudless Calendar Unified API allows you to integrate with Google, Outlook, CalDAV, and more with a single code-base. Kloudless also maintains all the integrations so you can focus on building awesome solutions faster.
 
 ### Browser/Email Testing
 
@@ -413,7 +415,8 @@ Start building smarter campaigns. | Send customers to a tailored page that speak
 
 ### CRM/Sales Tools
 
-* Salesforce | http://www.salesforce.com | [@salesforce](https://twitter.com/salesforce) |  | TRANSFORM CONSUMERS INTO CUSTOMERS ACROSS ALL DIGITAL CHANNELS. | The ExactTarget Marketing Cloud, built on the Salesforce1 Platform, allows marketers to create 1:1 campaigns like never before. So you can combine traditional digital channels like email, mobile, social, and the web with any conceivable IP-addressable product to turn consumers into customers.
+* Kloudless | https://kloudless.com | [@Kloudless](https://twitter.com/Kloudless) | Free - $500/mo | Kloudless allows you to integrate with several CRM solutions via a single & comprehensive RESTful API. The Kloudless CRM Unified API allows you to integrate with Salesforce, SugarCRM, Microsoft Dynamics, Zoho, Oracle Sales Cloud, HubSpot, Pipeliner, and more with a single code-base. Kloudless also maintains all the integrations so you can focus on building awesome solutions faster.
+* Salesforce | http://www.salesforce.com | [@salesforce](https://twitter.com/salesforce) | TRANSFORM CONSUMERS INTO CUSTOMERS ACROSS ALL DIGITAL CHANNELS. | The ExactTarget Marketing Cloud, built on the Salesforce1 Platform, allows marketers to create 1:1 campaigns like never before. So you can combine traditional digital channels like email, mobile, social, and the web with any conceivable IP-addressable product to turn consumers into customers.
 * SalesforceIQ | https://www.salesforceiq.com | [@salesforceiq](https://twitter.com/salesforceiq) | £17-85/user/mo | Helps businesses build stronger relationships using Relationship Intelligence.
 * SugarCRM | https://www.sugarcrm.com | [@sugarcrm](https://twitter.com/sugarcrm) | $35/mo - $150/mo | Sugar's open, flexible platform easily solves real business problems. From automating sales, marketing and customer support to creating a custom CRM application, we've got you covered. | By placing the individual at the center of its solution, SugarCRM puts the "i" in CRM and empowers every customer-facing individual to create extraordinary customer relationships.
 * Insight.ly | https://www.insightly.com | [@insightly](https://twitter.com/insightly) | $7/mo | Small Business CRM | Manage contacts, organizations, partners, vendors and suppliers. See everything from background, email history, events, projects or opportunities
@@ -423,6 +426,7 @@ inside Gmail | Streak lets you keep track of all your deals right from your inbo
 * Base | https://getbase.com | [@getbase](https://twitter.com/getbase) | $15/mo - $125/mo | The Sales and CRM Software Your Team Will Actually Use | Base is designed to significantly boost your team’s sales productivity and give you the core sales tools you need to grow your business. Your leads come from a variety of sources. Lead management in Base helps you organize leads and assign them to the right sales reps so they can be followed up on and qualified quickly. After being qualified, convert a lead in Base and all of the contact information you have about your lead is transferred your new customer contact card. Optionally, you can specify follow up tasks and even create a deal at the same time.
 * Pipedrive | https://www.pipedrive.com | | $9/ mo | Pipeline software that gets you organized. | Pipedrive is built for salespeople who need to put in serious effort to turn leads into sales. It helps to organize the work and spend less time on admin.
 * Contactually | https://www.contactually.com | [@Contactually](https://twitter.com/contactually) | $17.99/mo - $99.99/mo | Maximize your network ROI. More referrals. More repeat business | Contactually helps businesses follow up with the right people, at the right time, to maximize relationship ROI.
+* Microsoft Dynamics  | https://dynamics.microsoft.com | [@microsoft](https://twitter.com/msftdynamics365) | Empower sellers with insights to personalize relationships, predict customer needs, and increase sales. | Create personalized shopping experiences that unify digital, in-store, and back office operations.
 
 [Best CRM Software for Startups](https://github.com/cjbarber/best-crm-for-startups)
 
@@ -832,7 +836,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 
 ### Storage
 
-* Kloudless | https://kloudless.com | [@Kloudless](https://twitter.com/Kloudless) | $10/10k API requests/month | Kloudless provides developers with a single cloud storage API in the place of many | Kloudless is the last cloud storage API you'll ever need. Integrate a single REST API instead of many and use our UI tools to quickly build cloud storage support into your app. We maintain all the integrations so you can focus on building awesome products.
+* Kloudless | https://kloudless.com | [@Kloudless](https://twitter.com/Kloudless) | Free - $500/mo | Kloudless provides developers with a single cloud storage API in the place of many | Kloudless is the only cloud storage API you'll ever need. Integrate a single REST API instead of many and use our UI tools to quickly build cloud storage support into your app. We maintain all the integrations so you can focus on building awesome products.
 
 ### Task Scheduling
 

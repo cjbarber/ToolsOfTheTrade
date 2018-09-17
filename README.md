@@ -739,6 +739,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Hoodie | http://hood.ie/
 * BaasBox | https://www.baasbox.com
 * LoopBack | http://loopback.io/
+* Diffusion Cloud | https://docs.pushtechnology.com/cloud/latest/ | 100 connections free. $325/mo for 25000 connections. | Diffusion synchronizes, manages, and distributes data among applications, devices, and systems – via web, mobile, and satellite networks.
 
 ### WebSockets-aaS
 

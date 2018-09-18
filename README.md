@@ -358,7 +358,7 @@ your customers.
 * Drift | https://www.drift.com | [@drift](https://twitter.com/drift) | free for < 100 contacts, paid from $49/mo | Stop wasting your website traffic. | Sales-oriented live chat and in-app messaging, with chatbot automation.
 * Drift | https://www.drift.com | [@drift](https://twitter.com/drift) | free for < 100 contacts, paid from $49/mo | Stop wasting your website traffic. | Sales-oriented live chat and in-app messaging, with chatbot automation.
 * Zammad | https://www.zammad.com | [@zammadhq](https://twitter.com/zammadhq) | $0/mo - $24/mo | Zammad is a award winning open source helpdesk/customer support system with a beautiful UI and many features to manage customer communication via several channels like telephone, facebook, twitter, chat and e-mails. It is distributed under the GNU AFFERO General Public License (AGPL).
-
+* Support Hero | https://www.supporthero.io | [@supportheroapp](https://twitter.com/supportheroapp) | $49/mo - $199/mo | Knowledge base and tutorial management platform with smart analytics | Support Hero is a self-service knowledge base that helps companies educate their clients. Helping them to create and deliver a game-changing user education experience that increases retention and engagement, while reducing customer relationship costs.
 
 ### Transactional Email
 

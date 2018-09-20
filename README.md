@@ -624,7 +624,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 
 ### Code Snippets
 
-* Cacher | https://www.cacher.io | $0/mo - $25/mo | Code snippet organizer with labels, sync for GitHub Gist and extensions for VSCode, Atom and Sublime.
+* Cacher | https://www.cacher.io | $0/mo - $25/mo | Collaborative code snippet organizer with labels, sync for GitHub Gist and extensions for VSCode, Atom and Sublime.
 
 ### Group Communication/Chat Tools
 

@@ -1,14 +1,6 @@
-# Hacker News Tools of the Trade :sunglasses: [![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f3/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Hacker News Tools of the Trade [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f3/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > Tools of The Trade, from [Hacker News](https://news.ycombinator.com).
-
-<p align="center">
-<b><a href="#contents">Contents</a></b>
-·
-<b><a href="#use">Use</a></b>
-·
-<b><a href="#authors">Authors</a></b>
-</p>
 
 ##### Background
 
@@ -32,9 +24,9 @@ Many thanks to the big contributors to the previous threads, including garrettdi
 
 ##### Now
 
-I've collected more data from Hacker News, AngelList and Quora, to make the 2015 (and hopefully beyond) version. This list also includes self-hosted as well as hosted services.
+I've collected more data from Hacker News, AngelList and Quora, to make the 2015 and beyond version. This list also includes self-hosted as well as hosted services.
 
-It's hosted on GitHub for a reason! Please submit pull requests.
+It's on GitHub for a reason! Please submit pull requests.
 
 ## Contents
 
@@ -319,7 +311,7 @@ It's hosted on GitHub for a reason! Please submit pull requests.
 |:--------|:--------|:--------|:------------|
 | [CatchJS](https://catchjs.com) | - | $49 - $499 | JavaScript error reporting for web apps. Can take screenshots and collect click trails, so reproducing bugs becomes easy. |
 | [Crashlytics](http://try.crashlytics.com) | [@crashlytics](https://twitter.com/crashlytics) | Free | Crash reports and grouping for easier analysis. Basic analytics and reports. iOS & Android |
-| [Sentry](https://sentry.io/welcome/) | [@getsentry](https://twitter.com/getsentry) | $24/mo - $199/mo | Sentry notifies you when your users experience errors. Know immediately when things happen in your application. Engage users before they have a chance to report a problem. |
+| [Sentry](https://sentry.io/welcome/) | [@getsentry](https://twitter.com/getsentry) | Open Source & $24/mo - $199/mo | Sentry notifies you when your users experience errors. Know immediately when things happen in your application. Engage users before they have a chance to report a problem. |
 | [HoneyBadger](https://www.honeybadger.io) | [@honeybadgerapp](https://twitter.com/honeybadgerapp) | $39/mo - $249/mo | Exception, uptime, and performance monitoring for Ruby. It tells you about errors, downtime and performance issues as they happen. And it gives you the tools you need to fix them ...without burying you in data. Without silly rate limits or per-server fees. |
 | [BugSnag](https://www.bugsnag.com) | [@bugsnag](https://twitter.com/bugsnag) | $29/mo - $249/mo | Automatic, full-stack error monitoring. Web app monitoring for Rails, PHP, Node.js, Java, and every other leading platform. |
 | [Raygun](https://raygun.com) | [@raygunio](https://twitter.com/raygunio) | $14/mo - $199/mo | Exceptional Error Tracking. Your software faults get automatically sent to the Raygun service and analysis begins immediately. Raygun intelligently groups your errors so you're dealing with root causes, not every single error instance! |
@@ -409,14 +401,17 @@ It's hosted on GitHub for a reason! Please submit pull requests.
 | [Jitbit Helpdesk](https://www.jitbit.com/helpdesk/) | [@jitbithelpdesk](https://twitter.com/jitbithelpdesk) | $29/mo - $199/mo | A help desk app that actually makes your work easier, not harder. Comes in both hosted and on-premise versions. Very well designed and easy to use. Has all the must-have features and doesn't get in your way. |
 | [Drift](https://www.drift.com) | [@drift](https://twitter.com/drift) | Free for < 100 contacts, paid from $49/mo | Stop wasting your website traffic. Sales-oriented live chat and in-app messaging, with chatbot automation. |
 | [Zammad](https://www.zammad.com) | [@zammadhq](https://twitter.com/zammadhq) | $0/mo - $24/mo | Zammad is a award winning open source helpdesk/customer support system with a beautiful UI and many features to manage customer communication via several channels like telephone, facebook, twitter, chat and e-mails. It is distributed under the GNU AFFERO General Public License (AGPL). |
+<<<<<<< HEAD:README.md
 | [Support Hero](https://www.supporthero.io) | [@supportheroapp](https://twitter.com/supportheroapp) | $49/mo - $199/mo | Knowledge base and tutorial management platform with smart analytics. Support Hero is a self-service knowledge base that helps companies educate their clients. Helping them to create and deliver a game-changing user education experience that increases retention and engagement, while reducing customer relationship costs.
+=======
+* Support Hero | https://www.supporthero.io | [@supportheroapp](https://twitter.com/supportheroapp) | $49/mo - $199/mo | Knowledge base and tutorial management platform with smart analytics | Support Hero is a self-service knowledge base that helps companies educate their clients. Helping them to create and deliver a game-changing user education experience that increases retention and engagement, while reducing customer relationship costs.
+>>>>>>> 073e3b49ecaf7ce3db82fb070c86910deff0ef15:readme.md
 
 ### Transactional Email
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
 | [Postmark](https://postmarkapp.com) | [@postmarkapp](https://twitter.com/postmarkapp) | $1.50 | Email delivery for web apps – done right. Postmark removes the headaches of delivering and parsing transactional email for webapps with minimal setup time and zero maintenance. We have years of experience getting email to the inbox, so you can work and rest easier. |
-| [Mandrill](http://mandrill.com) | [@mandrillapp](https://twitter.com/mandrillapp) | $0.20/mo - $0.10/mo | THE FASTEST WAY TO DELIVER EMAIL. Mandrill is a scalable and affordable email infrastructure service. Whether you're just getting started, have some questions, or are looking for a quick reference, we've got you covered. |
 | [MailGun](https://www.mailgun.com) | [@Mail_Gun](https://twitter.com/Mail_Gun) | $20.00 | The Email Service For Developers. Easy SMTP integration and a simple, RESTful API abstracts away the messy details of email. Scale quickly, whether you need to send 10 or 10 million emails. |
 | AWS SES | - | - | - |
 | [SendGrid](https://sendgrid.com) | [@SendGrid](https://twitter.com/SendGrid) | $9.95/mo - $399.95 | Email Delivery. Simplified. SendGrid delivers billions of emails for companies of all sizes every month. Select the package that best fits with your sending volume, set-up your account, and let SendGrid take care of the rest! |
@@ -610,7 +605,11 @@ It's hosted on GitHub for a reason! Please submit pull requests.
 | [Chargify](https://www.chargify.com) | [@chargify](https://twitter.com/chargify) | $459/mo - $65/mo | Easily Manage Your Recurring Revenue Business. Customers sign up, make payments, use coupons, upgrade... You bill one-time & recurring fees using whatever pricing model you need, charge cards, send invoices & reminders, etc. |
 | [Recurly](https://recurly.com) | [@Recurly](https://twitter.com/Recurly) | $99/mo - $259/mo | Subscription Billing Automation. As the leading recurring billing platform, Recurly ensures setup is easy, integrations are quick, and our service scales with the needs of your business. With Recurly you'll be ready to accept payments and focus on growing your sales in no time. |
 | [ChargeBee](https://www.chargebee.com) | [@chargebee](https://twitter.com/chargebee) | $49/mo - $249/mo | ChargeBee is an easy to use recurring billing and invoicing solution for online businesses |
+<<<<<<< HEAD:README.md
 | [ChargeOver](https://chargeover.com) | [@ChargeOver](https://twitter.com/chargeover) | $65/mo- $549/mo | ChargeOver is a full featured invoicing platform supporting payment plans, recurring billing, one-time billing, and all the major gateway backends.
+=======
+* ChargeOver | https://chargeover.com | @ChargeOver](https://twitter.com/chargeover) | $65/mo- $549/mo | ChargeOver is a full featured invoicing platform supporting payment plans, recurring billing, one-time billing, and all the major gateway backends.
+>>>>>>> 073e3b49ecaf7ce3db82fb070c86910deff0ef15:readme.md
 
 ### Billing & Payment Processing
 
@@ -945,6 +944,7 @@ It's hosted on GitHub for a reason! Please submit pull requests.
 | [Vagrant](https://www.vagrantup.com) | - | - | - |
 | [Salt](https://saltstack.com/community/) | - | - | - |
 | [Prelang](http://prelang.com) | - | Free | Automatic Rails Development |
+| [Ngrok](https://ngrok.com) | - | - | - |
 
 ### SEO Tools
 
@@ -1047,16 +1047,21 @@ This list also uses tags to help when searching the contents:
 
 - **Hosted?** `Hosted`, `Self-hosted`
 
-## Authors
+## See also
+
+* [Awesome Online IDEs](https://github.com/styfle/awesome-online-ide) - A list of awesome online development environments
+* [Data Extractor for Tools of The Trade](https://www.apify.com/metamn/2MS8r-api-https-github-com-cjbarber-toolsofthetrade) - Data extracted with Apify to JSON/CSV/XLS
+
+## Credits
 
 **[Chris Barber](https://www.chrisbarber.co)**
 
-[![](https://img.shields.io/github/followers/cjbarber.svg?style=social&label=Follow%20cjbarber)](https://github.com/cjbarber) [![](https://img.shields.io/twitter/follow/chrisbarber.svg?style=social)](https://twitter.com/chrisbarber)
+[![GitHub](https://img.shields.io/github/followers/cjbarber.svg?style=social&label=Follow%20cjbarber)](https://github.com/cjbarber) [![Twitter](https://img.shields.io/twitter/follow/chrisbarber.svg?style=social)](https://twitter.com/chrisbarber)
 
 **[Craig Davison](https://davison.io)**
 
-[![](https://img.shields.io/github/followers/davisonio.svg?style=social&label=Follow%20davisonio)](https://github.com/davisonio) [![](https://img.shields.io/twitter/follow/davisonio.svg?style=social)](https://twitter.com/davisonio)
+[![GitHub](https://img.shields.io/github/followers/davisonio.svg?style=social&label=Follow%20@davisonio)](https://github.com/davisonio) [![Twitter](https://img.shields.io/twitter/follow/davisonio.svg?style=social)](https://twitter.com/davisonio)
 
-With many thanks to the [contributors](https://github.com/cjbarber/ToolsOfTheTrade/graphs/contributors). :clap:
+...and [contributors](https://github.com/cjbarber/ToolsOfTheTrade/graphs/contributors).
 
-**Contributions are welcome!** Check out the [Contributing Guidelines](https://github.com/cjbarber/ToolsOfTheTrade/blob/master/CONTRIBUTING.md). :raised_hands:
+**[Contributions are welcome!](https://github.com/cjbarber/ToolsOfTheTrade/blob/master/contributing.md)**

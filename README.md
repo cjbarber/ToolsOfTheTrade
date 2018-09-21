@@ -416,7 +416,6 @@ It's hosted on GitHub for a reason! Please submit pull requests.
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
 | [Postmark](https://postmarkapp.com) | [@postmarkapp](https://twitter.com/postmarkapp) | $1.50 | Email delivery for web apps – done right. Postmark removes the headaches of delivering and parsing transactional email for webapps with minimal setup time and zero maintenance. We have years of experience getting email to the inbox, so you can work and rest easier. |
-| [Mandrill](http://mandrill.com) | [@mandrillapp](https://twitter.com/mandrillapp) | $0.20/mo - $0.10/mo | THE FASTEST WAY TO DELIVER EMAIL. Mandrill is a scalable and affordable email infrastructure service. Whether you're just getting started, have some questions, or are looking for a quick reference, we've got you covered. |
 | [MailGun](https://www.mailgun.com) | [@Mail_Gun](https://twitter.com/Mail_Gun) | $20.00 | The Email Service For Developers. Easy SMTP integration and a simple, RESTful API abstracts away the messy details of email. Scale quickly, whether you need to send 10 or 10 million emails. |
 | AWS SES | - | - | - |
 | [SendGrid](https://sendgrid.com) | [@SendGrid](https://twitter.com/SendGrid) | $9.95/mo - $399.95 | Email Delivery. Simplified. SendGrid delivers billions of emails for companies of all sizes every month. Select the package that best fits with your sending volume, set-up your account, and let SendGrid take care of the rest! |

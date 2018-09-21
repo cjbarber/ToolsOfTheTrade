@@ -381,6 +381,7 @@ It's hosted on GitHub for a reason! Please submit pull requests.
 | [Prometheus](https://prometheus.io) | - | - |
 | [Site24x7](https://www.site24x7.com) | [@site24x7(https://twitter.com/Site24x7)] | $9/mo starter - $225/enterprise
 | [Uptime Robot](https://uptimerobot.com) | [@uptimerobot(https://twitter.com/uptimerobot)] | - | Free basic HTTP/HTTPS website monitoring |
+| [BinaryCanary](https://www.binarycanary.com) | - | - | - |
 
 ### Customer Support/Help Desks
 
@@ -918,6 +919,7 @@ It's hosted on GitHub for a reason! Please submit pull requests.
 | [TaskArmy](https://taskarmy.com) | - | - | - |
 | [99Designs](https://99designs.com/) | - | - | - |
 | [Fiverr](https://www.fiverr.com) | - | - | - |
+| [Remotely Awesome Jobs](https://www.remotelyawesomejobs.com) | - | - | - |
 
 ### Deployment
 
@@ -979,6 +981,7 @@ It's hosted on GitHub for a reason! Please submit pull requests.
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
 | [Kloudless](https://kloudless.com) | [@Kloudless](https://twitter.com/Kloudless) | $10/10k API requests/mo | Kloudless provides developers with a single cloud storage API in the place of many. Kloudless is the last cloud storage API you'll ever need. Integrate a single REST API instead of many and use our UI tools to quickly build cloud storage support into your app. We maintain all the integrations so you can focus on building awesome products. |
+| [CloudBuddy](https://cloudbuddy.cloud) | - | $1/10GB/month | SFTP Online Storage |
 
 ### Task Scheduling
 

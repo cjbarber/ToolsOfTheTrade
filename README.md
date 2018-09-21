@@ -90,6 +90,7 @@ It's hosted on GitHub for a reason! Please submit pull requests.
 * [User Feedback](#user-feedback)
 * [Designers](#designers)
 * [Notes](#notes)
+* [Code Snippets](#code-snippets)
 * [Group Communication/Chat Tools](#group-communicationchat-tools)
 * [Remote Collaboration](#remote-collaboration)
 * [DNS](#dns)
@@ -719,6 +720,10 @@ It's hosted on GitHub for a reason! Please submit pull requests.
 | [Dynalist](https://dynalist.io/) | [@dynalisthq](https://twitter.com/dynalisthq) | Free - $8/mo | Outliner, note-taking app, checklists. |
 | [Notion](https://notion.so) | [@notionhq](https://twitter.com/notionhq) | Free -  $8/user/mo | Write, plan, collaborate, and get organized. Notion is all you need — in one tool. |
 | [Inkdrop](https://www.inkdrop.info) | - | $4.99/mo | The Note-Taking App for Markdown Lovers. |
+
+### Code Snippets
+
+* Cacher | https://www.cacher.io | $0/mo - $25/mo | Collaborative code snippet organizer with labels, sync for GitHub Gist and extensions for VSCode, Atom and Sublime.
 
 ### Group Communication/Chat Tools
 

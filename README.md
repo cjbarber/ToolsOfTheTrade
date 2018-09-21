@@ -161,6 +161,7 @@ It's hosted on GitHub for a reason! Please submit pull requests.
 | [Usersnap](https://usersnap.com) | [@usersnap](https://twitter.com/usersnap) | $19/mo-$99/mo | Usersnap is visual bug reporting for anyone working on web projects. Get visual feedback and precious browser information with every bug report to reproduce and fix them even faster. |
 | [Instabug](https://instabug.com) | [@instabug](https://twitter.com/instabug) | $49/mo-$349/mo | Instabug is comprehensive bug reporting and in-app feedback tool for mobile apps. Receive detailed feedback attached with every bug report sent by your testers or users to debug  and build better apps, faster. |
 
+
 ### Planning & Project Management
 
 | Service | Twitter | Pricing | Description |
@@ -322,7 +323,6 @@ It's hosted on GitHub for a reason! Please submit pull requests.
 | [Errorception](https://errorception.com) | [@errorception](https://twitter.com/errorception) | $5/mo - $59/mo | Painless JavaScript Error Tracking. Errorception is a simple and painless way to find out about JavaScript errors, as they occur in your users' browsers. All you need to do is insert a script tag on your page, and you will start recording errors as they happen in real-time. |
 | [Errbit](https://errbit.com) | - | OSS | The open source error catcher that's Airbrake API compliant. |
 | [OverOps](https://www.overops.com) | [@overopshq](https://twitter.com/overopshq) | - | God Mode in Production Code for java and scala applications. |
-
 
 ### Application Distribution
 
@@ -706,6 +706,7 @@ It's hosted on GitHub for a reason! Please submit pull requests.
 | [Nulis](https://nulis.io) | - | - | Outliner / mind-mapping tool. |
 | [WritingStreak](https://writingstreak.io) | - | - | Develop a writing habit, take daily notes. |
 | [Dynalist](https://dynalist.io/) | [@dynalisthq](https://twitter.com/dynalisthq) | Free - $8/mo | Outliner, note-taking app, checklists. |
+| [Notion](https://notion.so) | [@notionhq](https://twitter.com/notionhq) | Free -  $8/user/mo | Write, plan, collaborate, and get organized. Notion is all you need — in one tool. |
 
 ### Group Communication/Chat Tools
 

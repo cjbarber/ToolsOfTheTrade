@@ -617,6 +617,7 @@ It's hosted on GitHub for a reason! Please submit pull requests.
 | [Spreedly](https://www.spreedly.com) | [@spreedly](https://twitter.com/spreedly) | $150/mo - $1500/mo | Payments as a Platform. One of Spreedly's major benefits is reaching a large number of merchant accounts by working across multiple payment gateways. As a direct merchant you can transact globally but deposit funds in unique merchant accounts based on geographic or other business rules. As a SaaS platform you can support the unique merchant accounts of your individual customers. A payment gateway token is your way to indicate to us which unique merchant account this particular transaction will go against. Each unique merchant account = one unique payment gateway token. |
 | [WePay](https://go.wepay.com) | [@wepay](https://twitter.com/wepay) | 2.9% + 30¢/transaction. | WePay is the first payments engine to offer platforms — marketplaces, crowdfunding, and business software/tools — a way to own their customer experience while still shielding them from 100 percent of fraud and regulatory risk. |
 | [Paddle](https://paddle.com) | [@PaddleHQ](https://twitter.com/PaddleHQ) | 5% + 50¢/transaction. | Payment processing and fulfillment, specialized for desktop apps and SaaS subscription services. Handles VAT and invoicing for you, so your accounting becomes easier. |
+* Fattmerchant | https://fattmerchant.com/ | [@fattmerchant](https://twitter.com/fattmerchant) | 0% + interchange + $99+/mo | Payments unified. | Integrate your app, website, software, or hardware with the Fattmerchant API to seamlessly accept all major credit cards, ACH payments, and more! Ideal for both in-person and online transactions.
 
 ### Banking
 
@@ -709,6 +710,7 @@ It's hosted on GitHub for a reason! Please submit pull requests.
 | [WritingStreak](https://writingstreak.io) | - | - | Develop a writing habit, take daily notes. |
 | [Dynalist](https://dynalist.io/) | [@dynalisthq](https://twitter.com/dynalisthq) | Free - $8/mo | Outliner, note-taking app, checklists. |
 | [Notion](https://notion.so) | [@notionhq](https://twitter.com/notionhq) | Free -  $8/user/mo | Write, plan, collaborate, and get organized. Notion is all you need — in one tool. |
+| [Inkdrop](https://www.inkdrop.info) | - | $4.99/mo | The Note-Taking App for Markdown Lovers. |
 
 ### Group Communication/Chat Tools
 

@@ -1047,6 +1047,10 @@ This list also uses tags to help when searching the contents:
 
 - **Hosted?** `Hosted`, `Self-hosted`
 
+## See also
+
+* [Awesome Online IDEs](https://github.com/styfle/awesome-online-ide) - A list of awesome online development environments
+
 ## Authors
 
 **[Chris Barber](https://www.chrisbarber.co)**

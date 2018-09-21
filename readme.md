@@ -1,14 +1,6 @@
-# Hacker News Tools of the Trade :sunglasses: [![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f3/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Hacker News Tools of the Trade [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f3/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > Tools of The Trade, from [Hacker News](https://news.ycombinator.com).
-
-<p align="center">
-<b><a href="#contents">Contents</a></b>
-·
-<b><a href="#use">Use</a></b>
-·
-<b><a href="#authors">Authors</a></b>
-</p>
 
 ##### Background
 
@@ -32,9 +24,9 @@ Many thanks to the big contributors to the previous threads, including garrettdi
 
 ##### Now
 
-I've collected more data from Hacker News, AngelList and Quora, to make the 2015 (and hopefully beyond) version. This list also includes self-hosted as well as hosted services.
+I've collected more data from Hacker News, AngelList and Quora, to make the 2015 and beyond version. This list also includes self-hosted as well as hosted services.
 
-It's hosted on GitHub for a reason! Please submit pull requests.
+It's on GitHub for a reason! Please submit pull requests.
 
 ## Contents
 
@@ -1052,16 +1044,16 @@ This list also uses tags to help when searching the contents:
 * [Awesome Online IDEs](https://github.com/styfle/awesome-online-ide) - A list of awesome online development environments
 * [Data Extractor for Tools of The Trade](https://www.apify.com/metamn/2MS8r-api-https-github-com-cjbarber-toolsofthetrade) - Data extracted with Apify to JSON/CSV/XLS
 
-## Authors
+## Credits
 
 **[Chris Barber](https://www.chrisbarber.co)**
 
-[![](https://img.shields.io/github/followers/cjbarber.svg?style=social&label=Follow%20cjbarber)](https://github.com/cjbarber) [![](https://img.shields.io/twitter/follow/chrisbarber.svg?style=social)](https://twitter.com/chrisbarber)
+[![GitHub](https://img.shields.io/github/followers/cjbarber.svg?style=social&label=Follow%20cjbarber)](https://github.com/cjbarber) [![Twitter](https://img.shields.io/twitter/follow/chrisbarber.svg?style=social)](https://twitter.com/chrisbarber)
 
 **[Craig Davison](https://davison.io)**
 
-[![](https://img.shields.io/github/followers/davisonio.svg?style=social&label=Follow%20davisonio)](https://github.com/davisonio) [![](https://img.shields.io/twitter/follow/davisonio.svg?style=social)](https://twitter.com/davisonio)
+[![GitHub](https://img.shields.io/github/followers/davisonio.svg?style=social&label=Follow%20@davisonio)](https://github.com/davisonio) [![Twitter](https://img.shields.io/twitter/follow/davisonio.svg?style=social)](https://twitter.com/davisonio)
 
-With many thanks to the [contributors](https://github.com/cjbarber/ToolsOfTheTrade/graphs/contributors). :clap:
+...and [contributors](https://github.com/cjbarber/ToolsOfTheTrade/graphs/contributors).
 
-**Contributions are welcome!** Check out the [Contributing Guidelines](https://github.com/cjbarber/ToolsOfTheTrade/blob/master/CONTRIBUTING.md). :raised_hands:
+**[Contributions are welcome!](https://github.com/cjbarber/ToolsOfTheTrade/blob/master/contributing.md)**

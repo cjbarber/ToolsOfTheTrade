@@ -409,7 +409,7 @@ It's hosted on GitHub for a reason! Please submit pull requests.
 | [Jitbit Helpdesk](https://www.jitbit.com/helpdesk/) | [@jitbithelpdesk](https://twitter.com/jitbithelpdesk) | $29/mo - $199/mo | A help desk app that actually makes your work easier, not harder. Comes in both hosted and on-premise versions. Very well designed and easy to use. Has all the must-have features and doesn't get in your way. |
 | [Drift](https://www.drift.com) | [@drift](https://twitter.com/drift) | Free for < 100 contacts, paid from $49/mo | Stop wasting your website traffic. Sales-oriented live chat and in-app messaging, with chatbot automation. |
 | [Zammad](https://www.zammad.com) | [@zammadhq](https://twitter.com/zammadhq) | $0/mo - $24/mo | Zammad is a award winning open source helpdesk/customer support system with a beautiful UI and many features to manage customer communication via several channels like telephone, facebook, twitter, chat and e-mails. It is distributed under the GNU AFFERO General Public License (AGPL). |
-* Support Hero | https://www.supporthero.io | [@supportheroapp](https://twitter.com/supportheroapp) | $49/mo - $199/mo | Knowledge base and tutorial management platform with smart analytics | Support Hero is a self-service knowledge base that helps companies educate their clients. Helping them to create and deliver a game-changing user education experience that increases retention and engagement, while reducing customer relationship costs.
+| [Support Hero](https://www.supporthero.io) | [@supportheroapp](https://twitter.com/supportheroapp) | $49/mo - $199/mo | Knowledge base and tutorial management platform with smart analytics. Support Hero is a self-service knowledge base that helps companies educate their clients. Helping them to create and deliver a game-changing user education experience that increases retention and engagement, while reducing customer relationship costs.
 
 ### Transactional Email
 
@@ -610,7 +610,7 @@ It's hosted on GitHub for a reason! Please submit pull requests.
 | [Chargify](https://www.chargify.com) | [@chargify](https://twitter.com/chargify) | $459/mo - $65/mo | Easily Manage Your Recurring Revenue Business. Customers sign up, make payments, use coupons, upgrade... You bill one-time & recurring fees using whatever pricing model you need, charge cards, send invoices & reminders, etc. |
 | [Recurly](https://recurly.com) | [@Recurly](https://twitter.com/Recurly) | $99/mo - $259/mo | Subscription Billing Automation. As the leading recurring billing platform, Recurly ensures setup is easy, integrations are quick, and our service scales with the needs of your business. With Recurly you'll be ready to accept payments and focus on growing your sales in no time. |
 | [ChargeBee](https://www.chargebee.com) | [@chargebee](https://twitter.com/chargebee) | $49/mo - $249/mo | ChargeBee is an easy to use recurring billing and invoicing solution for online businesses |
-* ChargeOver | https://chargeover.com | @ChargeOver](https://twitter.com/chargeover) | $65/mo- $549/mo | ChargeOver is a full featured invoicing platform supporting payment plans, recurring billing, one-time billing, and all the major gateway backends.
+| [ChargeOver](https://chargeover.com) | [@ChargeOver](https://twitter.com/chargeover) | $65/mo- $549/mo | ChargeOver is a full featured invoicing platform supporting payment plans, recurring billing, one-time billing, and all the major gateway backends.
 
 ### Billing & Payment Processing
 

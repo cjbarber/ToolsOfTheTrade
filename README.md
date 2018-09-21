@@ -161,7 +161,6 @@ It's hosted on GitHub for a reason! Please submit pull requests.
 | [Usersnap](https://usersnap.com) | [@usersnap](https://twitter.com/usersnap) | $19/mo-$99/mo | Usersnap is visual bug reporting for anyone working on web projects. Get visual feedback and precious browser information with every bug report to reproduce and fix them even faster. |
 | [Instabug](https://instabug.com) | [@instabug](https://twitter.com/instabug) | $49/mo-$349/mo | Instabug is comprehensive bug reporting and in-app feedback tool for mobile apps. Receive detailed feedback attached with every bug report sent by your testers or users to debug  and build better apps, faster. |
 
-
 ### Planning & Project Management
 
 | Service | Twitter | Pricing | Description |
@@ -264,6 +263,7 @@ It's hosted on GitHub for a reason! Please submit pull requests.
 | [Zenefits](https://www.zenefits.com) | [@zenefits](https://twitter.com/zenefits) | $0/mo | The #1 All-In-One HR Platform. Payroll. Benefits. Time. Compliance. All online, all in one place. |
 | [TestDome](https://www.testdome.com/) | [@TestDome](https://twitter.com/TestDome) | $8/candidate - $20/candidate | Automated testing of programming skills, ask candidates to write real code before calling them for an interview. |
 | [HackerRank](https://www.hackerrank.com/) | [@hackerrank](https://twitter.com/hackerrank) | paid | End-to-end technical recruiting platform for hiring engineers. |
+* PeopleDoc | https://peopledoc.com | [@PeopleDoc_Inc](https://twitter.com/PeopleDoc_Inc) |  | HR Service delivery platform designed to simplify complex HR operations, compliance and can easily serve employees anytime, anywhere.
 
 ### Payroll
 
@@ -814,6 +814,7 @@ It's hosted on GitHub for a reason! Please submit pull requests.
 | [Amazon Web Services](https://aws.amazon.com/elasticbeanstalk/) | - | - | Like Azure, it's more known for IaaS |
 | [Deis](http://deis.io) | - | - | - |
 | [Scalingo](https://scalingo.com) | - | - | European PAAS |
+* Eldarion | https://eldarion.cloud/ | Service for open source Kelproject that they develop in Python and Go
 
 ### VPS
 

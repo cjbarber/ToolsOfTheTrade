@@ -19,9 +19,9 @@ For additions, check that it hasn't been submitted already and that it is suitab
 1. [Fork](https://help.github.com/articles/fork-a-repo/) the repository and [clone](https://help.github.com/articles/cloning-a-repository/) your fork.
 
 2. Start editing!
-  - Additions should be added to the bottom of the section.
-  - Please follow the [Addition format](#addition-format).
   - **If you are adding a tool you are affiliated with please include other improvements/fixes to the repo.**
+  - Additions should be added to the bottom of the section.
+  - Please follow the [format](#format).
   - Ideally the tool should be hosted, however self-hosted tools are acceptable too.
   - The product/service should have had some coverage on Hacker News - whether this be comments or posts.
   - Descriptions should be concise, descriptive and not marketing-focused.
@@ -43,11 +43,9 @@ Questions, feedback & ideas are all welcome - just [open an issue](https://githu
 
 Alternatively you can [contact the authors](https://github.com/cjbarber/ToolsOfTheTrade#authors).
 
-## Additional notes
+## Format
 
-### Addition format
-
-Our addition format is currently:
+Our format is currently:
 ```
-* Example | https://example.com | [@example](https://twitter.com/example) | cost | description + tags
+| [Example](https://example.com) | [@example](https://twitter.com/example) | pricing | slogan + description + tags |
 ```

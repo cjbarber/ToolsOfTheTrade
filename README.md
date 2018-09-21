@@ -667,8 +667,8 @@ It's hosted on GitHub for a reason! Please submit pull requests.
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
-| [Shipwire](https://www.shipwire.com/) | - | - | - |
-| [Shyp](https://www.shyp.com/) | - | - | - |
+| [Shipwire](https://www.shipwire.com) | - | - | - |
+| [Shyp](https://www.shyp.com) | - | - | - |
 | [Whiplash](https://www.getwhiplash.com) | - | - | - |
 
 ### User Feedback
@@ -724,15 +724,12 @@ It's hosted on GitHub for a reason! Please submit pull requests.
 | [Zoom](https://www.zoom.us/) | - | - | - |
 | [Telegram](https://telegram.org/) | - | - | - |
 
-[HipChat (now Stride) Alternatives](https://github.com/cjbarber/hipchat-alternatives)
-
 ### Remote Collaboration
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
 | [TeamViewer](https://www.teamviewer.com) | - | - | - |
 | [Screenmailer](https://www.screenmailer.com) | - | - | - |
-| [Screenhero](https://screenhero.com/) | - | - | - |
 
 ### DNS
 

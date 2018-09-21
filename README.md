@@ -266,6 +266,7 @@ It's hosted on GitHub for a reason! Please submit pull requests.
 | [TestDome](https://www.testdome.com/) | [@TestDome](https://twitter.com/TestDome) | $8/candidate - $20/candidate | Automated testing of programming skills, ask candidates to write real code before calling them for an interview. |
 | [HackerRank](https://www.hackerrank.com/) | [@hackerrank](https://twitter.com/hackerrank) | paid | End-to-end technical recruiting platform for hiring engineers. |
 * PeopleDoc | https://peopledoc.com | [@PeopleDoc_Inc](https://twitter.com/PeopleDoc_Inc) |  | HR Service delivery platform designed to simplify complex HR operations, compliance and can easily serve employees anytime, anywhere.
+* BambooHR | https://www.bamboohr.com/ | [@bamboohr](https://twitter.com/bamboohr) | paid | HR software with heart.
 
 ### Payroll
 

@@ -706,7 +706,7 @@ It's hosted on GitHub for a reason! Please submit pull requests.
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
-| [Kandan](http://kandanapp.com/) | - | - | - |
+| [Kandan](http://getkandan.com) | - | - | - |
 | [Yammer](https://www.yammer.com/) | - | - | - |
 | [Limechat](http://limechat.net/) | - | - | - |
 | [Flowdock](https://www.flowdock.com/) | - | Free for teams up to 5 people | - |

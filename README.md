@@ -243,6 +243,7 @@ It's hosted on GitHub for a reason! Please submit pull requests.
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
 | [Okta](https://developer.okta.com/) | [@OktaDev](https://twitter.com/OktaDev) | Free | Okta adds authentication, authorization, and user management to your web or mobile app within minutes. |
+| [Auth0](https://auth0.com) | - | - | - |
 
 ### User Testing
 
@@ -888,6 +889,7 @@ It's hosted on GitHub for a reason! Please submit pull requests.
 | [Confluence Questions (Q&A for your team)](https://www.atlassian.com/software/confluence/questions) | - | - | - |
 | bitbucket's default Wiki | - | - | comes with own repo, markdown/creole, much lighter than Confluence. |
 | [SlimWiki](https://slimwiki.com ) | - | - | - |
+| [Documize](https://documize.com) | - | - | - |
 
 ### Offsite Backups
 
@@ -955,6 +957,7 @@ It's hosted on GitHub for a reason! Please submit pull requests.
 | [KeePassX](https://www.keepassx.org) | - | - | [Recommended by EFF](https://www.eff.org/deeplinks/2014/07/protecting-your-anonymity-how-sex-workers) |
 | [KeePassXC](https://keepassxc.org/) | [@KeePassXC](https://twitter.com/KeePassXC) | Free | further development of KeePassX |
 | [Enpass](https://www.enpass.io) | - | - | - |
+| [Dashlane](https://www.dashlane.com) | - | - |
 
 ### Sources of Clicks/Ad Platforms
 

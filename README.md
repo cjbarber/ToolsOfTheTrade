@@ -119,6 +119,7 @@ It's hosted on GitHub for a reason! Please submit pull requests.
 * [Storage](#storage)
 * [Task Scheduling](#task-scheduling)
 * [Documentation](#documentation)
+* [Engineering Metrics](#engineering-metrics)
 * [Business Cards and Print Material](#business-cards-and-print-material)
 * [Presentations / Slides](#presentations--slides)
 
@@ -993,6 +994,11 @@ It's hosted on GitHub for a reason! Please submit pull requests.
 | [Dash](https://kapeli.com/dash) | - | - | - |
 | [Zeal](https://zealdocs.org) | [@zealdocs](https://twitter.com/zealdocs) | Free | Offline documentation browser |
 | [DevDocs](https://devdocs.io/) | [@DevDocs](https://twitter.com/DevDocs) | Free | DevDocs combines multiple API documentations in a fast, organized, and searchable interface. You don't have to use your mouse — use keyboard shortcuts. The search supports fuzzy matching. You can search using your browser's address bar. DevDocs is Free and open source. |
+
+### Engineering Metrics
+
+* Static Object | https://www.staticobject.com | [@StaticObjectDev](https://twitter.com/StaticObjectDev) | $295/mo - $495/mo | Metrics that enhance transparency for engineering teams 
+* Gitprime | https://gitprime.com | [@GitPrime](https://twitter.com/GitPrime) | $749/mo - $2,549/mo | Metrics in context for data-driven engineering leaders 
 
 ### Business Cards and Print Material
 

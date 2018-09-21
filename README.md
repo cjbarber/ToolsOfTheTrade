@@ -141,7 +141,7 @@ It's hosted on GitHub for a reason! Please submit pull requests.
 | [Rainforest QA](https://www.rainforestqa.com) | [@rainforestqa](https://twitter.com/rainforestqa) | $500/mo - $2000/mo | Insanely simple integration testing. |
 | [DebugMail](https://debugmail.io) | - | Free | Easy to use fake mail (SMTP) server for developers. |
 | [Mailosaur](https://mailosaur.com) | [@mailosaur](https://twitter.com/mailosaur) | $19/mo - $199/mo | Email, SMS and Spam testing with virtual SMTP servers for business-grade usage. |
-
+| [Mailtrap](https://mailtrap.io) | [@Mailtrap](https://twitter.com/Mailtrap) | Free - $24.99/mo | A fake SMTP server for development and staging environments along with a REST API for testing. |
 
 ### Bug/Issue Tracking
 

@@ -944,6 +944,7 @@ It's hosted on GitHub for a reason! Please submit pull requests.
 | [Vagrant](https://www.vagrantup.com) | - | - | - |
 | [Salt](https://saltstack.com/community/) | - | - | - |
 | [Prelang](http://prelang.com) | - | Free | Automatic Rails Development |
+| [Ngrok](https://ngrok.com) | - | - | - |
 
 ### SEO Tools
 

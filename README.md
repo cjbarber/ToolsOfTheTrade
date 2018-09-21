@@ -825,6 +825,7 @@ It's hosted on GitHub for a reason! Please submit pull requests.
 | [DigitalOcean](https://www.digitalocean.com/) | - | - | - |
 | [Vultr](https://www.vultr.com/) | - | - | - |
 | [OVH](https://www.ovh.com) | - | - | - |
+* Scaleway |  https://www.scaleway.com/
 
 ### Heroku Tools
 

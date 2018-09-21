@@ -37,3 +37,6 @@ Temporary Items
 .fuse_hidden*
 .directory
 .Trash-*
+
+# Other
+ignore/

@@ -47,5 +47,5 @@ Alternatively you can [contact the authors](https://github.com/cjbarber/ToolsOfT
 
 Our format is currently:
 ```
-| [Example](https://example.com/) | [@example](https://twitter.com/example) | pricing | slogan + description + tags |
+| [Example](https://example.com) | [@example](https://twitter.com/example) | pricing | slogan + description + tags |
 ```

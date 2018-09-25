@@ -519,6 +519,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Timing](https://timingapp.com/) | [@TimingApp](https://twitter.com/TimingApp) | $29 - $79 | Automatic time and productivity tracking for Mac. Helps you stay on track with your work and ensures no billable hours get lost (if you are billing hourly). |
 | [fman](https://fman.io) | [@m_herrmann](https://twitter.com/m_herrmann) | $14.00 | Manage and transfer your files with ease. For Windows, Mac and Linux. |
 | [WakaTime](https://wakatime.com) | [@WakaTime](https://twitter.com/WakaTime) | Free - $9/mo | Automatic productivity metrics using text editor plugins. Goals, leaderboards, GitHub integration, automatic project/language/branch detection. |
+| [Setapp](https://setapp.com) | [@setapp](https://twitter.com/setapp) | $9.99/mo | Setapp is a single subscription with a huge collection of quality apps for macOS |
 
 ### Prototyping/Mockups
 

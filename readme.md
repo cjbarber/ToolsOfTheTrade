@@ -232,7 +232,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Optimizely](https://www.optimizely.com) | [@optimizely](https://twitter.com/optimizely) | $17/mo - $359/mo | A/B testing you'll actually use. Track engagement, clicks, conversions, sign ups, or anything else that matters to you and your business. Optimizely's custom goal tracking provides an endless range of measurable actions that you can define. Just tell Optimizely what to measure, and we will do the rest. |
 | [Visual Website Optimizer](https://vwo.com) | [@wingify](https://twitter.com/wingify) | $49/mo - $129/mo | Increase your website sales and conversions. Using Visual Website Optimizer, they A/B test different versions of their website and landing pages to find out which one works best. Made for marketers, our tool is incredibly easy to use, and doesn't need IT resources. |
 | [EyeQuant](http://www.eyequant.com) | [@eyequant](https://twitter.com/eyequant) | $199/mo - $999/mo | Instantly understand what your visitors will see and miss in their first seconds on your site, and improve your conversions. Analyse live sites or mockups within seconds, no code required. |
-* Optimize by Google | https://optimize.google.com | Free | Optimize allows you to test variants of web pages and see how they perform against an objective that you specify. 
+| [Optimize by Google](https://optimize.google.com) | Free | Optimize allows you to test variants of web pages and see how they perform against an objective that you specify. | 
 
 ### User Management
 
@@ -240,7 +240,7 @@ It's on GitHub for a reason! Please submit pull requests.
 |:--------|:--------|:--------|:------------|
 | [Okta](https://developer.okta.com/) | [@OktaDev](https://twitter.com/OktaDev) | Free | Okta adds authentication, authorization, and user management to your web or mobile app within minutes. |
 | [Auth0](https://auth0.com) | - | - | - |
-* Connect2id | https://c2id.net | [@Connect2id](https://twitter.com/connect2id) | €299/mo - €999/mo | Hosted Connect2id server – a flexible, secure and certified OpenID Connect/OAuth 2.0 identity provider.
+| [Connect2id](https://c2id.net) | [@Connect2id](https://twitter.com/connect2id) | €299/mo - €999/mo | Hosted Connect2id server – a flexible, secure and certified OpenID Connect/OAuth 2.0 identity provider. |
 
 ### User Testing
 
@@ -259,8 +259,8 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Zenefits](https://www.zenefits.com) | [@zenefits](https://twitter.com/zenefits) | $0/mo | The #1 All-In-One HR Platform. Payroll. Benefits. Time. Compliance. All online, all in one place. |
 | [TestDome](https://www.testdome.com/) | [@TestDome](https://twitter.com/TestDome) | $8/candidate - $20/candidate | Automated testing of programming skills, ask candidates to write real code before calling them for an interview. |
 | [HackerRank](https://www.hackerrank.com/) | [@hackerrank](https://twitter.com/hackerrank) | paid | End-to-end technical recruiting platform for hiring engineers. |
-* PeopleDoc | https://peopledoc.com | [@PeopleDoc_Inc](https://twitter.com/PeopleDoc_Inc) |  | HR Service delivery platform designed to simplify complex HR operations, compliance and can easily serve employees anytime, anywhere.
-* BambooHR | https://www.bamboohr.com/ | [@bamboohr](https://twitter.com/bamboohr) | paid | HR software with heart.
+| [PeopleDoc](https://peopledoc.com) | [@PeopleDoc_Inc](https://twitter.com/PeopleDoc_Inc) |  | HR Service delivery platform designed to simplify complex HR operations, compliance and can easily serve employees anytime, anywhere. |
+| [BambooHR](https://www.bamboohr.com/) | [@bamboohr](https://twitter.com/bamboohr) | paid | HR software with heart. |
 
 ### Payroll
 
@@ -304,7 +304,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Klipfolio](https://www.klipfolio.com) | [@klipfolio](https://twitter.com/klipfolio) | $5/user/mo - $20/user/mo | Meet Your Business Dashboard. Connect to any data service to bring your key numbers together on one dashboard. Assign your data to visualizations to show the story behind the numbers. Cultivate a data-driven culture by sharing dashboards with everyone on your team. |
 | [Grafana](https://grafana.com) | [@grafana](https://twitter.com/grafana) | $0 - $90/mo (+9/user/mo) | The analytics platform for all your metrics. Grafana allows you to query, visualize, alert on and understand your metrics no matter where they are stored. Create, explore, and share dashboards with your team and foster a data driven culture. |
 | [Redash](https://redash.io | - | Self-hosted or $49/mo - 450/mo | "Redash has support for querying multiple databases, including: Redshift, Google BigQuery, PostgreSQL, MySQL, Graphite, Presto, Google Spreadsheets, Cloudera Impala, Hive and custom scripts."
-* Cyfe | https://www.cyfe.com | [@cyfe](https://twitter.com/Cyfe) | $0 - $29/mo | Cyfe offers all-in-one web dashboards for your clients to help them monitor and analyze data scattered across all their online services like Google Analytics, Salesforce, AdSense, MailChimp, Amazon, Facebook, WordPress, Twitter and more from one single location in real-time.
+| [Cyfe](https://www.cyfe.com) | [@cyfe](https://twitter.com/Cyfe) | $0 - $29/mo | Cyfe offers all-in-one web dashboards for your clients to help them monitor and analyze data scattered across all their online services like Google Analytics, Salesforce, AdSense, MailChimp, Amazon, Facebook, WordPress, Twitter and more from one single location in real-time. |
 
 ### Error/Exception Handling
 
@@ -403,7 +403,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Jitbit Helpdesk](https://www.jitbit.com/helpdesk/) | [@jitbithelpdesk](https://twitter.com/jitbithelpdesk) | $29/mo - $199/mo | A help desk app that actually makes your work easier, not harder. Comes in both hosted and on-premise versions. Very well designed and easy to use. Has all the must-have features and doesn't get in your way. |
 | [Drift](https://www.drift.com) | [@drift](https://twitter.com/drift) | Free for < 100 contacts, paid from $49/mo | Stop wasting your website traffic. Sales-oriented live chat and in-app messaging, with chatbot automation. |
 | [Zammad](https://www.zammad.com) | [@zammadhq](https://twitter.com/zammadhq) | $0/mo - $24/mo | Zammad is a award winning open source helpdesk/customer support system with a beautiful UI and many features to manage customer communication via several channels like telephone, facebook, twitter, chat and e-mails. It is distributed under the GNU AFFERO General Public License (AGPL). |
-* Support Hero | https://www.supporthero.io | [@supportheroapp](https://twitter.com/supportheroapp) | $49/mo - $199/mo | Knowledge base and tutorial management platform with smart analytics | Support Hero is a self-service knowledge base that helps companies educate their clients. Helping them to create and deliver a game-changing user education experience that increases retention and engagement, while reducing customer relationship costs.
+| [Support Hero](https://www.supporthero.io) | [@supportheroapp](https://twitter.com/supportheroapp) | $49/mo - $199/mo | Knowledge base and tutorial management platform with smart analytics | Support Hero is a self-service knowledge base that helps companies educate their clients. Helping them to create and deliver a game-changing user education experience that increases retention and engagement, while reducing customer relationship costs. |
 
 ### Transactional Email
 
@@ -606,7 +606,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Chargify](https://www.chargify.com) | [@chargify](https://twitter.com/chargify) | $459/mo - $65/mo | Easily Manage Your Recurring Revenue Business. Customers sign up, make payments, use coupons, upgrade... You bill one-time & recurring fees using whatever pricing model you need, charge cards, send invoices & reminders, etc. |
 | [Recurly](https://recurly.com) | [@Recurly](https://twitter.com/Recurly) | $99/mo - $259/mo | Subscription Billing Automation. As the leading recurring billing platform, Recurly ensures setup is easy, integrations are quick, and our service scales with the needs of your business. With Recurly you'll be ready to accept payments and focus on growing your sales in no time. |
 | [ChargeBee](https://www.chargebee.com) | [@chargebee](https://twitter.com/chargebee) | $49/mo - $249/mo | ChargeBee is an easy to use recurring billing and invoicing solution for online businesses |
-* ChargeOver | https://chargeover.com | @ChargeOver](https://twitter.com/chargeover) | $65/mo- $549/mo | ChargeOver is a full featured invoicing platform supporting payment plans, recurring billing, one-time billing, and all the major gateway backends.
+| [ChargeOver](https://chargeover.com) | @ChargeOver](https://twitter.com/chargeover) | $65/mo- $549/mo | ChargeOver is a full featured invoicing platform supporting payment plans, recurring billing, one-time billing, and all the major gateway backends. |
 
 ### Billing & Payment Processing
 
@@ -620,13 +620,13 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Spreedly](https://www.spreedly.com) | [@spreedly](https://twitter.com/spreedly) | $150/mo - $1500/mo | Payments as a Platform. One of Spreedly's major benefits is reaching a large number of merchant accounts by working across multiple payment gateways. As a direct merchant you can transact globally but deposit funds in unique merchant accounts based on geographic or other business rules. As a SaaS platform you can support the unique merchant accounts of your individual customers. A payment gateway token is your way to indicate to us which unique merchant account this particular transaction will go against. Each unique merchant account = one unique payment gateway token. |
 | [WePay](https://go.wepay.com) | [@wepay](https://twitter.com/wepay) | 2.9% + 30¢/transaction. | WePay is the first payments engine to offer platforms — marketplaces, crowdfunding, and business software/tools — a way to own their customer experience while still shielding them from 100 percent of fraud and regulatory risk. |
 | [Paddle](https://paddle.com) | [@PaddleHQ](https://twitter.com/PaddleHQ) | 5% + 50¢/transaction. | Payment processing and fulfillment, specialized for desktop apps and SaaS subscription services. Handles VAT and invoicing for you, so your accounting becomes easier. |
-* Fattmerchant | https://fattmerchant.com/ | [@fattmerchant](https://twitter.com/fattmerchant) | 0% + interchange + $99+/mo | Payments unified. | Integrate your app, website, software, or hardware with the Fattmerchant API to seamlessly accept all major credit cards, ACH payments, and more! Ideal for both in-person and online transactions.
+| [Fattmerchant](https://fattmerchant.com/) | [@fattmerchant](https://twitter.com/fattmerchant) | 0% + interchange + $99+/mo | Payments unified. | Integrate your app, website, software, or hardware with the Fattmerchant API to seamlessly accept all major credit cards, ACH payments, and more! Ideal for both in-person and online transactions. |
 
 ### Banking
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
-| [Simple](https://www.simple.com [@simple](https://twitter.com/simple)) | - | - | The way banking should be. |
+| [Simple](https://www.simple.com | [@simple](https://twitter.com/simple)) | - | The way banking should be. |
 
 ### Phone/PBX/SMS
 
@@ -639,7 +639,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [TalkDesk](https://www.talkdesk.com/) | - | - | - |
 | [HelloFax](https://www.hellofax.com/) | - | - | - |
 | [Dialpad](https://www.dialpad.com) | [@DialpadHQ](https://twitter.com/dialpadHQ) | $15/user/mo | people-first phone and meeting system that includes internet fax and follows you where you work |
-* Keypad by Smith.ai | https://smith.ai/keypad | [@smithdotai](https://twitter.com/smithdotai) | $25/mo | The most advanced & affordable cloud phone system for small businesses.
+| [Keypad by Smith.ai](https://smith.ai/keypad) | [@smithdotai](https://twitter.com/smithdotai) | $25/mo | The most advanced & affordable cloud phone system for small businesses. |
 
 ### System Monitoring
 

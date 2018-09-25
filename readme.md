@@ -818,7 +818,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Amazon Web Services](https://aws.amazon.com/elasticbeanstalk/) | - | - | Like Azure, it's more known for IaaS |
 | [Deis](http://deis.io) | - | - | - |
 | [Scalingo](https://scalingo.com) | - | - | European PAAS |
-* Eldarion | https://eldarion.cloud/ | Service for open source Kelproject that they develop in Python and Go
+| [Eldarion](https://eldarion.cloud/) | - | - | Service for open source Kelproject that they develop in Python and Go |
 
 ### VPS
 
@@ -829,7 +829,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [DigitalOcean](https://www.digitalocean.com/) | - | - | - |
 | [Vultr](https://www.vultr.com/) | - | - | - |
 | [OVH](https://www.ovh.com) | - | - | - |
-* Scaleway |  https://www.scaleway.com/
+| [Scaleway](https://www.scaleway.com/) | - | - |
 
 ### Heroku Tools
 
@@ -862,7 +862,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Hoodie](http://hood.ie/) | - | - | - |
 | [BaasBox](https://www.baasbox.com) | - | - | - |
 | [LoopBack](http://loopback.io/) | - | - | - |
-* Para | https://paraio.com | [@Para_IO](https://twitter.com/para_io) | Free - $99/mo | A flexible and affordable backend API for busy developers.
+| [Para](https://paraio.com) | [@Para_IO](https://twitter.com/para_io) | Free - $99/mo | A flexible and affordable backend API for busy developers. |
 
 ### WebSockets-aaS
 
@@ -1013,8 +1013,8 @@ It's on GitHub for a reason! Please submit pull requests.
 
 ### Engineering Metrics
 
-* Static Object | https://www.staticobject.com | [@StaticObjectDev](https://twitter.com/StaticObjectDev) | $295/mo - $495/mo | Metrics that enhance transparency for engineering teams 
-* Gitprime | https://gitprime.com | [@GitPrime](https://twitter.com/GitPrime) | $749/mo - $2,549/mo | Metrics in context for data-driven engineering leaders 
+| [Static Object](https://www.staticobject.com) | [@StaticObjectDev](https://twitter.com/StaticObjectDev) | $295/mo - $495/mo | Metrics that enhance transparency for engineering teams |
+| [Gitprime](https://gitprime.com) | [@GitPrime](https://twitter.com/GitPrime) | $749/mo - $2,549/mo | Metrics in context for data-driven engineering leaders |
 
 ### Business Cards and Print Material
 

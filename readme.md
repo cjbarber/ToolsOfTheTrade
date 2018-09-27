@@ -261,6 +261,8 @@ It's on GitHub for a reason! Please submit pull requests.
 | [HackerRank](https://www.hackerrank.com/) | [@hackerrank](https://twitter.com/hackerrank) | paid | End-to-end technical recruiting platform for hiring engineers. |
 | [PeopleDoc](https://peopledoc.com) | [@PeopleDoc_Inc](https://twitter.com/PeopleDoc_Inc) |  | HR Service delivery platform designed to simplify complex HR operations, compliance and can easily serve employees anytime, anywhere. |
 | [BambooHR](https://www.bamboohr.com/) | [@bamboohr](https://twitter.com/bamboohr) | paid | HR software with heart. |
+| [PeopleDoc](https://peopledoc.com) | [@PeopleDoc_Inc](https://twitter.com/PeopleDoc_Inc) | - | HR Service delivery platform designed to simplify complex HR operations, compliance and can easily serve employees anytime, anywhere.
+| [BambooHR](https://www.bamboohr.com) | [@bamboohr](https://twitter.com/bamboohr) | paid | HR software with heart. |
 
 ### Payroll
 
@@ -303,7 +305,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Dashing](http://dashing.io) | - | - | Dashing is a Sinatra based framework that lets you build beautiful dashboards. |
 | [Klipfolio](https://www.klipfolio.com) | [@klipfolio](https://twitter.com/klipfolio) | $5/user/mo - $20/user/mo | Meet Your Business Dashboard. Connect to any data service to bring your key numbers together on one dashboard. Assign your data to visualizations to show the story behind the numbers. Cultivate a data-driven culture by sharing dashboards with everyone on your team. |
 | [Grafana](https://grafana.com) | [@grafana](https://twitter.com/grafana) | $0 - $90/mo (+9/user/mo) | The analytics platform for all your metrics. Grafana allows you to query, visualize, alert on and understand your metrics no matter where they are stored. Create, explore, and share dashboards with your team and foster a data driven culture. |
-| [Redash](https://redash.io | - | Self-hosted or $49/mo - 450/mo | "Redash has support for querying multiple databases, including: Redshift, Google BigQuery, PostgreSQL, MySQL, Graphite, Presto, Google Spreadsheets, Cloudera Impala, Hive and custom scripts."
+| [Redash](https://redash.io) | - | Self-hosted or $49/mo - 450/mo | "Redash has support for querying multiple databases, including: Redshift, Google BigQuery, PostgreSQL, MySQL, Graphite, Presto, Google Spreadsheets, Cloudera Impala, Hive and custom scripts." |
 | [Cyfe](https://www.cyfe.com) | [@cyfe](https://twitter.com/Cyfe) | $0 - $29/mo | Cyfe offers all-in-one web dashboards for your clients to help them monitor and analyze data scattered across all their online services like Google Analytics, Salesforce, AdSense, MailChimp, Amazon, Facebook, WordPress, Twitter and more from one single location in real-time. |
 
 ### Error/Exception Handling
@@ -378,8 +380,8 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Librato](https://www.librato.com) | [@Librato](https://twitter.com/Librato) | $0.05/metric/mo to $0.30/metric/mo | Librato provides a complete solution for monitoring and understanding the metrics that impact your business at all levels of the stack. |
 | [Scout](https://scoutapp.com/) | - | - | - |
 | [Prometheus](https://prometheus.io) | - | - |
-| [Site24x7](https://www.site24x7.com) | [@site24x7](https://twitter.com/Site24x7)] | $9/mo starter - $225/enterprise
-| [Uptime Robot](https://uptimerobot.com) | [@uptimerobot](https://twitter.com/uptimerobot)] | - | Free basic HTTP/HTTPS website monitoring |
+| [Site24x7](https://www.site24x7.com) | [@site24x7](https://twitter.com/Site24x7) | $9/mo starter - $225/enterprise
+| [Uptime Robot](https://uptimerobot.com) | [@uptimerobot](https://twitter.com/uptimerobot) | - | Free basic HTTP/HTTPS website monitoring |
 | [BinaryCanary](https://www.binarycanary.com) | - | - | - |
 
 ### Customer Support/Help Desks
@@ -403,7 +405,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Jitbit Helpdesk](https://www.jitbit.com/helpdesk/) | [@jitbithelpdesk](https://twitter.com/jitbithelpdesk) | $29/mo - $199/mo | A help desk app that actually makes your work easier, not harder. Comes in both hosted and on-premise versions. Very well designed and easy to use. Has all the must-have features and doesn't get in your way. |
 | [Drift](https://www.drift.com) | [@drift](https://twitter.com/drift) | Free for < 100 contacts, paid from $49/mo | Stop wasting your website traffic. Sales-oriented live chat and in-app messaging, with chatbot automation. |
 | [Zammad](https://www.zammad.com) | [@zammadhq](https://twitter.com/zammadhq) | $0/mo - $24/mo | Zammad is a award winning open source helpdesk/customer support system with a beautiful UI and many features to manage customer communication via several channels like telephone, facebook, twitter, chat and e-mails. It is distributed under the GNU AFFERO General Public License (AGPL). |
-| [Support Hero](https://www.supporthero.io) | [@supportheroapp](https://twitter.com/supportheroapp) | $49/mo - $199/mo | Knowledge base and tutorial management platform with smart analytics | Support Hero is a self-service knowledge base that helps companies educate their clients. Helping them to create and deliver a game-changing user education experience that increases retention and engagement, while reducing customer relationship costs. |
+| [Support Hero](https://www.supporthero.io) | [@supportheroapp](https://twitter.com/supportheroapp) | $49/mo - $199/mo | Knowledge base and tutorial management platform with smart analytics. Support Hero is a self-service knowledge base that helps companies educate their clients. Helping them to create and deliver a game-changing user education experience that increases retention and engagement, while reducing customer relationship costs.
 
 ### Transactional Email
 
@@ -474,8 +476,6 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Base](https://getbase.com) | [@getbase](https://twitter.com/getbase) | $15/mo - $125/mo | The Sales and CRM Software Your Team Will Actually Use. Base is designed to significantly boost your team’s sales productivity and give you the core sales tools you need to grow your business. Your leads come from a variety of sources. Lead management in Base helps you organize leads and assign them to the right sales reps so they can be followed up on and qualified quickly. After being qualified, convert a lead in Base and all of the contact information you have about your lead is transferred your new customer contact card. Optionally, you can specify follow up tasks and even create a deal at the same time. |
 | [Pipedrive](https://www.pipedrive.com) | - | $9/mo | Pipeline software that gets you organized. Pipedrive is built for salespeople who need to put in serious effort to turn leads into sales. It helps to organize the work and spend less time on admin. |
 | [Contactually](https://www.contactually.com) | [@Contactually](https://twitter.com/contactually) | $17.99/mo - $99.99/mo | Maximize your network ROI. More referrals. More repeat business. Contactually helps businesses follow up with the right people, at the right time, to maximize relationship ROI. |
-
-[Best CRM Software for Startups](https://github.com/cjbarber/best-crm-for-startups)
 
 ### Social Media Marketing
 
@@ -606,7 +606,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Chargify](https://www.chargify.com) | [@chargify](https://twitter.com/chargify) | $459/mo - $65/mo | Easily Manage Your Recurring Revenue Business. Customers sign up, make payments, use coupons, upgrade... You bill one-time & recurring fees using whatever pricing model you need, charge cards, send invoices & reminders, etc. |
 | [Recurly](https://recurly.com) | [@Recurly](https://twitter.com/Recurly) | $99/mo - $259/mo | Subscription Billing Automation. As the leading recurring billing platform, Recurly ensures setup is easy, integrations are quick, and our service scales with the needs of your business. With Recurly you'll be ready to accept payments and focus on growing your sales in no time. |
 | [ChargeBee](https://www.chargebee.com) | [@chargebee](https://twitter.com/chargebee) | $49/mo - $249/mo | ChargeBee is an easy to use recurring billing and invoicing solution for online businesses |
-| [ChargeOver](https://chargeover.com) | @ChargeOver](https://twitter.com/chargeover) | $65/mo- $549/mo | ChargeOver is a full featured invoicing platform supporting payment plans, recurring billing, one-time billing, and all the major gateway backends. |
+| [ChargeOver](https://chargeover.com) | [@ChargeOver](https://twitter.com/chargeover) | $65/mo- $549/mo | ChargeOver is a full featured invoicing platform supporting payment plans, recurring billing, one-time billing, and all the major gateway backends.
 
 ### Billing & Payment Processing
 
@@ -626,7 +626,8 @@ It's on GitHub for a reason! Please submit pull requests.
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
-| [Simple](https://www.simple.com | [@simple](https://twitter.com/simple)) | - | The way banking should be. |
+| [Simple](https://www.simple.com) | [@simple](https://twitter.com/simple)) | - | The way banking should be. |
+
 
 ### Phone/PBX/SMS
 
@@ -1013,6 +1014,8 @@ It's on GitHub for a reason! Please submit pull requests.
 
 ### Engineering Metrics
 
+| Service | Twitter | Pricing | Description |
+|:--------|:--------|:--------|:------------|
 | [Static Object](https://www.staticobject.com) | [@StaticObjectDev](https://twitter.com/StaticObjectDev) | $295/mo - $495/mo | Metrics that enhance transparency for engineering teams |
 | [Gitprime](https://gitprime.com) | [@GitPrime](https://twitter.com/GitPrime) | $749/mo - $2,549/mo | Metrics in context for data-driven engineering leaders |
 

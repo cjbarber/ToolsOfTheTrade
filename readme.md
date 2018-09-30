@@ -28,6 +28,13 @@ I've collected more data from Hacker News, AngelList and Quora, to make the 2015
 
 It's on GitHub for a reason! Please submit pull requests.
 
+## Supported with ❤️ by [Instabug](https://instabug.com/?utm_source=toolsofthetrade&utm_medium=spon&utm_content=header)
+
+[![instabug](https://user-images.githubusercontent.com/9888943/46256666-08746700-c4ae-11e8-8c64-406bbbfe2e0f.png)](https://instabug.com/?utm_source=toolsofthetrade&utm_medium=spon&utm_content=banner)
+
+> Instabug will enable you to easily collect feedback from your beta testers and users. The SDK will automatically attach all the details you would need to debug and fix bugs and crashes faster. Join the top apps in the world that rely on Instabug to enhance their app quality and iterate faster. [learn more.](https://instabug.com/?utm_source=toolsofthetrade&utm_medium=spon&utm_content=learnmore)🚀
+> [![](https://instabug-ga.appspot.com/UA-41982088-6/github/ToolsOfTheTrade?pixel)](https://instabug.com)
+
 ## Contents
 
 * [Identity Verification](#identity-verification)

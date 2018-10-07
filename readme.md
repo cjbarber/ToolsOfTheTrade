@@ -421,6 +421,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [CritSend](https://www.critsend.com) | [@critsend](https://twitter.com/critsend) | $50/mo - $3000/mo | The Best SMTP Relay for Developers. Use the most reliable infrastructure for your transactional and bulk emails. It only takes 5 minutes to setup Critsend and start enjoying fast delivery time and automatic scalability. |
 | [Postage](http://postageapp.com) | [@postagebird](https://twitter.com/postagebird) | $9/mo - $399/mo | The easier way to send email from web apps. Postage app helps design, send, and analyze emails within minutes. |
 | [Sendwithus](https://www.sendwithus.com) | [@sendwithus](https://twitter.com/send_with_us) | Free 'Hacker' plan of 1000 messages/mo | Transactional email A/B testing and drip campaigns |
+| [SparkPost](http://sparkpost.com) | [@SparkPost](https://twitter.com/SparkPost) | Free - $474/mo | The most performant email delivery service — whether your app or website sends hundreds, or billions, of messages. |
 
 ### Other APIs
 

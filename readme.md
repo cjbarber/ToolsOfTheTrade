@@ -180,7 +180,8 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Tom's Planner](https://www.tomsplanner.com) | [@tomsplanner](https://twitter.com/tomsplanner) | $9/mo - $19/mo | Tom's Planner is online Gantt chart software that allows anyone to create, collaborate and share Gantt Charts online with drag and drop simplicity. It's web based, extremely intuitive and easy-to-use. |
 | [LeanKit](https://leankit.com) | [@leankit](https://twitter.com/leankit) | $15/mo - $19/mo | Instant Project visibility. In LeanKit, you map your organization’s processes onto virtual whiteboards. On each board the process steps are represented as vertical and horizontal lanes. Cards represent work items, which team members update and move from across the board as they complete their share of the work. Rather than having to ask for status reports, managers and customers can just look at the board. Board updates are visible in seconds around the globe and e-mail alerts and RSS feeds are available, so you and your team can take immediate action to resolve issues before they turn into serious problems. |
 | [Breeze](https://www.breeze.pm) | [@BreezeTeam](https://twitter.com/BreezeTeam) | $29/mo - $129/mo | Organize and track everything. Breeze shows you what's being worked on, who's working on what, where things are in the workflow and how much time it took. |
-| [Cushion](https://cushionapp.com) | [@cushionapp](https://twitter.com/cushionapp) | $8/mo - $48/mo | Piece of mind for freelancers. We built Cushion as a team of freelancers who always had trouble planning and managing our year—constantly taking on too much work and never thinking to take a break. |
+| [Cushion](https://cushionapp.com/) | [@cushionapp](https://twitter.com/cushionapp) | $8/mo - $48/mo | Piece of mind for freelancers. We built Cushion as a team of freelancers who always had trouble planning and managing our year—constantly taking on too much work and never thinking to take a break. |
+| [Clickup](https://clickup.com) | [@clickup_app](https://twitter.com/clickup_app) | $0 - $5/mo | ClickUp's #1 rated productivity software is making more productive projects with a beautifully designed and intuitive platform. |
 
 ### Time Tracking
 
@@ -238,7 +239,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Optimizely](https://www.optimizely.com) | [@optimizely](https://twitter.com/optimizely) | $17/mo - $359/mo | A/B testing you'll actually use. Track engagement, clicks, conversions, sign ups, or anything else that matters to you and your business. Optimizely's custom goal tracking provides an endless range of measurable actions that you can define. Just tell Optimizely what to measure, and we will do the rest. |
 | [Visual Website Optimizer](https://vwo.com) | [@wingify](https://twitter.com/wingify) | $49/mo - $129/mo | Increase your website sales and conversions. Using Visual Website Optimizer, they A/B test different versions of their website and landing pages to find out which one works best. Made for marketers, our tool is incredibly easy to use, and doesn't need IT resources. |
 | [EyeQuant](http://www.eyequant.com) | [@eyequant](https://twitter.com/eyequant) | $199/mo - $999/mo | Instantly understand what your visitors will see and miss in their first seconds on your site, and improve your conversions. Analyse live sites or mockups within seconds, no code required. |
-| [Optimize by Google](https://optimize.google.com) | Free | Optimize allows you to test variants of web pages and see how they perform against an objective that you specify. |
+| [Optimize by Google](https://optimize.google.com) | - | Free | Optimize allows you to test variants of web pages and see how they perform against an objective that you specify. | 
 
 ### User Management
 
@@ -265,6 +266,8 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Zenefits](https://www.zenefits.com) | [@zenefits](https://twitter.com/zenefits) | $0/mo | The #1 All-In-One HR Platform. Payroll. Benefits. Time. Compliance. All online, all in one place. |
 | [TestDome](https://www.testdome.com/) | [@TestDome](https://twitter.com/TestDome) | $8/candidate - $20/candidate | Automated testing of programming skills, ask candidates to write real code before calling them for an interview. |
 | [HackerRank](https://www.hackerrank.com/) | [@hackerrank](https://twitter.com/hackerrank) | paid | End-to-end technical recruiting platform for hiring engineers. |
+| [PeopleDoc](https://peopledoc.com) | [@PeopleDoc_Inc](https://twitter.com/PeopleDoc_Inc) |  | HR Service delivery platform designed to simplify complex HR operations, compliance and can easily serve employees anytime, anywhere. |
+| [BambooHR](https://www.bamboohr.com/) | [@bamboohr](https://twitter.com/bamboohr) | paid | HR software with heart. |
 | [PeopleDoc](https://peopledoc.com) | [@PeopleDoc_Inc](https://twitter.com/PeopleDoc_Inc) | - | HR Service delivery platform designed to simplify complex HR operations, compliance and can easily serve employees anytime, anywhere.
 | [BambooHR](https://www.bamboohr.com) | [@bamboohr](https://twitter.com/bamboohr) | paid | HR software with heart. |
 | [HiringPlan](https://hiringplan.io) | [@ltse](https://twitter.com/ltse) | Free | HiringPlan is a headcount planning tool for startups with built-in market data. It helps founders adopt a structured compensation plan, pay people fairly and preserve cash and equity runway. |
@@ -335,6 +338,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
 | [HockeyApp](https://www.hockeyapp.net) | [@hockeyapp](https://twitter.com/hockeyapp) | Free - $129/mo depending on number of apps and number of owners | Distribution of iOS, Android, Windows Phone and Mac OS apps. Includes analytics, user feedback and crash reports. |
+| [Setapp](https://setapp.com) | [@setapp](https://twitter.com/setapp) | $9.99/mo | Setapp is a single subscription with a huge collection of quality apps for macOS |
 
 ### Log Monitoring
 
@@ -571,6 +575,9 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Datomic](https://www.datomic.com) | [@datomic_team](https://twitter.com/datomic_team) | - | The fully transactional, cloud-ready, immutable database. Immutable data means strong consistency combined with horizontal read scalability, plus built-in caching. Datomic is a distributed database designed to enable scalable, flexible and intelligent applications, running on next-generation cloud architectures. |
 | [Tinkerpop](http://tinkerpop.apache.org) | - | - | Open source software products in the graph space. |
 | [Vertabelo](http://www.vertabelo.com) | [@vertabelo](https://twitter.com/Vertabelo) | - | Web-based tool for database design. Vertabelo allows you to visually design database models for PostgreSQL, MySQL, Oracle, SQL Server, SQLite, and IBM DB2. You can import the existing database structure from SQL, XML, or using reverse engineering tool. After you design a model, you can generate SQL script or ready-to-use code for various ORMs (Propel, jOOQ, SQLAlchemy, or [Vertabelo Mobile ORM](http://mobile-orm.vertabelo.com/)). |
+| [TablePlus](https://tableplus.io) | [@TablePlus](https://twitter.com/TablePlus) | $0 - $49 | Modern, native client with intuitive GUI tools to create, access, query & edit multiple databases: MySQL, PostgreSQL, SQLite, Microsoft SQL Server, Amazon Redshift, MariaDB, CockroachDB, Vertica, Cassandra, Oracle, and Redis. |
+| [DBngin](https://dbngin.com) | [@DBngin](https://twitter.com/dbngin) | Free | An all-in-one tool for database version management. It allows you to set up a local database server of any versions within a click. |
+
 
 ### Accounting/Invoicing
 
@@ -627,13 +634,14 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Spreedly](https://www.spreedly.com) | [@spreedly](https://twitter.com/spreedly) | $150/mo - $1500/mo | Payments as a Platform. One of Spreedly's major benefits is reaching a large number of merchant accounts by working across multiple payment gateways. As a direct merchant you can transact globally but deposit funds in unique merchant accounts based on geographic or other business rules. As a SaaS platform you can support the unique merchant accounts of your individual customers. A payment gateway token is your way to indicate to us which unique merchant account this particular transaction will go against. Each unique merchant account = one unique payment gateway token. |
 | [WePay](https://go.wepay.com) | [@wepay](https://twitter.com/wepay) | 2.9% + 30¢/transaction. | WePay is the first payments engine to offer platforms — marketplaces, crowdfunding, and business software/tools — a way to own their customer experience while still shielding them from 100 percent of fraud and regulatory risk. |
 | [Paddle](https://paddle.com) | [@PaddleHQ](https://twitter.com/PaddleHQ) | 5% + 50¢/transaction. | Payment processing and fulfillment, specialized for desktop apps and SaaS subscription services. Handles VAT and invoicing for you, so your accounting becomes easier. |
-[Fattmerchant](https://fattmerchant.com) | [@fattmerchant](https://twitter.com/fattmerchant) | 0% + interchange + $99+/mo | Payments unified. Integrate your app, website, software, or hardware with the Fattmerchant API to seamlessly accept all major credit cards, ACH payments, and more! Ideal for both in-person and online transactions. |
+| [Fattmerchant](https://fattmerchant.com/) | [@fattmerchant](https://twitter.com/fattmerchant) | 0% + interchange + $99+/mo | Payments unified. | Integrate your app, website, software, or hardware with the Fattmerchant API to seamlessly accept all major credit cards, ACH payments, and more! Ideal for both in-person and online transactions. |
 
 ### Banking
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
 | [Simple](https://www.simple.com) | [@simple](https://twitter.com/simple)) | - | The way banking should be. |
+
 
 ### Phone/PBX/SMS
 
@@ -825,7 +833,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Amazon Web Services](https://aws.amazon.com/elasticbeanstalk/) | - | - | Like Azure, it's more known for IaaS |
 | [Deis](http://deis.io) | - | - | - |
 | [Scalingo](https://scalingo.com) | - | - | European PAAS |
-| [Eldarion](https://eldarion.cloud) | - | - | Service for open source Kelproject that they develop in Python and Go |
+| [Eldarion](https://eldarion.cloud/) | - | - | Service for open source Kelproject that they develop in Python and Go |
 
 ### VPS
 
@@ -836,7 +844,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [DigitalOcean](https://www.digitalocean.com/) | - | - | - |
 | [Vultr](https://www.vultr.com/) | - | - | - |
 | [OVH](https://www.ovh.com) | - | - | - |
-* Scaleway |  https://www.scaleway.com/
+| [Scaleway](https://www.scaleway.com/) | - | - |
 
 ### Heroku Tools
 

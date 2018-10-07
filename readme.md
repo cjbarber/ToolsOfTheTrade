@@ -973,6 +973,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [KeePassXC](https://keepassxc.org/) | [@KeePassXC](https://twitter.com/KeePassXC) | Free | further development of KeePassX |
 | [Enpass](https://www.enpass.io) | - | - | - |
 | [Dashlane](https://www.dashlane.com) | - | - |
+| [Bitwarden](https://bitwarden.com/) | - | Free for personal use / Self-hosted | Open Source Password Management Solutions
 
 ### Sources of Clicks/Ad Platforms
 

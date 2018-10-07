@@ -104,7 +104,6 @@ It's on GitHub for a reason! Please submit pull requests.
 * [Backend-aaS](#backend-aas)
 * [WebSockets-aaS](#websockets-aas)
 * [Ops Alerts and Scheduling](#ops-alerts-and-scheduling)
-* [Accounting](#accounting)
 * [Video Hosting](#video-hosting)
 * [Knowledge Tracking/Wiki](#knowledge-trackingwiki)
 * [Offsite Backups](#offsite-backups)
@@ -121,6 +120,7 @@ It's on GitHub for a reason! Please submit pull requests.
 * [Engineering Metrics](#engineering-metrics)
 * [Business Cards and Print Material](#business-cards-and-print-material)
 * [Presentations / Slides](#presentations--slides)
+* [Fundraising / Investor Relations](#fundraising--investor-relations)
 
 ### Identity Verification
 
@@ -267,6 +267,8 @@ It's on GitHub for a reason! Please submit pull requests.
 | [HackerRank](https://www.hackerrank.com/) | [@hackerrank](https://twitter.com/hackerrank) | paid | End-to-end technical recruiting platform for hiring engineers. |
 | [PeopleDoc](https://peopledoc.com) | [@PeopleDoc_Inc](https://twitter.com/PeopleDoc_Inc) | - | HR Service delivery platform designed to simplify complex HR operations, compliance and can easily serve employees anytime, anywhere.
 | [BambooHR](https://www.bamboohr.com) | [@bamboohr](https://twitter.com/bamboohr) | paid | HR software with heart. |
+| [HiringPlan](https://hiringplan.io) | [@ltse](https://twitter.com/ltse) | Free | HiringPlan is a headcount planning tool for startups with built-in market data. It helps founders adopt a structured compensation plan, pay people fairly and preserve cash and equity runway. |
+| [TLDROptions](https://tldroptions.io) | [@ltse](https://twitter.com/ltse) | Free | A tool for helping employees understand the potential value of their stock options. |
 
 ### Payroll
 
@@ -582,6 +584,11 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Blinksale](https://www.blinksale.com) | [@blinksale](https://twitter.com/blinksale) | $15.00 | INTRODUCING BLINKSALE UNLIMITED. ONE PLAN. ONE PRICE. UNLIMITED EVERYTHING. Blinksale makes you look your best. With over a dozen invoice designs & thank you notes, you’re sure to put your best foot forward. Every time. |
 | [Cashboard](http://cashboardapp.com) | [@cashboard](https://twitter.com/cashboard) | $8.25/mo - $250/mo | FreeLANCE TIME TRACKING & INVOICE SOFTWARE TRUSTED BY THOUSANDS, WORLDWIDE. Cashboard is the tool we designed to remedy that situation. It works for our software consultancy and we think it’ll work for you too. We launched Cashboard in Spring of 2007after many sleepless nights of hard work. It was the first solution to combine estimates, invoices, time tracking, and online payments into one tool. |
 | [Paydirt](https://paydirtapp.com) | [@paydirtapp](https://twitter.com/paydirtapp) | $8/mo - $149/mo | Smart Time Tracking Easier Invoicing Online Payments. In Paydirt, you can start a timer from any page in one click. No fiddly menus. No navigating around. Just a start button for each task. |
+| [inDinero](https://www.indinero.com) | - | - | - |
+| [QuickBooks Online](https://qbo.intuit.com/qbo27/login?webredir) | - | - | - |
+| [Xero](https://www.xero.com) | - | - | - |
+| [Fast409A](https://Fast409A.io) | [@ltse](https://twitter.com/ltse) | $2000 (depending on startup funding stage) | The Fast409A.io process blends the best of software and human expertise. Each 409A valuation takes an hour or less of your time to submit, is delivered in days not weeks, and is customised to the nuances of your individual startup. |
+| [Runway](https://startuprunway.io) | [@ltse](https://twitter.com/ltse) | Free | Most startups die from running out of cash. Runway is an easy, visual way to plan and manage your startup's most precious resource, explore scenarios and track planned versus actual spending. |
 
 ### Privacy Policy, Terms & Conditions, Legal Documents
 
@@ -879,14 +886,6 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Opsgenie](https://www.opsgenie.com) | [@opsgenie](https://twitter.com/opsgenie) | $0 - $16 user/mo | We make alerts work for you. We provide the tools you need to design meaningful, actionable alerts and ensure the right people are notified. |
 | [VictorOps](https://www.victorops.com) | - | $9 - $49 user/month | Incident Management to Support the DevOps Lifecycle, from First Alert to Post-Incident Review |
 
-### Accounting
-
-| Service | Twitter | Pricing | Description |
-|:--------|:--------|:--------|:------------|
-| [inDinero](https://www.indinero.com) | - | - | - |
-| [QuickBooks Online](https://qbo.intuit.com/qbo27/login?webredir) | - | - | - |
-| [Xero](https://www.xero.com) | - | - | - |
-
 ### Video Hosting
 
 | Service | Twitter | Pricing | Description |
@@ -1035,6 +1034,14 @@ It's on GitHub for a reason! Please submit pull requests.
 | [markpress](https://github.com/gamell/markpress) | - | - | HTML presentations from Markdown files |
 | [Reveal.js](https://github.com/hakimel/reveal.js) | - | - | Flexible HTML presenation framework for creating beautiful slides |
 | [Slides](https://slides.com/) | - | Free - $20/mo | Online editor built with Reveal.js that includes a graphical interface |
+
+### Fundraising / Investor Relations
+| Service | Twitter | Pricing | Description |
+|:--------|:--------|:--------|:------------|
+| [Captable.io](https://captable.io) | [@captable_io](https://twitter.com/captable_io) | Free | Captable.io is a free, fully-featured cap table management tool that enables step-by-step creation, easy collaboration & sharing, convertible note & option calculators, and powerful round & exit modeling. |
+| [Disclosure](https://startupdisclosure.io) | [@ltse](https://twitter.com/ltse) | Free | Helps startups fulfill investor update requests, so investors can manage and aggregate portfolio information. It replaces today's cumbersome email based processes. |
+| [NoteGenie](https://notegenie.io)  / [SAFEGenie](https://safegenie.io) | [@ltse](https://twitter.com/ltse) | Free | A calculator for exploring the impact of convertible notes and SAFEs on founder ownership. |
+| [IPO Ready](https://ipo-ready.com) | [@ltse](https://twitter.com/ltse) | Free | Quickly assess your startup's IPO readiness. Learn what it takes to prepare for an IPO. |
 
 ## Use
 

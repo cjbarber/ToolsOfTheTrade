@@ -461,6 +461,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Drip](https://www.drip.com) | [@getdrip](https://twitter.com/getdrip) | Free for < 100 subscribers, paid plans from $49/mo | Advanced marketing automation with workflows, drip campaigns, conversion tracking etc.. |
 | [MailerLite](https://www.mailerlite.com) | [@mailerlite](https://twitter.com/mailerlite) | Free - $140/mo | Free plan offers a lot of features |
 | [MarketHero](https://markethero.io/) | - | $99+/mo | Autoresponder / email marketing tool. |
+| [EmailOctopus](https://emailoctopus.com) | [@emailoctopus](https://twitter.com/emailoctopus) | Free up to 2,500 subscribers, paid plans from $19/mo | Low cost email marketing using Amazon SES.
 
 ### Email Collection/Landing Page Apps
 

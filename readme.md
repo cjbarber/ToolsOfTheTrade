@@ -239,7 +239,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Optimizely](https://www.optimizely.com) | [@optimizely](https://twitter.com/optimizely) | $17/mo - $359/mo | A/B testing you'll actually use. Track engagement, clicks, conversions, sign ups, or anything else that matters to you and your business. Optimizely's custom goal tracking provides an endless range of measurable actions that you can define. Just tell Optimizely what to measure, and we will do the rest. |
 | [Visual Website Optimizer](https://vwo.com) | [@wingify](https://twitter.com/wingify) | $49/mo - $129/mo | Increase your website sales and conversions. Using Visual Website Optimizer, they A/B test different versions of their website and landing pages to find out which one works best. Made for marketers, our tool is incredibly easy to use, and doesn't need IT resources. |
 | [EyeQuant](http://www.eyequant.com) | [@eyequant](https://twitter.com/eyequant) | $199/mo - $999/mo | Instantly understand what your visitors will see and miss in their first seconds on your site, and improve your conversions. Analyse live sites or mockups within seconds, no code required. |
-| [Optimize by Google](https://optimize.google.com) | - | Free | Optimize allows you to test variants of web pages and see how they perform against an objective that you specify. | 
+| [Optimize by Google](https://optimize.google.com) | - | Free | Optimize allows you to test variants of web pages and see how they perform against an objective that you specify. |
 
 ### User Management
 
@@ -454,13 +454,14 @@ It's on GitHub for a reason! Please submit pull requests.
 | [MailCharts](https://www.mailcharts.com) | [@mailcharts](https://twitter.com/mailcharts) | $30/mo | Track & understand how your competitors use email marketing. MailCharts tracks over a thousand companies, bringing you actionable insights to help you improve your email marketing strategy, make data-driven decisions and gain design and content inspiration. |
 | [Customer.io](https://customer.io) | - | $50/mo - $1250/Mo | Send email based on what people do or don't do in your app. Customer.io lets you send newsletters to segments of customers using data from your site. |
 | [Vero](https://www.getvero.com) | [@veroapp](https://twitter.com/veroapp) | $99/mo | Send emails based on what your customers do. Vero makes it easy to create segments of customers based on the attributes you capture (e.g. age, location, gender) and the actions your customers take (e.g. logged in, used feature x, checked out, etc.). |
-| [MailChimp](https://mailchimp.com) | - | - | - |
-| [Campaign Monitor](https://www.campaignmonitor.com) | [@](https://www.campaignmonitor.com/customers/) | $9/mo - $699/mo | CAMPUnbounce Feature Tour |
+| [Mailchimp](https://mailchimp.com) | [@Mailchimp](https://twitter.com/Mailchimp) | - | - |
+| [Campaign Monitor](https://www.campaignmonitor.com) | [@CampaignMonitor](https://twitter.com/CampaignMonitor) | $9/mo - $699/mo | CAMPUnbounce Feature Tour |
 | [Sendy](https://sendy.co) | [@getsendy](https://twitter.com/getSendy) | $59 one time fee, host yourselfor use a hosted sendy instance from a variety of providers. | - |
 | [Image-Charts](https://image-charts.com) | [@imagecharts](https://twitter.com/imagecharts) | Free - $49/mo, self-hosted plan available | Include animated charts as image into emails, no server-side rendering, 1 URL = 1 chart, compatible with Google Image Charts. |
 | [Drip](https://www.drip.com) | [@getdrip](https://twitter.com/getdrip) | Free for < 100 subscribers, paid plans from $49/mo | Advanced marketing automation with workflows, drip campaigns, conversion tracking etc.. |
 | [MailerLite](https://www.mailerlite.com) | [@mailerlite](https://twitter.com/mailerlite) | Free - $140/mo | Free plan offers a lot of features |
 | [MarketHero](https://markethero.io/) | - | $99+/mo | Autoresponder / email marketing tool. |
+| [EmailOctopus](https://emailoctopus.com) | [@emailoctopus](https://twitter.com/emailoctopus) | Free up to 2,500 subscribers, paid plans from $19/mo | Low cost email marketing using Amazon SES.
 
 ### Email Collection/Landing Page Apps
 

@@ -1044,6 +1044,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Prezi](https://prezi.com/) | - | - | - |
 | [markpress](https://github.com/gamell/markpress) | - | - | HTML presentations from Markdown files |
 | [Reveal.js](https://github.com/hakimel/reveal.js) | - | - | Flexible HTML presenation framework for creating beautiful slides |
+| [Impress.js](https://github.com/impress/impress.js/)| - | - | Presentation framework based on CSS3 transforms and transitions inspired by Prezi |
 | [Slides](https://slides.com/) | - | Free - $20/mo | Online editor built with Reveal.js that includes a graphical interface |
 
 ### Fundraising / Investor Relations

@@ -2,7 +2,7 @@
 
 > Tools of The Trade, from [Hacker News](https://news.ycombinator.com).
 
-##### Background
+###### Background
 
 In 2010, Joshua Schachter, the founder of Delicious, [posted the following](https://news.ycombinator.com/item?id=1769910) on Hacker News:
 

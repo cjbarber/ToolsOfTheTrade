@@ -521,6 +521,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
 | [Discourse](https://www.discourse.org) | [@discourse](https://twitter.com/discourse) | - | Ready for a new discussion platform? Discussion software is a group of people interested in a common topic who are willing to type paragraphs to each other on a web page. |
+| [Scoold](https://scoold.com) | [@getscoold](https://twitter.com/getscoold) | Free / Pro €299 | Stack Overflow in a JAR. An enterprise-ready Q&A platform with full-text search, SAML, LDAP integration and social login support. |
 
 ### Personal Productivity
 

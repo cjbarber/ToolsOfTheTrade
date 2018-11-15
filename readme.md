@@ -231,6 +231,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Heap Analytics](https://heapanalytics.com) | [@heap](https://twitter.com/heap) | 0 - $599+ | Instant, retroactive analytics for web and iOS. No code required. |
 | [Gauges](https://get.gaug.es) | [@GaugesApp](https://twitter.com/gaugesapp) | $6-$48/mo | Gauges provides real time web analytics such as how many people visit your site, where they come from, and where they go. |
 | [Wisdom](https://getWisdom.io) | - | Free - $2000+/mo | Session Replay. Wisdom is the most accurate live visitor session recorder service available. Focusing only on session replay, Wisdom reconstructs a virtual desktop screen for every visitor, across all tabs, to capture the true feel of every visitor's experience. |
+| [Cluvio](https://cluvio.com) | [@cluvio](https://twitter.com/cluvio) | Free - $2000+/mo | Cluvio is the #1 cloud analytics platform for startups and data-driven teams, trusted by over 600 companies. Use SQL and R to analyze data and create beautiful, interactive dashboards for the entire company in few minutes. |
 
 ### Conversion Optimization & A/B Testing
 

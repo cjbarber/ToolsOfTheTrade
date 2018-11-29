@@ -354,6 +354,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Stackify](https://stackify.com) | [@Stackify](https://twitter.com/Stackify) | $15/mo | Connecting the dots for you. Stackify focuses on application health, magnifying critical insights for developers, operations, and support teams. |
 | [statsd](https://github.com/etsy/statsd/) | - | - | - |
 | [Sumo Logic](https://www.sumologic.com) | [@SumoLogic](https://twitter.com/SumoLogic) | - | Log Data is Big Data. Once enabled by the administrator, the new data will be searchable in the customer account. Sumo Logic  provides an Application for Data Volume for out-of–the-box dashboards and searches that deliver a comprehensive view of data usage volume by category, collector, source name, and hosts. |
+| [LogDNA](https://www.logdna.com) | [@TryLogDNA](https://twitter.com/TryLogDNA) | Free to $3/gb | Instantly collect, centralize, and analyze logs in real-time from any platform, at any volume. Cloud, self-hosted, multi-cloud, manage your logs any way you want to. Get up and running with Kubernetes within seconds.|
 
 ### Application Performance
 

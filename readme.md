@@ -602,6 +602,8 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Xero](https://www.xero.com) | - | - | - |
 | [Fast409A](https://Fast409A.io) | [@ltse](https://twitter.com/ltse) | $2000 (depending on startup funding stage) | The Fast409A.io process blends the best of software and human expertise. Each 409A valuation takes an hour or less of your time to submit, is delivered in days not weeks, and is customised to the nuances of your individual startup. |
 | [Runway](https://startuprunway.io) | [@ltse](https://twitter.com/ltse) | Free | Most startups die from running out of cash. Runway is an easy, visual way to plan and manage your startup's most precious resource, explore scenarios and track planned versus actual spending. |
+| [WaveApps](https://www.waveapps.com/) | [@WaveHQ](https://twitter.com/WaveHQ) | Free | Startups on a budget will love this free accounting software (only paying normal pricing for transactions, invoicing and payroll) |
+| [InvoiceNinja](https://www.invoiceninja.com/) | [@invoiceninja](https://twitter.com/invoiceninja) | Free, $8, $12 | You can host it yourself and get it whitelabeled or do the service online depending on your budget. |
 
 ### Privacy Policy, Terms & Conditions, Legal Documents
 

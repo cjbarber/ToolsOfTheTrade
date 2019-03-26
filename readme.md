@@ -728,7 +728,6 @@ It's on GitHub for a reason! Please submit pull requests.
 | [OneNote](https://www.onenote.com/) | [@msonenote](https://twitter.com/msonenote) | Free | The digital note-taking app for your devices |
 | [Taskade](https://www.taskade.com) | [@taskade](https://twitter.com/taskade) | Free | Real-time collaborative notes, checklists, and outlines for teams. |
 | [Nulis](https://nulis.io) | - | - | Outliner / mind-mapping tool. |
-| [WritingStreak](https://writingstreak.io) | - | - | Develop a writing habit, take daily notes. |
 | [Dynalist](https://dynalist.io/) | [@dynalisthq](https://twitter.com/dynalisthq) | Free - $8/mo | Outliner, note-taking app, checklists. |
 | [Notion](https://www.notion.so/) | [@notionhq](https://twitter.com/notionhq) | Free - $8/user/mo | Write, plan, collaborate, and get organized. Notion is all you need — in one tool. |
 | [Inkdrop](https://inkdrop.app/) | [@inkdrop_app](https://twitter.com/inkdrop_app) | $4.99/mo | The Note-Taking App for Markdown Lovers. |

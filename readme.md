@@ -752,6 +752,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Zoom](https://www.zoom.us/) | [@zoom_us](https://twitter.com/zoom_us) | - | - |
 | [Telegram](https://telegram.org/) | [@telegram](https://twitter.com/telegram) | - | - |
 | [Matrix](https://matrix.org/) | [@matrixdotorg](https://twitter.com/matrixdotorg) | - | Decentralised Open Source chat protocol with [bridges to everywhere](https://matrix.org/docs/projects/try-matrix-now.html#application-services) |
+| [Taskade](https://www.taskade.com/) | [@taskade](https://twitter.com/taskade) | Free - $7/user/mo | Chat, video call, and get work done on the same page. Taskade lets you instantly create structured task lists, collaborative notes, and kanban boards. |
 
 
 ### Remote Collaboration

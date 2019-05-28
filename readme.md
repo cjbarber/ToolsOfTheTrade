@@ -142,6 +142,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [DebugMail](https://debugmail.io) | - | Free | Easy to use fake mail (SMTP) server for developers. |
 | [Mailosaur](https://mailosaur.com) | [@mailosaur](https://twitter.com/mailosaur) | $19/mo - $199/mo | Email, SMS and Spam testing with virtual SMTP servers for business-grade usage. |
 | [Mailtrap](https://mailtrap.io) | [@Mailtrap](https://twitter.com/Mailtrap) | Free - $299.99/mo | A fake SMTP server for development and staging environments along with a REST API for testing. |
+| [Polypane](https://polypane.rocks) | [@polypane](https://twitter.com/polypane) | Free trial - $12+/mo | A browser built from the ground up to create and test websites and apps. |
 
 ### Bug/Issue Tracking
 
@@ -546,6 +547,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Figma](https://www.figma.com) | [@figmadesign](https://twitter.com/figmadesign) | Free - $12/editor/mo | Design and prototyping tool, with a focus on collaboration and teams. |
 | [Anima](https://www.animaapp.com) | [@animaapp](https://twitter.com/animaapp) | $0 - $39/mo | Sketch to Code Toolkit. Anima converts web design to code. Make your Sketch design responsive, interactive and alive, and export to HTML/JS/CSS. |
 | [Framer](https://www.framer.com/) | [@framer](https://twitter.com/framer) | Free Trial - $12/mo | Pixel-perfect, responsive designs. Truly high-fidelity prototypes. Seamless collaboration. Framer powers the product teams at Dropbox, Pinterest, Twitter, and thousands more. |
+| [UXPin](https://www.uxpin.com/) | [@uxpin](https://twitter.com/uxpin) | $0 - $23+/mo | The full-stack UX design platform: design systems, prototyping, and documentation in one place. |
 
 ### Content Creation/Infographics
 

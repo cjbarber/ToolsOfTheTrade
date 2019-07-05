@@ -142,6 +142,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [DebugMail](https://debugmail.io) | - | Free | Easy to use fake mail (SMTP) server for developers. |
 | [Mailosaur](https://mailosaur.com) | [@mailosaur](https://twitter.com/mailosaur) | $19/mo - $199/mo | Email, SMS and Spam testing with virtual SMTP servers for business-grade usage. |
 | [Mailtrap](https://mailtrap.io) | [@Mailtrap](https://twitter.com/Mailtrap) | Free - $299.99/mo | A fake SMTP server for development and staging environments along with a REST API for testing. |
+| [MailDev](https://danfarrelly.nyc/MailDev/) | [@djfarrelly](https://twitter.com/djfarrelly) | Free | SMTP Server + Web Interface for viewing and testing emails during development. |
 | [Polypane](https://polypane.rocks) | [@polypane](https://twitter.com/polypane) | Free trial - $12+/mo | A browser built from the ground up to create and test websites and apps. |
 
 ### Bug/Issue Tracking

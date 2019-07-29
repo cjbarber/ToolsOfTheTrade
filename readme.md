@@ -857,7 +857,8 @@ It's on GitHub for a reason! Please submit pull requests.
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
 | [OpenCage Geocoder](https://opencagedata.com/) | [@OpenCageData](https://twitter.com/opencagedata) | $0-1000/month | Forward and reverse geocoding API, using open data. Worldwide coverage. Generous free trial Many tutorials and libraries for most programming languages |
-| [Google Maps](https://developers.google.com/maps/documentation/geocoding/intro) | - | - | Geocoding API from Google, credit card required at sign up.|
+| [Google Maps](https://developers.google.com/maps/documentation/geocoding/intro) | - |  - | Geocoding API from Google, credit card required at sign up.|
+| [Pelias](https://pelias.io) | [@pelias_geocoder](https://twitter.com/pelias_geocoder) | Free tier, varies with usage | A modular, open-source geocoder built on top of Elasticsearch for fast and accurate global search.|
 
 
 ### Heroku Tools

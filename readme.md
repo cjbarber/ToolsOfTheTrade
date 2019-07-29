@@ -347,6 +347,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Fluentd](https://www.fluentd.org) | [@fluentd](https://twitter.com/fluentd) | - | Set Up Once, Collect More. Fluentd is an open source data collector designed for processing data streams. 150+ plugins instantly enable you to store the data for Log Management, Big Data Analytics, etc |
 | [Flume](https://github.com/apache/flume) | - | - | - |
 | [Graylog](https://www.graylog.org) | [@graylog2](https://twitter.com/graylog2) | - | Field-tested open source data analytics system used and trusted all around the world. Search your logs, create charts, send reports and be alerted when something happens. All running on the existing JVM in your datacenter. |
+| [LogDNA](https://logdna.com) | [@logdna](https://twitter.com/LogDNA) | free - $3/gb | Log Management Modernized: Real-time log aggregation, monitoring, and analysis from any platform, at any volume. |
 | [LogEntries](https://logentries.com) | [@logentries](https://twitter.com/logentries) | $16/mo - $245/mo | Log Management & Analytics Made Easy. Logentries provides an easy-to-use cloud service for log management and analytics. |
 | [Loggly](https://www.loggly.com) | [@loggly](https://twitter.com/loggly) | $49/mo - $349/mo | Solve operational problems faster. Loggly helps cloud-centric organizations—organizations that build and manage cloud-facing applications—to solve operational problems faster. |
 | [Logstash](https://www.elastic.co/products/logstash) | [@logstash](https://twitter.com/logstash) | - | Ship logs from any source, parse them, get the right timestamp, index them, and search them. Logstash is a tool for managing events and logs. You can use it to collect logs, parse them, and store them for later use (like, for searching). Speaking of searching, Logstash comes with a web interface for searching and drilling into all of your logs. |
@@ -1060,6 +1061,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Reveal.js](https://github.com/hakimel/reveal.js) | - | - | Flexible HTML presenation framework for creating beautiful slides |
 | [Impress.js](https://github.com/impress/impress.js/)| - | - | Presentation framework based on CSS3 transforms and transitions inspired by Prezi |
 | [Slides](https://slides.com/) | - | Free - $20/mo | Online editor built with Reveal.js that includes a graphical interface |
+| [SlideShare](https://www.slideshare.net/) | [@slideshare](https://twitter.com/SlideShare) | Free | Share what you know and love through presentations, infographics, documents and more |
 
 ### Fundraising / Investor Relations
 | Service | Twitter | Pricing | Description |

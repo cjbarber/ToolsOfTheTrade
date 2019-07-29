@@ -297,11 +297,13 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Bamboo](https://www.atlassian.com/software/bamboo) | [@atlassian](https://twitter.com/atlassian) | $10/mo - $1000/mo | Bamboo does more than just run builds and tests. It connects issues, commits, test results, and deploys so the whole picture is available to your entire product team – from project managers, to devs and testers, to sys admins. |
 | [Buildkite (Buildbox)](https://buildkite.com) | [@buildkite](https://twitter.com/buildkite) | $15/dev/mo | Semi-hosted continuous integration and deployment. Buildkite uses your own infrastructure to run builds so you can test any language or run any deployment scripts. You can run as many parallel agents (and builds) as you want. |
 | [Crucible](https://www.atlassian.com/software/crucible) | [@atlassian](https://twitter.com/atlassian) | $10/mo - $8000/mo | Code review system. Review code, discuss changes, share knowledge, and identify defects with Crucible's flexible review workflow. It's code review made easy for Git, Subversion, CVS, Perforce, and more. |
-| [Coveralls](https://coveralls.io) | [@coverallsapp](https://twitter.com/coverallsapp) | $0/mo - $50/mo | Coveralls works with your continuous integration server to give you test coverage history and statistics. It integrates with any langauge and is Free for open source. |
+| [Coveralls](https://coveralls.io) | [@coverallsapp](https://twitter.com/coverallsapp) | $0/mo - $50/mo | Coveralls works with your continuous integration server to give you test coverage history and statistics. It integrates with any language and is Free for open source. |
 | [Testributor](http://about.testributor.com) | [@testributor](https://twitter.com/testributor) | Free | Testributor is an open source Continuous Integration platform. A hosted version is available for Free, both for open source and private projects. |
 | [Wercker](https://www.oracle.com/corporate/acquisitions/wercker/) | [@wercker](https://twitter.com/wercker) | $0/mo - $350/mo | Wercker is a Docker-Native CI/CD Automation platform for Kubernetes & Microservice Deployments. |
 | [Monkey Test It](https://monkeytest.it) | [@monkeytestit](https://twitter.com/monkeytestit) | $0/mo - $199/mo | Automated website checking tool to catch bugs on your website (broken links, missing images, JS errors, etc) before your users do. Integrates with Slack, most CI systems, webooks, and supports built-in scheduling. |
 | [Concourse](https://concourse-ci.org) | [@concourseci](https://twitter.com/concourseci) | Free | Concourse is an open-source continuous thing-doer. Built on the simple mechanics of resources, tasks, and jobs, Concourse presents a general approach to automation that makes it great for CI/CD. |
+| [PullRequest](https://www.pullrequest.com) | [@pullrequestinc](https://twitter.com/pullrequestinc) | $33+/10 min | Code review as a service by vetted, professional reviewers backed by static analysis  |
+
 
 ### Dashboards
 
@@ -357,6 +359,8 @@ It's on GitHub for a reason! Please submit pull requests.
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
+| [AppNeta](https://www.appneta.com) | [@AppNeta](https://twitter.com/AppNeta) | Free to $119 / mo | Full-stack application monitoring for web apps. Get visibility into code, network, and end user, especially for polyglot and service-oriented applications, by looking at transactions, errors, browser metrics, host metrics, and more. |
+| [DripStat](https://dripstat.com) | [@DripStat](https://twitter.com/dripstat) | $20/mo | Application monitoring for Java. Next gen Java APM. Full visibility across your stack.  Specifically designed for Java. Supports SQL databases, MongoDB and Cassandra. |
 | [AppNeta](https://www.appneta.com) | [@AppNeta](https://twitter.com/AppNeta) | Free to $119/mo | Full-stack application monitoring for web apps. Get visibility into code, network, and end user, especially for polyglot and service-oriented applications, by looking at transactions, errors, browser metrics, host metrics, and more. |
 | [DripStat](https://www.dripstat.com/) | [@DripStat](https://twitter.com/dripstat) | $20/mo | Application monitoring for Java. Next gen Java APM. Full visibility across your stack. Specificially designed for Java. Supports SQL databases, MongoDB and Cassandra. |
 | [New Relic](https://newrelic.com) | [@NewRelic](https://twitter.com/NewRelic) | $149/mo | Application monitoring for all your web apps. It’s about gaining actionable, real-time business insights from the billions of metrics your software is producing, including user click streams, mobile activity, end user experiences and transactions. |
@@ -963,11 +967,11 @@ It's on GitHub for a reason! Please submit pull requests.
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
-| [AccuRanker](https://www.accuranker.com/) | [@AccuRanker](https://twitter.com/accuranker) | - | - |
-| [Ahrefs](https://ahrefs.com) | [@ahrefs](https://twitter.com/ahrefs) | $79/mo - $2500/mo | Ahrefs provide a complete digital marketing suite with tools for analyzing back links, analizing websites, rank tracking, content exploring and more. |
-| [SerpBook](https://serpbook.com) | [@SerpBook](https://twitter.com/serpbook) | - | - |
+| [AccuRanker](https://www.accuranker.com/) | - | - | - |
+| [Ahrefs](https://ahrefs.com) | [@ahrefs](https://twitter.com/ahrefs) | $79/mo - $2500/mo | Ahrefs provide a complete digital marketing suite with tools for analyzing back links, analyzing websites, rank tracking, content exploring and more. |
+| [SerpBook](https://serpbook.com) | - | - | - |
 | [WooRank](https://www.woorank.com) | [@woorank](https://twitter.com/woorank) | Free - $49/mo | WooRank analyzes your website for optimization best practices and shows how it ranks against your competition. Its real-time brandable reports, consisting of over 150 data-points, help you to instantly spot critical issues that impact traffic, usability and conversions. Sync your analytics, social accounts and keywords for even more robust tracking. |
-| [Moz](https://moz.com) | [@moz](https://twitter.com/moz) | $99/mo - $599/mo | Moz provides you all the tools you need to effectively do search engine optimization. On site optimization graders, competitor tracking, back link analysis, rank trakcing and many more features available to users. |
+| [Moz](https://moz.com) | [@moz](https://twitter.com/moz) | $99/mo - $599/mo | Moz provides you all the tools you need to effectively do search engine optimization. On site optimization graders, competitor tracking, back link analysis, rank tracking and many more features available to users. |
 | [KWFinder](https://kwfinder.com/) | [@mangools_com](https://twitter.com/mangools_com) | $30+/mo | Keyword research tool |
 
 ### API Builder
@@ -1048,8 +1052,8 @@ It's on GitHub for a reason! Please submit pull requests.
 |:--------|:--------|:--------|:------------|
 | [Prezi](https://prezi.com/) | [@prezi](https://twitter.com/prezi) | - | - |
 | [markpress](https://github.com/gamell/markpress) | - | - | HTML presentations from Markdown files |
-| [Reveal.js](https://github.com/hakimel/reveal.js) | - | - | Flexible HTML presenation framework for creating beautiful slides |
-| [Slides](https://slides.com/) | [@slides](https://twitter.com/slides) | Free - $20/mo | Online editor built with Reveal.js that includes a graphical interface |
+| [Reveal.js](https://github.com/hakimel/reveal.js) | - | - | Flexible HTML presentation framework for creating beautiful slides |
+| [Slides](https://slides.com/) | - | Free - $20/mo | Online editor built with Reveal.js that includes a graphical interface |
 
 ### Fundraising / Investor Relations
 | Service | Twitter | Pricing | Description |
@@ -1063,7 +1067,7 @@ It's on GitHub for a reason! Please submit pull requests.
 
 The best ways to use this list are:
 
-- by browing the [contents](#contents)
+- by browsing the [contents](#contents)
 - by using <kbd>command</kbd> + <kbd>F</kbd> to search the contents
 
 This list also uses tags to help when searching the contents:

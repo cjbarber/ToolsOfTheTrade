@@ -435,6 +435,7 @@ It's on GitHub for a reason! Please submit pull requests.
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
+| [Exchange Rate API](https://www.exchangerate-api.com) | - | Free | A simple API for fetching currency exchange rates maintained since 2010. Free tier with no signup or request limits. |
 | [Filestack](https://www.filestack.com) | [@FileStack](https://twitter.com/FileStack) | $0/mo - $49/mo | Easy, Powerful File Uploads. Connect, Store, and Process any file from anywhere on the Internet |
 | [Open Exchange Rates](https://openexchangerates.org) | - | $12/mo - $97/mo | Real-time exchange rates & currency conversion JSON API. A simple and easy-to-integrate exchange rates API in JSON format, with HTTPS and JSONP support, with examples, guides and full documentation. |
 | [FormAPI](https://formapi.io) | [@form_api](https://twitter.com/form_api) | $49/mo - $249/mo | PDF Service for Developers. Makes it easy for programmers to fill out and sign PDF documents. Saves a lot of development time if you need to generate a lot of contracts, invoices, etc. |
@@ -557,6 +558,7 @@ It's on GitHub for a reason! Please submit pull requests.
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
+| [AudienceOps](https://audienceops.com) | [@AudienceOps](https://twitter.com/AudienceOps) | $850/mo - $1700/mo | AudienceOps handles your entire content strategy so you can focus on your product. |
 | [Visual.ly](https://visual.ly) | [@Visually](https://twitter.com/Visually) | $195/mo - $994/mo | ORIGINAL VISUAL CONTENT FOR BRANDS. We only work with the best creative talent available. Thousands of designers, journalists, animators and developers are standing by to help you achieve your goals and take your project to the next level. |
 | [Canva](https://www.canva.com) | [@canva](https://twitter.com/canva) | - | Design great social media images with text and graphics for Free or a few bucks depending on the images you select |
 

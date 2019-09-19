@@ -142,6 +142,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [DebugMail](https://debugmail.io) | - | Free | Easy to use fake mail (SMTP) server for developers. |
 | [Mailosaur](https://mailosaur.com) | [@mailosaur](https://twitter.com/mailosaur) | $19/mo - $199/mo | Email, SMS and Spam testing with virtual SMTP servers for business-grade usage. |
 | [Mailtrap](https://mailtrap.io) | [@Mailtrap](https://twitter.com/Mailtrap) | Free - $299.99/mo | A fake SMTP server for development and staging environments along with a REST API for testing. |
+| [testmail.app](https://testmail.app) | [@testmailapp](https://twitter.com/testmailapp) | Free - $29/mo | Automate end-to-end email tests with unlimited mailboxes and a GraphQL API. |
 | [Polypane](https://polypane.rocks) | [@polypane](https://twitter.com/polypane) | Free trial - $12+/mo | A browser built from the ground up to create and test websites and apps. |
 
 ### Bug/Issue Tracking
@@ -440,6 +441,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Filestack](https://www.filestack.com) | [@FileStack](https://twitter.com/FileStack) | $0/mo - $49/mo | Easy, Powerful File Uploads. Connect, Store, and Process any file from anywhere on the Internet |
 | [Open Exchange Rates](https://openexchangerates.org) | - | $12/mo - $97/mo | Real-time exchange rates & currency conversion JSON API. A simple and easy-to-integrate exchange rates API in JSON format, with HTTPS and JSONP support, with examples, guides and full documentation. |
 | [FormAPI](https://formapi.io) | [@form_api](https://twitter.com/form_api) | $49/mo - $249/mo | PDF Service for Developers. Makes it easy for programmers to fill out and sign PDF documents. Saves a lot of development time if you need to generate a lot of contracts, invoices, etc. |
+| [iplocate.app](https://iplocate.app) | - | Free | Free geolocation API service (IP address to location) |
 
 ### Site Search
 
@@ -886,6 +888,7 @@ It's on GitHub for a reason! Please submit pull requests.
 |:--------|:--------|:--------|:------------|
 | [HumongouS.io](https://www.humongous.io) | - | - | HumongouS.io is a web-based user interface (GUI) for MongoDB. |
 | [mLab](https://mlab.com ) | [@mlab](https://twitter.com/mlab) | - | - |
+| [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) | [@MongoDB](https://twitter.com/MongoDB) | Free - $1000+/mo | MongoDB's official hosted service |
 | [Compose](https://www.compose.com) | [@composeio](https://twitter.com/composeio/) | - | Compose is a fully-managed platform used by developers to deploy, host and scale databases (Elasticsearch and MongoDB.) |
 | [RedisLabs](https://redislabs.com) | [@RedisLabs](https://twitter.com/RedisLabs) | Free - $338+/mo | RedisLabs offers fully-managed cloud service for hosting and running your redis or memcache datasets in a highly-available and scalable manner, with predictable and stable top performance. |
 

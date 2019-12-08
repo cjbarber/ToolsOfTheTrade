@@ -572,6 +572,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [PickFu](https://www.pickfu.com) | [@pickfu](https://twitter.com/pickfu) | $20/mo - $299/mo | REAL CONSUMER FEEDBACK IN MINUTES. PickFu is a tool that provides instant, unbiased and insightful public opinion on questions that you care about. |
 | [Promoter.io](https://www.promoter.io) | [@Promoter_io](https://twitter.com/promoter_io) | $50/mo - $500/mo | Helps companies quickly gain predictive customer intelligence & insights driven by NPS (Net Promoter) to increase revenue and reduce churn. |
 | [Raaft.io](https://www.raaft.io/) | [@RaaftRetain](https://twitter.com/RaaftRetain) | $30/mo | Instantly get feedback from every canceling customer. Make retention offers to reduce churn. |
+| [myPresences](https://www.mypresences.com/) | [@mypresences](https://twitter.com/mypresences) | $49/mo | Get feedback from customers via email or text and generate reviews on 200+ review services. |
 
 
 ### Data

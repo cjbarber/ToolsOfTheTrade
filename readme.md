@@ -184,6 +184,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Breeze](https://www.breeze.pm) | [@BreezeTeam](https://twitter.com/BreezeTeam) | $29/mo - $129/mo | Organize and track everything. Breeze shows you what's being worked on, who's working on what, where things are in the workflow and how much time it took. |
 | [Cushion](https://cushionapp.com/) | [@cushionapp](https://twitter.com/cushionapp) | $8/mo - $48/mo | Piece of mind for freelancers. We built Cushion as a team of freelancers who always had trouble planning and managing our year—constantly taking on too much work and never thinking to take a break. |
 | [Clickup](https://clickup.com) | [@clickup_app](https://twitter.com/clickup_app) | $0 - $5/mo | ClickUp's #1 rated productivity software is making more productive projects with a beautifully designed and intuitive platform. |
+| [Ora](https://ora.pm) | [@oratask](https://twitter.com/oratask) | $0 - $8/mo | Intuitive project management and team collaboration, Ora is your team’s command center! A place to track projects. Tasks. Time. Commits. Status Reports. Your entire product or business! |
 
 ### Time Tracking
 

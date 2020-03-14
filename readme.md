@@ -939,6 +939,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [SlimWiki](https://slimwiki.com ) | [@slimwiki](https://twitter.com/slimwiki) | - | - |
 | [Documize](https://www.documize.com/) | - | - | - |
 | [Notion](https://www.notion.so/) | [@NotionHQ](https://twitter.com/NotionHQ) | Free, $4 - $8 user/month | Writing, planning, collaborating, organizing. |
+| [Slite](https://slite.com/) | [@sliteHQ](https://twitter.com/sliteHQ) | Free, $6.67 user/month | Product specs, company handbooks, onboarding, meeting notes, any docs. |
 
 ### Offsite Backups
 

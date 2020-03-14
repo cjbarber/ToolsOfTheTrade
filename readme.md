@@ -623,6 +623,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
 | [iubenda](https://www.iubenda.com) | [@iubenda](https://twitter.com/iubenda) | Free - $27/year - customization services | The easiest way to generate a professional, customizable, self-updating privacy policy. Choose between 6 languages. Documents hosted and kept up to date. Backed by real lawyers. Additional assistance service with premium legal team for custom Privacy Policy and Terms & Conditions. |
+| [Choose a license](https://choosealicense.com/licenses/) | [@ChooseALicense](https://twitter.com/ChooseALicense) | Free | Software / data / media / documentation / fonts and mixed projects licenses options and comparisions. |
 
 ### Income Analytics
 

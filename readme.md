@@ -235,6 +235,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Segment](https://segment.com) | [@segment](https://twitter.com/segment) | $29/mo - $349/mo | The right way to manage your tools. The idea is simple: one pipeline for all your data. Send data to any third-party tool with a single integration. |
 | [Snowplow](https://snowplowanalytics.com) | [@SnowPlowData](https://twitter.com/SnowPlowData) | - | Snowplow is the most powerful, flexible, scalable web analytics platform in the world. Snowplow enables analysts to perform a wide variety of both simple and sophisticated analytics on your web analytics data. |
 | [Wisdom](https://getWisdom.io) | [@wisdomCRM](https://twitter.com/WisdomCRM) | Free - $2000+/mo | Session Replay. Wisdom is the most accurate live visitor session recorder service available. Focusing only on session replay, Wisdom reconstructs a virtual desktop screen for every visitor, across all tabs, to capture the true feel of every visitor's experience. |
+
 ### Conversion Optimization & A/B Testing
 
 | Service | Twitter | Pricing | Description |
@@ -937,6 +938,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | bitbucket's default Wiki | - | - | comes with own repo, markdown/creole, much lighter than Confluence. |
 | [SlimWiki](https://slimwiki.com ) | [@slimwiki](https://twitter.com/slimwiki) | - | - |
 | [Documize](https://www.documize.com/) | - | - | - |
+| [Notion](https://www.notion.so/) | [@NotionHQ](https://twitter.com/NotionHQ) | Free, $4 - $8 user/month | Writing, planning, collaborating, organizing. |
 
 ### Offsite Backups
 

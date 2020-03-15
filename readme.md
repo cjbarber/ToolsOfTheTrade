@@ -46,6 +46,7 @@ It's on GitHub for a reason! Please submit pull requests.
 * [Backend-aaS](#backend-aas)
 * [Banking](#banking)
 * [Billing & Payment Processing](#billing--payment-processing)
+* [Boilerplates](#boilerplates)
 * [Browser/Email Testing](#browseremail-testing)
 * [Bug/Issue Tracking](#bugissue-tracking)
 * [Business & Traffic Analytics](#business--traffic-analytics)
@@ -656,6 +657,16 @@ It's on GitHub for a reason! Please submit pull requests.
 | [WePay](https://go.wepay.com) | [@wepay](https://twitter.com/wepay) | 2.9% + 30¢/transaction. | WePay is the first payments engine to offer platforms — marketplaces, crowdfunding, and business software/tools — a way to own their customer experience while still shielding them from 100 percent of fraud and regulatory risk. |
 | [Paddle](https://paddle.com) | [@PaddleHQ](https://twitter.com/PaddleHQ) | 5% + 50¢/transaction. | Payment processing and fulfillment, specialized for desktop apps and SaaS subscription services. Handles VAT and invoicing for you, so your accounting becomes easier. |
 | [Fattmerchant](https://fattmerchant.com/) | [@Fattmerchant](https://twitter.com/fattmerchant) | 0% + interchange + $99+/mo | Payments unified. | Integrate your app, website, software, or hardware with the Fattmerchant API to seamlessly accept all major credit cards, ACH payments, and more! Ideal for both in-person and online transactions. |
+
+### Boilerplates
+
+| Service | Twitter | Pricing | Description |
+|:--------|:--------|:--------|:------------|
+| [Yeoman](https://yeoman.io/) | [@yeoman](https://twitter.com/yeoman) | Free | The web scaffolding tool for modern web apps |
+| [Hix on Rails](https://hixonrails.com/) | [@hixonrails](https://twitter.com/hixonrails) | $39 - $249 | Ruby on Rails project generator |
+| [JHipster](https://www.jhipster.tech/) | [@jhipster](https://twitter.com/jhipster) | Free | Hipster stack for Java developers. Spring Boot + Angular/React in one handy generator. |
+| [Divjoy](https://divjoy.com/) | [@divjoy](https://twitter.com/divjoy) | $59 | The React codebase generator. |
+| [WPPB](https://wppb.me/) | - | Free | WordPress Plugin Boilerplate Generator |
 
 ### Banking
 

@@ -46,6 +46,7 @@ It's on GitHub for a reason! Please submit pull requests.
 * [Backend-aaS](#backend-aas)
 * [Banking](#banking)
 * [Billing & Payment Processing](#billing--payment-processing)
+* [Boilerplates](#boilerplates)
 * [Browser/Email Testing](#browseremail-testing)
 * [Bug/Issue Tracking](#bugissue-tracking)
 * [Business & Traffic Analytics](#business--traffic-analytics)
@@ -185,6 +186,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Cushion](https://cushionapp.com/) | [@cushionapp](https://twitter.com/cushionapp) | $8/mo - $48/mo | Piece of mind for freelancers. We built Cushion as a team of freelancers who always had trouble planning and managing our year—constantly taking on too much work and never thinking to take a break. |
 | [Clickup](https://clickup.com) | [@clickup_app](https://twitter.com/clickup_app) | $0 - $5/mo | ClickUp's #1 rated productivity software is making more productive projects with a beautifully designed and intuitive platform. |
 | [Ora](https://ora.pm) | [@oratask](https://twitter.com/oratask) | $0 - $8/mo | Intuitive project management and team collaboration, Ora is your team’s command center! A place to track projects. Tasks. Time. Commits. Status Reports. Your entire product or business! |
+| [Clubhouse](https://clubhouse.io/) | [@clubhouse](https://twitter.com/clubhouse) | $0 - $8.50/mo | Clubhouse is the collaborative home for software development that makes it easier and more enjoyable to plan and build with your teams. |
 
 ### Time Tracking
 
@@ -222,6 +224,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Clicky](https://clicky.com) | [@clicky](https://twitter.com/clicky) | $9.99/mo - $19.99/mo | Real Time Web Analytics. Clicky lets you see every visitor and every action they take on your web site, with the option to attach custom data to visitors, such as usernames or email addresses. Analyze each visitor individually and see their full history. |
 | [Fathom Analytics](https://usefathom.com/) | - | $0-79/mo | Simple, useful websites stats without tracking or storing personal data of your users|
 | [Gauges](https://get.gaug.es) | [@gauges](https://twitter.com/gauges) | $6-$48/mo | Gauges provides real time web analytics such as how many people visit your site, where they come from, and where they go. |
+| [GoatCounter](https://www.goatcounter.com) | [@arp242_martin](https://twitter.com/arp242_martin) | Free for personal use or self hosted | Simple web statistics. No tracking of personal data. [Open source](https://github.com/zgoat/goatcounter) |
 | [GoSquared](https://www.gosquared.com) | [@gosquared](https://twitter.com/GoSquared) | £21.60 - £396/mo | Easy to use real-time web analytics. |
 | [Google Analytics](https://marketingplatform.google.com/about/analytics/) | [@GMktgPlatform](https://twitter.com/GMktgPlatform) | - | Google Analytics lets you measure your advertising ROI as well as track your Flash, video, and social networking sites and applications. |
 | [Heap Analytics](https://heapanalytics.com) | [@heap](https://twitter.com/heap) | 0 - $599+ | Instant, retroactive analytics for web and iOS. No code required. |
@@ -234,6 +237,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Segment](https://segment.com) | [@segment](https://twitter.com/segment) | $29/mo - $349/mo | The right way to manage your tools. The idea is simple: one pipeline for all your data. Send data to any third-party tool with a single integration. |
 | [Snowplow](https://snowplowanalytics.com) | [@SnowPlowData](https://twitter.com/SnowPlowData) | - | Snowplow is the most powerful, flexible, scalable web analytics platform in the world. Snowplow enables analysts to perform a wide variety of both simple and sophisticated analytics on your web analytics data. |
 | [Wisdom](https://getWisdom.io) | [@wisdomCRM](https://twitter.com/WisdomCRM) | Free - $2000+/mo | Session Replay. Wisdom is the most accurate live visitor session recorder service available. Focusing only on session replay, Wisdom reconstructs a virtual desktop screen for every visitor, across all tabs, to capture the true feel of every visitor's experience. |
+
 ### Conversion Optimization & A/B Testing
 
 | Service | Twitter | Pricing | Description |
@@ -289,7 +293,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Codeship](https://codeship.com) | [@codeship](https://twitter.com/codeship) | Start with 100 builds/mo Free, Unlimited plans start at 49$ | Continuous Delivery as a service, start testing and deploying your code immediately |
 | [Circle](https://circleci.com) | [@circleci](https://twitter.com/circleci) | $19/mo - $269/mo | Ship better code, faster. Easy, fast, continuous integration and deployment for web apps. |
 | [Nevercode](https://nevercode.io) | [@nevercodehq](https://twitter.com/nevercodehq) | - | - |
-| [Hound](https://houndci.com) | [@houndci](https://twitter.com/houndci) | Free | Automated Code Review. Take care of pesky code reviews with a trusty Hound |
+| [Hound](https://houndci.com) | [@houndci](https://twitter.com/houndci) | Free, $49/mo - $249/mo | Automated Code Review. Take care of pesky code reviews with a trusty Hound |
 | [CodeClimate](https://codeclimate.com) | [@codeclimate](https://twitter.com/codeclimate) | $0/mo - $399/mo | Automated Code Review. Code Climate hosted software metrics help you ship quality Ruby and JavaScript code faster. Get control of your technical debt with real time static analysis of your code. |
 | [Codacy](https://www.codacy.com) | [@codacy](https://twitter.com/codacy) | $0 - $150/mo | Automated Code Review. Continuous Static Analysis designed to complement your unit tests. Similar to CodeClimate. |
 | [Codecov](https://codecov.io) | [@codecov](https://twitter.com/codecov) | $0 - $5/mo | Hosted Code Coverage. Code coverage reporting done right. |
@@ -305,6 +309,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Monkey Test It](https://monkeytest.it) | [@monkeytestit](https://twitter.com/monkeytestit) | $0/mo - $199/mo | Automated website checking tool to catch bugs on your website (broken links, missing images, JS errors, etc) before your users do. Integrates with Slack, most CI systems, webooks, and supports built-in scheduling. |
 | [Concourse](https://concourse-ci.org) | [@concourseci](https://twitter.com/concourseci) | Free | Concourse is an open-source continuous thing-doer. Built on the simple mechanics of resources, tasks, and jobs, Concourse presents a general approach to automation that makes it great for CI/CD. |
 | [PullRequest](https://www.pullrequest.com) | [@pullrequestinc](https://twitter.com/pullrequestinc) | $33+/10 min | Code review as a service by vetted, professional reviewers backed by static analysis  |
+| [GitLab](https://about.gitlab.com/product/continuous-integration/) | [@GitLab](https://twitter.com/gitlab) | $0 [Community Edition](https://about.gitlab.com/pricing/) / Paid Premium | GitLab is an open-source version control platform with exquisite CI/CD integrations. |
 
 
 ### Dashboards
@@ -365,7 +370,6 @@ It's on GitHub for a reason! Please submit pull requests.
 | [AppNeta](https://www.appneta.com) | [@AppNeta](https://twitter.com/AppNeta) | Free to $119 / mo | Full-stack application monitoring for web apps. Get visibility into code, network, and end user, especially for polyglot and service-oriented applications, by looking at transactions, errors, browser metrics, host metrics, and more. |
 | [DripStat](https://dripstat.com) | [@DripStat](https://twitter.com/dripstat) | $20/mo | Application monitoring for Java. Next gen Java APM. Full visibility across your stack.  Specifically designed for Java. Supports SQL databases, MongoDB and Cassandra. |
 | [AppNeta](https://www.appneta.com) | [@AppNeta](https://twitter.com/AppNeta) | Free to $119/mo | Full-stack application monitoring for web apps. Get visibility into code, network, and end user, especially for polyglot and service-oriented applications, by looking at transactions, errors, browser metrics, host metrics, and more. |
-| [DripStat](https://www.dripstat.com/) | [@DripStat](https://twitter.com/dripstat) | $20/mo | Application monitoring for Java. Next gen Java APM. Full visibility across your stack. Specificially designed for Java. Supports SQL databases, MongoDB and Cassandra. |
 | [New Relic](https://newrelic.com) | [@NewRelic](https://twitter.com/NewRelic) | $149/mo | Application monitoring for all your web apps. It’s about gaining actionable, real-time business insights from the billions of metrics your software is producing, including user click streams, mobile activity, end user experiences and transactions. |
 | [AppSignal](https://appsignal.com) | [@AppSignal](https://twitter.com/AppSignal) | $49/mo - $259/mo | Better monitoring for your Rails applications. Get detailled statistics on your site's performance with mean and 90th percentile measurements. |
 | [Instrumental](https://instrumentalapp.com) | [@instrumental](https://twitter.com/instrumental) | $150/mo - $750/mo | Monitor Your App in Realtime. Instrumental’s made to monitor metrics at a ridiculously high scale. At rates of 500,000 metrics per second and higher, it doesn’t even break a sweat |
@@ -417,7 +421,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Get Satisfaction!](https://getsatisfaction.com/corp/) | [@getsatisfaction](https://twitter.com/getsatisfaction) | - | Customer communities for social support, social marketing & customer feedback - online community software. Get Satisfaction is the leading customer engagement platform that helps companies build better relationships with their customers and prospects, through the best online customer community. |
 | [Reamaze](https://www.reamaze.com) | [@reamaze](https://twitter.com/reamaze) | $15/mo | Lightweight, Lightspeed Help Desk. Email, Social, Branded, Integrated. Reamaze provides your team with helpdesk functionality that integrates with your application, as well as integrations with popular 3rd party tools in your workflow. |
 | [Jitbit Helpdesk](https://www.jitbit.com/helpdesk/) | [@jitbithelpdesk](https://twitter.com/jitbithelpdesk) | $29/mo - $199/mo | A help desk app that actually makes your work easier, not harder. Comes in both hosted and on-premise versions. Very well designed and easy to use. Has all the must-have features and doesn't get in your way. |
-| [Drift](https://www.drift.com) | [@drift](https://twitter.com/drift) | Free for < 100 contacts, paid from $49/mo | Stop wasting your website traffic. Sales-oriented live chat and in-app messaging, with chatbot automation. |
+| [Drift](https://www.drift.com) | [@drift](https://twitter.com/drift) |Paid from $49/mo | Stop wasting your website traffic. Sales-oriented live chat and in-app messaging, with chatbot automation. |
 | [Zammad](https://zammad.com/) | [@zammadhq](https://twitter.com/zammadhq) | $0/mo - $24/mo | Zammad is a award winning open source helpdesk/customer support system with a beautiful UI and many features to manage customer communication via several channels like telephone, facebook, twitter, chat and e-mails. It is distributed under the GNU AFFERO General Public License (AGPL). |
 | [Support Hero](https://www.supporthero.io) | [@supportheroapp](https://twitter.com/supportheroapp) | $49/mo - $199/mo | Knowledge base and tutorial management platform with smart analytics. Support Hero is a self-service knowledge base that helps companies educate their clients. Helping them to create and deliver a game-changing user education experience that increases retention and engagement, while reducing customer relationship costs.
 
@@ -465,7 +469,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Campaign Monitor](https://www.campaignmonitor.com) | [@CampaignMonitor](https://twitter.com/CampaignMonitor) | $9/mo - $699/mo | CAMPUnbounce Feature Tour |
 | [Sendy](https://sendy.co) | [@getsendy](https://twitter.com/getSendy) | $59 one time fee, host yourselfor use a hosted sendy instance from a variety of providers. | - |
 | [Image-Charts](https://www.image-charts.com/) | [@imagecharts](https://twitter.com/imagecharts) | Free - $49/mo, self-hosted plan available | Include animated charts as image into emails, no server-side rendering, 1 URL = 1 chart, compatible with Google Image Charts. |
-| [Drip](https://www.drip.com) | [@getdrip](https://twitter.com/getdrip) | Free for < 100 subscribers, paid plans from $49/mo | Advanced marketing automation with workflows, drip campaigns, conversion tracking etc.. |
+| [Drip](https://www.drip.com) | [@getdrip](https://twitter.com/getdrip) | Paid plans from $49/mo | Advanced marketing automation with workflows, drip campaigns, conversion tracking etc.. |
 | [MailerLite](https://www.mailerlite.com) | [@mailerlite](https://twitter.com/mailerlite) | Free - $140/mo | Free plan offers a lot of features |
 | [MarketHero](https://markethero.io/) | - | $99+/mo | Autoresponder / email marketing tool. |
 | [EmailOctopus](https://emailoctopus.com) | [@emailoctopus](https://twitter.com/emailoctopus) | Free up to 2,500 subscribers, paid plans from $19/mo | Low cost email marketing using Amazon SES.
@@ -514,6 +518,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Trademarkia](https://www.trademarkia.com) | [@trademarkia](https://twitter.com/trademarkia) | - | Trademarkia is one of the largest trademark search engines in the world. LegalForce's network of licensed patent attorneys and agents have filed hundreds of patent applications for companies of every size. |
 | [NameRobot](https://www.namerobot.com) | [@namerobotEN](https://twitter.com/namerobotEN) | 0$ - 300$/mo | Find, create and check the name for your project. NameRobot offers everything you need to create suitable naming ideas in a short time. |
 | [DomainTools Whois Lookup](https://whois.domaintools.com/) | [@DomainTools](https://twitter.com/DomainTools) | Free - $99/mo | Go beyond ordinary Whois to discover the people or organizations behind a domain name or IP address. |
+| [damnshort](https://damnshort.com/) | [@realdamnshort](https://twitter.com/realdamnshort) | $195 | Short, brandable dotcoms that you can actually afford. |
 
 ### Space Rental
 
@@ -621,6 +626,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
 | [iubenda](https://www.iubenda.com) | [@iubenda](https://twitter.com/iubenda) | Free - $27/year - customization services | The easiest way to generate a professional, customizable, self-updating privacy policy. Choose between 6 languages. Documents hosted and kept up to date. Backed by real lawyers. Additional assistance service with premium legal team for custom Privacy Policy and Terms & Conditions. |
+| [Choose a license](https://choosealicense.com/licenses/) | [@ChooseALicense](https://twitter.com/ChooseALicense) | Free | Software / data / media / documentation / fonts and mixed projects licenses options and comparisions. |
 
 ### Income Analytics
 
@@ -653,6 +659,16 @@ It's on GitHub for a reason! Please submit pull requests.
 | [WePay](https://go.wepay.com) | [@wepay](https://twitter.com/wepay) | 2.9% + 30¢/transaction. | WePay is the first payments engine to offer platforms — marketplaces, crowdfunding, and business software/tools — a way to own their customer experience while still shielding them from 100 percent of fraud and regulatory risk. |
 | [Paddle](https://paddle.com) | [@PaddleHQ](https://twitter.com/PaddleHQ) | 5% + 50¢/transaction. | Payment processing and fulfillment, specialized for desktop apps and SaaS subscription services. Handles VAT and invoicing for you, so your accounting becomes easier. |
 | [Fattmerchant](https://fattmerchant.com/) | [@Fattmerchant](https://twitter.com/fattmerchant) | 0% + interchange + $99+/mo | Payments unified. | Integrate your app, website, software, or hardware with the Fattmerchant API to seamlessly accept all major credit cards, ACH payments, and more! Ideal for both in-person and online transactions. |
+
+### Boilerplates
+
+| Service | Twitter | Pricing | Description |
+|:--------|:--------|:--------|:------------|
+| [Yeoman](https://yeoman.io/) | [@yeoman](https://twitter.com/yeoman) | Free | The web scaffolding tool for modern web apps |
+| [Hix on Rails](https://hixonrails.com/) | [@hixonrails](https://twitter.com/hixonrails) | $39 - $249 | Ruby on Rails project generator |
+| [JHipster](https://www.jhipster.tech/) | [@jhipster](https://twitter.com/jhipster) | Free | Hipster stack for Java developers. Spring Boot + Angular/React in one handy generator. |
+| [Divjoy](https://divjoy.com/) | [@divjoy](https://twitter.com/divjoy) | $59 | The React codebase generator. |
+| [WPPB](https://wppb.me/) | - | Free | WordPress Plugin Boilerplate Generator |
 
 ### Banking
 
@@ -822,6 +838,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [KForge](https://pypi.org/project/kforge/) | - | - | - |
 | [VersionShelf](https://www.versionshelf.com) | - | - | - |
 | [Assembla](https://www.assembla.com/) | [@assembla](https://twitter.com/assembla) | $24/m - $99/m | Git hosting, all tightly integrated with your tasks. Browse files online, compare revisions, merge code and maintain a sustainable codebase. |
+| [Source Hut](https://git.sr.ht/) | - | - | This is the git service of Source Hut -  a suite of open source tools hosted  as a development platform. Learn more about Source Hut here: https://sourcehut.org/ |
 
 ### Design Collaboration
 
@@ -936,6 +953,8 @@ It's on GitHub for a reason! Please submit pull requests.
 | bitbucket's default Wiki | - | - | comes with own repo, markdown/creole, much lighter than Confluence. |
 | [SlimWiki](https://slimwiki.com ) | [@slimwiki](https://twitter.com/slimwiki) | - | - |
 | [Documize](https://www.documize.com/) | - | - | - |
+| [Notion](https://www.notion.so/) | [@NotionHQ](https://twitter.com/NotionHQ) | Free, $4 - $8 user/month | Writing, planning, collaborating, organizing. |
+| [Slite](https://slite.com/) | [@sliteHQ](https://twitter.com/sliteHQ) | Free, $6.67 user/month | Product specs, company handbooks, onboarding, meeting notes, any docs. |
 
 ### Offsite Backups
 
@@ -985,6 +1004,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [WooRank](https://www.woorank.com) | [@woorank](https://twitter.com/woorank) | Free - $49/mo | WooRank analyzes your website for optimization best practices and shows how it ranks against your competition. Its real-time brandable reports, consisting of over 150 data-points, help you to instantly spot critical issues that impact traffic, usability and conversions. Sync your analytics, social accounts and keywords for even more robust tracking. |
 | [Moz](https://moz.com) | [@moz](https://twitter.com/moz) | $99/mo - $599/mo | Moz provides you all the tools you need to effectively do search engine optimization. On site optimization graders, competitor tracking, back link analysis, rank tracking and many more features available to users. |
 | [KWFinder](https://kwfinder.com/) | [@mangools_com](https://twitter.com/mangools_com) | $30+/mo | Keyword research tool |
+| [Animalz - Revive](https://revive.animalz.co/) | [@AnimalzCo](https://twitter.com/AnimalzCo) | Free | Provides a list of posts that should be refreshed. |
 
 ### API Builder
 

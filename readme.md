@@ -31,7 +31,7 @@ It's on GitHub for a reason! Please submit pull requests.
 ## Supported with ❤️ by [Instabug](https://instabug.com/android/sdk?utm_source=toolsofthetrade&utm_medium=spon&utm_content=header)
 ### Understand How Your App is Doing with Real-Time Contextual Insights From Your Users
 [![instabug-github](https://user-images.githubusercontent.com/10850625/65512691-fd45f280-ded9-11e9-8921-3528b98c30a7.png)](https://instabug.com/android/sdk?utm_source=toolsofthetrade&utm_medium=spon&utm_content=banner)
->Instabug helps Android developers easily collect bugs and feedback from beta testers and users to iterate faster and ship quality apps. Instabug automatically attaches screenshots, device details, network logs, repro steps, and tons of other critical insights needed to resolve issues and prioritize product backlogs. 
+>Instabug helps Android developers easily collect bugs and feedback from beta testers and users to iterate faster and ship quality apps. Instabug automatically attaches screenshots, device details, network logs, repro steps, and tons of other critical insights needed to resolve issues and prioritize product backlogs.
 > Mobile teams accelerate their workflows by seamlessly integrating with third-party tools like Github, Jira, Slack, Zendesk and much more. [Instabug is offering Tools of the Trade community an exclusive 15% discount on all paid plans. Get Started!](https://instabug.com/android/sdk/?utm_source=toolsofthetrade&utm_medium=spon&utm_content=get-started)
 >[![](https://instabug-ga.appspot.com/UA-41982088-6/github/ToolsOfTheTrade?pixel)](https://instabug.com)
 
@@ -473,6 +473,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [MailerLite](https://www.mailerlite.com) | [@mailerlite](https://twitter.com/mailerlite) | Free - $140/mo | Free plan offers a lot of features |
 | [MarketHero](https://markethero.io/) | - | $99+/mo | Autoresponder / email marketing tool. |
 | [EmailOctopus](https://emailoctopus.com) | [@emailoctopus](https://twitter.com/emailoctopus) | Free up to 2,500 subscribers, paid plans from $19/mo | Low cost email marketing using Amazon SES.
+| [ButtonDown](https://buttondown.email/) | (@buttondownemail)[https://twitter.com/buttondownemail] | Free for 1000 subscribers, afterwards paid | Simple and carefully thought out newsletter tool using markdown as language.
 
 ### Email Collection/Landing Page Apps
 
@@ -519,6 +520,8 @@ It's on GitHub for a reason! Please submit pull requests.
 | [NameRobot](https://www.namerobot.com) | [@namerobotEN](https://twitter.com/namerobotEN) | 0$ - 300$/mo | Find, create and check the name for your project. NameRobot offers everything you need to create suitable naming ideas in a short time. |
 | [DomainTools Whois Lookup](https://whois.domaintools.com/) | [@DomainTools](https://twitter.com/DomainTools) | Free - $99/mo | Go beyond ordinary Whois to discover the people or organizations behind a domain name or IP address. |
 | [damnshort](https://damnshort.com/) | [@realdamnshort](https://twitter.com/realdamnshort) | $195 | Short, brandable dotcoms that you can actually afford. |
+| [Startup Name Check](https://startupnamecheck.com/) | - | Free | Name validator tool for dozens of domain-names and social media networks. |
+| [Word Safety](https://naming-tools.com/word-safety) | - | Free | Word Safety tool to check for second meanings in other languages or other forms of writing. |
 
 ### Space Rental
 
@@ -534,6 +537,7 @@ It's on GitHub for a reason! Please submit pull requests.
 |:--------|:--------|:--------|:------------|
 | [Discourse](https://www.discourse.org) | [@discourse](https://twitter.com/discourse) | - | Ready for a new discussion platform? Discussion software is a group of people interested in a common topic who are willing to type paragraphs to each other on a web page. |
 | [Scoold](https://scoold.com) | [@getscoold](https://twitter.com/getscoold) | Free / Pro €299 | Stack Overflow in a JAR. An enterprise-ready Q&A platform with full-text search, SAML, LDAP integration and social login support. |
+| [Flarum](https://flarum.org) | [@flarum](https://twitter.com/flarum) | Free | Well designed forum software. |
 
 ### Personal Productivity
 
@@ -545,6 +549,8 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Timing](https://timingapp.com/) | [@TimingApp](https://twitter.com/TimingApp) | $29 - $79 | Automatic time and productivity tracking for Mac. Helps you stay on track with your work and ensures no billable hours get lost (if you are billing hourly). |
 | [fman](https://fman.io) | [@m_herrmann](https://twitter.com/m_herrmann) | $14.00 | Manage and transfer your files with ease. For Windows, Mac and Linux. |
 | [WakaTime](https://wakatime.com) | [@WakaTime](https://twitter.com/WakaTime) | Free - $9/mo | Automatic productivity metrics using text editor plugins. Goals, leaderboards, GitHub integration, automatic project/language/branch detection. |
+| [deprocrastination](https://www.deprocrastination.co) | [@deprocrastinate](https://twitter.com/deprocrastinate) | Free - $3.99/mo | Browser extension to train yourself to procrastinate less. |
+
 
 ### Prototyping/Mockups
 

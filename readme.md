@@ -803,6 +803,7 @@ It's on GitHub for a reason! Please submit pull requests.
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
+| [Forward Email](https://forwardemail.net) | [@niftylettuce](https://twitter.com/niftylettuce) | Free | Create and forward an unlimited amount of email addresses with your domain name. Plus get catch-all, wildcard, and disposable forwarding addresses!  The Forward Email DNS-based solution is completely free.
 | [DynDNS](https://dyn.com/dns/) | [@Dyn](https://twitter.com/Dyn) | - | - |
 | [Cloudflare](https://www.cloudflare.com/) | [@Cloudflare](https://twitter.com/Cloudflare) | - | - |
 | [Amazon Route 53](https://aws.amazon.com/route53/) | - | - | - |

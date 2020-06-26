@@ -813,6 +813,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [DNSimple](https://dnsimple.com/) | [@dnsimple](https://twitter.com/dnsimple) | - | - |
 | [ClouDNS](https://www.cloudns.net/) | [@ClouDNS](https://twitter.com/ClouDNS) | - | - |
 | [FreeDNS](https://freedns.afraid.org) | - | - | - |
+| [Noip](https://noip.com) | [@NoIPcom](https://twitter.com/NoIPcom) | Free | Quickly get free hostnames, keep DNS resolving if your IP isn't static |
 
 ### Status Blogs/User Alerts
 

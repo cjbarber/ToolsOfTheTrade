@@ -261,6 +261,7 @@ It's on GitHub for a reason! Please submit pull requests.
 |:--------|:--------|:--------|:------------|
 | [HotJar](https://www.hotjar.com) | [@hotjar](https://twitter.com/hotjar) | Free - $29/mo (personal) | Records videos and collects heatmaps of your site visitor actions. |
 | [Wisdom](https://getWisdom.io) | [@wisdomCRM](https://twitter.com/WisdomCRM) | Free - $2000+/mo | Session Replay. Wisdom is the most accurate live visitor session recorder service available. Focusing only on session replay, Wisdom reconstructs a virtual desktop screen for every visitor, across all tabs, to capture the true feel of every visitor's experience. |
+| [LiveSession](https://livesession.io) | [@LiveSessionHQ](https://twitter.com/LiveSessionHQ) | $44+/mo| High-quality session replay analytics. |
 
 ### HR
 

@@ -469,7 +469,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Vero](https://www.getvero.com) | [@getvero](https://twitter.com/getvero) | $99/mo | Send emails based on what your customers do. Vero makes it easy to create segments of customers based on the attributes you capture (e.g. age, location, gender) and the actions your customers take (e.g. logged in, used feature x, checked out, etc.). |
 | [Mailchimp](https://mailchimp.com) | [@Mailchimp](https://twitter.com/Mailchimp) | - | - |
 | [Campaign Monitor](https://www.campaignmonitor.com) | [@CampaignMonitor](https://twitter.com/CampaignMonitor) | $9/mo - $699/mo | CAMPUnbounce Feature Tour |
-| [Sendy](https://sendy.co) | [@getsendy](https://twitter.com/getSendy) | $59 one time fee, host yourselfor use a hosted sendy instance from a variety of providers. | - |
+| [Sendy](https://sendy.co) | [@getsendy](https://twitter.com/getSendy) | $59 one time fee, host yourself or use a hosted sendy instance from a variety of providers. | - |
 | [Image-Charts](https://www.image-charts.com/) | [@imagecharts](https://twitter.com/imagecharts) | Free - $49/mo, self-hosted plan available | Include animated charts as image into emails, no server-side rendering, 1 URL = 1 chart, compatible with Google Image Charts. |
 | [Drip](https://www.drip.com) | [@getdrip](https://twitter.com/getdrip) | Paid plans from $49/mo | Advanced marketing automation with workflows, drip campaigns, conversion tracking etc.. |
 | [MailerLite](https://www.mailerlite.com) | [@mailerlite](https://twitter.com/mailerlite) | Free - $140/mo | Free plan offers a lot of features |

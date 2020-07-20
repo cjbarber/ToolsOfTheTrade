@@ -187,6 +187,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Clickup](https://clickup.com) | [@clickup_app](https://twitter.com/clickup_app) | $0 - $5/mo | ClickUp's #1 rated productivity software is making more productive projects with a beautifully designed and intuitive platform. |
 | [Ora](https://ora.pm) | [@oratask](https://twitter.com/oratask) | $0 - $8/mo | Intuitive project management and team collaboration, Ora is your team’s command center! A place to track projects. Tasks. Time. Commits. Status Reports. Your entire product or business! |
 | [Clubhouse](https://clubhouse.io/) | [@clubhouse](https://twitter.com/clubhouse) | $0 - $8.50/mo | Clubhouse is the collaborative home for software development that makes it easier and more enjoyable to plan and build with your teams. |
+| [Slate](https://heyslate.com/) | [@_heyslate](https://twitter.com/_heyslate) | $15/mo | Slate is a planning tool for freelance designers & developers who want to organise their schedule, projects and finances in one place. |
 
 ### Time Tracking
 

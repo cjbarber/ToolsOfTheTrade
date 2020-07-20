@@ -328,7 +328,7 @@ It's on GitHub for a reason! Please submit pull requests.
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
-| [CabinJS](https://cabinjs.com) | [@niftylettuce](https://twitter.com/niftylettuce) | Free and Open-Source | Cabin is a drop-in replacement and alternative JavaScript logging service to Sentry, Timber, Bugsnag, and more.  It is security, privacy, and business cost-saving focused.  Full support across all Node versions and IE 10+ support.
+| [CabinJS](https://cabinjs.com) | [@niftylettuce](https://twitter.com/niftylettuce) | Free and Open-Source | Cabin is a drop-in replacement and alternative JavaScript logging service to Sentry, Timber, Bugsnag, and more. It is security, privacy, and business cost-saving focused. Full support across all Node versions and IE 10+ support.
 | [CatchJS](https://catchjs.com) | - | $49 - $499 | JavaScript error reporting for web apps. Can take screenshots and collect click trails, so reproducing bugs becomes easy. |
 | [Crashlytics](https://try.crashlytics.com) | [@crashlytics](https://twitter.com/crashlytics) | Free | Crash reports and grouping for easier analysis. Basic analytics and reports. iOS & Android |
 | [Sentry](https://sentry.io/) | [@getsentry](https://twitter.com/getsentry) | Open Source & $24/mo - $199/mo | Sentry notifies you when your users experience errors. Know immediately when things happen in your application. Engage users before they have a chance to report a problem. |
@@ -369,7 +369,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
 | [AppNeta](https://www.appneta.com) | [@AppNeta](https://twitter.com/AppNeta) | Free to $119 / mo | Full-stack application monitoring for web apps. Get visibility into code, network, and end user, especially for polyglot and service-oriented applications, by looking at transactions, errors, browser metrics, host metrics, and more. |
-| [DripStat](https://dripstat.com) | [@DripStat](https://twitter.com/dripstat) | $20/mo | Application monitoring for Java. Next gen Java APM. Full visibility across your stack.  Specifically designed for Java. Supports SQL databases, MongoDB and Cassandra. |
+| [DripStat](https://dripstat.com) | [@DripStat](https://twitter.com/dripstat) | $20/mo | Application monitoring for Java. Next gen Java APM. Full visibility across your stack. Specifically designed for Java. Supports SQL databases, MongoDB and Cassandra. |
 | [AppNeta](https://www.appneta.com) | [@AppNeta](https://twitter.com/AppNeta) | Free to $119/mo | Full-stack application monitoring for web apps. Get visibility into code, network, and end user, especially for polyglot and service-oriented applications, by looking at transactions, errors, browser metrics, host metrics, and more. |
 | [New Relic](https://newrelic.com) | [@NewRelic](https://twitter.com/NewRelic) | $149/mo | Application monitoring for all your web apps. It’s about gaining actionable, real-time business insights from the billions of metrics your software is producing, including user click streams, mobile activity, end user experiences and transactions. |
 | [AppSignal](https://appsignal.com) | [@AppSignal](https://twitter.com/AppSignal) | $49/mo - $259/mo | Better monitoring for your Rails applications. Get detailled statistics on your site's performance with mean and 90th percentile measurements. |
@@ -469,7 +469,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Vero](https://www.getvero.com) | [@getvero](https://twitter.com/getvero) | $99/mo | Send emails based on what your customers do. Vero makes it easy to create segments of customers based on the attributes you capture (e.g. age, location, gender) and the actions your customers take (e.g. logged in, used feature x, checked out, etc.). |
 | [Mailchimp](https://mailchimp.com) | [@Mailchimp](https://twitter.com/Mailchimp) | - | - |
 | [Campaign Monitor](https://www.campaignmonitor.com) | [@CampaignMonitor](https://twitter.com/CampaignMonitor) | $9/mo - $699/mo | CAMPUnbounce Feature Tour |
-| [Sendy](https://sendy.co) | [@getsendy](https://twitter.com/getSendy) | $59 one time fee, host yourselfor use a hosted sendy instance from a variety of providers. | - |
+| [Sendy](https://sendy.co) | [@getsendy](https://twitter.com/getSendy) | $59 one time fee, host yourself or use a hosted sendy instance from a variety of providers. | - |
 | [Image-Charts](https://www.image-charts.com/) | [@imagecharts](https://twitter.com/imagecharts) | Free - $49/mo, self-hosted plan available | Include animated charts as image into emails, no server-side rendering, 1 URL = 1 chart, compatible with Google Image Charts. |
 | [Drip](https://www.drip.com) | [@getdrip](https://twitter.com/getdrip) | Paid plans from $49/mo | Advanced marketing automation with workflows, drip campaigns, conversion tracking etc.. |
 | [MailerLite](https://www.mailerlite.com) | [@mailerlite](https://twitter.com/mailerlite) | Free - $140/mo | Free plan offers a lot of features |
@@ -672,7 +672,7 @@ It's on GitHub for a reason! Please submit pull requests.
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
-| [Lad](https://lad.js.org) | [@niftylettuce](https://twitter.com/niftylettuce) | Free | Lad scaffolds a Koa webapp and API framework for Node.js.  It also includes a job scheduler, automatic email previewing and templates, and much more. |
+| [Lad](https://lad.js.org) | [@niftylettuce](https://twitter.com/niftylettuce) | Free | Lad scaffolds a Koa webapp and API framework for Node.js. It also includes a job scheduler, automatic email previewing and templates, and much more. |
 | [Yeoman](https://yeoman.io/) | [@yeoman](https://twitter.com/yeoman) | Free | The web scaffolding tool for modern web apps |
 | [Hix on Rails](https://hixonrails.com/) | [@hixonrails](https://twitter.com/hixonrails) | $39 - $249 | Ruby on Rails project generator |
 | [JHipster](https://www.jhipster.tech/) | [@jhipster](https://twitter.com/jhipster) | Free | Hipster stack for Java developers. Spring Boot + Angular/React in one handy generator. |
@@ -806,13 +806,14 @@ It's on GitHub for a reason! Please submit pull requests.
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
-| [Forward Email](https://forwardemail.net) | [@niftylettuce](https://twitter.com/niftylettuce) | Free | Create and forward an unlimited amount of email addresses with your domain name. Plus get catch-all, wildcard, and disposable forwarding addresses!  The Forward Email DNS-based solution is completely free.
+| [Forward Email](https://forwardemail.net) | [@niftylettuce](https://twitter.com/niftylettuce) | Free | Create and forward an unlimited amount of email addresses with your domain name. Plus get catch-all, wildcard, and disposable forwarding addresses! The Forward Email DNS-based solution is completely free.
 | [DynDNS](https://dyn.com/dns/) | [@Dyn](https://twitter.com/Dyn) | - | - |
 | [Cloudflare](https://www.cloudflare.com/) | [@Cloudflare](https://twitter.com/Cloudflare) | - | - |
 | [Amazon Route 53](https://aws.amazon.com/route53/) | - | - | - |
 | [DNSimple](https://dnsimple.com/) | [@dnsimple](https://twitter.com/dnsimple) | - | - |
 | [ClouDNS](https://www.cloudns.net/) | [@ClouDNS](https://twitter.com/ClouDNS) | - | - |
 | [FreeDNS](https://freedns.afraid.org) | - | - | - |
+| [Noip](https://noip.com) | [@NoIPcom](https://twitter.com/NoIPcom) | Free | Quickly get free hostnames, and keep DNS resolving if your IP isn't static. |
 
 ### Status Blogs/User Alerts
 
@@ -849,7 +850,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [KForge](https://pypi.org/project/kforge/) | - | - | - |
 | [VersionShelf](https://www.versionshelf.com) | - | - | - |
 | [Assembla](https://www.assembla.com/) | [@assembla](https://twitter.com/assembla) | $24/m - $99/m | Git hosting, all tightly integrated with your tasks. Browse files online, compare revisions, merge code and maintain a sustainable codebase. |
-| [Source Hut](https://git.sr.ht/) | - | - | This is the git service of Source Hut -  a suite of open source tools hosted  as a development platform. Learn more about Source Hut here: https://sourcehut.org/ |
+| [Source Hut](https://git.sr.ht/) | - | - | This is the git service of Source Hut - a suite of open source tools hosted as a development platform. Learn more about Source Hut here: https://sourcehut.org/ |
 
 ### Design Collaboration
 

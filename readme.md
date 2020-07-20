@@ -320,7 +320,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Telemetry](https://www.telemetrytv.com) | [@telemetrytv](https://twitter.com/telemetrytv) | $9/mo - $749/mo | Build realtime dashboard with powerful visualizations that look beautiful on big screen TVs, desktop computers, mobile devices, and embedded systems—all using a simple REST API that works with all modern languages. |
 | [Dashing](http://dashing.io) | - | - | Dashing is a Sinatra based framework that lets you build beautiful dashboards. |
 | [Klipfolio](https://www.klipfolio.com) | [@klipfolio](https://twitter.com/klipfolio) | $5/user/mo - $20/user/mo | Meet Your Business Dashboard. Connect to any data service to bring your key numbers together on one dashboard. Assign your data to visualizations to show the story behind the numbers. Cultivate a data-driven culture by sharing dashboards with everyone on your team. |
-| [Grafana](https://grafana.com) | [@grafana](https://twitter.com/grafana) | $0 - $90/mo (+9/user/mo) | The analytics platform for all your metrics. Grafana allows you to query, visualize, alert on and understand your metrics no matter where they are stored. Create, explore, and share dashboards with your team and foster a data driven culture. |
+| [Grafana](https://grafana.com) | [@grafana](https://twitter.com/grafana) | $0 - $90/mo (+9/user/mo) | The analytics platform for all your metrics. Grafana allows you to query, visualize, alert on and understand your metrics no matter where they are stored. Create, explore, and share dashboards with your team and foster a data-driven culture. |
 | [Redash](https://redash.io) | [@getredash](https://twitter.com/getredash) | Self-hosted or $49/mo - 450/mo | "Redash has support for querying multiple databases, including: Redshift, Google BigQuery, PostgreSQL, MySQL, Graphite, Presto, Google Spreadsheets, Cloudera Impala, Hive and custom scripts." |
 | [Cyfe](https://www.cyfe.com) | [@cyfe](https://twitter.com/Cyfe) | $0 - $29/mo | Cyfe offers all-in-one web dashboards for your clients to help them monitor and analyze data scattered across all their online services like Google Analytics, Salesforce, AdSense, MailChimp, Amazon, Facebook, WordPress, Twitter and more from one single location in real-time. |
 
@@ -833,6 +833,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Qualaroo](https://qualaroo.com) | [@Qualaroo](https://twitter.com/Qualaroo) | $63/mo - 499/mo | Qualaroo website surveys uncover customer insights that lead to better business results. |
 | [Formcarry](https://formcarry.com) | - | $0/mo - $99/mo | Handle forms without a single line of back-end code. |
 | [FormKeep](https://formkeep.com) | [@formkeep](https://twitter.com/formkeep) | $59/mo - $199/mo | Premium Forms Backend service with built in spam protection, data integrations to over a 1000 services, data retention policies and more. |
+| [Formcake](https://formcake.com) | - | free - $19.99/mo | Form backend built for devs. Integrate with Zapier, trigger webhooks, emails, and other actions. |
 
 ### Source Code Hosting
 
@@ -1009,10 +1010,10 @@ It's on GitHub for a reason! Please submit pull requests.
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
 | [AccuRanker](https://www.accuranker.com/) | - | - | - |
-| [Ahrefs](https://ahrefs.com) | [@ahrefs](https://twitter.com/ahrefs) | $79/mo - $2500/mo | Ahrefs provide a complete digital marketing suite with tools for analyzing back links, analyzing websites, rank tracking, content exploring and more. |
+| [Ahrefs](https://ahrefs.com) | [@ahrefs](https://twitter.com/ahrefs) | $79/mo - $2500/mo | Ahrefs provide a complete digital marketing suite with tools for analyzing backlinks, analyzing websites, rank tracking, content exploring and more. |
 | [SerpBook](https://serpbook.com) | - | - | - |
 | [WooRank](https://www.woorank.com) | [@woorank](https://twitter.com/woorank) | Free - $49/mo | WooRank analyzes your website for optimization best practices and shows how it ranks against your competition. Its real-time brandable reports, consisting of over 150 data-points, help you to instantly spot critical issues that impact traffic, usability and conversions. Sync your analytics, social accounts and keywords for even more robust tracking. |
-| [Moz](https://moz.com) | [@moz](https://twitter.com/moz) | $99/mo - $599/mo | Moz provides you all the tools you need to effectively do search engine optimization. On site optimization graders, competitor tracking, back link analysis, rank tracking and many more features available to users. |
+| [Moz](https://moz.com) | [@moz](https://twitter.com/moz) | $99/mo - $599/mo | Moz provides you all the tools you need to effectively do search engine optimization. On site optimization graders, competitor tracking, backlink analysis, rank tracking and many more features available to users. |
 | [KWFinder](https://kwfinder.com/) | [@mangools_com](https://twitter.com/mangools_com) | $30+/mo | Keyword research tool |
 | [Animalz - Revive](https://revive.animalz.co/) | [@AnimalzCo](https://twitter.com/AnimalzCo) | Free | Provides a list of posts that should be refreshed. |
 

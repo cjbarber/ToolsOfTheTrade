@@ -325,6 +325,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Grafana](https://grafana.com) | [@grafana](https://twitter.com/grafana) | $0 - $90/mo (+9/user/mo) | The analytics platform for all your metrics. Grafana allows you to query, visualize, alert on and understand your metrics no matter where they are stored. Create, explore, and share dashboards with your team and foster a data-driven culture. |
 | [Redash](https://redash.io) | [@getredash](https://twitter.com/getredash) | Self-hosted or $49/mo - 450/mo | "Redash has support for querying multiple databases, including: Redshift, Google BigQuery, PostgreSQL, MySQL, Graphite, Presto, Google Spreadsheets, Cloudera Impala, Hive and custom scripts." |
 | [Cyfe](https://www.cyfe.com) | [@cyfe](https://twitter.com/Cyfe) | $0 - $29/mo | Cyfe offers all-in-one web dashboards for your clients to help them monitor and analyze data scattered across all their online services like Google Analytics, Salesforce, AdSense, MailChimp, Amazon, Facebook, WordPress, Twitter and more from one single location in real-time. |
+| [Two Minute Reports](https://www.gox.ai/two-minute-reports/) | - | Free - $9/mo | Two-Minute-Reports is an addon for Google Sheets, that helps startups pull data from different sources like Google Analytics, MySQL, Google PageSpeed, Firebase, etc. to analyze data, create reports, and automate e-mail reporting.
 
 ### Error/Exception Handling
 
@@ -653,7 +654,6 @@ It's on GitHub for a reason! Please submit pull requests.
 | [FetchApp](https://www.fetchapp.com) | [@fetchapp](https://twitter.com/fetchapp) | $5/mo - $500/mo | The Simpler way to Fetch. Simply put, FetchApp allows you to sell and digitally delivery downloadable goods |
 | [Chargify](https://www.chargify.com) | [@chargify](https://twitter.com/chargify) | $459/mo - $65/mo | Easily Manage Your Recurring Revenue Business. Customers sign up, make payments, use coupons, upgrade... You bill one-time & recurring fees using whatever pricing model you need, charge cards, send invoices & reminders, etc. |
 | [Recurly](https://recurly.com) | [@Recurly](https://twitter.com/Recurly) | $99/mo - $259/mo | Subscription Billing Automation. As the leading recurring billing platform, Recurly ensures setup is easy, integrations are quick, and our service scales with the needs of your business. With Recurly you'll be ready to accept payments and focus on growing your sales in no time. |
-| [ChargeBee](https://www.chargebee.com) | [@chargebee](https://twitter.com/chargebee) | $49/mo - $249/mo | ChargeBee is an easy to use recurring billing and invoicing solution for online businesses |
 | [ChargeOver](https://chargeover.com) | [@ChargeOver](https://twitter.com/chargeover) | $65/mo- $549/mo | ChargeOver is a full featured invoicing platform supporting payment plans, recurring billing, one-time billing, and all the major gateway backends. |
 | [Chargebee](https://www.chargebee.com/) | [@chargebee](https://twitter.com/chargebee) | $249/mo- $599/mo | Chargebee is a Subscription Billing & Revenue Operations for Fast-growth B2B SaaS |
 

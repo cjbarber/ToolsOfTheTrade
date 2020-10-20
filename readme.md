@@ -707,6 +707,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
 | [AppNeta (Tracelytics)](https://www.appneta.com/) | [@AppNeta](https://twitter.com/Appneta) | - | - |
+| [Hexadecimal](https://tryhexadecimal.com/) | [@tryhexadecimal](https://twitter.com/tryhexadecimal) | $16/mo - $256/mo | No-nonsense website monitoring and status page service. |
 | [Sensu](https://sensuapp.org/) | [@sensu](https://twitter.com/sensu) | - | - |
 | [Riemann](http://riemann.io) | - | - | - |
 | [Pingdom](https://www.pingdom.com/) | [@pingdom](https://twitter.com/pingdom) | - | - |

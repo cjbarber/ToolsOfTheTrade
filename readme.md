@@ -869,7 +869,6 @@ It's on GitHub for a reason! Please submit pull requests.
 |:--------|:--------|:--------|:------------|
 | [Heroku](https://www.heroku.com) | [@heroku](https://twitter.com/heroku) | 1000 Free hours/mo for verified accounts | - |
 | [Cloud Foundry](https://www.cloudfoundry.org) | [@cloudfoundry](https://twitter.com/cloudfoundry) | - | host it yourself, or use one of MANY hosting services |
-| [Pagodabox](https://pagodabox.io ) | - | - | - |
 | [Clever Cloud](https://www.clever-cloud.com ) | [@clever_cloud](https://twitter.com/clever_cloud) | - | - |
 | [Google App Engine](https://cloud.google.com/appengine/docs/ ) | - | - | - |
 | [OpenShift](https://www.openshift.com) | [@openshift](https://twitter.com/openshift) | - | OpenShift gives you all the tools you need to develop, host and scale your apps in the public or private cloud. Get started today. |

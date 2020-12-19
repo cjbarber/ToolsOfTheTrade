@@ -193,12 +193,13 @@ It's on GitHub for a reason! Please submit pull requests.
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
-| [Toggl](https://toggl.com) | [@toggl](https://twitter.com/toggl) | Free - $59/mo | Toggl’s time tracker is built for speed and ease of use. Time logging with Toggl is so simple that you’ll actually use it. |
-| [Clockify](https://clockify.me) | [@clockify](https://twitter.com/clockify) | Free | Clockify is the only 100% Free time tracking software that lets you and your team track time with one click. It works like Toggl but offers unlimited features and unlimited users. |
-| [Hubstaff](https://hubstaff.com) | [@hubstaff](https://twitter.com/Hubstaff) | Free - $9/mo | Hubstaff is time tracking software designed to make remote team management more effective and efficient. You just have to sign up, download our intuitive desktop app and push the start button to begin tracking time. |
+| [Toggl](https://toggl.com) | [@toggl](https://twitter.com/toggl) | Free - $20/user/mo | Toggl’s time tracker is built for speed and ease of use. Time logging with Toggl is so simple that you’ll actually use it. |
+| [Clockify](https://clockify.me) | [@clockify](https://twitter.com/clockify) | Free - $9/user/mo| Clockify is the only 100% Free time tracking software that lets you and your team track time with one click. It works like Toggl but offers unlimited features and unlimited users. |
+| [Hubstaff](https://hubstaff.com) | [@hubstaff](https://twitter.com/Hubstaff) | Free - $20/user/mo | Hubstaff is time tracking software designed to make remote team management more effective and efficient. You just have to sign up, download our intuitive desktop app and push the start button to begin tracking time. |
 | [Tickspot](https://www.tickspot.com/) | [@tickspot](https://twitter.com/tickspot) | Free - $149/mo | Straightforward time tracking software to help your team run more profitable projects. Whether you prefer iOS, Android, the Apple Watch, or your desktop computer, Tick is the easiest way to track your time. |
 | [Kimai](https://www.kimai.org/) | [@kimai_org](https://twitter.com/kimai_org) | self-hosted | Kimai is a Free open source timetracker. It tracks work time and prints out a summary of your activities on demand. Yearly, monthly, daily, by customer, by project, by action, etc. |
 | [Timetrap](https://github.com/samg/timetrap) | - | Free | Simple open source command line time tracking. |
+| [OfficeClip](https://www.officeclip.com/web/timesheet) | @OfficeClip | Free - $12/user/mo| Time tracking software designed for small business. Free for unlimited user and unlimited time. Available as boh Hosted and Self-Hosted |
 
 ### App Developer Tools
 

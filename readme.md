@@ -686,13 +686,6 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Divjoy](https://divjoy.com/) | [@divjoy](https://twitter.com/divjoy) | $59 | The React codebase generator. |
 | [WPPB](https://wppb.me/) | - | Free | WordPress Plugin Boilerplate Generator |
 
-### Banking
-
-| Service | Twitter | Pricing | Description |
-|:--------|:--------|:--------|:------------|
-| [Simple](https://www.simple.com) | [@simple](https://twitter.com/simple) | - | The way banking should be. |
-
-
 ### Phone/PBX/SMS
 
 | Service | Twitter | Pricing | Description |

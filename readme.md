@@ -486,6 +486,7 @@ It's on GitHub for a reason! Please submit pull requests.
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
+| [Pagewiz](https://www.pagewiz.com) | [@pagewiz_app](https://twitter.com/pagewiz_app) | $29/mo - $199/mo | Pagewiz was designed to let professional marketers, business owners and affiliates launch landing page campaigns from scratch, within minutes, and easily optimize them. Once the campaign is running, A/B testing can be easily performed to maximize conversion. |
 | [Launchrock](https://www.launchrock.com) | [@launchrock](https://twitter.com/launchrock) | $49/mo - $199/mo | Even if you know how to code a web page with HTML, you'll love how much faster it is with our landing page builder. Load up your logo and graphic assets, set up a few base colors from your brand palette and publish away. |
 | [Unbounce](https://unbounce.com) | [@unbounce](https://twitter.com/unbounce) | $49/mo - $199/mo | Unbounce empowers marketers to act independently from technical teams, improving their efficiency and their ability to generate sales. Produce high-converting landing pages without dealing with I.T. bottlenecks. See how Unbounce can enhance your campaigns and maximize your marketing spend. |
 | [LeadPages](https://www.leadpages.net/) | [@Leadpages](https://twitter.com/Leadpages) | $25/mo - $199/mo | Generate leads and increase revenue using the industry-leading landing page builder with accompanying suite of lead generation and opt-in tools. |

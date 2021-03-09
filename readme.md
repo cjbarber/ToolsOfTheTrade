@@ -697,8 +697,8 @@ It's on GitHub for a reason! Please submit pull requests.
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
-| [Plivo](https://www.plivo.com/) | [@plivo](https://twitter.com/plivo) | - | - |
-| [Tropo](https://www.tropo.com/) | [@Tropo](https://twitter.com/Tropo) | - | - |
+| [Plivo](https://www.plivo.com/) | - | - | - |
+| [Cisco Tropo](https://flowdocs.built.io/services/cisco-tropo) | - | - | - |
 | [Twilio](https://www.twilio.com/) | - | - | - |
 | [PhoneBooth](http://www.phonebooth.com/) | - | - | - |
 | [TalkDesk](https://www.talkdesk.com/) | [@Talkdesk](https://twitter.com/talkdesk) | - | - |

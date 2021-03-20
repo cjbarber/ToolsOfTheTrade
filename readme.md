@@ -526,7 +526,6 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Trademarkia](https://www.trademarkia.com) | [@trademarkia](https://twitter.com/trademarkia) | - | Trademarkia is one of the largest trademark search engines in the world. LegalForce's network of licensed patent attorneys and agents have filed hundreds of patent applications for companies of every size. |
 | [NameRobot](https://www.namerobot.com) | [@namerobotEN](https://twitter.com/namerobotEN) | 0$ - 300$/mo | Find, create and check the name for your project. NameRobot offers everything you need to create suitable naming ideas in a short time. |
 | [DomainTools Whois Lookup](https://whois.domaintools.com/) | [@DomainTools](https://twitter.com/DomainTools) | Free - $99/mo | Go beyond ordinary Whois to discover the people or organizations behind a domain name or IP address. |
-| [damnshort](https://damnshort.com/) | [@realdamnshort](https://twitter.com/realdamnshort) | $195 | Short, brandable dotcoms that you can actually afford. |
 | [Startup Name Check](https://startupnamecheck.com/) | - | Free | Name validator tool for dozens of domain-names and social media networks. |
 | [Word Safety](https://naming-tools.com/word-safety) | - | Free | Word Safety tool to check for second meanings in other languages or other forms of writing. |
 

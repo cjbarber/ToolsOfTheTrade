@@ -44,7 +44,6 @@ It's on GitHub for a reason! Please submit pull requests.
 * [Application Performance](#application-performance)
 * [AWS Tools](#aws-tools)
 * [Backend-aaS](#backend-aas)
-* [Banking](#banking)
 * [Billing & Payment Processing](#billing--payment-processing)
 * [Boilerplates](#boilerplates)
 * [Browser/Email Testing](#browseremail-testing)

@@ -223,7 +223,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Chartbeat](https://chartbeat.com) | [@chartbeat](https://twitter.com/chartbeat) | $9.95/mo - $49.95/mo | Build a loyal and valuable audience for your site. Chartbeat's real-time traffic and audience-behavior data shows you who's on your site and how they're engaging with your content right now — so you can take action on what matters when it matters. |
 | [Chartio](https://chartio.com) | [@chartio](https://twitter.com/chartio) | - | Visualize and explore your data with Chartio. Create interactive charts and perfect dashboards through an intuitive drag and drop interface. Switch from basic tables to sophisticated data visualizations in a single click. Powerful filters let you slice and dice your data, and you can drill down into most charts without configuring a thing. |
 | [Clicky](https://clicky.com) | [@clicky](https://twitter.com/clicky) | $9.99/mo - $19.99/mo | Real Time Web Analytics. Clicky lets you see every visitor and every action they take on your web site, with the option to attach custom data to visitors, such as usernames or email addresses. Analyze each visitor individually and see their full history. |
-| [Fathom Analytics](https://usefathom.com/) | - | $0-79/mo | Simple, useful websites stats without tracking or storing personal data of your users|
+| [Fathom Analytics](https://usefathom.com/) | [@usefathom](https://twitter.com/usefathom) | $0-79/mo | Simple, useful websites stats without tracking or storing personal data of your users|
 | [Gauges](https://get.gaug.es) | [@gauges](https://twitter.com/gauges) | $6-$48/mo | Gauges provides real time web analytics such as how many people visit your site, where they come from, and where they go. |
 | [GoatCounter](https://www.goatcounter.com) | [@arp242_martin](https://twitter.com/arp242_martin) | Free for personal use or self hosted | Simple web statistics. No tracking of personal data. [Open source](https://github.com/zgoat/goatcounter) |
 | [GoSquared](https://www.gosquared.com) | [@gosquared](https://twitter.com/GoSquared) | £21.60 - £396/mo | Easy to use real-time web analytics. |
@@ -689,12 +689,12 @@ It's on GitHub for a reason! Please submit pull requests.
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
-| [Plivo](https://www.plivo.com/) | - | - | - |
+| [Plivo](https://www.plivo.com/) | [@plivo](https://twitter.com/plivo) | - | - |
 | [Cisco Tropo](https://flowdocs.built.io/services/cisco-tropo) | - | - | - |
-| [Twilio](https://www.twilio.com/) | - | - | - |
+| [Twilio](https://www.twilio.com/) | [@twilio](https://twitter.com/twilio) | - | - |
 | [PhoneBooth](http://www.phonebooth.com/) | - | - | - |
 | [TalkDesk](https://www.talkdesk.com/) | [@Talkdesk](https://twitter.com/talkdesk) | - | - |
-| [HelloFax](https://www.hellofax.com/) | - | - | - |
+| [HelloFax](https://www.hellofax.com/) | [@HelloFax](https://twitter.com/hellofax) | - | - |
 | [Dialpad](https://www.dialpad.com) | [@DialpadHQ](https://twitter.com/dialpadHQ) | $15/user/mo | people-first phone and meeting system that includes internet fax and follows you where you work |
 
 
@@ -752,7 +752,7 @@ It's on GitHub for a reason! Please submit pull requests.
 |:--------|:--------|:--------|:------------|
 | [Dribbble](https://dribbble.com) | [@dribbble](https://twitter.com/dribbble) | - | - |
 | [Sortfolio](https://sortfolio.com) | [@Sortfolio](https://twitter.com/Sortfolio) | - | - |
-| [Behance](https://www.behance.net) | - | - | - |
+| [Behance](https://www.behance.net) | [@Behance](https://twitter.com/Behance) | - | - |
 
 ### Notes
 
@@ -763,7 +763,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Google Keep](https://www.google.com/keep/) | - | - | - |
 | [Workflowy](https://workflowy.com/) | [@WorkFlowy](https://twitter.com/workflowy) | - | - |
 | [Quip](https://quip.com/) | [@quip](https://twitter.com/quip) | - | - |
-| [Etherpad](https://etherpad.org/) | - | - | - |
+| [Etherpad](https://etherpad.org/) | [@EtherpadOrg](https://twitter.com/EtherpadOrg) | - | - |
 | [Kami](https://www.kamiapp.com/) | [@usekamiapp](https://twitter.com/usekamiapp) | - | View, edit, annotate, and collaborate on documents on your browser |
 | [OneNote](https://www.onenote.com/) | [@msonenote](https://twitter.com/msonenote) | Free | The digital note-taking app for your devices |
 | [Taskade](https://www.taskade.com) | [@taskade](https://twitter.com/taskade) | Free | Real-time collaborative notes, checklists, and outlines for teams. |
@@ -885,7 +885,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Ramnode](https://www.ramnode.com/) | [@RamNode](https://twitter.com/ramnode) | - | - |
 | [DigitalOcean](https://www.digitalocean.com/) | [@digitalocean](https://twitter.com/digitalocean) | - | - |
 | [Vultr](https://www.vultr.com/) | [@Vultr](https://twitter.com/vultr/) | - | - |
-| [OVH](https://www.ovh.com) | - | - | - |
+| [OVH](https://www.ovh.com) | [@OVHcloud](https://twitter.com/OVHcloud) | - | - |
 | [Scaleway](https://www.scaleway.com/) | [@Scaleway](https://twitter.com/scaleway/) | - |
 
 
@@ -971,7 +971,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
 | [Tarsnap](https://www.tarsnap.com/) | - | - | - |
-| [Rsync.net ](https://www.rsync.net/) | - | - | - |
+| [Rsync.net ](https://www.rsync.net/) | [@rsyncnet](https://twitter.com/rsyncnet) | - | - |
 | [SpiderOak](https://spideroak.com) | [@spideroak](https://twitter.com/spideroak) | First 2gb Free - $100/100gb/year (check [twitter](https://twitter.com/spideroak) for deals) | Store. Sync. Share. Privately. |
 
 ### Personal Machine Backups

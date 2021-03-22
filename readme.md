@@ -39,9 +39,8 @@ It's on GitHub for a reason! Please submit pull requests.
 * Business
   * Payments
 	* [Accounting/Invoicing](#accountinginvoicing)
-    * Banking
-    * [Billing & Payment Processing](#billing--payment-processing) * Payments, Billing & Downloads
-   * [Payroll](#payroll)
+    * [Billing & Payment Processing](#billing--payment-processing)
+    * [Payroll](#payroll)
   * Marketing
     * [Remote Collaboration](#remote-collaboration)
 	* [Remote Workers](#remote-workers)
@@ -57,7 +56,7 @@ It's on GitHub for a reason! Please submit pull requests.
     * [Personal Productivity](#personal-productivity)
     * [Planning & Project Management](#planning--project-management)
     * [Time Tracking](#time-tracking)
-  * Founder
+  * For Founders
     * [Fundraising / Investor Relations](#fundraising--investor-relations)
     * [Naming](#naming)
     * [Presentations / Slides](#presentations--slides)
@@ -87,7 +86,7 @@ It's on GitHub for a reason! Please submit pull requests.
     * [HR](#hr)
     * [Phone/PBX/SMS](#phonepbxsms)
     * [Shipping](#shipping)
-*     
+
 * Tech
   * Data
     * [Data](#data)

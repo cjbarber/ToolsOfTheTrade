@@ -1051,14 +1051,14 @@ It's on GitHub for a reason! Please submit pull requests.
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
-| [Lastpass](https://www.lastpass.com) | [@LastPass](https://twitter.com/LastPass) | - | - |
-| [1Password](https://1password.com) | [@1Password](https://twitter.com/1Password) | - | - |
-| [Passpack](https://www.passpack.com) | [@passpack](https://twitter.com/passpack) | - | - |
-| [KeePassX](https://www.keepassx.org) | - | - | [Recommended by EFF](https://www.eff.org/deeplinks/2014/07/protecting-your-anonymity-how-sex-workers) |
-| [KeePassXC](https://keepassxc.org/) | [@KeePassXC](https://twitter.com/KeePassXC) | Free | further development of KeePassX |
+| [Lastpass](https://www.lastpass.com) | [@LastPass](https://twitter.com/LastPass) | Free - $7.5/user/mo | - |
+| [1Password](https://1password.com) | [@1Password](https://twitter.com/1Password) | $2.99 - 7.99/user/mo | - |
+| [Passpack](https://www.passpack.com) | [@passpack](https://twitter.com/passpack) | $18 - $480/year | - |
+| [KeePassX](https://www.keepassx.org) | - | Free | [Recommended by EFF](https://www.eff.org/deeplinks/2014/07/protecting-your-anonymity-how-sex-workers). |
+| [KeePassXC](https://keepassxc.org/) | [@KeePassXC](https://twitter.com/KeePassXC) | Free | further development of KeePassX. |
 | [Enpass](https://www.enpass.io) | [@EnpassApp](https://twitter.com/EnpassApp) | - | - |
-| [Dashlane](https://www.dashlane.com) | [@dashlane](https://twitter.com/dashlane) | - |
-| [Bitwarden](https://bitwarden.com/) | [@bitwarden](https://twitter.com/bitwarden) | Free for personal use / Self-hosted | Open Source Password Management Solutions
+| [Dashlane](https://www.dashlane.com) | [@dashlane](https://twitter.com/dashlane) | $5/user/mo - $8/user/mo | - |
+| [Bitwarden](https://bitwarden.com/) | [@bitwarden](https://twitter.com/bitwarden) | Free for personal use / Self-hosted | Open Source Password Management Solutions. |
 
 ### Sources of Clicks/Ad Platforms
 

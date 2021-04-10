@@ -539,6 +539,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Exacttarget Marketing Cloud/Buddy Media](https://www.salesforce.com/products/marketing-cloud/overview/) | [@marketingcloud](https://twitter.com/marketingcloud) | - | Bringing you closer to your social customers with an integrated social content solution. Run integrated campaigns across Facebook, Twitter, YouTube and your websites Increase fans, followers and advocates. Publish engaging and interactive social apps. Easily create landing pages and microsites and extend social to your websites. Understand engagement trends, demographics, conversions and business metrics with powerful analytics. |
 | [Sprout Social](https://sproutsocial.com) | [@sproutsocial](https://twitter.com/sproutsocial) | $99/mo - $249/mo | Powerful Social Media Software. Sprout lets you post messages on Facebook, Twitter, Google+ and LinkedIn simultaneously from one easy-to-use message composition tool. Shorten links, attach photos, target your audience on Facebook, customize your posts and much more. |
 | [F5Bot](https://f5bot.com) | - | Free | F5Bot is Free social media keyword monitoring. F5Bot will send you an email when your startup, your product, or your competitors are mentioned on Hacker News or Reddit. |
+| [Syften](https://syften.com) | [@syften_com](https://twitter.com/syften_com) | $15/mo - $49/mo | Advanced social monitoring for tech startups. |
 
 ### Naming
 

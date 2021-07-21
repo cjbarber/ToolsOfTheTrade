@@ -182,6 +182,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Sifter](https://sifterapp.com) | [@sifterapp](https://twitter.com/sifterapp) | $29/mo - $149/mo | Less configuring. More doing. We've put in the time researching bug tracking to help create the simplest possible workflow for you to get work done. From time-to-time we even blog about some of our ideas around this optimal bug tracking process… |
 | [Usersnap](https://usersnap.com) | [@usersnap](https://twitter.com/usersnap) | $19/mo-$99/mo | Usersnap is visual bug reporting for anyone working on web projects. Get visual feedback and precious browser information with every bug report to reproduce and fix them even faster. |
 | [Instabug](https://instabug.com) | [@instabug](https://twitter.com/instabug) | $49/mo-$349/mo | Instabug is comprehensive bug reporting and in-app feedback tool for mobile apps. Receive detailed feedback attached with every bug report sent by your testers or users to debug and build better apps, faster. |
+| [zipBoard](https://zipboard.co/bug-tracking/) | [@zipboardco](https://twitter.com/zipboardco) | Free trial-$39/mo-$110/mo | zipBoard is your one platform for visual bug reports and feedback, helping development teams to accelerate their progress through an integrated user testing and bug tracking platform. From on-site responsive design testing to integration with your existing workflow, zipBoard makes sure you can get straight to work with virtually no learning curve. |
 
 ### Planning & Project Management
 

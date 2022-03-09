@@ -528,6 +528,8 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Base](https://getbase.com) | [@ZendeskSell](https://twitter.com/ZendeskSell) | $15/mo - $125/mo | The Sales and CRM Software Your Team Will Actually Use. Base is designed to significantly boost your team’s sales productivity and give you the core sales tools you need to grow your business. Your leads come from a variety of sources. Lead management in Base helps you organize leads and assign them to the right sales reps so they can be followed up on and qualified quickly. After being qualified, convert a lead in Base and all of the contact information you have about your lead is transferred your new customer contact card. Optionally, you can specify follow up tasks and even create a deal at the same time. |
 | [Pipedrive](https://www.pipedrive.com) | [@pipedrive](https://twitter.com/pipedrive) | $9/mo | Pipeline software that gets you organized. Pipedrive is built for salespeople who need to put in serious effort to turn leads into sales. It helps to organize the work and spend less time on admin. |
 | [Contactually](https://www.contactually.com) | [@Contactually](https://twitter.com/contactually) | $17.99/mo - $99.99/mo | Maximize your network ROI. More referrals. More repeat business. Contactually helps businesses follow up with the right people, at the right time, to maximize relationship ROI. |
+| [SmartReach.io](https://smartreach.io) | [@smartreachio](https://twitter.com/smartreachio) | $24/mo - $199/mo | Easy-to-use email automation software designed to let users schedule and send personalized emails and follow-ups automatically from their mailbox and boost their reply rates. |
+
 
 ### Social Media Marketing
 

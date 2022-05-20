@@ -1,0 +1,5 @@
+Họ và tên: Nguyen Dang Hoang Y
+Fork Repo URL: https://github.com/OSD-Royho-2011/GitTest
+Pullrequest của bài tập 1: https://github.com/cjbarber/ToolsOfTheTrade/pull/513
+Pullrequest của bài tập 2: 
+Team: Intern

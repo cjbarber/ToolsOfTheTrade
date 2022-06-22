@@ -1081,6 +1081,7 @@ It's on GitHub for a reason! Please submit pull requests.
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
+| [Beew.io](https://beew.io) | - | - | Schedule HTTP requests and monitor job execution |
 | [EasyCron](https://www.easycron.com) | - | - | - |
 | [IFTTT](https://ifttt.com) | [@IFTTT](https://twitter.com/ifttt) | - | - |
 | [Zapier](https://zapier.com) | [@Zapier](https://twitter.com/zapier) | $99/mo - $15/mo | Superpowers to get your work done. A Zap is a link between two apps (a "trigger" and an "action"). Zaps run automatically in the background every few minutes to move and manage data on your behalf. Only live Zaps count against your limit — you can have as many paused and unfinished Zaps as you'd like. For example, one Zap might be "Send me an SMS every time I get a new email". |

@@ -1045,6 +1045,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Deployd](https://deployd.com) | [@deploydapp](https://twitter.com/deploydapp) | Free (OSS) | Design, build, and scale APIs for web and mobile apps in minutes instead of days. |
 | [Apiary](https://apiary.io) | [@apiary](https://twitter.com/apiaryio) | Free - $99/mo | Powerful API Design Stack. Built for Developers. Work together to quickly design, prototype, document and test APIs. |
 | [Postwoman](https://postwoman.io) | [@liyasthomas](https://twitter.com/liyasthomas) | Free (OSS) | A free, fast and beautiful API request builder. |
+| [Nango](https://www.nango.dev) | [@nangohq](https://twitter.com/nangohq) | Free (OSS) | Open-source framework that makes building & maintaining native integrations easy for engineers. |
 
 ### Password Management
 

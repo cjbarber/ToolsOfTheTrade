@@ -144,14 +144,14 @@ It's on GitHub for a reason! Please submit pull requests.
     * [Task Scheduling](#task-scheduling)
     * [VPS](#vps)
 
-### Identity Verification
+## Identity Verification
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
 | [Cognito](https://cognitohq.com) | [@getcognito](https://twitter.com/getcognito) | - | Frictionless, modern identity verification that starts with just a phone number. |
 | [Onfido](https://onfido.com) | [@Onfido](https://twitter.com/Onfido) | $2/verification | Individual ID verifications, Document Checks and Facial recognition. |
 
-### Browser/Email Testing
+## Browser/Email Testing
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
@@ -166,7 +166,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [testmail.app](https://testmail.app) | [@testmailapp](https://twitter.com/testmailapp) | Free - $29/mo | Automate end-to-end email tests with unlimited mailboxes and a GraphQL API. |
 | [Polypane](https://polypane.rocks) | [@polypane](https://twitter.com/polypane) | Free trial - $12+/mo | A browser built from the ground up to create and test websites and apps. |
 
-### Bug/Issue Tracking
+## Bug/Issue Tracking
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
@@ -183,7 +183,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Usersnap](https://usersnap.com) | [@usersnap](https://twitter.com/usersnap) | $19/mo-$99/mo | Usersnap is visual bug reporting for anyone working on web projects. Get visual feedback and precious browser information with every bug report to reproduce and fix them even faster. |
 | [Instabug](https://instabug.com) | [@instabug](https://twitter.com/instabug) | $49/mo-$349/mo | Instabug is comprehensive bug reporting and in-app feedback tool for mobile apps. Receive detailed feedback attached with every bug report sent by your testers or users to debug and build better apps, faster. |
 
-### Planning & Project Management
+## Planning & Project Management
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
@@ -209,7 +209,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Clubhouse](https://clubhouse.io/) | [@clubhouse](https://twitter.com/clubhouse) | $0 - $8.50/mo | Clubhouse is the collaborative home for software development that makes it easier and more enjoyable to plan and build with your teams. |
 | [Slate](https://heyslate.com/) | [@_heyslate](https://twitter.com/_heyslate) | $15/mo | Slate is a planning tool for freelance designers & developers who want to organise their schedule, projects and finances in one place. |
 
-### Time Tracking
+## Time Tracking
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
@@ -221,21 +221,21 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Timetrap](https://github.com/samg/timetrap) | - | Free | Simple open source command line time tracking. |
 | [OfficeClip](https://www.officeclip.com/web/timesheet) | @OfficeClip | Free - $12/user/mo| Time tracking software designed for small business. Free for unlimited user and unlimited time. Available as boh Hosted and Self-Hosted |
 
-### App Developer Tools
+## App Developer Tools
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
 | [App Annie](https://www.appannie.com) | [@appannie](https://twitter.com/appannie/) | Free | Make better decisions with our app store data. We are the leader for app store analytics, app rankings, and market intelligence. |
 | [App Figures](https://appfigures.com) | [@appfigures](https://twitter.com/appfigures) | $9/mo | A beautiful app tracking platform for app developers and publishers. |
 
-### Localization & Internationalization
+## Localization & Internationalization
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
 | [Localize.js](https://localizejs.com) | - | $25/mo - $150/mo | Website translation with just a few lines of code. |
 | [Gengo](https://gengo.com) | [@GengoIt](https://twitter.com/gengoit) | $0.06 - $0.17/word | Human translation API. |
 
-### Business & Traffic Analytics
+## Business & Traffic Analytics
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
@@ -262,7 +262,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Inspectlet](https://inspectlet.com) | - | $0/mo - $499/mo | Inspectlet records videos of your visitors as they use your site, allowing you to see everything they do. See every mouse movement, scroll, click, and keypress on your site. You never need to wonder how visitors are using your site again. |
 | [Plausible](https://plausible.io) | - | £6/mo - £150/mo / Free | Plausible Analytics is an open-source project dedicated to making web analytics more privacy-friendly. Available as either a hosted SaaS version or self-hosted. |
 
-### Conversion Optimization & A/B Testing
+## Conversion Optimization & A/B Testing
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
@@ -271,7 +271,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [EyeQuant](https://www.eyequant.com) | [@eyequant](https://twitter.com/eyequant) | $199/mo - $999/mo | Instantly understand what your visitors will see and miss in their first seconds on your site, and improve your conversions. Analyse live sites or mockups within seconds, no code required. |
 | [Optimize by Google](https://optimize.google.com) | - | Free | Optimize allows you to test variants of web pages and see how they perform against an objective that you specify. |
 
-### User Management
+## User Management
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
@@ -279,7 +279,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Auth0](https://auth0.com) | [@auth0](https://twitter.com/auth0) | - | - |
 | [Connect2id](https://c2id.net) | [@Connect2id](https://twitter.com/connect2id) | €299/mo - €999/mo | Hosted Connect2id server – a flexible, secure and certified OpenID Connect/OAuth 2.0 identity provider. |
 
-### User Testing
+## User Testing
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
@@ -287,7 +287,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Wisdom](https://getWisdom.io) | [@wisdomCRM](https://twitter.com/WisdomCRM) | Free - $2000+/mo | Session Replay. Wisdom is the most accurate live visitor session recorder service available. Focusing only on session replay, Wisdom reconstructs a virtual desktop screen for every visitor, across all tabs, to capture the true feel of every visitor's experience. |
 | [LiveSession](https://livesession.io) | [@LiveSessionHQ](https://twitter.com/LiveSessionHQ) | $44+/mo| High-quality session replay analytics. |
 
-### HR
+## HR
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
@@ -301,14 +301,14 @@ It's on GitHub for a reason! Please submit pull requests.
 | [HiringPlan](https://hiringplan.io) | [@ltse](https://twitter.com/ltse) | Free | HiringPlan is a headcount planning tool for startups with built-in market data. It helps founders adopt a structured compensation plan, pay people fairly and preserve cash and equity runway. |
 | [TLDROptions](https://tldroptions.io) | [@ltse](https://twitter.com/ltse) | Free | A tool for helping employees understand the potential value of their stock options. |
 
-### Payroll
+## Payroll
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
 | [Gusto](https://gusto.com) | [@gustohq](https://twitter.com/gustohq) | $6+/mo/person | Payroll and benefits that put people first, easy setup, automated tax filings and thoughtful support. |
 | [WagePoint](https://wagepoint.com) | [@wagepoint](https://twitter.com/wagepoint) | $20 + $2/mo/employee | The Simple, Fast & Friendly way to pay your employees. |
 
-### Continuous Integration/Code Quality
+## Continuous Integration/Code Quality
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
@@ -336,7 +336,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [GitLab](https://about.gitlab.com/product/continuous-integration/) | [@GitLab](https://twitter.com/gitlab) | $0 [Community Edition](https://about.gitlab.com/pricing/) / Paid Premium | GitLab is an open-source version control platform with exquisite CI/CD integrations. |
 
 
-### Dashboards
+## Dashboards
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
@@ -349,7 +349,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Cyfe](https://www.cyfe.com) | [@cyfe](https://twitter.com/Cyfe) | $0 - $29/mo | Cyfe offers all-in-one web dashboards for your clients to help them monitor and analyze data scattered across all their online services like Google Analytics, Salesforce, AdSense, MailChimp, Amazon, Facebook, WordPress, Twitter and more from one single location in real-time. |
 | [Two Minute Reports](https://www.gox.ai/two-minute-reports/) | - | Free - $9/mo | Two-Minute-Reports is an addon for Google Sheets, that helps startups pull data from different sources like Google Analytics, MySQL, Google PageSpeed, Firebase, etc. to analyze data, create reports, and automate e-mail reporting.
 
-### Error/Exception Handling
+## Error/Exception Handling
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
@@ -366,14 +366,14 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Errbit](https://errbit.com) | - | OSS | The open source error catcher that's Airbrake API compliant. |
 | [OverOps](https://www.overops.com) | [@overopshq](https://twitter.com/overopshq) | - | God Mode in Production Code for java and scala applications. |
 
-### Application Distribution
+## Application Distribution
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
 | [HockeyApp](https://www.hockeyapp.net) | [@VSAppCenter](https://twitter.com/VSAppCenter) | Free - $129/mo depending on number of apps and number of owners | Distribution of iOS, Android, Windows Phone and Mac OS apps. Includes analytics, user feedback and crash reports. |
 | [Setapp](https://setapp.com) | [@setapp](https://twitter.com/setapp) | $9.99/mo | Setapp is a single subscription with a huge collection of quality apps for macOS. |
 
-### Log Monitoring
+## Log Monitoring
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
@@ -390,7 +390,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [statsd](https://github.com/etsy/statsd/) | - | - | - |
 | [Sumo Logic](https://www.sumologic.com) | [@SumoLogic](https://twitter.com/SumoLogic) | - | Log Data is Big Data. Once enabled by the administrator, the new data will be searchable in the customer account. Sumo Logic provides an Application for Data Volume for out-of–the-box dashboards and searches that deliver a comprehensive view of data usage volume by category, collector, source name, and hosts. |
 
-### Application Performance
+## Application Performance
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
@@ -401,7 +401,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Instrumental](https://instrumentalapp.com) | [@instrumental](https://twitter.com/instrumental) | $150/mo - $750/mo | Monitor Your App in Realtime. Instrumental’s made to monitor metrics at a ridiculously high scale. At rates of 500,000 metrics per second and higher, it doesn’t even break a sweat |
 | [Atatus](https://www.atatus.com) | [@atatusapp](https://twitter.com/atatusapp) | $12/mo - $159/mo | Simple JavaScript Error Tracking. Atatus is a simple error tracking and uptime monitoring system. Add two lines of code and get alerted on any errors that occurs in your application in realtime. |
 
-### Load Testing
+## Load Testing
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
@@ -413,7 +413,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [k6.io](https://k6.io) | [@k6_io](https://twitter.com/k6_io) | Free, Open Source | k6 is a developer centric open source load testing tool for testing the performance of your backend infrastructure. It’s built with Go and JavaScript to integrate well into your development workflow, so you can stay on top of performance without fuzz. |
 | [loadimpact.com](https://loadimpact.com/) | [@loadimpact](https://twitter.com/loadimpact) | $99.00+ | A SaaS performance testing solution for modern DevOps teams, built on top of the open source k6.io project. |
 
-### Server Monitoring
+## Server Monitoring
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
@@ -428,7 +428,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Uptime Robot](https://uptimerobot.com) | [@uptimerobot](https://twitter.com/uptimerobot) | - | Free basic HTTP/HTTPS website monitoring |
 | [BinaryCanary](https://www.binarycanary.com) | - | - | - |
 
-### Customer Support/Help Desks
+## Customer Support/Help Desks
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
@@ -451,7 +451,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Support Hero](https://www.supporthero.io) | [@supportheroapp](https://twitter.com/supportheroapp) | $49/mo - $199/mo | Knowledge base and tutorial management platform with smart analytics. Support Hero is a self-service knowledge base that helps companies educate their clients. Helping them to create and deliver a game-changing user education experience that increases retention and engagement, while reducing customer relationship costs. |
 | [Atlasmic](https://atlasmic.com) | [@atlasmichq](https://twitter.com/atlasmichq) | Free - €20/mo | Live chat, business messenger, sales, inbound marketing and analytics. `Hosted` |
 
-### Transactional Email
+## Transactional Email
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
@@ -464,7 +464,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Sendwithus](https://www.dyspatch.io/sendwithus/) | [@sendwithus](https://twitter.com/send_with_us) | Free 'Hacker' plan of 1000 messages/mo | Transactional email A/B testing and drip campaigns |
 | [SparkPost](https://sparkpost.com) | [@SparkPost](https://twitter.com/SparkPost) | Free - $474/mo | The most performant email delivery service — whether your app or website sends hundreds, or billions, of messages. |
 
-### Other APIs
+## Other APIs
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
@@ -475,7 +475,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [iplocate.app](https://iplocate.app) | - | Free | Free geolocation API service (IP address to location) |
 | [Abstract APIs](https://www.abstractapi.com) | [@abstractapi](https://twitter.com/abstractapi) | Free - $249/mo | Suite of APIs for everyday needs (email validation, VAT calculation, IP geolocation, and more). |
 
-### Site Search
+## Site Search
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
@@ -485,7 +485,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Apache Solr](https://lucene.apache.org/solr/) | - | - | An open source search platform, based and co-released with Apache Lucene. |
 | [Amazon Cloudsearch](https://aws.amazon.com/cloudsearch/) | - | - | Search SaaS |
 
-### Email Marketing
+## Email Marketing
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
@@ -503,7 +503,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [EmailOctopus](https://emailoctopus.com) | [@emailoctopus](https://twitter.com/emailoctopus) | Free up to 2,500 subscribers, paid plans from $19/mo | Low cost email marketing using Amazon SES.
 | [ButtonDown](https://buttondown.email/) | [@buttondownemail](https://twitter.com/buttondownemail) | Free for 1000 subscribers, afterwards paid | Simple and carefully thought out newsletter tool using markdown as language.
 
-### Email Collection/Landing Page Apps
+## Email Collection/Landing Page Apps
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
@@ -514,7 +514,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [KickoffLabs](https://kickofflabs.com) | [@kickofflabs](https://twitter.com/kickofflabs) | $29/mo - $99/mo | Stop building landing pages. Start building smarter campaigns. Send customers to a tailored page that speaks to them. Keep them engaged with signup-forms, newsletters and – best of all – a very cool, unique REWARD system for customer referrals. |
 | [Prefinery](https://www.prefinery.com) | [@prefinery](https://twitter.com/prefinery) | $19/mo- $399/mo | Stress-Free Beta Invitation and Management. Prefinery is beta invitations & management for serious product launches. You need more than just a landing page -- outsource your beta to Prefinery! |
 
-### CRM/Sales Tools
+## CRM/Sales Tools
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
@@ -529,7 +529,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Pipedrive](https://www.pipedrive.com) | [@pipedrive](https://twitter.com/pipedrive) | $9/mo | Pipeline software that gets you organized. Pipedrive is built for salespeople who need to put in serious effort to turn leads into sales. It helps to organize the work and spend less time on admin. |
 | [Contactually](https://www.contactually.com) | [@Contactually](https://twitter.com/contactually) | $17.99/mo - $99.99/mo | Maximize your network ROI. More referrals. More repeat business. Contactually helps businesses follow up with the right people, at the right time, to maximize relationship ROI. |
 
-### Social Media Marketing
+## Social Media Marketing
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
@@ -540,7 +540,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [F5Bot](https://f5bot.com) | - | Free | F5Bot is Free social media keyword monitoring. F5Bot will send you an email when your startup, your product, or your competitors are mentioned on Hacker News or Reddit. |
 | [Syften](https://syften.com) | [@syften_com](https://twitter.com/syften_com) | $15/mo - $49/mo | Advanced social monitoring for tech startups. |
 
-### Naming
+## Naming
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
@@ -550,7 +550,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Startup Name Check](https://startupnamecheck.com/) | - | Free | Name validator tool for dozens of domain-names and social media networks. |
 | [Word Safety](https://naming-tools.com/word-safety) | - | Free | Word Safety tool to check for second meanings in other languages or other forms of writing. |
 
-### Space Rental
+## Space Rental
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
@@ -558,7 +558,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Liquidspace](https://liquidspace.com) | [@LiquidSpace](https://twitter.com/LiquidSpace) | - | Optimize Real Estate for Your Enterprise. Whether planning ahead or booking on the fly, find and reserve a great place to work. Rent professional conference and meeting rooms, private offices, or coworking spaces daily or hourly. |
 | [PivotDesk](https://www.pivotdesk.com) | [@PivotDesk](https://twitter.com/PivotDesk) | - | An office sharing marketplace that helps startups that need space find host companies that have excess space. |
 
-### Community Tools
+## Community Tools
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
@@ -566,7 +566,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Scoold](https://scoold.com) | [@getscoold](https://twitter.com/getscoold) | Free / Pro €299 | Stack Overflow in a JAR. An enterprise-ready Q&A platform with full-text search, SAML, LDAP integration and social login support. |
 | [Flarum](https://flarum.org) | [@flarum](https://twitter.com/flarum) | Free | Well designed forum software. |
 
-### Personal Productivity
+## Personal Productivity
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
@@ -579,7 +579,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [deprocrastination](https://www.deprocrastination.co) | [@deprocrastinate](https://twitter.com/deprocrastinate) | Free - $3.99/mo | Browser extension to train yourself to procrastinate less. |
 
 
-### Prototyping/Mockups
+## Prototyping/Mockups
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
@@ -597,7 +597,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Framer](https://www.framer.com/) | [@framer](https://twitter.com/framer) | Free Trial - $12/mo | Pixel-perfect, responsive designs. Truly high-fidelity prototypes. Seamless collaboration. Framer powers the product teams at Dropbox, Pinterest, Twitter, and thousands more. |
 | [UXPin](https://www.uxpin.com/) | [@uxpin](https://twitter.com/uxpin) | $0 - $23+/mo | The full-stack UX design platform: design systems, prototyping, and documentation in one place. |
 
-### Content Creation/Infographics
+## Content Creation/Infographics
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
@@ -605,7 +605,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Visual.ly](https://visual.ly) | [@Visually](https://twitter.com/Visually) | $195/mo - $994/mo | ORIGINAL VISUAL CONTENT FOR BRANDS. We only work with the best creative talent available. Thousands of designers, journalists, animators and developers are standing by to help you achieve your goals and take your project to the next level. |
 | [Canva](https://www.canva.com) | [@canva](https://twitter.com/canva) | Free - $9.95/mo | Design great social media images with text and graphics for Free or a few bucks depending on the images you select |
 
-### Customer Feedback
+## Customer Feedback
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
@@ -616,13 +616,13 @@ It's on GitHub for a reason! Please submit pull requests.
 | [ProsperStack](https://prosperstack.com/) | [@prosperstack](https://twitter.com/prosperstack) | Free - $149+| Collect cancellation feedback from customers and prevent churn automatically. |
 
 
-### Data
+## Data
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
 | [Factual](https://www.factual.com) | [@Factual](https://twitter.com/Factual) | - | GLOBAL DATA. LOCAL CONTEXT. Factual’s location platform enriches mobile location signals with definitive global data, enabling personalized and contextually relevant mobile experiences. Built from billions of inputs, the data is constantly updated by Factual’s real-time data stack. |
 
-### Database
+## Database
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
@@ -635,7 +635,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [DBngin](https://dbngin.com) | [@DBngin](https://twitter.com/dbngin) | Free | An all-in-one tool for database version management. It allows you to set up a local database server of any versions within a click. |
 
 
-### Accounting/Invoicing
+## Accounting/Invoicing
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
@@ -656,20 +656,20 @@ It's on GitHub for a reason! Please submit pull requests.
 | [InvoiceNinja](https://www.invoiceninja.com/) | [@invoiceninja](https://twitter.com/invoiceninja) | Free, $8, $12 | You can host it yourself and get it whitelabeled or do the service online depending on your budget. |
 | [Bonsai](https://www.hellobonsai.com/) | [@bonsaiinc](https://twitter.com/bonsaiinc) | Free, $19, $29 | Online invoicing and payments with intregated accounting, expenses, and proposals. |
 
-### Privacy Policy, Terms & Conditions, Legal Documents
+## Privacy Policy, Terms & Conditions, Legal Documents
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
 | [iubenda](https://www.iubenda.com) | [@iubenda](https://twitter.com/iubenda) | Free - $27/year - customization services | The easiest way to generate a professional, customizable, self-updating privacy policy. Choose between 6 languages. Documents hosted and kept up to date. Backed by real lawyers. Additional assistance service with premium legal team for custom Privacy Policy and Terms & Conditions. |
 | [Choose a license](https://choosealicense.com/licenses/) | [@ChooseALicense](https://twitter.com/ChooseALicense) | Free | Software / data / media / documentation / fonts and mixed projects licenses options and comparisions. |
 
-### Income Analytics
+## Income Analytics
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
 | [Baremetrics](https://baremetrics.com) | [@Baremetrics](https://twitter.com/Baremetrics) | $79/mo - $249/mo | One click and you get dozens of valuable metrics from your Stripe account |
 
-### Payments, Billing & Downloads
+## Payments, Billing & Downloads
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
@@ -681,7 +681,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [ChargeOver](https://chargeover.com) | [@ChargeOver](https://twitter.com/chargeover) | $65/mo- $549/mo | ChargeOver is a full featured invoicing platform supporting payment plans, recurring billing, one-time billing, and all the major gateway backends. |
 | [Chargebee](https://www.chargebee.com/) | [@chargebee](https://twitter.com/chargebee) | $249/mo- $599/mo | Chargebee is a Subscription Billing & Revenue Operations for Fast-growth B2B SaaS |
 
-### Billing & Payment Processing
+## Billing & Payment Processing
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
@@ -695,7 +695,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Paddle](https://paddle.com) | [@PaddleHQ](https://twitter.com/PaddleHQ) | 5% + 50¢/transaction. | Payment processing and fulfillment, specialized for desktop apps and SaaS subscription services. Handles VAT and invoicing for you, so your accounting becomes easier. |
 | [Fattmerchant](https://fattmerchant.com/) | [@Fattmerchant](https://twitter.com/fattmerchant) | 0% + interchange + $99+/mo | Payments unified. | Integrate your app, website, software, or hardware with the Fattmerchant API to seamlessly accept all major credit cards, ACH payments, and more! Ideal for both in-person and online transactions. |
 
-### Boilerplates
+## Boilerplates
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
@@ -706,7 +706,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Divjoy](https://divjoy.com/) | [@divjoy](https://twitter.com/divjoy) | $59 | The React codebase generator. |
 | [WPPB](https://wppb.me/) | - | Free | WordPress Plugin Boilerplate Generator |
 
-### Phone/PBX/SMS
+## Phone/PBX/SMS
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
@@ -719,7 +719,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Dialpad](https://www.dialpad.com) | [@DialpadHQ](https://twitter.com/dialpadHQ) | $15/user/mo | people-first phone and meeting system that includes internet fax and follows you where you work |
 
 
-### System Monitoring
+## System Monitoring
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
@@ -731,7 +731,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Nagios](https://www.nagios.org/) | [@nagiosinc](https://twitter.com/nagiosinc) | - | - |
 | [Smokeping](https://oss.oetiker.ch/smokeping/) | - | - | - |
 
-### Search
+## Search
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
@@ -740,7 +740,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Searchify](http://www.searchify.com/) | [@getsearchify](https://twitter.com/getsearchify) | - | - |
 | [SearchBlox](https://www.searchblox.com) | [@searchblox](https://twitter.com/searchblox) | - | - |
 
-### Security
+## Security
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
@@ -751,7 +751,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Encrypt.me](https://encrypt.me) | [@encryptme](https://twitter.com/encryptme/) | - | - |
 | [Tinfoil Security](https://www.tinfoilsecurity.com/) | [@tinfoilsecurity](https://twitter.com/tinfoilsecurity) | - | - |
 
-### Shipping
+## Shipping
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
@@ -759,14 +759,14 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Shyp](https://www.shyp.com) | [@shyp](https://twitter.com/shyp/) | - | - |
 | [Whiplash](https://sales.getwhiplash.com/) | - | - | - |
 
-### User Feedback
+## User Feedback
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
 | [Uservoice](https://www.uservoice.com/) | [@UserVoice](https://twitter.com/uservoice) | $499/mo - $999+/mo | Collect, understand and respond to user feedback. |
 | [Userecho](https://userecho.com/) | [@userecho](https://twitter.com/userecho) | - | - |
 
-### Designers
+## Designers
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
@@ -774,7 +774,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Sortfolio](https://sortfolio.com) | [@Sortfolio](https://twitter.com/Sortfolio) | - | - |
 | [Behance](https://www.behance.net) | [@Behance](https://twitter.com/Behance) | - | - |
 
-### Notes
+## Notes
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
@@ -792,7 +792,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Notion](https://www.notion.so/) | [@notionhq](https://twitter.com/notionhq) | Free - $8/user/mo | Write, plan, collaborate, and get organized. Notion is all you need — in one tool. |
 | [Inkdrop](https://inkdrop.app/) | [@inkdrop_app](https://twitter.com/inkdrop_app) | $4.99/mo | The Note-Taking App for Markdown Lovers. |
 
-### Group Communication/Chat Tools
+## Group Communication/Chat Tools
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
@@ -814,14 +814,14 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Matrix](https://matrix.org/) | [@matrixdotorg](https://twitter.com/matrixdotorg) | - | Decentralised Open Source chat protocol with [bridges to everywhere](https://matrix.org/docs/projects/try-matrix-now.html#application-services) |
 
 
-### Remote Collaboration
+## Remote Collaboration
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
 | [TeamViewer](https://www.teamviewer.com) | [@TeamViewer](https://twitter.com/teamviewer) | - | - |
 | [Screenmailer](https://www.screenmailer.com) | [@Screenmailer](https://twitter.com/screenmailer) | - | - |
 
-### DNS
+## DNS
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
@@ -834,7 +834,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [FreeDNS](https://freedns.afraid.org) | - | - | - |
 | [Noip](https://noip.com) | [@NoIPcom](https://twitter.com/NoIPcom) | Free | Quickly get free hostnames, and keep DNS resolving if your IP isn't static. |
 
-### Status Blogs/User Alerts
+## Status Blogs/User Alerts
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
@@ -843,7 +843,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [HelloBar](https://www.hellobar.com ) | - | - | - |
 | [Status.io](https://status.io) | [@statusio](https://twitter.com/statusio) | - | Hosted system status pages |
 
-### Forms / Surveys
+## Forms / Surveys
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
@@ -855,7 +855,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [FormKeep](https://formkeep.com) | [@formkeep](https://twitter.com/formkeep) | $59/mo - $199/mo | Premium Forms Backend service with built in spam protection, data integrations to over a 1000 services, data retention policies and more. |
 | [Formcake](https://formcake.com) | - | free - $19.99/mo | Form backend built for devs. Integrate with Zapier, trigger webhooks, emails, and other actions. |
 
-### Source Code Hosting
+## Source Code Hosting
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
@@ -871,7 +871,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Assembla](https://www.assembla.com/) | [@assembla](https://twitter.com/assembla) | $24/m - $99/m | Git hosting, all tightly integrated with your tasks. Browse files online, compare revisions, merge code and maintain a sustainable codebase. |
 | [Source Hut](https://git.sr.ht/) | - | - | This is the git service of Source Hut - a suite of open source tools hosted as a development platform. Learn more about Source Hut here: https://sourcehut.org/ |
 
-### Design Collaboration
+## Design Collaboration
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
@@ -879,7 +879,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Framebench](http://www.framebench.com) | [@framebench](https://twitter.com/framebench) | - | The 'smooth' way to Share, Review & Discuss any file online. |
 | [Helio](https://helio.app/) | [@ZURB](https://twitter.com/zurb) | - | - |
 
-### PaaS
+## PaaS
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
@@ -897,7 +897,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Scalingo](https://scalingo.com) | [@ScalingoHQ](https://twitter.com/ScalingoHQ) | - | European PAAS |
 | [Eldarion](https://eldarion.com/) | [@eldarion](https://twitter.com/eldarion) | - | Service for open source Kelproject that they develop in Python and Go |
 
-### VPS
+## VPS
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
@@ -909,7 +909,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Scaleway](https://www.scaleway.com/) | [@Scaleway](https://twitter.com/scaleway/) | - |
 
 
-### Geocoding
+## Geocoding
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
@@ -918,13 +918,13 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Pelias](https://pelias.io) | [@pelias_geocoder](https://twitter.com/pelias_geocoder) | Free tier, varies with usage | A modular, open-source geocoder built on top of Elasticsearch for fast and accurate global search.|
 
 
-### Heroku Tools
+## Heroku Tools
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
 | [Hirefire](https://hirefire.io/) | - | - | - |
 
-### AWS Tools
+## AWS Tools
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
@@ -932,7 +932,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Skeddly](https://www.skeddly.com) | [@skeddly](https://twitter.com/skeddly) | - | - |
 | [GorillaStack](https://www.gorillastack.com) | [@GorillaStack](https://twitter.com/gorillastack) | - | Tool for automating processes inside AWS including Cost Optimisation, Backup and more!
 
-### Database-aaS
+## Database-aaS
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
@@ -942,7 +942,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Compose](https://www.compose.com) | [@composeio](https://twitter.com/composeio/) | - | Compose is a fully-managed platform used by developers to deploy, host and scale databases (Elasticsearch and MongoDB.) |
 | [RedisLabs](https://redislabs.com) | [@RedisLabs](https://twitter.com/RedisLabs) | Free - $338+/mo | RedisLabs offers fully-managed cloud service for hosting and running your redis or memcache datasets in a highly-available and scalable manner, with predictable and stable top performance. |
 
-### Backend-aaS
+## Backend-aaS
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
@@ -952,14 +952,14 @@ It's on GitHub for a reason! Please submit pull requests.
 | [LoopBack](https://loopback.io/) | - | - | - |
 | [Para](https://paraio.com) | [@Para_IO](https://twitter.com/para_io) | Free - $99/mo | A flexible and affordable backend API for busy developers. |
 
-### WebSockets-aaS
+## WebSockets-aaS
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
 | [Pusher](https://pusher.com ) | [@pusher](https://twitter.com/pusher) | - | - |
 | [ScaleDrone](https://www.scaledrone.com ) | [@scaledrone](https://twitter.com/scaledrone) | - | - |
 
-### Ops Alerts and Scheduling
+## Ops Alerts and Scheduling
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
@@ -967,14 +967,14 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Opsgenie](https://www.opsgenie.com) | [@opsgenie](https://twitter.com/opsgenie) | $0 - $16 user/mo | We make alerts work for you. We provide the tools you need to design meaningful, actionable alerts and ensure the right people are notified. |
 | [VictorOps](https://victorops.com/) | [@VictorOps](https://twitter.com/VictorOps/) | $9 - $49 user/month | Incident Management to Support the DevOps Lifecycle, from First Alert to Post-Incident Review |
 
-### Video Hosting
+## Video Hosting
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
 | [Wistia](https://wistia.com ) | [@wistia](https://twitter.com/wistia) | - | - |
 | [JW Player](https://developer.jwplayer.com) | - | - | Powerful suite of APIs and tools that enable video hosting, content delivery, playback, and data insights. |
 
-### Knowledge Tracking/Wiki
+## Knowledge Tracking/Wiki
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
@@ -986,7 +986,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Notion](https://www.notion.so/) | [@NotionHQ](https://twitter.com/NotionHQ) | Free, $4 - $8 user/month | Writing, planning, collaborating, organizing. |
 | [Slite](https://slite.com/) | [@sliteHQ](https://twitter.com/sliteHQ) | Free, $6.67 user/month | Product specs, company handbooks, onboarding, meeting notes, any docs. |
 
-### Offsite Backups
+## Offsite Backups
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
@@ -994,14 +994,14 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Rsync.net ](https://www.rsync.net/) | [@rsyncnet](https://twitter.com/rsyncnet) | - | - |
 | [SpiderOak](https://spideroak.com) | [@spideroak](https://twitter.com/spideroak) | First 2gb Free - $100/100gb/year (check [twitter](https://twitter.com/spideroak) for deals) | Store. Sync. Share. Privately. |
 
-### Personal Machine Backups
+## Personal Machine Backups
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
 | [Crashplan](https://www.crashplan.com) | [@CrashPlanSMB](https://twitter.com/crashplansmb) | - | - |
 | Arq + S3/Glacier | - | - | - |
 
-### Remote Workers
+## Remote Workers
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
@@ -1012,7 +1012,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Fiverr](https://www.fiverr.com) | [@fiverr](https://twitter.com/fiverr) | - | - |
 | [Remotely Awesome Jobs](https://www.remotelyawesomejobs.com) | [@RemotelyAweJobs](https://twitter.com/RemotelyAweJobs) | - | - |
 
-### Deployment
+## Deployment
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
@@ -1024,7 +1024,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Salt](https://www.saltstack.com/resources/community/) | [@SaltStack](https://twitter.com/SaltStack) | - | - |
 | [Ngrok](https://ngrok.com) | - | - | - |
 
-### SEO Tools
+## SEO Tools
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
@@ -1036,7 +1036,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [KWFinder](https://kwfinder.com/) | [@mangools_com](https://twitter.com/mangools_com) | $30+/mo | Keyword research tool |
 | [Animalz - Revive](https://revive.animalz.co/) | [@AnimalzCo](https://twitter.com/AnimalzCo) | Free | Provides a list of posts that should be refreshed. |
 
-### API Builder
+## API Builder
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
@@ -1045,7 +1045,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Apiary](https://apiary.io) | [@apiary](https://twitter.com/apiaryio) | Free - $99/mo | Powerful API Design Stack. Built for Developers. Work together to quickly design, prototype, document and test APIs. |
 | [Postwoman](https://postwoman.io) | [@liyasthomas](https://twitter.com/liyasthomas) | Free (OSS) | A free, fast and beautiful API request builder. |
 
-### Password Management
+## Password Management
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
@@ -1058,7 +1058,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Dashlane](https://www.dashlane.com) | [@dashlane](https://twitter.com/dashlane) | $5/user/mo - $8/user/mo | - |
 | [Bitwarden](https://bitwarden.com/) | [@bitwarden](https://twitter.com/bitwarden) | Free for personal use / Self-hosted | Open Source Password Management Solutions. |
 
-### Sources of Clicks/Ad Platforms
+## Sources of Clicks/Ad Platforms
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
@@ -1069,14 +1069,14 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Google Adwords](https://ads.google.com) | [@GoogleAds](https://twitter.com/googleads) | - | - |
 | [Facebook Advertising](https://www.facebook.com/business/) | - | - | - |
 
-### Storage
+## Storage
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
 | [Kloudless](https://kloudless.com) | [@Kloudless](https://twitter.com/kloudless) | Free - $500/mo | Kloudless provides developers with a single cloud storage API in the place of many | Kloudless is the only cloud storage API you'll ever need. Integrate a single REST API instead of many and use our UI tools to quickly build cloud storage support into your app. We maintain all the integrations so you can focus on building awesome products. |
 | [CloudBuddy](https://cloudbuddy.cloud) | - | $1/10GB/month | SFTP Online Storage |
 
-### Task Scheduling
+## Task Scheduling
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
@@ -1087,7 +1087,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Dead Man's Snitch](https://deadmanssnitch.com) | [@DeadMansSnitch](https://twitter.com/deadmanssnitch) | Free - $49/mo | Monitoring for scheduled tasks (like cron) and service heartbeats. Makes it easy to know when and why a particular job failed. |
 | [Healthchecks.io](https://healthchecks.io) | [@healthchecks_io](https://twitter.com/healthchecks_io) | Free - $80/mo | Cron job and scheduled task monitoring. |
 
-### Documentation
+## Documentation
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
@@ -1095,14 +1095,14 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Zeal](https://zealdocs.org) | [@zealdocs](https://twitter.com/zealdocs) | Free | Offline documentation browser |
 | [DevDocs](https://devdocs.io/) | [@DevDocs](https://twitter.com/DevDocs) | Free | DevDocs combines multiple API documentations in a fast, organized, and searchable interface. You don't have to use your mouse — use keyboard shortcuts. The search supports fuzzy matching. You can search using your browser's address bar. DevDocs is Free and open source. |
 
-### Engineering Metrics
+## Engineering Metrics
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
 | [Static Object](https://www.staticobject.com) | [@StaticObjectDev](https://twitter.com/StaticObjectDev) | $295/mo - $495/mo | Metrics that enhance transparency for engineering teams |
 | [Gitprime](https://www.gitprime.com/) | [@GitPrime](https://twitter.com/GitPrime) | $749/mo - $2,549/mo | Metrics in context for data-driven engineering leaders |
 
-### Business Cards and Print Material
+## Business Cards and Print Material
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
@@ -1110,7 +1110,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [PSPrint](https://www.psprint.com) | [@PsPrint](https://twitter.com/psprint) | - | - |
 | [Vista Print](https://vistaprint.com) | [@Vistaprint](https://twitter.com/vistaprint) | - | - |
 
-### Presentations / Slides
+## Presentations / Slides
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
@@ -1121,7 +1121,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Slides](https://slides.com/) | - | Free - $20/mo | Online editor built with Reveal.js that includes a graphical interface |
 | [SlideShare](https://www.slideshare.net/) | [@slideshare](https://twitter.com/SlideShare) | Free | Share what you know and love through presentations, infographics, documents and more |
 
-### Fundraising / Investor Relations
+## Fundraising / Investor Relations
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
 | [Captable.io](https://captable.io) | [@captable_io](https://twitter.com/captable_io) | Free | Captable.io is a free, fully-featured cap table management tool that enables step-by-step creation, easy collaboration & sharing, convertible note & option calculators, and powerful round & exit modeling. |
@@ -1133,8 +1133,8 @@ It's on GitHub for a reason! Please submit pull requests.
 
 The best ways to use this list are:
 
-- by browsing the [contents](#contents)
-- by using <kbd>command</kbd> + <kbd>F</kbd> to search the contents
+- By browsing the [contents](#contents).
+- By using <kbd>command</kbd> + <kbd>F</kbd> to search the contents.
 
 This list also uses tags to help when searching the contents:
 
@@ -1142,19 +1142,13 @@ This list also uses tags to help when searching the contents:
 
 ## See also
 
-* [Awesome Online IDEs](https://github.com/styfle/awesome-online-ide) - A list of awesome online development environments
-* [Data Extractor for Tools of The Trade](https://www.apify.com/metamn/2MS8r-api-https-github-com-cjbarber-toolsofthetrade) - Data extracted with Apify to JSON/CSV/XLS
+* [Awesome Online IDEs](https://github.com/styfle/awesome-online-ide) - A list of awesome online development environments.
+* [Data Extractor for Tools of The Trade](https://www.apify.com/metamn/2MS8r-api-https-github-com-cjbarber-toolsofthetrade) - Data extracted with Apify to JSON/CSV/XLS.
 
 ## Credits
 
-**[Chris Barber](https://www.chrisbarber.co)**
+- [Chris Barber](https://www.chrisbarber.co)
+- [Craig Davison](https://davison.io)
++ contributors!
 
-[![GitHub](https://img.shields.io/github/followers/cjbarber.svg?style=social&label=Follow%20cjbarber)](https://github.com/cjbarber) [![Twitter](https://img.shields.io/twitter/follow/chrisbarber.svg?style=social)](https://twitter.com/chrisbarber)
-
-**[Craig Davison](https://davison.io)**
-
-[![GitHub](https://img.shields.io/github/followers/davisonio.svg?style=social&label=Follow%20@davisonio)](https://github.com/davisonio) [![Twitter](https://img.shields.io/twitter/follow/davisonio.svg?style=social)](https://twitter.com/davisonio)
-
-...and [contributors](https://github.com/cjbarber/ToolsOfTheTrade/graphs/contributors).
-
-**[Contributions are welcome!](https://github.com/cjbarber/ToolsOfTheTrade/blob/master/contributing.md)**
+If you'd like to contribute, feel free to submit a pull request following the [contributing guidelines](https://github.com/cjbarber/ToolsOfTheTrade/blob/master/contributing.md).

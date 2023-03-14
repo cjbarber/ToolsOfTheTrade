@@ -89,9 +89,8 @@ It's on GitHub for a reason! Please submit pull requests.
 
 * Tech
   * Data
-    * [Data](#data)
-	* [Database-aaS](#database-aas)
-	* [Database](#database)
+    * [Database-aaS](#database-aas)
+    * [Database](#database)
     * [Storage](#storage)
   * Programming Productivity
     * [Documentation](#documentation)
@@ -172,7 +171,6 @@ It's on GitHub for a reason! Please submit pull requests.
 |:--------|:--------|:--------|:------------|
 | [BitBucket Issues](https://bitbucket.org) | [@bitbucket](https://twitter.com/bitbucket) | $10/mo - $200/mo, Unlimited private code repositories | Host, manage, and share Git and Mercurial repositories in the cloud. Free, unlimited private repositories for up to 5 developers give teams the flexibility to grow and code without restrictions. |
 | [BugHerd](https://bugherd.com) | [@bugherd](https://twitter.com/bugherd) | $29/mo - $180/mo | Turn client feedback into actionable tasks. BugHerd lets you quickly see, at a glance, how your project is going and what everyone is working on. The task board lets you keep team members in sync by assigning and scheduling tasks with a simple drag and drop. |
-| [Bugify](https://bugify.com) | [@bugify](https://twitter.com/bugify) | $59.00 | Self hosted issue management system. One-time payment. Written in PHP. |
 | [GitHub Issues](https://github.com) | [@GitHub](https://twitter.com/GitHub) | $7/mo - $50/mo | Build software better, together. GitHub is the largest code host on the planet with over 13.2 million repositories. Large or small, every repository comes with the same powerful tools. These tools are open to the community for public projects and secure for private projects. |
 | [GitLab Issues](https://about.gitlab.com) | [@gitlab](https://twitter.com/gitlab) | Free | GitLab is open source software to collaborate on code that is used by more than 100,000 organisations worldwide. Unlimited private repositories on GitLab.com or host your own instance. Enterprise Edition includes deep LDAP support. |
 | [Huboard](https://huboard.com) | [@huboard](https://twitter.com/huboard) | $7/mo - $24/mo | GitHub issues made awesome Instant project management for GitHub repositories |
@@ -201,12 +199,10 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Redmine](https://www.redmine.org) | - | - | Flexible project management web application. Written using Ruby on Rails framework, it is cross-platform and cross-database. |
 | [JIRA Agile](https://www.atlassian.com/software/jira/agile) | [@jira](https://twitter.com/JIRA) | $10/mo - $30/mo | Dream big, work smart, deliver fast. Makers of @JIRA, @Confluence, @Bitbucket and more. Software to plan, collaborate, code, and support. Built for teams |
 | [Tom's Planner](https://www.tomsplanner.com) | [@tomsplanner](https://twitter.com/tomsplanner) | $9/mo - $19/mo | Tom's Planner is online Gantt chart software that allows anyone to create, collaborate and share Gantt Charts online with drag and drop simplicity. It's web based, extremely intuitive and easy-to-use. |
-| [LeanKit](https://leankit.com) | [@leankit](https://twitter.com/leankit) | $15/mo - $19/mo | Instant Project visibility. In LeanKit, you map your organization’s processes onto virtual whiteboards. On each board the process steps are represented as vertical and horizontal lanes. Cards represent work items, which team members update and move from across the board as they complete their share of the work. Rather than having to ask for status reports, managers and customers can just look at the board. Board updates are visible in seconds around the globe and e-mail alerts and RSS feeds are available, so you and your team can take immediate action to resolve issues before they turn into serious problems. |
 | [Breeze](https://www.breeze.pm) | [@BreezeTeam](https://twitter.com/BreezeTeam) | $29/mo - $129/mo | Organize and track everything. Breeze shows you what's being worked on, who's working on what, where things are in the workflow and how much time it took. |
 | [Cushion](https://cushionapp.com/) | [@cushionapp](https://twitter.com/cushionapp) | $8/mo - $48/mo | Piece of mind for freelancers. We built Cushion as a team of freelancers who always had trouble planning and managing our year—constantly taking on too much work and never thinking to take a break. |
 | [Clickup](https://clickup.com) | [@clickup_app](https://twitter.com/clickup_app) | $0 - $5/mo | ClickUp's #1 rated productivity software is making more productive projects with a beautifully designed and intuitive platform. |
 | [Ora](https://ora.pm) | [@oratask](https://twitter.com/oratask) | $0 - $8/mo | Intuitive project management and team collaboration, Ora is your team’s command center! A place to track projects. Tasks. Time. Commits. Status Reports. Your entire product or business! |
-| [Clubhouse](https://clubhouse.io/) | [@clubhouse](https://twitter.com/clubhouse) | $0 - $8.50/mo | Clubhouse is the collaborative home for software development that makes it easier and more enjoyable to plan and build with your teams. |
 | [Slate](https://heyslate.com/) | [@_heyslate](https://twitter.com/_heyslate) | $15/mo | Slate is a planning tool for freelance designers & developers who want to organise their schedule, projects and finances in one place. |
 
 ## Time Tracking
@@ -258,7 +254,6 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Mixpanel](https://mixpanel.com) | [@mixpanel/](https://twitter.com/mixpanel) | $150/mo - $2000/mo | Actions speak louder than page views. For years, companies have pushed page views as a primary measure of success. Page view counts are popular because they are easy to report, but ultimately cannot tell you how engaged your visitors are. Mixpanel lets you measure what customers do in your app by reporting actions, not page views. |
 | [Segment](https://segment.com) | [@segment](https://twitter.com/segment) | $29/mo - $349/mo | The right way to manage your tools. The idea is simple: one pipeline for all your data. Send data to any third-party tool with a single integration. |
 | [Snowplow](https://snowplowanalytics.com) | [@SnowPlowData](https://twitter.com/SnowPlowData) | - | Snowplow is the most powerful, flexible, scalable web analytics platform in the world. Snowplow enables analysts to perform a wide variety of both simple and sophisticated analytics on your web analytics data. |
-| [Wisdom](https://getWisdom.io) | [@wisdomCRM](https://twitter.com/WisdomCRM) | Free - $2000+/mo | Session Replay. Wisdom is the most accurate live visitor session recorder service available. Focusing only on session replay, Wisdom reconstructs a virtual desktop screen for every visitor, across all tabs, to capture the true feel of every visitor's experience. |
 | [Inspectlet](https://inspectlet.com) | - | $0/mo - $499/mo | Inspectlet records videos of your visitors as they use your site, allowing you to see everything they do. See every mouse movement, scroll, click, and keypress on your site. You never need to wonder how visitors are using your site again. |
 | [Plausible](https://plausible.io) | - | £6/mo - £150/mo / Free | Plausible Analytics is an open-source project dedicated to making web analytics more privacy-friendly. Available as either a hosted SaaS version or self-hosted. |
 
@@ -305,7 +300,6 @@ It's on GitHub for a reason! Please submit pull requests.
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
-| [Gusto](https://gusto.com) | [@gustohq](https://twitter.com/gustohq) | $6+/mo/person | Payroll and benefits that put people first, easy setup, automated tax filings and thoughtful support. |
 | [WagePoint](https://wagepoint.com) | [@wagepoint](https://twitter.com/wagepoint) | $20 + $2/mo/employee | The Simple, Fast & Friendly way to pay your employees. |
 
 ## Continuous Integration/Code Quality
@@ -395,7 +389,6 @@ It's on GitHub for a reason! Please submit pull requests.
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
 | [AppNeta](https://www.appneta.com) | [@AppNeta](https://twitter.com/AppNeta) | Free to $119 / mo | Full-stack application monitoring for web apps. Get visibility into code, network, and end user, especially for polyglot and service-oriented applications, by looking at transactions, errors, browser metrics, host metrics, and more. |
-| [DripStat](https://dripstat.com) | [@DripStat](https://twitter.com/dripstat) | $20/mo | Application monitoring for Java. Next gen Java APM. Full visibility across your stack. Specifically designed for Java. Supports SQL databases, MongoDB and Cassandra. |
 | [New Relic](https://newrelic.com) | [@NewRelic](https://twitter.com/NewRelic) | $149/mo | Application monitoring for all your web apps. It’s about gaining actionable, real-time business insights from the billions of metrics your software is producing, including user click streams, mobile activity, end user experiences and transactions. |
 | [AppSignal](https://appsignal.com) | [@AppSignal](https://twitter.com/AppSignal) | $49/mo - $259/mo | Better monitoring for your Rails applications. Get detailled statistics on your site's performance with mean and 90th percentile measurements. |
 | [Instrumental](https://instrumentalapp.com) | [@instrumental](https://twitter.com/instrumental) | $150/mo - $750/mo | Monitor Your App in Realtime. Instrumental’s made to monitor metrics at a ridiculously high scale. At rates of 500,000 metrics per second and higher, it doesn’t even break a sweat |
@@ -472,7 +465,6 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Filestack](https://www.filestack.com) | [@FileStack](https://twitter.com/FileStack) | $0/mo - $49/mo | Easy, Powerful File Uploads. Connect, Store, and Process any file from anywhere on the Internet |
 | [Open Exchange Rates](https://openexchangerates.org) | - | $12/mo - $97/mo | Real-time exchange rates & currency conversion JSON API. A simple and easy-to-integrate exchange rates API in JSON format, with HTTPS and JSONP support, with examples, guides and full documentation. |
 | [FormAPI](https://formapi.io) | [@form_api](https://twitter.com/form_api) | $49/mo - $249/mo | PDF Service for Developers. Makes it easy for programmers to fill out and sign PDF documents. Saves a lot of development time if you need to generate a lot of contracts, invoices, etc. |
-| [iplocate.app](https://iplocate.app) | - | Free | Free geolocation API service (IP address to location) |
 | [Abstract APIs](https://www.abstractapi.com) | [@abstractapi](https://twitter.com/abstractapi) | Free - $249/mo | Suite of APIs for everyday needs (email validation, VAT calculation, IP geolocation, and more). |
 
 ## Site Search
@@ -615,19 +607,11 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Raaft.io](https://www.raaft.io/) | [@RaaftRetain](https://twitter.com/RaaftRetain) | $79/mo - $229/mo| Instantly get feedback from every canceling customer. Make retention offers to reduce churn. |
 | [ProsperStack](https://prosperstack.com/) | [@prosperstack](https://twitter.com/prosperstack) | Free - $149+| Collect cancellation feedback from customers and prevent churn automatically. |
 
-
-## Data
-
-| Service | Twitter | Pricing | Description |
-|:--------|:--------|:--------|:------------|
-| [Factual](https://www.factual.com) | [@Factual](https://twitter.com/Factual) | - | GLOBAL DATA. LOCAL CONTEXT. Factual’s location platform enriches mobile location signals with definitive global data, enabling personalized and contextually relevant mobile experiences. Built from billions of inputs, the data is constantly updated by Factual’s real-time data stack. |
-
 ## Database
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
 | [Citus](https://www.citusdata.com) | [@citusdata](https://twitter.com/citusdata) | - | Citus scales out PostgreSQL through sharding, replication, and query parallelization. So you can focus on your application, not worry about your database. Citus is available as open source, enterprise software, and fully managed database as a service. |
-| [Bulbs](http://bulbflow.org) | - | - | Python persistence framework for graph databases. |
 | [Datomic](https://www.datomic.com) | [@datomic_team](https://twitter.com/datomic_team) | - | The fully transactional, cloud-ready, immutable database. Immutable data means strong consistency combined with horizontal read scalability, plus built-in caching. Datomic is a distributed database designed to enable scalable, flexible and intelligent applications, running on next-generation cloud architectures. |
 | [Tinkerpop](https://tinkerpop.apache.org/) | - | - | Open source software products in the graph space. |
 | [Vertabelo](http://www.vertabelo.com) | [@vertabelo](https://twitter.com/Vertabelo) | - | Web-based tool for database design. Vertabelo allows you to visually design database models for PostgreSQL, MySQL, Oracle, SQL Server, SQLite, and IBM DB2. You can import the existing database structure from SQL, XML, or using reverse engineering tool. After you design a model, you can generate SQL script or ready-to-use code for various ORMs (Propel, jOOQ, SQLAlchemy, or [Vertabelo Mobile ORM](http://mobile-orm.vertabelo.com/)). |

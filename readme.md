@@ -1140,7 +1140,7 @@ This list also uses tags to help when searching the contents:
 
 - **Hosted?** `Hosted`, `Self-hosted`
 
-## See also
+## Also
 
 * [Awesome Online IDEs](https://github.com/styfle/awesome-online-ide) - A list of awesome online development environments.
 * [Data Extractor for Tools of The Trade](https://www.apify.com/metamn/2MS8r-api-https-github-com-cjbarber-toolsofthetrade) - Data extracted with Apify to JSON/CSV/XLS.
@@ -1149,6 +1149,6 @@ This list also uses tags to help when searching the contents:
 
 - [Chris Barber](https://www.chrisbarber.co)
 - [Craig Davison](https://davison.io)
-+ contributors!
+and contributors!
 
 If you'd like to contribute, feel free to submit a pull request following the [contributing guidelines](https://github.com/cjbarber/ToolsOfTheTrade/blob/master/contributing.md).

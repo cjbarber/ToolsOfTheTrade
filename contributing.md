@@ -1,6 +1,6 @@
 # Contributing
 
-**If you are adding a tool you are affiliated with please include other improvements/fixes to the repo.**
+If you're affiliated with a resource you're wanting to add: please disclose this and include other contributions/improvements/fixes to the list.
 
 If you're adding something new, make sure that it is [formatted correctly](#list-format) and be sure to explain why it is awesome. 😎
 
@@ -12,10 +12,11 @@ If you're adding something new, make sure that it is [formatted correctly](#list
 ## List Format
 
 ```
-| [Example](https://example.com) | [@example](https://twitter.com/example) | Free or $5/user/mo | An example tool used for example purposes `Tag` |
+| [Example](https://example.com) | [@example](https://twitter.com/example) | Free or $5/user/mo | An example tool used for example purposes. `Tag` |
 ```
 
 Tags can be either `Hosted` or `Self-hosted`, helpful for searching the list.
+Add to the bottom of each category, and each category should have minimum 2 resources.
 
 ## Share
 

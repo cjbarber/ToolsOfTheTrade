@@ -983,7 +983,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
 | [Crashplan](https://www.crashplan.com) | [@CrashPlanSMB](https://twitter.com/crashplansmb) | - | - |
-| Arq + S3/Glacier | - | - | - |
+| [Arq](https://www.arqbackup.com/) + S3/Glacier | - | - | - |
 
 ## Remote Workers
 

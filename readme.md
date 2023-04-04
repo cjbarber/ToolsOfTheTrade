@@ -505,6 +505,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Instapage](https://instapage.com/) | [@Instapage](https://twitter.com/Instapage) | $29/mo - $127/mo | A landing page solution for optimizing your ad spend. Build, Integrate, Collaborate & Optimize. |
 | [KickoffLabs](https://kickofflabs.com) | [@kickofflabs](https://twitter.com/kickofflabs) | $29/mo - $99/mo | Stop building landing pages. Start building smarter campaigns. Send customers to a tailored page that speaks to them. Keep them engaged with signup-forms, newsletters and – best of all – a very cool, unique REWARD system for customer referrals. |
 | [Prefinery](https://www.prefinery.com) | [@prefinery](https://twitter.com/prefinery) | $19/mo- $399/mo | Stress-Free Beta Invitation and Management. Prefinery is beta invitations & management for serious product launches. You need more than just a landing page -- outsource your beta to Prefinery! |
+| [Aeroleads](https://aeroleads.com/) | - | $49/mo - $499/mo | Aeroleads is a fast email prospecting tool that allows users to extract large quantities of emails of prospects that relevant to their business by searching them on LinkedIn and other partner sites. It works perfectly with most CRMs and Email Sequencing Tools that businesses use. |
 
 ## CRM/Sales Tools
 

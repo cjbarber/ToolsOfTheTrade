@@ -273,6 +273,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Okta](https://developer.okta.com/) | [@OktaDev](https://twitter.com/OktaDev) | Free | Okta adds authentication, authorization, and user management to your web or mobile app within minutes. |
 | [Auth0](https://auth0.com) | [@auth0](https://twitter.com/auth0) | - | - |
 | [Connect2id](https://c2id.net) | [@Connect2id](https://twitter.com/connect2id) | €299/mo - €999/mo | Hosted Connect2id server – a flexible, secure and certified OpenID Connect/OAuth 2.0 identity provider. |
+| [MojoAuth](https://mojoauth.com/) | [@mojoauth](https://twitter.com/mojoauth) | Free | Add passwordless authentication to your app using Email Link, OTP, webauth etc. and Mange users using your MojoAuth Dashboard. |
 
 ## User Testing
 

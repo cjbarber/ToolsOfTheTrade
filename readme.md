@@ -617,7 +617,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Vertabelo](http://www.vertabelo.com) | [@vertabelo](https://twitter.com/Vertabelo) | - | Web-based tool for database design. Vertabelo allows you to visually design database models for PostgreSQL, MySQL, Oracle, SQL Server, SQLite, and IBM DB2. You can import the existing database structure from SQL, XML, or using reverse engineering tool. After you design a model, you can generate SQL script or ready-to-use code for various ORMs (Propel, jOOQ, SQLAlchemy, or [Vertabelo Mobile ORM](http://mobile-orm.vertabelo.com/)). |
 | [TablePlus](https://tableplus.io) | [@TablePlus](https://twitter.com/TablePlus) | $0 - $49 | Modern, native client with intuitive GUI tools to create, access, query & edit multiple databases: MySQL, PostgreSQL, SQLite, Microsoft SQL Server, Amazon Redshift, MariaDB, CockroachDB, Vertica, Cassandra, Oracle, and Redis. |
 | [DBngin](https://dbngin.com) | [@DBngin](https://twitter.com/dbngin) | Free | An all-in-one tool for database version management. It allows you to set up a local database server of any versions within a click. |
-
+| [ERD Lab](https://www.erdlab.io/) | [@erdlab_io](https://twitter.com/erdlab_io) | Free | Free cloud based entity relationship diagram (ERD) tool made for developers.
 
 ## Accounting/Invoicing
 

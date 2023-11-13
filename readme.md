@@ -749,6 +749,7 @@ It's on GitHub for a reason! Please submit pull requests.
 |:--------|:--------|:--------|:------------|
 | [Uservoice](https://www.uservoice.com/) | [@UserVoice](https://twitter.com/uservoice) | $499/mo - $999+/mo | Collect, understand and respond to user feedback. |
 | [Userecho](https://userecho.com/) | [@userecho](https://twitter.com/userecho) | - | - |
+| [Qualli](https://usequalli.com/) | - | Free up to 500 MAU | In App Surveys, designed for mobile. Create surveys, collect responses, and build your roadmap |
 
 ## Designers
 

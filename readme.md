@@ -443,7 +443,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Zammad](https://zammad.com/) | [@zammadhq](https://twitter.com/zammadhq) | $0/mo - $24/mo | Zammad is a award winning open source helpdesk/customer support system with a beautiful UI and many features to manage customer communication via several channels like telephone, facebook, twitter, chat and e-mails. It is distributed under the GNU AFFERO General Public License (AGPL). |
 | [Support Hero](https://www.supporthero.io) | [@supportheroapp](https://twitter.com/supportheroapp) | $49/mo - $199/mo | Knowledge base and tutorial management platform with smart analytics. Support Hero is a self-service knowledge base that helps companies educate their clients. Helping them to create and deliver a game-changing user education experience that increases retention and engagement, while reducing customer relationship costs. |
 | [Atlasmic](https://atlasmic.com) | [@atlasmichq](https://twitter.com/atlasmichq) | Free - €20/mo | Live chat, business messenger, sales, inbound marketing and analytics. `Hosted` |
-| [Dear AI](https://www.dearai.online/) | [@DearAI_Official](https://twitter.com/DearAI_Official) | Free - $19/mo | AI chatbot for customer service, inbound sales and customer interaction |
+| [Dear AI](https://www.dearai.online/) | [@DearAI_Official](https://twitter.com/DearAI_Official) | Free - $19/mo | Supercharge Customer Services and boost sales with AI Chatbot |
 
 ## Transactional Email
 

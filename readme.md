@@ -223,6 +223,7 @@ It's on GitHub for a reason! Please submit pull requests.
 |:--------|:--------|:--------|:------------|
 | [App Annie](https://www.appannie.com) | [@appannie](https://twitter.com/appannie/) | Free | Make better decisions with our app store data. We are the leader for app store analytics, app rankings, and market intelligence. |
 | [App Figures](https://appfigures.com) | [@appfigures](https://twitter.com/appfigures) | $9/mo | A beautiful app tracking platform for app developers and publishers. |
+| [USDT QR Code Generator](https://usdtqrtool.com) | [@MoonBay42](https://x.com/MoonBay42) | Free | Instantly generate QR codes for USDT addresses across multiple networks (ERC-20, TRC-20, BEP-20, Omni, BEP-2). No registration required, unlimited use, and compatible with all major cryptocurrency wallets. Simplify your USDT transactions with quick and secure QR code creation. |
 
 ## Localization & Internationalization
 

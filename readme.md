@@ -63,7 +63,7 @@ It's on GitHub for a reason! Please submit pull requests.
     * [Privacy Policy, Terms & Conditions, Legal Documents](#privacy-policy-terms--conditions-legal-documents)
     * [Space Rental](#space-rental)
   * Business Tracking & Analytics
-    * [Dashboards](#dashb)
+    * [Dashboards](#dashboards)
     * [Business & Traffic Analytics](#business--traffic-analytics)
     * [Income Analytics](#income-analytics)
   * Design

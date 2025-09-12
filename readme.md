@@ -38,12 +38,12 @@ It's on GitHub for a reason! Please submit pull requests.
 ## Contents
 * Business
   * Payments
-	* [Accounting/Invoicing](#accountinginvoicing)
+  * [Accounting/Invoicing](#accountinginvoicing)
     * [Billing & Payment Processing](#billing--payment-processing)
     * [Payroll](#payroll)
   * Marketing
     * [Remote Collaboration](#remote-collaboration)
-	* [Remote Workers](#remote-workers)
+  * [Remote Workers](#remote-workers)
     * [SEO Tools](#seo-tools)
     * [Social Media Marketing](#social-media-marketing)
     * [Email Marketing](#email-marketing)
@@ -92,6 +92,7 @@ It's on GitHub for a reason! Please submit pull requests.
     * [Database-aaS](#database-aas)
     * [Database](#database)
     * [Storage](#storage)
+    * [File Management / Utilities](#file-management--utilities)
   * Programming Productivity
     * [Documentation](#documentation)
     * [Engineering Metrics](#engineering-metrics)
@@ -103,7 +104,7 @@ It's on GitHub for a reason! Please submit pull requests.
     * [Browser/Email Testing](#browseremail-testing)
     * [Load Testing](#load-testing)
     * [Server Monitoring](#server-monitoring)
-	* [System Monitoring](#system-monitoring)
+  * [System Monitoring](#system-monitoring)
     * [Log Monitoring](#log-monitoring)
     * [Status Blogs/User Alerts](#status-blogsuser-alerts)
     * [Ops Alerts and Scheduling](#ops-alerts-and-scheduling)
@@ -1059,6 +1060,13 @@ It's on GitHub for a reason! Please submit pull requests.
 |:--------|:--------|:--------|:------------|
 | [Kloudless](https://kloudless.com) | [@Kloudless](https://twitter.com/kloudless) | Free - $500/mo | Kloudless provides developers with a single cloud storage API in the place of many | Kloudless is the only cloud storage API you'll ever need. Integrate a single REST API instead of many and use our UI tools to quickly build cloud storage support into your app. We maintain all the integrations so you can focus on building awesome products. |
 | [CloudBuddy](https://cloudbuddy.cloud) | - | $1/10GB/month | SFTP Online Storage |
+
+## File Management / Utilities
+
+| Service | Twitter | Pricing | Description |
+|:--------|:--------|:--------|:------------|
+| [Renamer.ai](https://renamer.ai) | - | $5-$99/mo, Enterprise custom | AI-powered file renaming with OCR, metadata extraction, and automation for 20+ languages. `Hosted` |
+| [fman](https://fman.io) | [@m_herrmann](https://twitter.com/m_herrmann) | $14.00 | Manage and transfer your files with ease. For Windows, Mac and Linux. `Hosted` |
 
 ## Task Scheduling
 

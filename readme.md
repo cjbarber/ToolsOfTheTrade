@@ -393,6 +393,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [AppSignal](https://appsignal.com) | [@AppSignal](https://twitter.com/AppSignal) | $49/mo - $259/mo | Better monitoring for your Rails applications. Get detailled statistics on your site's performance with mean and 90th percentile measurements. |
 | [Instrumental](https://instrumentalapp.com) | [@instrumental](https://twitter.com/instrumental) | $150/mo - $750/mo | Monitor Your App in Realtime. Instrumental’s made to monitor metrics at a ridiculously high scale. At rates of 500,000 metrics per second and higher, it doesn’t even break a sweat |
 | [Atatus](https://www.atatus.com) | [@atatusapp](https://twitter.com/atatusapp) | $12/mo - $159/mo | Simple JavaScript Error Tracking. Atatus is a simple error tracking and uptime monitoring system. Add two lines of code and get alerted on any errors that occurs in your application in realtime. |
+| [BitDive](https://bitdive.io) | [@bitaboratorio](https://twitter.com/bitaboratorio) | - | APM for Java/Kotlin with distributed tracing, runtime profiling, service maps, and zero-code integration testing from runtime application behavior. |
 
 ## Load Testing
 

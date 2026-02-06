@@ -728,6 +728,7 @@ It's on GitHub for a reason! Please submit pull requests.
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
+| [BunkerWeb](https://www.bunkerweb.io) | [@bunkerity](https://twitter.com/bunkerity) | Open Source | A next-generation, open-source Web Application Firewall (WAF). `Self-hosted` |
 | [Burp](https://portswigger.net/burp) | [@Burp_Suite](https://twitter.com/Burp_Suite) | - | - |
 | [DuoSecurity](https://duo.com/) | [@duosec](https://twitter.com/duosec) | - | - |
 | [Authy](https://authy.com/) | [@Authy](https://twitter.com/Authy) | - | - |

@@ -1019,6 +1019,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Moz](https://moz.com) | [@moz](https://twitter.com/moz) | $99/mo - $599/mo | Moz provides you all the tools you need to effectively do search engine optimization. On site optimization graders, competitor tracking, backlink analysis, rank tracking and many more features available to users. |
 | [KWFinder](https://kwfinder.com/) | [@mangools_com](https://twitter.com/mangools_com) | $30+/mo | Keyword research tool |
 | [Animalz - Revive](https://revive.animalz.co/) | [@AnimalzCo](https://twitter.com/AnimalzCo) | Free | Provides a list of posts that should be refreshed. |
+| [PageGuard](https://pageguard.org) | - | Free - $79/mo | All-in-one website health scanner. Checks SEO, ADA/WCAG accessibility, performance, and best practices in one scan. Free for unlimited manual scans; paid plans add automated monitoring, alerts, and multi-site dashboard. |
 
 ## API Builder
 

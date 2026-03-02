@@ -466,6 +466,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Open Exchange Rates](https://openexchangerates.org) | - | $12/mo - $97/mo | Real-time exchange rates & currency conversion JSON API. A simple and easy-to-integrate exchange rates API in JSON format, with HTTPS and JSONP support, with examples, guides and full documentation. |
 | [FormAPI](https://formapi.io) | [@form_api](https://twitter.com/form_api) | $49/mo - $249/mo | PDF Service for Developers. Makes it easy for programmers to fill out and sign PDF documents. Saves a lot of development time if you need to generate a lot of contracts, invoices, etc. |
 | [Abstract APIs](https://www.abstractapi.com) | [@abstractapi](https://twitter.com/abstractapi) | Free - $249/mo | Suite of APIs for everyday needs (email validation, VAT calculation, IP geolocation, and more). |
+| [Agent Gateway](https://agent-gateway-kappa.vercel.app) | - | Free (200 credits) - Pay-as-you-go | API gateway bundling 35 production-ready services (crypto prices, wallet balances, web scraping, WHOIS, scheduling, and more) under a single API key. Free tier requires no signup; pay with USDC on Base blockchain. OpenAPI 3.1.0 spec included. `Hosted` |
 
 ## Site Search
 

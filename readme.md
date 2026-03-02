@@ -822,6 +822,7 @@ It's on GitHub for a reason! Please submit pull requests.
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
+| [API Status Check](https://apistatuscheck.com) | - | Free | Real-time status monitoring dashboard aggregating 50+ major API and cloud service status pages. Tracks AWS, Stripe, Twilio, GitHub, and more in one view with email alerts. |
 | [StatusPage.io](https://www.statuspage.io/) | [@Statuspage](https://twitter.com/Statuspage) | - | - |
 | [Tumblr](https://www.tumblr.com/) | [@tumblr](https://twitter.com/tumblr) | - | - |
 | [HelloBar](https://www.hellobar.com ) | - | - | - |
@@ -1017,6 +1018,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [SerpBook](https://serpbook.com) | - | - | - |
 | [WooRank](https://www.woorank.com) | [@woorank](https://twitter.com/woorank) | Free - $49/mo | WooRank analyzes your website for optimization best practices and shows how it ranks against your competition. Its real-time brandable reports, consisting of over 150 data-points, help you to instantly spot critical issues that impact traffic, usability and conversions. Sync your analytics, social accounts and keywords for even more robust tracking. |
 | [Moz](https://moz.com) | [@moz](https://twitter.com/moz) | $99/mo - $599/mo | Moz provides you all the tools you need to effectively do search engine optimization. On site optimization graders, competitor tracking, backlink analysis, rank tracking and many more features available to users. |
+| [RatedWithAI](https://ratedwithai.com) | - | Free - $29/mo | AI-powered web accessibility scanner. Checks WCAG 2.2 compliance, detects issues, and provides fix guidance. Accessibility impacts SEO — Google uses Core Web Vitals and accessibility signals in rankings. |
 | [KWFinder](https://kwfinder.com/) | [@mangools_com](https://twitter.com/mangools_com) | $30+/mo | Keyword research tool |
 | [Animalz - Revive](https://revive.animalz.co/) | [@AnimalzCo](https://twitter.com/AnimalzCo) | Free | Provides a list of posts that should be refreshed. |
 

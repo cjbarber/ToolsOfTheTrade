@@ -569,6 +569,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [fman](https://fman.io) | [@m_herrmann](https://twitter.com/m_herrmann) | $14.00 | Manage and transfer your files with ease. For Windows, Mac and Linux. |
 | [WakaTime](https://wakatime.com) | [@WakaTime](https://twitter.com/WakaTime) | Free - $9/mo | Automatic productivity metrics using text editor plugins. Goals, leaderboards, GitHub integration, automatic project/language/branch detection. |
 | [deprocrastination](https://www.deprocrastination.co) | [@deprocrastinate](https://twitter.com/deprocrastinate) | Free - $3.99/mo | Browser extension to train yourself to procrastinate less. |
+| [BeginThings](https://beginthings.com) | - | Free | A suite of 96+ free, browser-based productivity tools including a Pomodoro timer, invoice builder, JSON formatter, image compressor, QR code generator, and more. No login or signup required. |
 
 
 ## Prototyping/Mockups

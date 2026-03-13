@@ -271,8 +271,10 @@ It's on GitHub for a reason! Please submit pull requests.
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
 | [Okta](https://developer.okta.com/) | [@OktaDev](https://twitter.com/OktaDev) | Free | Okta adds authentication, authorization, and user management to your web or mobile app within minutes. |
-| [Auth0](https://auth0.com) | [@auth0](https://twitter.com/auth0) | - | - |
+| [Auth0](https://auth0.com) | [@auth0](https://twitter.com/auth0) | - | Auth0 is a comprehensive identity and access management platform that provides authentication and authorization services for applications. |
 | [Connect2id](https://c2id.net) | [@Connect2id](https://twitter.com/connect2id) | €299/mo - €999/mo | Hosted Connect2id server – a flexible, secure and certified OpenID Connect/OAuth 2.0 identity provider. |
+| [Cerbos Hub](https://www.cerbos.dev/product-cerbos-hub) | [@Cerbos](https://twitter.com/cerbosdev) | Free up to 100 monthly active principals | A complete authorization management system for authoring, testing, and deploying access policies. Fine-grained authorization and access control developers can trust. |
+
 
 ## User Testing
 

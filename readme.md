@@ -953,6 +953,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [PagerDuty](https://www.pagerduty.com/) | [@pagerduty](https://twitter.com/pagerduty) | - | - |
 | [Opsgenie](https://www.opsgenie.com) | [@opsgenie](https://twitter.com/opsgenie) | $0 - $16 user/mo | We make alerts work for you. We provide the tools you need to design meaningful, actionable alerts and ensure the right people are notified. |
 | [VictorOps](https://victorops.com/) | [@VictorOps](https://twitter.com/VictorOps/) | $9 - $49 user/month | Incident Management to Support the DevOps Lifecycle, from First Alert to Post-Incident Review |
+| [ActivitySmith](https://activitysmith.com) | [@ActivitySmithHQ](https://twitter.com/ActivitySmithHQ) | $9/mo - $79/mo | iOS Live Activities and push notifications for deployments, incidents, long-running jobs, and AI agent tasks. `Hosted` |
 
 ## Video Hosting
 

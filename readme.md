@@ -331,6 +331,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [PullRequest](https://www.pullrequest.com) | [@pullrequestinc](https://twitter.com/pullrequestinc) | $33+/10 min | Code review as a service by vetted, professional reviewers backed by static analysis  |
 | [GitLab](https://about.gitlab.com/product/continuous-integration/) | [@GitLab](https://twitter.com/gitlab) | $0 [Community Edition](https://about.gitlab.com/pricing/) / Paid Premium | GitLab is an open-source version control platform with exquisite CI/CD integrations. |
 
+| [ReleaseRun](https://releaserun.com) | [@Release_Run](https://twitter.com/Release_Run) | Free | Check your Node.js, Python, Go, Rust, and Docker stack for EOL versions, outdated dependencies, and security advisories. Free web-based tools: k8s security linter, Terraform scanner, GitHub Actions security checker, dep health checkers. |
 
 ## Dashboards
 

@@ -223,6 +223,7 @@ It's on GitHub for a reason! Please submit pull requests.
 |:--------|:--------|:--------|:------------|
 | [App Annie](https://www.appannie.com) | [@appannie](https://twitter.com/appannie/) | Free | Make better decisions with our app store data. We are the leader for app store analytics, app rankings, and market intelligence. |
 | [App Figures](https://appfigures.com) | [@appfigures](https://twitter.com/appfigures) | $9/mo | A beautiful app tracking platform for app developers and publishers. |
+| [Arch Tools](https://archtools.dev) | - | Free/Pay-per-use | 61 production-ready AI tools API (code analysis, web scraping, image gen, NLP, crypto, search). REST + MCP protocol. x402 USDC micropayments. 100 free credits/month. |
 
 ## Localization & Internationalization
 

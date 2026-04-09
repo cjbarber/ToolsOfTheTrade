@@ -819,7 +819,8 @@ It's on GitHub for a reason! Please submit pull requests.
 | [ClouDNS](https://www.cloudns.net/) | [@ClouDNS](https://twitter.com/ClouDNS) | - | - |
 | [FreeDNS](https://freedns.afraid.org) | - | - | - |
 | [Noip](https://noip.com) | [@NoIPcom](https://twitter.com/NoIPcom) | Free | Quickly get free hostnames, and keep DNS resolving if your IP isn't static. |
-| [KaiMail](https://kaimail.net) | [@getkafkai](https://twitter.com/getkafkai) | Free - ¥5,500/mo | Email forwarding for custom domains with ARC/DKIM signing. Free tier includes 1 domain and 300 emails/month. Special plans for open-source projects. `Hosted` |
+| [ImprovMX](https://improvmx.com) | [@nicoschmidt](https://twitter.com/nicoschmidt) | Free - $10/mo | Email forwarding for custom domains. Free plan includes up to 25 aliases per domain with unlimited forwarding. `Hosted` |
+| [KaiMail](https://kaimail.net) | [@getkafkai](https://twitter.com/getkafkai) | Free - ¥5,500/mo | Email forwarding for custom domains with ARC/DKIM signing. Free tier includes 1 domain and 300 emails/month. `Hosted` |
 
 ## Status Blogs/User Alerts
 

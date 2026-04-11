@@ -75,6 +75,7 @@ It's on GitHub for a reason! Please submit pull requests.
   * UX
     * [Conversion Optimization & A/B Testing](#conversion-optimization--ab-testing)
     * [User Feedback](#user-feedback)
+    * [Feature Flags](#feature-flags)
     * [User Management](#user-management)
     * [User Testing](#user-testing)
     * [Customer Feedback](customer-feedback)
@@ -265,6 +266,15 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Visual Website Optimizer](https://vwo.com) | [@VWO](https://twitter.com/VWO) | $49/mo - $129/mo | Increase your website sales and conversions. Using Visual Website Optimizer, they A/B test different versions of their website and landing pages to find out which one works best. Made for marketers, our tool is incredibly easy to use, and doesn't need IT resources. |
 | [EyeQuant](https://www.eyequant.com) | [@eyequant](https://twitter.com/eyequant) | $199/mo - $999/mo | Instantly understand what your visitors will see and miss in their first seconds on your site, and improve your conversions. Analyse live sites or mockups within seconds, no code required. |
 | [Optimize by Google](https://optimize.google.com) | - | Free | Optimize allows you to test variants of web pages and see how they perform against an objective that you specify. |
+
+## Feature Flags
+
+| Service | Twitter | Pricing | Description |
+|:--------|:--------|:--------|:------------|
+| [Rollgate](https://rollgate.io) | - | Free - €299/mo | Feature flag management platform with scheduled releases, instant rollback, gradual rollouts, and A/B testing. Ships with 13 open-source SDKs (Go, Node, Python, Java, .NET, Flutter, React, Vue, Angular, Svelte, React Native, Browser). Free tier includes 500K API requests/month, unlimited flags, and 3 projects. `Hosted` |
+| [LaunchDarkly](https://launchdarkly.com) | [@LaunchDarkly](https://twitter.com/launchdarkly) | Free trial, then custom | Market-leader feature flag platform with enterprise-focused features, MAU-based pricing, and integrations across most CI/CD tools. `Hosted` |
+| [Unleash](https://www.getunleash.io) | [@getunleash](https://twitter.com/getunleash) | Free self-hosted, from $80/mo cloud | Open-source feature management platform with gradual rollouts, user targeting, and enterprise-ready SDKs. Can be self-hosted or used as a cloud service. `Hosted` `Self-hosted` |
+
 
 ## User Management
 

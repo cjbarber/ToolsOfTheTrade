@@ -1023,6 +1023,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [RatedWithAI](https://ratedwithai.com) | - | Free - $29/mo | AI-powered web accessibility scanner. Checks WCAG 2.2 compliance, detects issues, and provides fix guidance. Accessibility impacts SEO — Google uses Core Web Vitals and accessibility signals in rankings. |
 | [KWFinder](https://kwfinder.com/) | [@mangools_com](https://twitter.com/mangools_com) | $30+/mo | Keyword research tool |
 | [Animalz - Revive](https://revive.animalz.co/) | [@AnimalzCo](https://twitter.com/AnimalzCo) | Free | Provides a list of posts that should be refreshed. |
+| [toprank](https://github.com/nowork-studio/toprank) | - | Free (MIT, OSS) | Open-source Claude Code plugin with 9 SEO and Google Ads skills. Connects Google Search Console, PageSpeed Insights, and the Google Ads API to audit traffic and wasted ad spend, rewrite meta tags, generate JSON-LD schema markup, and ship fixes to WordPress/Strapi/Contentful/Ghost. 107 stars, 14 forks. |
 
 ## API Builder
 

@@ -27,6 +27,7 @@ Many thanks to the big contributors to the previous threads, including garrettdi
 I've collected more data from Hacker News, AngelList and Quora, to make the 2015 and beyond version. This list also includes self-hosted as well as hosted services.
 
 It's on GitHub for a reason! Please submit pull requests.
+- [MeterCall](https://metercall.ai) - 2,866+ SaaS alternatives. Pay per call, no subscription. Open catalog at [patl4588/awesome-saas-replacements](https://github.com/patl4588/awesome-saas-replacements).
 
 ## Supported with ❤️ by [Instabug](https://instabug.com/android/sdk?utm_source=toolsofthetrade&utm_medium=spon&utm_content=header)
 ### Understand How Your App is Doing with Real-Time Contextual Insights From Your Users

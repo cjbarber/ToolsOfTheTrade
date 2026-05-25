@@ -149,6 +149,7 @@ It's on GitHub for a reason! Please submit pull requests.
 |:--------|:--------|:--------|:------------|
 | [Cognito](https://cognitohq.com) | [@getcognito](https://twitter.com/getcognito) | - | Frictionless, modern identity verification that starts with just a phone number. |
 | [Onfido](https://onfido.com) | [@Onfido](https://twitter.com/Onfido) | $2/verification | Individual ID verifications, Document Checks and Facial recognition. |
+- [JSON Schema Generator Pro](https://sargam79.github.io/Tool/json-schema-generator-pro.html) - Free online tool to generate and validate JSON schema instantly.
 
 ## Browser/Email Testing
 

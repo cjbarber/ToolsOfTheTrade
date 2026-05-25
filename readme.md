@@ -221,6 +221,7 @@ It's on GitHub for a reason! Please submit pull requests.
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
+| [Anytools](https://anytools.io) | — | Free | 40+ free browser-based utilities for developers and designers: JSON formatter, Base64 encoder/decoder, JWT decoder, regex tester, UUID generator, color palette generator, contrast checker, SVG optimizer, and more. No account required, all client-side. `Hosted` |
 | [App Annie](https://www.appannie.com) | [@appannie](https://twitter.com/appannie/) | Free | Make better decisions with our app store data. We are the leader for app store analytics, app rankings, and market intelligence. |
 | [App Figures](https://appfigures.com) | [@appfigures](https://twitter.com/appfigures) | $9/mo | A beautiful app tracking platform for app developers and publishers. |
 

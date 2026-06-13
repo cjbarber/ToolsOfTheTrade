@@ -826,6 +826,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
 | [API Status Check](https://apistatuscheck.com) | - | Free | Real-time status monitoring dashboard aggregating 50+ major API and cloud service status pages. Tracks AWS, Stripe, Twilio, GitHub, and more in one view with email alerts. |
+| [Prismix](https://prismix.dev) | - | Free/$10mo | Real-time status monitoring for 75+ AI services (OpenAI, Anthropic, Gemini, Cursor, etc.) with email/webhook alerts, 30-day uptime history, embeddable badges, and MCP server directory. |
 | [StatusPage.io](https://www.statuspage.io/) | [@Statuspage](https://twitter.com/Statuspage) | - | - |
 | [Tumblr](https://www.tumblr.com/) | [@tumblr](https://twitter.com/tumblr) | - | - |
 | [HelloBar](https://www.hellobar.com ) | - | - | - |

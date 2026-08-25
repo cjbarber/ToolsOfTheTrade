@@ -640,6 +640,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Runway](https://startuprunway.io) | [@ltse](https://twitter.com/ltse) | Free | Most startups die from running out of cash. Runway is an easy, visual way to plan and manage your startup's most precious resource, explore scenarios and track planned versus actual spending. |
 | [WaveApps](https://www.waveapps.com/) | [@WaveHQ](https://twitter.com/WaveHQ) | Free | Startups on a budget will love this free accounting software (only paying normal pricing for transactions, invoicing and payroll) |
 | [InvoiceNinja](https://www.invoiceninja.com/) | [@invoiceninja](https://twitter.com/invoiceninja) | Free, $8, $12 | You can host it yourself and get it whitelabeled or do the service online depending on your budget. |
+| [Toolkit Labs Invoice](https://ytinumoc.github.io/toolkitlabs-invoice/) | - | Free; [EUR 249 commercial](https://buy.stripe.com/bJeeVea187TScZwb095Ne0k?client_reference_id=toolsofthetrade-v1) | Free browser invoice/receipt generator (print or save as PDF, no account). Commercial license for white-label PDFs, batch CLI, and templates. Open source. |
 | [Bonsai](https://www.hellobonsai.com/) | [@bonsaiinc](https://twitter.com/bonsaiinc) | Free, $19, $29 | Online invoicing and payments with intregated accounting, expenses, and proposals. |
 
 ## Privacy Policy, Terms & Conditions, Legal Documents

@@ -550,7 +550,6 @@ It's on GitHub for a reason! Please submit pull requests.
 |:--------|:--------|:--------|:------------|
 | [42Floors](https://42floors.com) | [@42floors](https://twitter.com/42floors) | - | The Best Place to Find Office & Commercial Space Rentals. We're gathering listing data from everyone in the market. Even including off-market listings that landlords haven't yet posted on 42Floors.com or anywhere else. |
 | [Liquidspace](https://liquidspace.com) | [@LiquidSpace](https://twitter.com/LiquidSpace) | - | Optimize Real Estate for Your Enterprise. Whether planning ahead or booking on the fly, find and reserve a great place to work. Rent professional conference and meeting rooms, private offices, or coworking spaces daily or hourly. |
-| [PivotDesk](https://www.pivotdesk.com) | [@PivotDesk](https://twitter.com/PivotDesk) | - | An office sharing marketplace that helps startups that need space find host companies that have excess space. |
 
 ## Community Tools
 

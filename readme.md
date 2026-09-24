@@ -155,7 +155,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
 | [BrowserStack](https://www.browserstack.com) | [@browserstack](https://twitter.com/browserstack) | $29/mo - $199/mo | Live, web-based browser testing. |
-| [Litmus](http://litmus.com) | [@litmusapp](https://twitter.com/litmusapp) | $79/mo - $159/mo | Lets you preview your campaigns across 30+ real email clients and devices in minutes. |
+| [Litmus](https://www.litmus.com/) | [@litmusapp](https://twitter.com/litmusapp) | $79/mo - $159/mo | Lets you preview your campaigns across 30+ real email clients and devices in minutes. |
 | [Sauce Labs](https://saucelabs.com) | [@saucelabs](https://twitter.com/saucelabs) | $19/mo - $298/mo | Run your web and mobile app tests across hundreds of real browsers and platforms instantly. |
 | [EmailOnAcid](https://www.emailonacid.com) | [@emailonacid](https://twitter.com/EmailonAcid) | $44/mo - $260/mo | Quickly ensure that your emails don't look like crap in any email client. |
 | [Rainforest QA](https://www.rainforestqa.com) | [@rainforestqa](https://twitter.com/rainforestqa) | $500/mo - $2000/mo | Insanely simple integration testing. |
@@ -164,6 +164,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Mailtrap](https://mailtrap.io) | [@Mailtrap](https://twitter.com/Mailtrap) | Free - $299.99/mo | A fake SMTP server for development and staging environments along with a REST API for testing. |
 | [testmail.app](https://testmail.app) | [@testmailapp](https://twitter.com/testmailapp) | Free - $29/mo | Automate end-to-end email tests with unlimited mailboxes and a GraphQL API. |
 | [Polypane](https://polypane.rocks) | [@polypane](https://twitter.com/polypane) | Free trial - $12+/mo | A browser built from the ground up to create and test websites and apps. |
+| [Agent QA](https://github.com/vostride/agent-qa) | - | - | Self-improving QA agent for natural-language web and mobile tests. |
 
 ## Bug/Issue Tracking
 

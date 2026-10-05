@@ -565,6 +565,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
 | [Tomatoes](http://www.tomato.es/) | [@tomatoesapp](https://twitter.com/tomatoesapp) | - | Track your time and be productive with the Pomodoro Technique. Tomatoes is a "pomodoro tracker", a Pomodoro technique® driven time tracker. Track your time using 25 minutes slots called "pomodoros". |
+| [FocusTimerProBot](https://t.me/FocusTimerProBot) | - | Free | Pomodoro-style focus timer that runs as a Telegram mini app. Sessions, break reminders and streak stats in chat; public guide library at tg.zovo.one. |
 | [RescueTime](https://www.rescuetime.com) | [@rescuetime](https://twitter.com/rescuetime) | Free - $9/mo | RescueTime gives you an accurate picture of how you spend your time to help you become more productive every day. |
 | [Qbserve](https://qotoqot.com/qbserve/) | [@Qbserve](https://twitter.com/Qbserve) | $40 one-time | Qbserve is a time tracker for Mac that does whatever RescueTime can but also tracks project time automatically, generates invoices, and stores tracked data locally. |
 | [Timing](https://timingapp.com/) | [@TimingApp](https://twitter.com/TimingApp) | $29 - $79 | Automatic time and productivity tracking for Mac. Helps you stay on track with your work and ensures no billable hours get lost (if you are billing hourly). |

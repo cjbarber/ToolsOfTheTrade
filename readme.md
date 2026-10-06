@@ -598,6 +598,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [AudienceOps](https://audienceops.com) | [@AudienceOps](https://twitter.com/AudienceOps) | $850/mo - $1700/mo | AudienceOps handles your entire content strategy so you can focus on your product. |
 | [Visual.ly](https://visual.ly) | [@Visually](https://twitter.com/Visually) | $195/mo - $994/mo | ORIGINAL VISUAL CONTENT FOR BRANDS. We only work with the best creative talent available. Thousands of designers, journalists, animators and developers are standing by to help you achieve your goals and take your project to the next level. |
 | [Canva](https://www.canva.com) | [@canva](https://twitter.com/canva) | Free - $9.95/mo | Design great social media images with text and graphics for Free or a few bucks depending on the images you select |
+| [BudgetPixel Design Templates](https://budgetpixel.com/design/templates) | [@budgetpixel](https://twitter.com/budgetpixel) | Free | Editable templates for social posts, flyers, YouTube thumbnails and slides, edited in the browser. Free account required; the optional AI designer uses paid credits. `Hosted` |
 
 ## Customer Feedback
 

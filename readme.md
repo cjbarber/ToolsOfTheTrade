@@ -641,6 +641,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [WaveApps](https://www.waveapps.com/) | [@WaveHQ](https://twitter.com/WaveHQ) | Free | Startups on a budget will love this free accounting software (only paying normal pricing for transactions, invoicing and payroll) |
 | [InvoiceNinja](https://www.invoiceninja.com/) | [@invoiceninja](https://twitter.com/invoiceninja) | Free, $8, $12 | You can host it yourself and get it whitelabeled or do the service online depending on your budget. |
 | [Bonsai](https://www.hellobonsai.com/) | [@bonsaiinc](https://twitter.com/bonsaiinc) | Free, $19, $29 | Online invoicing and payments with intregated accounting, expenses, and proposals. |
+| [SmartBizCalc](https://smartbizcalc.com) | - | Free | 600+ free business calculators for tax, accounting, pricing, and financial planning — S-Corp vs LLC, depreciation, payroll, break-even, 1099 vs W-2, business sale capital gains, and more. No signup required. |
 | [SmartBizCalc](https://www.smartbizcalc.com) | - | Free | Free suite of 410+ business calculators covering tax (self-employment, payroll, S-corp), insurance costs, contractor pricing, break-even, and startup cost estimation. No signup required. |
 
 ## Privacy Policy, Terms & Conditions, Legal Documents

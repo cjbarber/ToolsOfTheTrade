@@ -655,7 +655,6 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Recurly](https://recurly.com) | [@Recurly](https://twitter.com/Recurly) | $99/mo - $259/mo | Subscription Billing Automation. As the leading recurring billing platform, Recurly ensures setup is easy, integrations are quick, and our service scales with the needs of your business. With Recurly you'll be ready to accept payments and focus on growing your sales in no time. |
 | [ChargeOver](https://chargeover.com) | [@ChargeOver](https://twitter.com/chargeover) | $65/mo- $549/mo | ChargeOver is a full featured invoicing platform supporting payment plans, recurring billing, one-time billing, and all the major gateway backends. |
 | [Chargebee](https://www.chargebee.com/) | [@chargebee](https://twitter.com/chargebee) | $249/mo- $599/mo | Chargebee is a Subscription Billing & Revenue Operations for Fast-growth B2B SaaS |
-| [Estante](https://estante.store) | - | Free + 8% per sale | Storefront for selling digital files in Latin America. Checkout in local currency with instalments, automatic file delivery. `Hosted` |
 
 ## Billing & Payment Processing
 

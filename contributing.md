@@ -1,22 +1,30 @@
 # Contributing
 
-If you're affiliated with a resource you're wanting to add: please disclose this and include other contributions/improvements/fixes to the list.
+This is a curated list: the goal is the tools experienced founders and engineers would actually recommend, not every tool that exists. Improvements of any kind are welcome, including fixing links, updating descriptions and removing dead or outdated entries.
 
-If you're adding something new, make sure that it is [formatted correctly](#list-format) and be sure to explain why it is awesome. 😎
+## Adding a tool
 
-* Ideally the tool should be hosted, however self-hosted tools are acceptable too.
-* The product/service should have had some coverage on Hacker News - whether this be comments or posts.
-* Descriptions should be concise, descriptive and not marketing-focused.
-* Avoid links appended with `/en`, `gb` etc. so that the link will redirect to the user's own language/location.
+A new tool should:
+
+* **Be well regarded.** Link the evidence in your PR, ideally a Hacker News story or thread with real discussion, or a widely used open source project.
+* **Be established.** Publicly available, actively maintained and used by real teams. Brand-new launches can come back once they have a track record.
+* **Stand out in its category.** Better than, or meaningfully different from, what's already listed. Categories work best with a few strong picks; if one is already long, suggest which entry yours should replace.
+* **Help run a company or a team.** Not calculator suites, template packs, directories, chat bots or AI agent skills.
+
+If you're affiliated with the tool, please say so. That's fine, but the tool still needs to meet the points above.
 
 ## List Format
 
+Add one row to the bottom of the right table:
+
 ```
-| [Example](https://example.com) | [@example](https://twitter.com/example) | Free or $5/user/mo | An example tool used for example purposes. `Tag` |
+| [Example](https://example.com) | [@example](https://twitter.com/example) | Free or $5/user/mo | What it does, in one plain sentence. `Hosted` |
 ```
 
-Tags can be either `Hosted` or `Self-hosted`, helpful for searching the list.
-Add to the bottom of each category, and each category should have minimum 2 resources.
+* Tag it `Hosted` or `Self-hosted`.
+* Keep the description short and factual, without marketing language like "AI-powered", "free forever" or "the best".
+* Link to the main site, without language or country paths like `/en`, so it redirects to the reader's own.
+* Each category should have at least 2 tools.
 
 ## Share
 

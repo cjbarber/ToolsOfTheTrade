@@ -737,6 +737,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Hotspot Shield](https://www.hotspotshield.com/) | [@HotspotShield](https://twitter.com/hotspotshield) | - | - |
 | [Encrypt.me](https://encrypt.me) | [@encryptme](https://twitter.com/encryptme/) | - | - |
 | [Tinfoil Security](https://www.tinfoilsecurity.com/) | [@tinfoilsecurity](https://twitter.com/tinfoilsecurity) | - | - |
+| [Betterleaks](https://github.com/betterleaks/betterleaks) | - | Free | Finds leaked secrets such as passwords, API keys and tokens in Git repositories and files. Successor to Gitleaks, by the same author. `Self-hosted` |
 
 ## Shipping
 

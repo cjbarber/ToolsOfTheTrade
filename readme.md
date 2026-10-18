@@ -38,12 +38,13 @@ It's on GitHub for a reason! Please submit pull requests.
 ## Contents
 * Business
   * Payments
-	* [Accounting/Invoicing](#accountinginvoicing)
+    * [Payments, Billing & Downloads](#payments-billing--downloads)
+    * [Accounting/Invoicing](#accountinginvoicing)
     * [Billing & Payment Processing](#billing--payment-processing)
     * [Payroll](#payroll)
   * Marketing
     * [Remote Collaboration](#remote-collaboration)
-	* [Remote Workers](#remote-workers)
+    * [Remote Workers](#remote-workers)
     * [SEO Tools](#seo-tools)
     * [Social Media Marketing](#social-media-marketing)
     * [Email Marketing](#email-marketing)
@@ -63,7 +64,7 @@ It's on GitHub for a reason! Please submit pull requests.
     * [Privacy Policy, Terms & Conditions, Legal Documents](#privacy-policy-terms--conditions-legal-documents)
     * [Space Rental](#space-rental)
   * Business Tracking & Analytics
-    * [Dashboards](#dashb)
+    * [Dashboards](#dashboards)
     * [Business & Traffic Analytics](#business--traffic-analytics)
     * [Income Analytics](#income-analytics)
   * Design
@@ -77,7 +78,7 @@ It's on GitHub for a reason! Please submit pull requests.
     * [User Feedback](#user-feedback)
     * [User Management](#user-management)
     * [User Testing](#user-testing)
-    * [Customer Feedback](customer-feedback)
+    * [Customer Feedback](#customer-feedback)
     * [Forms / Surveys](#forms--surveys)
   * Others
     * [CRM/Sales Tools](#crmsales-tools)
@@ -103,7 +104,7 @@ It's on GitHub for a reason! Please submit pull requests.
     * [Browser/Email Testing](#browseremail-testing)
     * [Load Testing](#load-testing)
     * [Server Monitoring](#server-monitoring)
-	* [System Monitoring](#system-monitoring)
+    * [System Monitoring](#system-monitoring)
     * [Log Monitoring](#log-monitoring)
     * [Status Blogs/User Alerts](#status-blogsuser-alerts)
     * [Ops Alerts and Scheduling](#ops-alerts-and-scheduling)
@@ -235,7 +236,6 @@ It's on GitHub for a reason! Please submit pull requests.
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
 | [Amplitude](https://amplitude.com) | [@Amplitude_HQ](https://twitter.com/Amplitude_HQ) | $299/mo | Mobile Analytics for decision makers |
-| [Paddle](https://paddle.com/) | [@PaddleHQ](https://twitter.com/PaddleHQ) | $0 - $2500/mo | Advanced custom analytics for mobile and web applications. Paddle is an analytics platform that measures user actions rather than page views. An action can be anything a user does: reviewing a product, playing a level on a mobile game, making a purchase on your site, anything. Paddle's ability to work with custom events AND custom data is what raises it above more traditional analytics platforms. |
 | [Chartbeat](https://chartbeat.com) | [@chartbeat](https://twitter.com/chartbeat) | $9.95/mo - $49.95/mo | Build a loyal and valuable audience for your site. Chartbeat's real-time traffic and audience-behavior data shows you who's on your site and how they're engaging with your content right now — so you can take action on what matters when it matters. |
 | [Chartio](https://chartio.com) | [@chartio](https://twitter.com/chartio) | - | Visualize and explore your data with Chartio. Create interactive charts and perfect dashboards through an intuitive drag and drop interface. Switch from basic tables to sophisticated data visualizations in a single click. Powerful filters let you slice and dice your data, and you can drill down into most charts without configuring a thing. |
 | [Clicky](https://clicky.com) | [@clicky](https://twitter.com/clicky) | $9.99/mo - $19.99/mo | Real Time Web Analytics. Clicky lets you see every visitor and every action they take on your web site, with the option to attach custom data to visitors, such as usernames or email addresses. Analyze each visitor individually and see their full history. |
@@ -341,13 +341,13 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Grafana](https://grafana.com) | [@grafana](https://twitter.com/grafana) | $0 - $90/mo (+9/user/mo) | The analytics platform for all your metrics. Grafana allows you to query, visualize, alert on and understand your metrics no matter where they are stored. Create, explore, and share dashboards with your team and foster a data-driven culture. |
 | [Redash](https://redash.io) | [@getredash](https://twitter.com/getredash) | Self-hosted or $49/mo - 450/mo | "Redash has support for querying multiple databases, including: Redshift, Google BigQuery, PostgreSQL, MySQL, Graphite, Presto, Google Spreadsheets, Cloudera Impala, Hive and custom scripts." |
 | [Cyfe](https://www.cyfe.com) | [@cyfe](https://twitter.com/Cyfe) | $0 - $29/mo | Cyfe offers all-in-one web dashboards for your clients to help them monitor and analyze data scattered across all their online services like Google Analytics, Salesforce, AdSense, MailChimp, Amazon, Facebook, WordPress, Twitter and more from one single location in real-time. |
-| [Two Minute Reports](http://twominutereports.com/) | - | Free - $9/mo | Two Minute Reports helps Marketing Agencies automate reports and save billable hours. It works with both Google Sheets and Looker Studio. It helps automate data from different sources like Facebook Ads, Google Ads, Instagram, LinkedIN Ads, HubSpot, Google Analytics 4, Shopify, Amazon Seller/Ads, etc.
+| [Two Minute Reports](http://twominutereports.com/) | - | Free - $9/mo | Two Minute Reports helps Marketing Agencies automate reports and save billable hours. It works with both Google Sheets and Looker Studio. It helps automate data from different sources like Facebook Ads, Google Ads, Instagram, LinkedIN Ads, HubSpot, Google Analytics 4, Shopify, Amazon Seller/Ads, etc. |
 
 ## Error/Exception Handling
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
-| [CabinJS](https://cabinjs.com) | [@niftylettuce](https://twitter.com/niftylettuce) | Free and Open-Source | Cabin is a drop-in replacement and alternative JavaScript logging service to Sentry, Timber, Bugsnag, and more. It is security, privacy, and business cost-saving focused. Full support across all Node versions and IE 10+ support.
+| [CabinJS](https://cabinjs.com) | [@niftylettuce](https://twitter.com/niftylettuce) | Free and Open-Source | Cabin is a drop-in replacement and alternative JavaScript logging service to Sentry, Timber, Bugsnag, and more. It is security, privacy, and business cost-saving focused. Full support across all Node versions and IE 10+ support. |
 | [CatchJS](https://catchjs.com) | - | $49 - $499 | JavaScript error reporting for web apps. Can take screenshots and collect click trails, so reproducing bugs becomes easy. |
 | [Crashlytics](https://try.crashlytics.com) | [@crashlytics](https://twitter.com/crashlytics) | Free | Crash reports and grouping for easier analysis. Basic analytics and reports. iOS & Android |
 | [Sentry](https://sentry.io/) | [@getsentry](https://twitter.com/getsentry) | Open Source & $24/mo - $199/mo | Sentry notifies you when your users experience errors. Know immediately when things happen in your application. Engage users before they have a chance to report a problem. |
@@ -415,8 +415,8 @@ It's on GitHub for a reason! Please submit pull requests.
 | [TrueSight Pulse](https://www.bmc.com/it-solutions/truesight) | [@truesightpulse](https://twitter.com/truesightpulse) | - | Real-time visibility into cloud and server infrastructure |
 | [Librato](https://www.librato.com) | [@Librato](https://twitter.com/Librato) | $0.05/metric/mo to $0.30/metric/mo | Librato provides a complete solution for monitoring and understanding the metrics that impact your business at all levels of the stack. |
 | [Scout](https://scoutapp.com/) | [@ScoutAPM](https://twitter.com/ScoutAPM) | - | - |
-| [Prometheus](https://prometheus.io) | [@PrometheusIO](https://twitter.com/PrometheusIO) | - |
-| [Site24x7](https://www.site24x7.com) | [@site24x7](https://twitter.com/Site24x7) | $9/mo starter - $225/enterprise
+| [Prometheus](https://prometheus.io) | [@PrometheusIO](https://twitter.com/PrometheusIO) | Free | Open source monitoring system and time series database. `Self-hosted` |
+| [Site24x7](https://www.site24x7.com) | [@site24x7](https://twitter.com/Site24x7) | $9/mo starter - $225/enterprise | Website, server and application monitoring. `Hosted` |
 | [Uptime Robot](https://uptimerobot.com) | [@uptimerobot](https://twitter.com/uptimerobot) | - | Free basic HTTP/HTTPS website monitoring |
 | [BinaryCanary](https://www.binarycanary.com) | - | - | - |
 
@@ -491,8 +491,8 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Drip](https://www.drip.com) | [@getdrip](https://twitter.com/getdrip) | Paid plans from $49/mo | Advanced marketing automation with workflows, drip campaigns, conversion tracking etc.. |
 | [MailerLite](https://www.mailerlite.com) | [@mailerlite](https://twitter.com/mailerlite) | Free - $140/mo | Free plan offers a lot of features |
 | [MarketHero](https://markethero.io/) | - | $99+/mo | Autoresponder / email marketing tool. |
-| [EmailOctopus](https://emailoctopus.com) | [@emailoctopus](https://twitter.com/emailoctopus) | Free up to 2,500 subscribers, paid plans from $19/mo | Low cost email marketing using Amazon SES.
-| [ButtonDown](https://buttondown.email/) | [@buttondownemail](https://twitter.com/buttondownemail) | Free for 1000 subscribers, afterwards paid | Simple and carefully thought out newsletter tool using markdown as language.
+| [EmailOctopus](https://emailoctopus.com) | [@emailoctopus](https://twitter.com/emailoctopus) | Free up to 2,500 subscribers, paid plans from $19/mo | Low cost email marketing using Amazon SES. |
+| [ButtonDown](https://buttondown.email/) | [@buttondownemail](https://twitter.com/buttondownemail) | Free for 1000 subscribers, afterwards paid | Simple and carefully thought out newsletter tool using markdown as language. |
 
 ## Email Collection/Landing Page Apps
 
@@ -601,7 +601,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
 | [Effortless Reviews](https://effortlessreviews.com) | [@effortlessrevie](https://twitter.com/EffortlessRevie) | Free - $25/mo | Easily reach out to your customers for feedback and reviews. |
-| [PickFu](https://www.pickfu.com) | [@pickfu](https://twitter.com/pickfu) | $50/mo - $299/mo | REAL CONSUMER FEEDBACK IN MINUTES. PickFu is a tool that provides instant, unbiased and insightful public opinion on questions that you care about. |
+| [PickFu](https://www.pickfu.com) | [@pickfu](https://twitter.com/pickfu) | $50/mo - $299/mo | Real consumer feedback in minutes. PickFu is a tool that provides instant, unbiased and insightful public opinion on questions that you care about. |
 | [Promoter.io](https://www.promoter.io) | [@Promoter_io](https://twitter.com/promoter_io) | $199/mo - $479/mo | Helps companies quickly gain predictive customer intelligence & insights driven by NPS (Net Promoter) to increase revenue and reduce churn. |
 | [Raaft.io](https://www.raaft.io/) | [@RaaftRetain](https://twitter.com/RaaftRetain) | $79/mo - $229/mo| Instantly get feedback from every canceling customer. Make retention offers to reduce churn. |
 | [ProsperStack](https://prosperstack.com/) | [@prosperstack](https://twitter.com/prosperstack) | Free - $149+| Collect cancellation feedback from customers and prevent churn automatically. |
@@ -675,7 +675,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Spreedly](https://www.spreedly.com) | [@spreedly](https://twitter.com/spreedly) | $150/mo - $1500/mo | Payments as a Platform. One of Spreedly's major benefits is reaching a large number of merchant accounts by working across multiple payment gateways. As a direct merchant you can transact globally but deposit funds in unique merchant accounts based on geographic or other business rules. As a SaaS platform you can support the unique merchant accounts of your individual customers. A payment gateway token is your way to indicate to us which unique merchant account this particular transaction will go against. Each unique merchant account = one unique payment gateway token. |
 | [WePay](https://go.wepay.com) | [@wepay](https://twitter.com/wepay) | 2.9% + 30¢/transaction. | WePay is the first payments engine to offer platforms — marketplaces, crowdfunding, and business software/tools — a way to own their customer experience while still shielding them from 100 percent of fraud and regulatory risk. |
 | [Paddle](https://paddle.com) | [@PaddleHQ](https://twitter.com/PaddleHQ) | 5% + 50¢/transaction. | Payment processing and fulfillment, specialized for desktop apps and SaaS subscription services. Handles VAT and invoicing for you, so your accounting becomes easier. |
-| [Fattmerchant](https://fattmerchant.com/) | [@Fattmerchant](https://twitter.com/fattmerchant) | 0% + interchange + $99+/mo | Payments unified. | Integrate your app, website, software, or hardware with the Fattmerchant API to seamlessly accept all major credit cards, ACH payments, and more! Ideal for both in-person and online transactions. |
+| [Fattmerchant](https://fattmerchant.com/) | [@Fattmerchant](https://twitter.com/fattmerchant) | 0% + interchange + $99+/mo | Payments unified. Integrate your app, website, software, or hardware with the Fattmerchant API to seamlessly accept all major credit cards, ACH payments, and more! Ideal for both in-person and online transactions. |
 
 ## Boilerplates
 
@@ -808,7 +808,7 @@ It's on GitHub for a reason! Please submit pull requests.
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
-| [Forward Email](https://forwardemail.net) | [@niftylettuce](https://twitter.com/niftylettuce) | Free | Create and forward an unlimited amount of email addresses with your domain name. Plus get catch-all, wildcard, and disposable forwarding addresses! The Forward Email DNS-based solution is completely free.
+| [Forward Email](https://forwardemail.net) | [@niftylettuce](https://twitter.com/niftylettuce) | Free | Create and forward an unlimited amount of email addresses with your domain name. Plus get catch-all, wildcard, and disposable forwarding addresses! The Forward Email DNS-based solution is completely free. |
 | [DynDNS](https://dyn.com/dns/) | [@Dyn](https://twitter.com/Dyn) | - | - |
 | [Cloudflare](https://www.cloudflare.com/) | [@Cloudflare](https://twitter.com/Cloudflare) | - | - |
 | [Amazon Route 53](https://aws.amazon.com/route53/) | - | - | - |
@@ -890,7 +890,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [DigitalOcean](https://www.digitalocean.com/) | [@digitalocean](https://twitter.com/digitalocean) | - | - |
 | [Vultr](https://www.vultr.com/) | [@Vultr](https://twitter.com/vultr/) | - | - |
 | [OVH](https://www.ovh.com) | [@OVHcloud](https://twitter.com/OVHcloud) | - | - |
-| [Scaleway](https://www.scaleway.com/) | [@Scaleway](https://twitter.com/scaleway/) | - |
+| [Scaleway](https://www.scaleway.com/) | [@Scaleway](https://twitter.com/scaleway/) | - | European cloud provider with VPS, bare metal and managed services. `Hosted` |
 
 
 ## Geocoding
@@ -914,7 +914,7 @@ It's on GitHub for a reason! Please submit pull requests.
 |:--------|:--------|:--------|:------------|
 | [Ylastic](http://ylastic.com/) | [@ylastic](https://twitter.com/ylastic) | - | - |
 | [Skeddly](https://www.skeddly.com) | [@skeddly](https://twitter.com/skeddly) | - | - |
-| [GorillaStack](https://www.gorillastack.com) | [@GorillaStack](https://twitter.com/gorillastack) | - | Tool for automating processes inside AWS including Cost Optimisation, Backup and more!
+| [GorillaStack](https://www.gorillastack.com) | [@GorillaStack](https://twitter.com/gorillastack) | - | Tool for automating processes inside AWS including Cost Optimisation, Backup and more! |
 
 ## Database-aaS
 
@@ -963,7 +963,7 @@ It's on GitHub for a reason! Please submit pull requests.
 |:--------|:--------|:--------|:------------|
 | [Confluence](https://www.atlassian.com/software/confluence) | [@Confluence](https://twitter.com/Confluence) | - | - |
 | [Confluence Questions (Q&A for your team)](https://www.atlassian.com/software/confluence/questions) | - | - | - |
-| bitbucket's default Wiki | - | - | comes with own repo, markdown/creole, much lighter than Confluence. |
+| [Bitbucket Wiki](https://support.atlassian.com/bitbucket-cloud/docs/create-a-wiki/) | - | - | Comes with each repo, written in Markdown or Creole, much lighter than Confluence. |
 | [SlimWiki](https://slimwiki.com ) | [@slimwiki](https://twitter.com/slimwiki) | - | - |
 | [Documize](https://www.documize.com/) | - | - | - |
 | [Notion](https://www.notion.so/) | [@NotionHQ](https://twitter.com/NotionHQ) | Free, $4 - $8 user/month | Writing, planning, collaborating, organizing. |

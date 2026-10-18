@@ -92,7 +92,6 @@ It's on GitHub for a reason! Please submit pull requests.
   * Data
     * [Database-aaS](#database-aas)
     * [Database](#database)
-    * [Storage](#storage)
   * Programming Productivity
     * [Documentation](#documentation)
     * [Engineering Metrics](#engineering-metrics)
@@ -191,7 +190,6 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Flow](https://www.getflow.com) | [@flowapp](https://twitter.com/flowapp) | $19/mo - $249/mo | Stop managing projects from your inbox. Flow is a collaborative task management app for the web and iPhone. |
 | [Basecamp](https://basecamp.com) | [@basecamp](https://twitter.com/basecamp) | $20/mo - $150/mo | The official account for Basecamp®. Helping Basecamp customers every Mon-Fri 9am-6pm CT! Basecamp to help organize the store design, develop fixtures, and manage craftspeople. Primarily through word-of-mouth alone, Basecamp has become the world’s #1 project management tool. |
 | [Apollo](https://www.apollohq.com) | [@applicomhq](https://twitter.com/applicomhq) | $23/mo - $148/mo | Integrated Project and Contact Management Done Right Apollo is project and contact management done right. Using Apollo, you will realise that it's built to help you get things done, quickly and efficiently. With Apollo, you will always know where your projects, your contacts and your life are at and you will feel on top of everything — regardless of how hectic your schedule is. |
-| [Pivotal Tracker](https://www.pivotaltracker.com) | [@pivotaltracker](https://twitter.com/pivotaltracker) | $7/mo - $175/mo | BUILD BETTER SOFTWARE FASTER. Break your project down into bite-sized stories, which get your product closer to the business goal. Use points to estimate each story’s relative complexity and prioritize it in the backlog. |
 | [Asana](https://asana.com) | [@asana](https://twitter.com/asana) | $50/mo - $800/mo | Teamwork without email. Asana is our go-to for prioritizing projects, keeping up w/orders & staying on top of a growing to-do list |
 | [WeekPlan](https://weekplan.net) | [@weekplan](https://twitter.com/weekplan) | $7/mo - $19/mo | Time management inspired by the "7 habits of highly effective people" Features: goals of the week, week view and quadrant matrix, pomodoro timer, shared workspaces, etc... |
 | [Trello](https://trello.com) | [@trello](https://twitter.com/trello) | $5/mo | Organize anything, together Trello is the fastest, easiest way to organize anything, from your day-to-day work, to a favorite side project, to your greatest life plans. |
@@ -294,7 +292,6 @@ It's on GitHub for a reason! Please submit pull requests.
 | [HackerRank](https://www.hackerrank.com/) | [@hackerrank](https://twitter.com/hackerrank) | paid | End-to-end technical recruiting platform for hiring engineers. |
 | [PeopleDoc](https://www.people-doc.com/) | [@PeopleDoc_Inc](https://twitter.com/PeopleDoc_Inc) | - | HR Service delivery platform designed to simplify complex HR operations, compliance and can easily serve employees anytime, anywhere. |
 | [BambooHR](https://www.bamboohr.com/) | [@bamboohr](https://twitter.com/bamboohr) | paid | HR software with heart. |
-| [TLDROptions](https://tldroptions.io) | [@ltse](https://twitter.com/ltse) | Free | A tool for helping employees understand the potential value of their stock options. |
 
 ## Payroll
 
@@ -322,8 +319,6 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Buildkite (Buildbox)](https://buildkite.com) | [@buildkite](https://twitter.com/buildkite) | $15/dev/mo | Semi-hosted continuous integration and deployment. Buildkite uses your own infrastructure to run builds so you can test any language or run any deployment scripts. You can run as many parallel agents (and builds) as you want. |
 | [Crucible](https://www.atlassian.com/software/crucible) | [@atlassian](https://twitter.com/atlassian) | $10/mo - $8000/mo | Code review system. Review code, discuss changes, share knowledge, and identify defects with Crucible's flexible review workflow. It's code review made easy for Git, Subversion, CVS, Perforce, and more. |
 | [Coveralls](https://coveralls.io) | [@coverallsapp](https://twitter.com/coverallsapp) | $0/mo - $50/mo | Coveralls works with your continuous integration server to give you test coverage history and statistics. It integrates with any language and is Free for open source. |
-| [Testributor](http://about.testributor.com) | [@testributor](https://twitter.com/testributor) | Free | Testributor is an open source Continuous Integration platform. A hosted version is available for Free, both for open source and private projects. |
-| [Wercker](https://www.oracle.com/corporate/acquisitions/wercker/) | [@wercker](https://twitter.com/wercker) | $0/mo - $350/mo | Wercker is a Docker-Native CI/CD Automation platform for Kubernetes & Microservice Deployments. |
 | [Monkey Test It](https://monkeytest.it) | [@monkeytestit](https://twitter.com/monkeytestit) | $0/mo - $199/mo | Automated website checking tool to catch bugs on your website (broken links, missing images, JS errors, etc) before your users do. Integrates with Slack, most CI systems, webooks, and supports built-in scheduling. |
 | [Concourse](https://concourse-ci.org) | [@concourseci](https://twitter.com/concourseci) | Free | Concourse is an open-source continuous thing-doer. Built on the simple mechanics of resources, tasks, and jobs, Concourse presents a general approach to automation that makes it great for CI/CD. |
 | [PullRequest](https://www.pullrequest.com) | [@pullrequestinc](https://twitter.com/pullrequestinc) | $33+/10 min | Code review as a service by vetted, professional reviewers backed by static analysis  |
@@ -364,7 +359,6 @@ It's on GitHub for a reason! Please submit pull requests.
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
-| [HockeyApp](https://www.hockeyapp.net) | [@VSAppCenter](https://twitter.com/VSAppCenter) | Free - $129/mo depending on number of apps and number of owners | Distribution of iOS, Android, Windows Phone and Mac OS apps. Includes analytics, user feedback and crash reports. |
 | [Setapp](https://setapp.com) | [@setapp](https://twitter.com/setapp) | $9.99/mo | Setapp is a single subscription with a huge collection of quality apps for macOS. |
 
 ## Log Monitoring
@@ -413,7 +407,6 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Datadog](https://www.datadoghq.com) | [@datadoghq](https://twitter.com/datadoghq) | $0/mo - $15/host/mo | Datadog is a monitoring service for IT, Operations and Development teams who write and run applications at scale, and want to turn the massive amounts of data produced by their apps, tools and services into actionable insight. |
 | [Circonus](https://www.circonus.com) | [@circonus](https://twitter.com/circonus) | $15/host/mo - $25/host/mo | Circonus combines multiple monitoring, alerting, event reporting, and analytical tools into one unified solution. Use any data, in any application, from any system, and visualize it in real-time. |
 | [TrueSight Pulse](https://www.bmc.com/it-solutions/truesight) | [@truesightpulse](https://twitter.com/truesightpulse) | - | Real-time visibility into cloud and server infrastructure |
-| [Librato](https://www.librato.com) | [@Librato](https://twitter.com/Librato) | $0.05/metric/mo to $0.30/metric/mo | Librato provides a complete solution for monitoring and understanding the metrics that impact your business at all levels of the stack. |
 | [Scout](https://scoutapp.com/) | [@ScoutAPM](https://twitter.com/ScoutAPM) | - | - |
 | [Prometheus](https://prometheus.io) | [@PrometheusIO](https://twitter.com/PrometheusIO) | Free | Open source monitoring system and time series database. `Self-hosted` |
 | [Site24x7](https://www.site24x7.com) | [@site24x7](https://twitter.com/Site24x7) | $9/mo starter - $225/enterprise | Website, server and application monitoring. `Hosted` |
@@ -490,7 +483,6 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Image-Charts](https://www.image-charts.com/) | [@imagecharts](https://twitter.com/imagecharts) | Free - $49/mo, self-hosted plan available | Include animated charts as image into emails, no server-side rendering, 1 URL = 1 chart, compatible with Google Image Charts. |
 | [Drip](https://www.drip.com) | [@getdrip](https://twitter.com/getdrip) | Paid plans from $49/mo | Advanced marketing automation with workflows, drip campaigns, conversion tracking etc.. |
 | [MailerLite](https://www.mailerlite.com) | [@mailerlite](https://twitter.com/mailerlite) | Free - $140/mo | Free plan offers a lot of features |
-| [MarketHero](https://markethero.io/) | - | $99+/mo | Autoresponder / email marketing tool. |
 | [EmailOctopus](https://emailoctopus.com) | [@emailoctopus](https://twitter.com/emailoctopus) | Free up to 2,500 subscribers, paid plans from $19/mo | Low cost email marketing using Amazon SES. |
 | [ButtonDown](https://buttondown.email/) | [@buttondownemail](https://twitter.com/buttondownemail) | Free for 1000 subscribers, afterwards paid | Simple and carefully thought out newsletter tool using markdown as language. |
 
@@ -509,7 +501,6 @@ It's on GitHub for a reason! Please submit pull requests.
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
-| [Kloudless](https://kloudless.com) | [@kloudless](https://twitter.com/kloudless) | Free - $500/mo | Kloudless allows you to integrate with several CRM solutions via a single & comprehensive RESTful API. The Kloudless CRM Unified API allows you to integrate with Salesforce, SugarCRM, Microsoft Dynamics, Zoho, Oracle Sales Cloud, HubSpot, Pipeliner, and more with a single code-base. Kloudless also maintains all the integrations so you can focus on building awesome solutions faster. |
 | [Salesforce](https://www.salesforce.com) | [@salesforce](https://twitter.com/salesforce) | - | TRANSFORM CONSUMERS INTO CUSTOMERS ACROSS ALL DIGITAL CHANNELS. The ExactTarget Marketing Cloud, built on the Salesforce1 Platform, allows marketers to create 1:1 campaigns like never before. So you can combine traditional digital channels like email, mobile, social, and the web with any conceivable IP-addressable product to turn consumers into customers. |
 | [SalesforceIQ](https://www.salesforce.com/solutions/essentials/?mc=sfiq) | [@salesforceiq](https://twitter.com/salesforceiq) | £17-85/user/mo | Helps businesses build stronger relationships using Relationship Intelligence. |
 | [SugarCRM](https://www.sugarcrm.com) | [@sugarcrm](https://twitter.com/sugarcrm) | $35/mo - $150/mo | Sugar's open, flexible platform easily solves real business problems. From automating sales, marketing and customer support to creating a custom CRM application, we've got you covered. By placing the individual at the center of its solution, SugarCRM puts the "i" in CRM and empowers every customer-facing individual to create extraordinary customer relationships. |
@@ -518,7 +509,6 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Streak](https://www.streak.com) | [@streak](https://twitter.com/streak) | - | Manage email support inside Gmail. Streak lets you keep track of all your deals right from your inbox. We let you group emails from the same customer together into one view and push that customer through your pipeline. When a new email comes in, you'll have all the context you need. |
 | [Base](https://getbase.com) | [@ZendeskSell](https://twitter.com/ZendeskSell) | $15/mo - $125/mo | The Sales and CRM Software Your Team Will Actually Use. Base is designed to significantly boost your team’s sales productivity and give you the core sales tools you need to grow your business. Your leads come from a variety of sources. Lead management in Base helps you organize leads and assign them to the right sales reps so they can be followed up on and qualified quickly. After being qualified, convert a lead in Base and all of the contact information you have about your lead is transferred your new customer contact card. Optionally, you can specify follow up tasks and even create a deal at the same time. |
 | [Pipedrive](https://www.pipedrive.com) | [@pipedrive](https://twitter.com/pipedrive) | $9/mo | Pipeline software that gets you organized. Pipedrive is built for salespeople who need to put in serious effort to turn leads into sales. It helps to organize the work and spend less time on admin. |
-| [Contactually](https://www.contactually.com) | [@Contactually](https://twitter.com/contactually) | $17.99/mo - $99.99/mo | Maximize your network ROI. More referrals. More repeat business. Contactually helps businesses follow up with the right people, at the right time, to maximize relationship ROI. |
 
 ## Social Media Marketing
 
@@ -561,7 +551,6 @@ It's on GitHub for a reason! Please submit pull requests.
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
-| [Tomatoes](http://www.tomato.es/) | [@tomatoesapp](https://twitter.com/tomatoesapp) | - | Track your time and be productive with the Pomodoro Technique. Tomatoes is a "pomodoro tracker", a Pomodoro technique® driven time tracker. Track your time using 25 minutes slots called "pomodoros". |
 | [RescueTime](https://www.rescuetime.com) | [@rescuetime](https://twitter.com/rescuetime) | Free - $9/mo | RescueTime gives you an accurate picture of how you spend your time to help you become more productive every day. |
 | [Qbserve](https://qotoqot.com/qbserve/) | [@Qbserve](https://twitter.com/Qbserve) | $40 one-time | Qbserve is a time tracker for Mac that does whatever RescueTime can but also tracks project time automatically, generates invoices, and stores tracked data locally. |
 | [Timing](https://timingapp.com/) | [@TimingApp](https://twitter.com/TimingApp) | $29 - $79 | Automatic time and productivity tracking for Mac. Helps you stay on track with your work and ensures no billable hours get lost (if you are billing hourly). |
@@ -581,7 +570,6 @@ It's on GitHub for a reason! Please submit pull requests.
 | [moqups](https://moqups.com) | [@moqups](https://twitter.com/moqups) | $9/mo - $39/mo | Moqups is a nifty HTML5 App used to create wireframes, mockups or UI concepts, prototypes depending on how you like to call them. The most stunning HTML5 app for creating resolution-independent SVG mockups & wireframes for your next project. |
 | [Balsamiq](https://balsamiq.com) | [@balsamiq](https://twitter.com/balsamiq) | $9/mo - $199/mo | Life's too short for bad software! Balsamiq Mockups is a rapid wireframing tool that helps you Work Faster & Smarter. It reproduces the experience of sketching on a whiteboard, but using a computer. |
 | [Proto.io](https://proto.io) | [@protoio](https://twitter.com/protoio) | $24/mo - $199/mo | Silly-fast mobile prototyping. Build high-fidelity fully interactive mobile app prototypes in minutes. Prototypes can be viewed on browser or device giving a real experience to the user how the app will look like and behave. Multiple devices like smart phones and tablets/pads are supported including iPhone, iPad and Android devices. |
-| [invision](https://www.invisionapp.com) | [@InVisionApp](https://twitter.com/InVisionApp) | $0/mo - $100+/mo | Free Web & Mobile (iOS, Android) Prototyping and UI Mockup Tool. Transform your Web & Mobile (iOS, Android) designs into clickable, interactive Prototypes and Mockups. Share and Collaborate on them with others. |
 | [Sketch](https://www.sketchapp.com) | [@sketchapp](https://twitter.com/sketchapp) | $99.00 | Professional digital design for Mac. Sketch gives you the power, flexibility and speed you always wanted in a lightweight and easy-to-use package. Finally you can focus on what you do best: Design. |
 | [Figma](https://www.figma.com) | [@figmadesign](https://twitter.com/figmadesign) | Free - $12/editor/mo | Design and prototyping tool, with a focus on collaboration and teams. |
 | [Anima](https://www.animaapp.com) | [@animaapp](https://twitter.com/animaapp) | $0 - $39/mo | Sketch to Code Toolkit. Anima converts web design to code. Make your Sketch design responsive, interactive and alive, and export to HTML/JS/CSS. |
@@ -633,7 +621,6 @@ It's on GitHub for a reason! Please submit pull requests.
 | [inDinero](https://www.indinero.com) | [@indinero](https://twitter.com/indinero) | - | - |
 | [QuickBooks Online](https://c27.qbo.intuit.com/qbo27/login?webredir) | - | - | - |
 | [Xero](https://www.xero.com) | [@Xero](https://twitter.com/xero/) | - | - |
-| [Runway](https://startuprunway.io) | [@ltse](https://twitter.com/ltse) | Free | Most startups die from running out of cash. Runway is an easy, visual way to plan and manage your startup's most precious resource, explore scenarios and track planned versus actual spending. |
 | [WaveApps](https://www.waveapps.com/) | [@WaveHQ](https://twitter.com/WaveHQ) | Free | Startups on a budget will love this free accounting software (only paying normal pricing for transactions, invoicing and payroll) |
 | [InvoiceNinja](https://www.invoiceninja.com/) | [@invoiceninja](https://twitter.com/invoiceninja) | Free, $8, $12 | You can host it yourself and get it whitelabeled or do the service online depending on your budget. |
 | [Bonsai](https://www.hellobonsai.com/) | [@bonsaiinc](https://twitter.com/bonsaiinc) | Free, $19, $29 | Online invoicing and payments with intregated accounting, expenses, and proposals. |
@@ -673,7 +660,6 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Pin](https://pinpayments.com) | [@PinPayments](https://twitter.com/PinPayments) | 2.9% + 30¢/successful charge. | Payments, Rebooted. Accepting credit card payments from a global audience typically requires a merchant account. The process of establishing a merchant account for each currency can be too difficult and costly for small businesses. |
 | [PayMill](https://www.paymill.com) | [@Paymill](https://twitter.com/Paymill) | 0.28 € - 0.25 € | Online payments made easy. Make payments personal by customising the checkout according to the flow of your website |
 | [Spreedly](https://www.spreedly.com) | [@spreedly](https://twitter.com/spreedly) | $150/mo - $1500/mo | Payments as a Platform. One of Spreedly's major benefits is reaching a large number of merchant accounts by working across multiple payment gateways. As a direct merchant you can transact globally but deposit funds in unique merchant accounts based on geographic or other business rules. As a SaaS platform you can support the unique merchant accounts of your individual customers. A payment gateway token is your way to indicate to us which unique merchant account this particular transaction will go against. Each unique merchant account = one unique payment gateway token. |
-| [WePay](https://go.wepay.com) | [@wepay](https://twitter.com/wepay) | 2.9% + 30¢/transaction. | WePay is the first payments engine to offer platforms — marketplaces, crowdfunding, and business software/tools — a way to own their customer experience while still shielding them from 100 percent of fraud and regulatory risk. |
 | [Paddle](https://paddle.com) | [@PaddleHQ](https://twitter.com/PaddleHQ) | 5% + 50¢/transaction. | Payment processing and fulfillment, specialized for desktop apps and SaaS subscription services. Handles VAT and invoicing for you, so your accounting becomes easier. |
 | [Fattmerchant](https://fattmerchant.com/) | [@Fattmerchant](https://twitter.com/fattmerchant) | 0% + interchange + $99+/mo | Payments unified. Integrate your app, website, software, or hardware with the Fattmerchant API to seamlessly accept all major credit cards, ACH payments, and more! Ideal for both in-person and online transactions. |
 
@@ -693,7 +679,6 @@ It's on GitHub for a reason! Please submit pull requests.
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
 | [Plivo](https://www.plivo.com/) | [@plivo](https://twitter.com/plivo) | - | - |
-| [Cisco Tropo](https://flowdocs.built.io/services/cisco-tropo) | - | - | - |
 | [Twilio](https://www.twilio.com/) | [@twilio](https://twitter.com/twilio) | - | - |
 | [PhoneBooth](http://www.phonebooth.com/) | - | - | - |
 | [TalkDesk](https://www.talkdesk.com/) | [@Talkdesk](https://twitter.com/talkdesk) | - | - |
@@ -784,7 +769,6 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Limechat](http://limechat.net/) | - | - | - |
 | [Flowdock](https://www.flowdock.com/) | [@flowdock](https://twitter.com/flowdock) | Free for teams up to 5 people | - |
 | [Slack](https://slack.com/) | [@SlackHQ](https://twitter.com/slackhq) | Free - $12.5/user | Team collaboration and chat tool. Supports webhooks and has integrations with other tools. |
-| [Skype](https://www.skype.com) | [@Skype](https://twitter.com/Skype) | Free | Video conference, chat and voice call VOIP application. |
 | [Google Hangouts](https://hangouts.google.com/) | - | Free | Video conference and chat application by Google. It is browser based and supports multiple participants on the same video call. |
 | [GoToMeeting](https://www.gotomeeting.com) | [@GoToMeeting](https://twitter.com/gotomeeting) | - | - |
 | [IRCCloud](https://www.irccloud.com/) | - | - | - |
@@ -921,9 +905,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
 | [HumongouS.io](https://www.humongous.io) | - | - | HumongouS.io is a web-based user interface (GUI) for MongoDB. |
-| [mLab](https://mlab.com ) | [@mlab](https://twitter.com/mlab) | - | - |
 | [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) | [@MongoDB](https://twitter.com/MongoDB) | Free - $1000+/mo | MongoDB's official hosted service |
-| [Compose](https://www.compose.com) | [@composeio](https://twitter.com/composeio/) | - | Compose is a fully-managed platform used by developers to deploy, host and scale databases (Elasticsearch and MongoDB.) |
 | [RedisLabs](https://redislabs.com) | [@RedisLabs](https://twitter.com/RedisLabs) | Free - $338+/mo | RedisLabs offers fully-managed cloud service for hosting and running your redis or memcache datasets in a highly-available and scalable manner, with predictable and stable top performance. |
 
 ## Backend-aaS
@@ -1053,13 +1035,6 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Google Adwords](https://ads.google.com) | [@GoogleAds](https://twitter.com/googleads) | - | - |
 | [Facebook Advertising](https://www.facebook.com/business/) | - | - | - |
 
-## Storage
-
-| Service | Twitter | Pricing | Description |
-|:--------|:--------|:--------|:------------|
-| [Kloudless](https://kloudless.com) | [@Kloudless](https://twitter.com/kloudless) | Free - $500/mo | Kloudless provides developers with a single cloud storage API in the place of many | Kloudless is the only cloud storage API you'll ever need. Integrate a single REST API instead of many and use our UI tools to quickly build cloud storage support into your app. We maintain all the integrations so you can focus on building awesome products. |
-| [CloudBuddy](https://cloudbuddy.cloud) | - | $1/10GB/month | SFTP Online Storage |
-
 ## Task Scheduling
 
 | Service | Twitter | Pricing | Description |
@@ -1083,7 +1058,6 @@ It's on GitHub for a reason! Please submit pull requests.
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
-| [Static Object](https://www.staticobject.com) | [@StaticObjectDev](https://twitter.com/StaticObjectDev) | $295/mo - $495/mo | Metrics that enhance transparency for engineering teams |
 | [Gitprime](https://www.gitprime.com/) | [@GitPrime](https://twitter.com/GitPrime) | $749/mo - $2,549/mo | Metrics in context for data-driven engineering leaders |
 
 ## Business Cards and Print Material
@@ -1108,9 +1082,6 @@ It's on GitHub for a reason! Please submit pull requests.
 ## Fundraising / Investor Relations
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
-| [Captable.io](https://captable.io) | [@captable_io](https://twitter.com/captable_io) | Free | Captable.io is a free, fully-featured cap table management tool that enables step-by-step creation, easy collaboration & sharing, convertible note & option calculators, and powerful round & exit modeling. |
-| [Disclosure](https://startupdisclosure.io) | [@ltse](https://twitter.com/ltse) | Free | Helps startups fulfill investor update requests, so investors can manage and aggregate portfolio information. It replaces today's cumbersome email based processes. |
-| [NoteGenie](https://notegenie.io) / [SAFEGenie](https://safegenie.io) | [@ltse](https://twitter.com/ltse) | Free | A calculator for exploring the impact of convertible notes and SAFEs on founder ownership. |
 | [IPO Ready](https://ipo-ready.com) | [@ltse](https://twitter.com/ltse) | Free | Quickly assess your startup's IPO readiness. Learn what it takes to prepare for an IPO. |
 
 ## Use

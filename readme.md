@@ -737,6 +737,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Hotspot Shield](https://www.hotspotshield.com/) | [@HotspotShield](https://twitter.com/hotspotshield) | - | - |
 | [Encrypt.me](https://encrypt.me) | [@encryptme](https://twitter.com/encryptme/) | - | - |
 | [Tinfoil Security](https://www.tinfoilsecurity.com/) | [@tinfoilsecurity](https://twitter.com/tinfoilsecurity) | - | - |
+| [Gitleaks](https://github.com/gitleaks/gitleaks) | - | - | Detects secrets such as passwords, API keys, and tokens in Git repositories and files. |
 
 ## Shipping
 

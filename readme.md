@@ -146,7 +146,7 @@ It's on GitHub for a reason! Please submit pull requests.
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
-| [Cognito](https://cognitohq.com) | [@getcognito](https://twitter.com/getcognito) | - | Frictionless, modern identity verification that starts with just a phone number. |
+| [Cognito](https://cognitohq.com) | [@getcognito](https://twitter.com/getcognito) | - | Identity verification and compliance checks (ID documents, screening, phone-based identity) for onboarding. `Hosted` |
 | [Onfido](https://onfido.com) | [@Onfido](https://twitter.com/Onfido) | $2/verification | Individual ID verifications, Document Checks and Facial recognition. |
 
 ## Browser/Email Testing
@@ -154,12 +154,12 @@ It's on GitHub for a reason! Please submit pull requests.
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
 | [BrowserStack](https://www.browserstack.com) | [@browserstack](https://twitter.com/browserstack) | $29/mo - $199/mo | Live, web-based browser testing. |
-| [Litmus](https://www.litmus.com/) | [@litmusapp](https://twitter.com/litmusapp) | $79/mo - $159/mo | Lets you preview your campaigns across 30+ real email clients and devices in minutes. |
-| [Sauce Labs](https://saucelabs.com) | [@saucelabs](https://twitter.com/saucelabs) | $19/mo - $298/mo | Run your web and mobile app tests across hundreds of real browsers and platforms instantly. |
-| [EmailOnAcid](https://www.emailonacid.com) | [@emailonacid](https://twitter.com/EmailonAcid) | $44/mo - $260/mo | Quickly ensure that your emails don't look like crap in any email client. |
-| [Rainforest QA](https://www.rainforestqa.com) | [@rainforestqa](https://twitter.com/rainforestqa) | $500/mo - $2000/mo | Insanely simple integration testing. |
+| [Litmus](https://www.litmus.com) | [@litmusapp](https://twitter.com/litmusapp) | $79/mo - $159/mo | Preview and test email campaigns across email clients and devices. `Hosted` |
+| [Sauce Labs](https://saucelabs.com) | [@saucelabs](https://twitter.com/saucelabs) | $19/mo - $298/mo | Cloud service for running web and mobile tests on real browsers and devices. `Hosted` |
+| [EmailOnAcid](https://www.emailonacid.com) | [@emailonacid](https://twitter.com/EmailonAcid) | $44/mo - $260/mo | Test how emails render across email clients before sending. `Hosted` |
+| [Rainforest QA](https://www.rainforestqa.com) | [@rainforestqa](https://twitter.com/rainforestqa) | $500/mo - $2000/mo | Crowd-sourced and automated end-to-end testing for web apps. `Hosted` |
 | [DebugMail](https://debugmail.io) | - | Free | Easy to use fake mail (SMTP) server for developers. |
-| [Mailosaur](https://mailosaur.com) | [@mailosaur](https://twitter.com/mailosaur) | $19/mo - $199/mo | Email, SMS and Spam testing with virtual SMTP servers for business-grade usage. |
+| [Mailosaur](https://mailosaur.com) | [@mailosaur](https://twitter.com/mailosaur) | $19/mo - $199/mo | Email, SMS and spam testing using virtual SMTP servers. `Hosted` |
 | [Mailtrap](https://mailtrap.io) | [@Mailtrap](https://twitter.com/Mailtrap) | Free - $299.99/mo | A fake SMTP server for development and staging environments along with a REST API for testing. |
 | [testmail.app](https://testmail.app) | [@testmailapp](https://twitter.com/testmailapp) | Free - $29/mo | Automate end-to-end email tests with unlimited mailboxes and a GraphQL API. |
 | [Polypane](https://polypane.rocks) | [@polypane](https://twitter.com/polypane) | Free trial - $12+/mo | A browser built from the ground up to create and test websites and apps. |
@@ -168,35 +168,35 @@ It's on GitHub for a reason! Please submit pull requests.
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
-| [Bitbucket](https://bitbucket.org) | [@bitbucket](https://twitter.com/bitbucket) | $10/mo - $200/mo, Unlimited private code repositories | Host, manage, and share Git and Mercurial repositories in the cloud. Free, unlimited private repositories for up to 5 developers give teams the flexibility to grow and code without restrictions. |
-| [BugHerd](https://bugherd.com) | [@bugherd](https://twitter.com/bugherd) | $29/mo - $180/mo | Turn client feedback into actionable tasks. BugHerd lets you quickly see, at a glance, how your project is going and what everyone is working on. The task board lets you keep team members in sync by assigning and scheduling tasks with a simple drag and drop. |
-| [GitHub](https://github.com) | [@GitHub](https://twitter.com/GitHub) | $7/mo - $50/mo | Build software better, together. GitHub is the largest code host on the planet with over 13.2 million repositories. Large or small, every repository comes with the same powerful tools. These tools are open to the community for public projects and secure for private projects. |
-| [GitLab](https://about.gitlab.com) | [@gitlab](https://twitter.com/gitlab) | Free | GitLab is open source software to collaborate on code that is used by more than 100,000 organisations worldwide. Unlimited private repositories on GitLab.com or host your own instance. Enterprise Edition includes deep LDAP support. |
-| [Jira](https://www.atlassian.com/software/jira) | [@JIRA](https://twitter.com/JIRA) | $10/mo hosted - $10/yr self-hosted | JIRA is the tracker for teams planning and building great products. Thousands of teams choose JIRA to capture and organize issues, assign work, and follow team activity. At your desk or on the go with the new mobile interface, JIRA helps your team get the job done. |
+| [Bitbucket](https://bitbucket.org) | [@bitbucket](https://twitter.com/bitbucket) | Free - $6/user/mo | Git repository hosting with pull requests and built-in CI pipelines, from Atlassian. `Hosted` |
+| [BugHerd](https://bugherd.com) | [@bugherd](https://twitter.com/bugherd) | $29/mo - $180/mo | Collects visual feedback on websites and turns it into tasks on a board. `Hosted` |
+| [GitHub](https://github.com) | [@GitHub](https://twitter.com/GitHub) | Free - $4/user/mo | Git hosting with pull requests, issues, Actions CI and code security. `Hosted` |
+| [GitLab](https://about.gitlab.com) | [@gitlab](https://twitter.com/gitlab) | Free - $29/user/mo | Git hosting with issue tracking and CI/CD, on GitLab.com or self-managed. `Hosted` |
+| [Jira](https://www.atlassian.com/software/jira) | [@JIRA](https://twitter.com/JIRA) | - | Issue and project tracking for software teams, from Atlassian. `Hosted` |
 | [Lighthouse](https://lighthouseapp.com/) | [@lighthouseapp](https://twitter.com/lighthouseapp) | $25/mo - $100/mo | Whether you're a large company or a small bootstrapped team, Lighthouse is the perfect ticket tracking solution. Collaborate effortlessly on projects. Whether you’re a team of 5 or studio of 50, Lighthouse will help you keep track of your project development with ease. |
 | [Sifter](https://sifterapp.com) | [@sifterapp](https://twitter.com/sifterapp) | $29/mo - $149/mo | Less configuring. More doing. We've put in the time researching bug tracking to help create the simplest possible workflow for you to get work done. From time-to-time we even blog about some of our ideas around this optimal bug tracking process… |
-| [Usersnap](https://usersnap.com) | [@usersnap](https://twitter.com/usersnap) | $19/mo-$99/mo | Usersnap is visual bug reporting for anyone working on web projects. Get visual feedback and precious browser information with every bug report to reproduce and fix them even faster. |
-| [Instabug](https://instabug.com) | [@instabug](https://twitter.com/instabug) | $49/mo-$349/mo | Instabug is comprehensive bug reporting and in-app feedback tool for mobile apps. Receive detailed feedback attached with every bug report sent by your testers or users to debug and build better apps, faster. |
+| [Usersnap](https://usersnap.com) | [@usersnap](https://twitter.com/usersnap) | $19/mo - $99/mo | Visual bug reports for web projects, with browser details attached to each report. `Hosted` |
+| [Instabug](https://instabug.com) | [@instabug](https://twitter.com/instabug) | $49/mo - $349/mo | In-app bug reporting and feedback SDK for mobile apps. `Hosted` |
 
 ## Planning & Project Management
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
-| [Aha!](https://www.aha.io) | [@aha_io](https://twitter.com/aha_io) | $69/mo, Ask about startup plan | The new way to create brilliant product strategy and visual roadmaps. |
+| [Aha!](https://www.aha.io) | [@aha_io](https://twitter.com/aha_io) | $69/mo, Ask about startup plan | Product roadmap and strategy software for planning features and goals. `Hosted` |
 | [Sprintly](https://sprint.ly) | [@sprintly](https://twitter.com/sprintly) | $49/mo- $399/mo | Don't ask how projects are going. Watch how they're going in real-time. Use our elegant interface to prioritize, tag, manage, estimate, and measure your software developers' progress in real-time. |
-| [Podio](https://podio.com) | [@Podio](https://twitter.com/Podio) | Free | Teamwork made easy. News and views from the team behind Podio - changing the way the world works since 2009. |
-| [Flow](https://www.getflow.com) | [@flowapp](https://twitter.com/flowapp) | $19/mo - $249/mo | Stop managing projects from your inbox. Flow is a collaborative task management app for the web and iPhone. |
-| [Basecamp](https://basecamp.com) | [@basecamp](https://twitter.com/basecamp) | $20/mo - $150/mo | The official account for Basecamp®. Helping Basecamp customers every Mon-Fri 9am-6pm CT! Basecamp to help organize the store design, develop fixtures, and manage craftspeople. Primarily through word-of-mouth alone, Basecamp has become the world’s #1 project management tool. |
+| [Podio](https://podio.com) | [@Podio](https://twitter.com/Podio) | Free | Low-code workspace for organising team work, projects and custom apps. `Hosted` |
+| [Flow](https://www.getflow.com) | [@flowapp](https://twitter.com/flowapp) | $19/mo - $249/mo | Task and project management for teams, with recurring tasks and timelines. `Hosted` |
+| [Basecamp](https://basecamp.com) | [@basecamp](https://twitter.com/basecamp) | $20/mo - $150/mo | Project management with to-dos, message boards and schedules for teams. `Hosted` |
 | [Apollo](https://www.apollohq.com) | [@applicomhq](https://twitter.com/applicomhq) | $23/mo - $148/mo | Integrated Project and Contact Management Done Right Apollo is project and contact management done right. Using Apollo, you will realise that it's built to help you get things done, quickly and efficiently. With Apollo, you will always know where your projects, your contacts and your life are at and you will feel on top of everything — regardless of how hectic your schedule is. |
-| [Asana](https://asana.com) | [@asana](https://twitter.com/asana) | $50/mo - $800/mo | Teamwork without email. Asana is our go-to for prioritizing projects, keeping up w/orders & staying on top of a growing to-do list |
+| [Asana](https://asana.com) | [@asana](https://twitter.com/asana) | $50/mo - $800/mo | Work management for planning projects, tracking tasks and coordinating teams. `Hosted` |
 | [WeekPlan](https://weekplan.net) | [@weekplan](https://twitter.com/weekplan) | $7/mo - $19/mo | Time management inspired by the "7 habits of highly effective people" Features: goals of the week, week view and quadrant matrix, pomodoro timer, shared workspaces, etc... |
-| [Trello](https://trello.com) | [@trello](https://twitter.com/trello) | $5/mo | Organize anything, together Trello is the fastest, easiest way to organize anything, from your day-to-day work, to a favorite side project, to your greatest life plans. |
+| [Trello](https://trello.com) | [@trello](https://twitter.com/trello) | Free - $5/user/mo | Kanban boards for organising tasks and projects, owned by Atlassian. `Hosted` |
 | [Blossom](https://www.blossom.co) | [@blossom](https://twitter.com/blossom) | $19/mo - $149/mo | Agile Project Management. Blossom gives each member of the team clear overview about who’s doing what & why and at the same time it helps you to focus on what matters most. With Blossom you can efficiently manage your whole development process in one place, built with simplicity in mind. Blossom is based on the principles ofKanban, a way of working that emphasizes iterative delivery cycles and continuously improves the workflow of your team or organization. |
 | [Redmine](https://www.redmine.org) | - | - | Flexible project management web application. Written using Ruby on Rails framework, it is cross-platform and cross-database. |
-| [Tom's Planner](https://www.tomsplanner.com) | [@tomsplanner](https://twitter.com/tomsplanner) | $9/mo - $19/mo | Tom's Planner is online Gantt chart software that allows anyone to create, collaborate and share Gantt Charts online with drag and drop simplicity. It's web based, extremely intuitive and easy-to-use. |
+| [Tom's Planner](https://www.tomsplanner.com) | [@tomsplanner](https://twitter.com/tomsplanner) | $9/mo - $19/mo | Browser-based Gantt chart software for planning and sharing project schedules. `Hosted` |
 | [Breeze](https://www.breeze.pm) | [@BreezeTeam](https://twitter.com/BreezeTeam) | $29/mo - $129/mo | Organize and track everything. Breeze shows you what's being worked on, who's working on what, where things are in the workflow and how much time it took. |
 | [Cushion](https://cushionapp.com/) | [@cushionapp](https://twitter.com/cushionapp) | $8/mo - $48/mo | Piece of mind for freelancers. We built Cushion as a team of freelancers who always had trouble planning and managing our year—constantly taking on too much work and never thinking to take a break. |
-| [ClickUp](https://clickup.com) | [@clickup_app](https://twitter.com/clickup_app) | $0 - $5/mo | ClickUp's #1 rated productivity software is making more productive projects with a beautifully designed and intuitive platform. |
+| [ClickUp](https://clickup.com) | [@clickup_app](https://twitter.com/clickup_app) | Free - $7/user/mo | Project management with tasks, docs and goals in one workspace. `Hosted` |
 | [Ora](https://ora.pm) | [@oratask](https://twitter.com/oratask) | $0 - $8/mo | Intuitive project management and team collaboration, Ora is your team’s command center! A place to track projects. Tasks. Time. Commits. Status Reports. Your entire product or business! |
 | [Slate](https://heyslate.com/) | [@_heyslate](https://twitter.com/_heyslate) | $15/mo | Slate is a planning tool for freelance designers & developers who want to organise their schedule, projects and finances in one place. |
 
@@ -204,10 +204,10 @@ It's on GitHub for a reason! Please submit pull requests.
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
-| [Toggl Track](https://toggl.com/track/) | [@toggl](https://twitter.com/toggl) | Free - $20/user/mo | Toggl’s time tracker is built for speed and ease of use. Time logging with Toggl is so simple that you’ll actually use it. |
-| [Clockify](https://clockify.me) | [@clockify](https://twitter.com/clockify) | Free - $9/user/mo| Clockify is the only 100% Free time tracking software that lets you and your team track time with one click. It works like Toggl but offers unlimited features and unlimited users. |
-| [Hubstaff](https://hubstaff.com) | [@hubstaff](https://twitter.com/Hubstaff) | Free - $20/user/mo | Hubstaff is time tracking software designed to make remote team management more effective and efficient. You just have to sign up, download our intuitive desktop app and push the start button to begin tracking time. |
-| [Tickspot](https://www.tickspot.com/) | [@tickspot](https://twitter.com/tickspot) | Free - $149/mo | Straightforward time tracking software to help your team run more profitable projects. Whether you prefer iOS, Android, the Apple Watch, or your desktop computer, Tick is the easiest way to track your time. |
+| [Toggl Track](https://toggl.com/track/) | [@toggl](https://twitter.com/toggl) | Free - $20/user/mo | Time tracking for individuals and teams, with reports and integrations. `Hosted` |
+| [Clockify](https://clockify.me) | [@clockify](https://twitter.com/clockify) | Free - $9/user/mo | Time tracking with timesheets, reports and team features. `Hosted` |
+| [Hubstaff](https://hubstaff.com) | [@hubstaff](https://twitter.com/Hubstaff) | Free - $20/user/mo | Time tracking for remote teams, with timesheets, payroll and invoicing. `Hosted` |
+| [Tickspot](https://www.tickspot.com/) | [@tickspot](https://twitter.com/tickspot) | Free - $149/mo | Time tracking and invoicing for client work, with Basecamp, Asana and Trello integrations. `Hosted` |
 | [Kimai](https://www.kimai.org/) | [@kimai_org](https://twitter.com/kimai_org) | self-hosted | Kimai is a Free open source timetracker. It tracks work time and prints out a summary of your activities on demand. Yearly, monthly, daily, by customer, by project, by action, etc. |
 | [OfficeClip](https://www.officeclip.com/web/timesheet) | @OfficeClip | Free - $12/user/mo| Time tracking software designed for small business. Free for unlimited user and unlimited time. Available as boh Hosted and Self-Hosted |
 
@@ -215,45 +215,45 @@ It's on GitHub for a reason! Please submit pull requests.
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
-| [App Figures](https://appfigures.com) | [@appfigures](https://twitter.com/appfigures) | $9/mo | A beautiful app tracking platform for app developers and publishers. |
+| [App Figures](https://appfigures.com) | [@appfigures](https://twitter.com/appfigures) | $9/mo | Sales and download tracking for iOS and Android app developers. `Hosted` |
 
 ## Localization & Internationalization
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
 | [Localize.js](https://localizejs.com) | - | $25/mo - $150/mo | Website translation with just a few lines of code. |
-| [Gengo](https://gengo.com) | [@GengoIt](https://twitter.com/gengoit) | $0.06 - $0.17/word | Human translation API. |
+| [Gengo](https://gengo.com) | [@GengoIt](https://twitter.com/gengoit) | From $0.06/word | Human translation API. `Hosted` |
 
 ## Business & Traffic Analytics
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
-| [Amplitude](https://amplitude.com) | [@Amplitude_HQ](https://twitter.com/Amplitude_HQ) | $299/mo | Mobile Analytics for decision makers |
-| [Chartbeat](https://chartbeat.com) | [@chartbeat](https://twitter.com/chartbeat) | $9.95/mo - $49.95/mo | Build a loyal and valuable audience for your site. Chartbeat's real-time traffic and audience-behavior data shows you who's on your site and how they're engaging with your content right now — so you can take action on what matters when it matters. |
+| [Amplitude](https://amplitude.com) | [@Amplitude_HQ](https://twitter.com/Amplitude_HQ) | Free - custom | Product analytics for web and mobile apps, with funnels, retention and experiments. `Hosted` |
+| [Chartbeat](https://chartbeat.com) | [@chartbeat](https://twitter.com/chartbeat) | - | Real-time audience and traffic analytics for websites and publishers. `Hosted` |
 | [Clicky](https://clicky.com) | [@clicky](https://twitter.com/clicky) | $9.99/mo - $19.99/mo | Real Time Web Analytics. Clicky lets you see every visitor and every action they take on your web site, with the option to attach custom data to visitors, such as usernames or email addresses. Analyze each visitor individually and see their full history. |
-| [Fathom Analytics](https://usefathom.com/) | [@usefathom](https://twitter.com/usefathom) | $0-79/mo | Simple, useful websites stats without tracking or storing personal data of your users|
+| [Fathom Analytics](https://usefathom.com/) | [@usefathom](https://twitter.com/usefathom) | $0-79/mo | Privacy-focused website analytics that does not track or store personal data. `Hosted` |
 | [GoatCounter](https://www.goatcounter.com) | [@arp242_martin](https://twitter.com/arp242_martin) | Free for personal use or self hosted | Simple web statistics. No tracking of personal data. [Open source](https://github.com/zgoat/goatcounter) |
 | [GoSquared](https://www.gosquared.com) | [@gosquared](https://twitter.com/GoSquared) | £21.60 - £396/mo | Easy to use real-time web analytics. |
-| [Google Analytics](https://marketingplatform.google.com/about/analytics/) | [@GMktgPlatform](https://twitter.com/GMktgPlatform) | - | Google Analytics lets you measure your advertising ROI as well as track your Flash, video, and social networking sites and applications. |
-| [Heap](https://www.heap.io) | [@heap](https://twitter.com/heap) | 0 - $599+ | Instant, retroactive analytics for web and iOS. No code required. |
+| [Google Analytics](https://marketingplatform.google.com/about/analytics/) | [@GMktgPlatform](https://twitter.com/GMktgPlatform) | Free - custom (360) | Web and app analytics for measuring traffic and user behaviour. `Hosted` |
+| [Heap](https://www.heap.io) | - | 0 - $599+ | Product analytics that captures web and iOS events automatically. Owned by Contentsquare. `Hosted` |
 | [Improvely](https://www.improvely.com) | [@improvelycom](https://twitter.com/improvelycom) | $29 - $899/mo | Conversion tracking and click fraud monitoring platform. The easiest way to track the performance of marketing campaigns and monitor them for click fraud. |
-| [Kissmetrics](https://www.kissmetrics.io) | [@kissmetrics](https://twitter.com/kissmetrics/) | $150/mo - $500/mo | KISSmetrics tells you who’s doing it. Every last piece gets connected to a real person. All of it. It doesn’t matter if people bounce around between different browsers and devices. Or even if it takes them 6 months to come back. You’ll see what real people do. |
+| [Kissmetrics](https://www.kissmetrics.io) | [@kissmetrics](https://twitter.com/kissmetrics) | $150/mo - $500/mo | Customer analytics that ties activity to individual people across devices and sessions. `Hosted` |
 | [Keen IO](https://keen.io) | [@keen_io](https://twitter.com/keen_io) | $0 - $2000+/mo | Custom analytics shouldn't be a pain in the backend. Keen IO's powerful APIs do the heavy lifting for you, so you can gather all the data you want and start getting the answers you need. |
-| [Localytics](https://www.localytics.com) | [@localytics](https://twitter.com/localytics/) | Free up to 10k MAUs, $200/mo - $2700/mo above that | Find out what works in your mobile or web app. Do more of it. All in one place. Advanced analytics provide data and insight to help you build more successful apps. Integrated Marketing helps you easily engage and acquire more customers. |
-| [Matomo](https://matomo.org) | [@matomo_org](https://twitter.com/matomo_org) | - | Whether you are an individual blogger, a small business, or a large corporation, Matomo helps you gain valuable insights to help your business or readership grow. |
-| [Mixpanel](https://mixpanel.com) | [@mixpanel/](https://twitter.com/mixpanel) | $150/mo - $2000/mo | Actions speak louder than page views. For years, companies have pushed page views as a primary measure of success. Page view counts are popular because they are easy to report, but ultimately cannot tell you how engaged your visitors are. Mixpanel lets you measure what customers do in your app by reporting actions, not page views. |
-| [Segment](https://segment.com) | [@segment](https://twitter.com/segment) | $29/mo - $349/mo | The right way to manage your tools. The idea is simple: one pipeline for all your data. Send data to any third-party tool with a single integration. |
-| [Snowplow](https://snowplowanalytics.com) | [@SnowPlowData](https://twitter.com/SnowPlowData) | - | Snowplow is the most powerful, flexible, scalable web analytics platform in the world. Snowplow enables analysts to perform a wide variety of both simple and sophisticated analytics on your web analytics data. |
-| [Inspectlet](https://inspectlet.com) | - | $0/mo - $499/mo | Inspectlet records videos of your visitors as they use your site, allowing you to see everything they do. See every mouse movement, scroll, click, and keypress on your site. You never need to wonder how visitors are using your site again. |
-| [Plausible](https://plausible.io) | - | £6/mo - £150/mo / Free | Plausible Analytics is an open-source project dedicated to making web analytics more privacy-friendly. Available as either a hosted SaaS version or self-hosted. |
+| [Localytics](https://www.localytics.com) | [@localytics](https://twitter.com/localytics) | Free up to 10k MAUs, $200/mo - $2700/mo above that | Mobile app analytics and push and in-app messaging, owned by Upland Software. `Hosted` |
+| [Matomo](https://matomo.org) | [@matomo_org](https://twitter.com/matomo_org) | Free self-hosted, paid cloud | Open source web analytics that can be self-hosted or run as a hosted service. `Self-hosted` |
+| [Mixpanel](https://mixpanel.com) | [@mixpanel](https://twitter.com/mixpanel) | Free - custom | Product analytics that tracks user actions, funnels and retention in apps. `Hosted` |
+| [Segment](https://segment.com) | [@segment](https://twitter.com/segment) | Free - custom | Customer data platform that collects events and routes them to analytics and marketing tools. Owned by Twilio. `Hosted` |
+| [Snowplow](https://snowplowanalytics.com) | [@SnowPlowData](https://twitter.com/SnowPlowData) | - | Open source event data pipeline for collecting behavioural data from websites and apps. `Self-hosted` |
+| [Inspectlet](https://inspectlet.com) | - | $0/mo - $499/mo | Session recordings and heatmaps for websites. `Hosted` |
+| [Plausible](https://plausible.io) | - | Free self-hosted, from $9/mo hosted | Privacy-friendly website analytics, available hosted or self-hosted. `Self-hosted` |
 
 ## Conversion Optimization & A/B Testing
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
-| [Optimizely](https://www.optimizely.com) | [@optimizely](https://twitter.com/optimizely) | $17/mo - $359/mo | A/B testing you'll actually use. Track engagement, clicks, conversions, sign ups, or anything else that matters to you and your business. Optimizely's custom goal tracking provides an endless range of measurable actions that you can define. Just tell Optimizely what to measure, and we will do the rest. |
-| [VWO](https://vwo.com) | [@VWO](https://twitter.com/VWO) | $49/mo - $129/mo | Increase your website sales and conversions. Using Visual Website Optimizer, they A/B test different versions of their website and landing pages to find out which one works best. Made for marketers, our tool is incredibly easy to use, and doesn't need IT resources. |
-| [EyeQuant](https://www.eyequant.com) | [@eyequant](https://twitter.com/eyequant) | $199/mo - $999/mo | Instantly understand what your visitors will see and miss in their first seconds on your site, and improve your conversions. Analyse live sites or mockups within seconds, no code required. |
+| [Optimizely](https://www.optimizely.com) | [@optimizely](https://twitter.com/optimizely) | $17/mo - $359/mo | Experimentation platform for A/B tests and feature experiments on websites and apps. `Hosted` |
+| [VWO](https://vwo.com) | [@VWO](https://twitter.com/VWO) | $49/mo - $129/mo | A/B testing and personalisation for websites and landing pages. `Hosted` |
+| [EyeQuant](https://www.eyequant.com) | [@eyequant](https://twitter.com/eyequant) | $199/mo - $999/mo | Predicts where visitors will look on a page design before it goes live. `Hosted` |
 
 ## Feature Flags
 
@@ -266,37 +266,37 @@ It's on GitHub for a reason! Please submit pull requests.
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
-| [Okta](https://www.okta.com) | [@OktaDev](https://twitter.com/OktaDev) | Free | Okta adds authentication, authorization, and user management to your web or mobile app within minutes. |
-| [Auth0](https://auth0.com) | [@auth0](https://twitter.com/auth0) | - | Auth0 is a comprehensive identity and access management platform that provides authentication and authorization services for applications. |
+| [Okta](https://www.okta.com) | [@OktaDev](https://twitter.com/OktaDev) | Free - custom | Identity and access management for sign-in, SSO and user management. `Hosted` |
+| [Auth0](https://auth0.com) | [@auth0](https://twitter.com/auth0) | - | Hosted authentication and authorization service for web and mobile apps, owned by Okta. `Hosted` |
 | [Connect2id](https://c2id.net) | [@Connect2id](https://twitter.com/connect2id) | €299/mo - €999/mo | Hosted Connect2id server – a flexible, secure and certified OpenID Connect/OAuth 2.0 identity provider. |
-| [Cerbos Hub](https://www.cerbos.dev/product-cerbos-hub) | [@Cerbos](https://twitter.com/cerbosdev) | Free up to 100 monthly active principals | A complete authorization management system for authoring, testing, and deploying access policies. Fine-grained authorization and access control developers can trust. |
+| [Cerbos Hub](https://www.cerbos.dev/product-cerbos-hub) | [@Cerbos](https://twitter.com/cerbosdev) | Free up to 100 monthly active principals | Console for writing, testing and deploying authorization policies for Cerbos. `Hosted` |
 
 
 ## User Testing
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
-| [Hotjar](https://www.hotjar.com) | [@hotjar](https://twitter.com/hotjar) | Free - $29/mo (personal) | Records videos and collects heatmaps of your site visitor actions. |
+| [Hotjar](https://www.hotjar.com) | [@hotjar](https://twitter.com/hotjar) | Free - $32/mo+ | Heatmaps, session recordings and feedback polls for websites. `Hosted` |
 | [Wisdom](https://getWisdom.io) | [@wisdomCRM](https://twitter.com/WisdomCRM) | Free - $2000+/mo | Session Replay. Wisdom is the most accurate live visitor session recorder service available. Focusing only on session replay, Wisdom reconstructs a virtual desktop screen for every visitor, across all tabs, to capture the true feel of every visitor's experience. |
-| [LiveSession](https://livesession.io) | [@LiveSessionHQ](https://twitter.com/LiveSessionHQ) | $44+/mo| High-quality session replay analytics. |
+| [LiveSession](https://livesession.io) | [@LiveSessionHQ](https://twitter.com/LiveSessionHQ) | $44+/mo | Session replay and funnel analytics for websites and web apps. `Hosted` |
 
 ## HR
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
-| [Workday](https://www.workday.com) | [@workday](https://twitter.com/workday) | - | Workday works the way people work—collaboratively, on the go, and in real-time. Explore the product previews below to learn how Workday can change the way you work. With powerful business applications and a user experience that's unmatched in enterprise software, Workday gives you everything you need to transform your business. |
-| [Lever](https://www.lever.co) | [@lever](https://twitter.com/lever) | - | A modern web app for hiring. Leverage your entire company – interviewers, managers, and recruiters – to source, vet, and close. |
-| [Zenefits](https://www.zenefits.com) | [@zenefits](https://twitter.com/zenefits) | $8+/mo/employee | The #1 All-In-One HR Platform. Payroll. Benefits. Time. Compliance. All online, all in one place. |
+| [Workday](https://www.workday.com) | [@workday](https://twitter.com/workday) | - | Enterprise HR, payroll and finance software for large organisations. `Hosted` |
+| [Lever](https://www.lever.co) | [@lever](https://twitter.com/lever) | - | Applicant tracking and recruiting software for hiring teams. `Hosted` |
+| [Zenefits](https://www.zenefits.com) | [@zenefits](https://twitter.com/zenefits) | $8+/mo/employee | HR, payroll, benefits and compliance software for small and mid-sized employers. `Hosted` |
 | [TestDome](https://www.testdome.com/) | [@TestDome](https://twitter.com/TestDome) | $8/candidate - $20/candidate | Automated testing of programming skills, ask candidates to write real code before calling them for an interview. |
-| [HackerRank](https://www.hackerrank.com/) | [@hackerrank](https://twitter.com/hackerrank) | paid | End-to-end technical recruiting platform for hiring engineers. |
+| [HackerRank](https://www.hackerrank.com/) | [@hackerrank](https://twitter.com/hackerrank) | - | Technical skills assessments and recruiting platform for hiring engineers. `Hosted` |
 | [PeopleDoc](https://www.people-doc.com/) | [@PeopleDoc_Inc](https://twitter.com/PeopleDoc_Inc) | - | HR Service delivery platform designed to simplify complex HR operations, compliance and can easily serve employees anytime, anywhere. |
-| [BambooHR](https://www.bamboohr.com/) | [@bamboohr](https://twitter.com/bamboohr) | paid | HR software with heart. |
+| [BambooHR](https://www.bamboohr.com/) | [@bamboohr](https://twitter.com/bamboohr) | - | HR software for small and mid-sized companies, covering employee records, time off and onboarding. `Hosted` |
 
 ## Payroll
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
-| [Wagepoint](https://wagepoint.com) | [@wagepoint](https://twitter.com/wagepoint) | $20 + $2/mo/employee | The Simple, Fast & Friendly way to pay your employees. |
+| [Wagepoint](https://wagepoint.com) | [@wagepoint](https://twitter.com/wagepoint) | $20 + $2/mo/employee | Payroll, tax remittances and T4 filing for small businesses in Canada. `Hosted` |
 
 ## Continuous Integration/Code Quality
 
@@ -304,19 +304,19 @@ It's on GitHub for a reason! Please submit pull requests.
 |:--------|:--------|:--------|:------------|
 | [Travis](https://travis-ci.com) | [@travisci](https://twitter.com/travisci) | Free - $489/mo | Hi I’m Travis CI, a hosted continuous integration service for open source and private projects: [travis-ci.com](https://travis-ci.com/) System status updates: [@traviscistatus](https://twitter.com/traviscistatus) |
 | [AppVeyor](https://www.appveyor.com) | [@appveyor](https://twitter.com/appveyor) | - | AppVeyor automates building, testing and deployment of .NET applications, helping your team to focus on delivering great apps. |
-| [CircleCI](https://circleci.com) | [@circleci](https://twitter.com/circleci) | $19/mo - $269/mo | Ship better code, faster. Easy, fast, continuous integration and deployment for web apps. |
+| [CircleCI](https://circleci.com) | [@circleci](https://twitter.com/circleci) | Free - custom | Hosted CI/CD for building, testing and deploying code. `Hosted` |
 | [Hound](https://houndci.com) | [@houndci](https://twitter.com/houndci) | Free, $49/mo - $249/mo | Automated Code Review. Take care of pesky code reviews with a trusty Hound |
-| [Code Climate](https://codeclimate.com) | [@codeclimate](https://twitter.com/codeclimate) | $0/mo - $399/mo | Automated Code Review. Code Climate hosted software metrics help you ship quality Ruby and JavaScript code faster. Get control of your technical debt with real time static analysis of your code. |
-| [Codacy](https://www.codacy.com) | [@codacy](https://twitter.com/codacy) | $0 - $150/mo | Automated Code Review. Continuous Static Analysis designed to complement your unit tests. Similar to CodeClimate. |
-| [Codecov](https://codecov.io) | [@codecov](https://twitter.com/codecov) | $0 - $5/mo | Hosted Code Coverage. Code coverage reporting done right. |
-| [Semaphore](https://semaphore.io) | [@semaphoreci](https://twitter.com/semaphoreci) | $14/mo - $899/mo | Create an Amazing Workflow. Semaphore assumes that your private or open source project is on GitHub. There are no new dependencies, hooks or SSH keys to manage. It works without any change in source code. |
-| [Jenkins](https://jenkins.io) | [@jenkinsci](https://twitter.com/jenkinsci) | Free | Jenkins provides continuous integration services for software development. It is a server-based system that supports SCM tools including AccuRev, CVS, Subversion, Git, Mercurial, Perforce, Clearcase and RTC, and can execute Apache Ant and Apache Maven based projects as well as arbitrary shell scripts and Windows batch commands. Released under the MIT License, Jenkins is Free software. |
+| [Code Climate](https://codeclimate.com) | [@codeclimate](https://twitter.com/codeclimate) | $0/mo - $399/mo | Automated maintainability grades and static analysis for code quality. `Hosted` |
+| [Codacy](https://www.codacy.com) | [@codacy](https://twitter.com/codacy) | Free - $15/user/mo | Automated code review and static analysis, with security scanning and coverage tracking. `Hosted` |
+| [Codecov](https://codecov.io) | [@codecov](https://twitter.com/codecov) | $0 - $5/mo | Code coverage reports on pull requests, free for open source. `Hosted` |
+| [Semaphore](https://semaphore.io) | [@semaphoreci](https://twitter.com/semaphoreci) | Free - usage-based | Hosted CI/CD pipelines for GitHub and other Git hosts, with self-hosted agents. `Hosted` |
+| [Jenkins](https://jenkins.io) | [@jenkinsci](https://twitter.com/jenkinsci) | Free | Open source automation server for building, testing and deploying software. `Self-hosted` |
 | [Bamboo](https://www.atlassian.com/software/bamboo) | [@atlassian](https://twitter.com/atlassian) | $10/mo - $1000/mo | Bamboo does more than just run builds and tests. It connects issues, commits, test results, and deploys so the whole picture is available to your entire product team – from project managers, to devs and testers, to sys admins. |
-| [Buildkite](https://buildkite.com) | [@buildkite](https://twitter.com/buildkite) | $15/dev/mo | Semi-hosted continuous integration and deployment. Buildkite uses your own infrastructure to run builds so you can test any language or run any deployment scripts. You can run as many parallel agents (and builds) as you want. |
+| [Buildkite](https://buildkite.com) | [@buildkite](https://twitter.com/buildkite) | Free - $30/user/mo | CI/CD pipelines that run on your own agents and infrastructure. `Self-hosted` |
 | [Crucible](https://www.atlassian.com/software/crucible) | [@atlassian](https://twitter.com/atlassian) | $10/mo - $8000/mo | Code review system. Review code, discuss changes, share knowledge, and identify defects with Crucible's flexible review workflow. It's code review made easy for Git, Subversion, CVS, Perforce, and more. |
 | [Coveralls](https://coveralls.io) | [@coverallsapp](https://twitter.com/coverallsapp) | $0/mo - $50/mo | Coveralls works with your continuous integration server to give you test coverage history and statistics. It integrates with any language and is Free for open source. |
 | [Monkey Test It](https://monkeytest.it) | [@monkeytestit](https://twitter.com/monkeytestit) | $0/mo - $199/mo | Automated website checking tool to catch bugs on your website (broken links, missing images, JS errors, etc) before your users do. Integrates with Slack, most CI systems, webooks, and supports built-in scheduling. |
-| [Concourse](https://concourse-ci.org) | [@concourseci](https://twitter.com/concourseci) | Free | Concourse is an open-source continuous thing-doer. Built on the simple mechanics of resources, tasks, and jobs, Concourse presents a general approach to automation that makes it great for CI/CD. |
+| [Concourse](https://concourse-ci.org) | [@concourseci](https://twitter.com/concourseci) | Free | Open source CI/CD system where pipelines are built from resources, tasks and jobs. `Self-hosted` |
 | [PullRequest](https://www.pullrequest.com) | [@pullrequestinc](https://twitter.com/pullrequestinc) | $33+/10 min | Code review as a service by vetted, professional reviewers backed by static analysis  |
 | [GitLab](https://about.gitlab.com/product/continuous-integration/) | [@GitLab](https://twitter.com/gitlab) | $0 [Community Edition](https://about.gitlab.com/pricing/) / Paid Premium | GitLab is an open-source version control platform with exquisite CI/CD integrations. |
 
@@ -325,10 +325,10 @@ It's on GitHub for a reason! Please submit pull requests.
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
-| [Geckoboard](https://www.geckoboard.com) | [@geckoboard](https://twitter.com/geckoboard) | $17/mo - $899/mo | Meet Geckoboard. It's Your Key Data, In One Place. Geckoboard monitors your business’s vital signs – don’t wait, see it live on a business dashboard as it happens. Focus on what matters and react faster to important events. |
-| [TelemetryTV](https://www.telemetrytv.com) | [@telemetrytv](https://twitter.com/telemetrytv) | $9/mo - $749/mo | Build realtime dashboard with powerful visualizations that look beautiful on big screen TVs, desktop computers, mobile devices, and embedded systems—all using a simple REST API that works with all modern languages. |
-| [Klipfolio](https://www.klipfolio.com) | [@klipfolio](https://twitter.com/klipfolio) | $5/user/mo - $20/user/mo | Meet Your Business Dashboard. Connect to any data service to bring your key numbers together on one dashboard. Assign your data to visualizations to show the story behind the numbers. Cultivate a data-driven culture by sharing dashboards with everyone on your team. |
-| [Grafana](https://grafana.com) | [@grafana](https://twitter.com/grafana) | $0 - $90/mo (+9/user/mo) | The analytics platform for all your metrics. Grafana allows you to query, visualize, alert on and understand your metrics no matter where they are stored. Create, explore, and share dashboards with your team and foster a data-driven culture. |
+| [Geckoboard](https://www.geckoboard.com) | [@geckoboard](https://twitter.com/geckoboard) | $17/mo - $899/mo | Hosted KPI dashboards that pull data from many services into one screen. `Hosted` |
+| [TelemetryTV](https://www.telemetrytv.com) | [@telemetrytv](https://twitter.com/telemetrytv) | $9/mo - $749/mo | Dashboards for TVs, desktops and mobile, fed by a REST API. `Hosted` |
+| [Klipfolio](https://www.klipfolio.com) | [@klipfolio](https://twitter.com/klipfolio) | $5/user/mo - $20/user/mo | Hosted business dashboards that combine data from many services and share them with a team. `Hosted` |
+| [Grafana](https://grafana.com) | [@grafana](https://twitter.com/grafana) | $0 - $90/mo (+9/user/mo) | Open source dashboards and alerting for metrics, logs and traces. `Self-hosted` |
 | [Redash](https://redash.io) | [@getredash](https://twitter.com/getredash) | Self-hosted or $49/mo - 450/mo | "Redash has support for querying multiple databases, including: Redshift, Google BigQuery, PostgreSQL, MySQL, Graphite, Presto, Google Spreadsheets, Cloudera Impala, Hive and custom scripts." |
 | [Cyfe](https://www.cyfe.com) | [@cyfe](https://twitter.com/Cyfe) | $0 - $29/mo | Cyfe offers all-in-one web dashboards for your clients to help them monitor and analyze data scattered across all their online services like Google Analytics, Salesforce, AdSense, MailChimp, Amazon, Facebook, WordPress, Twitter and more from one single location in real-time. |
 | [Two Minute Reports](http://twominutereports.com/) | - | Free - $9/mo | Two Minute Reports helps Marketing Agencies automate reports and save billable hours. It works with both Google Sheets and Looker Studio. It helps automate data from different sources like Facebook Ads, Google Ads, Instagram, LinkedIN Ads, HubSpot, Google Analytics 4, Shopify, Amazon Seller/Ads, etc. |
@@ -339,13 +339,13 @@ It's on GitHub for a reason! Please submit pull requests.
 |:--------|:--------|:--------|:------------|
 | [CabinJS](https://cabinjs.com) | [@niftylettuce](https://twitter.com/niftylettuce) | Free and Open-Source | Cabin is a drop-in replacement and alternative JavaScript logging service to Sentry, Timber, Bugsnag, and more. It is security, privacy, and business cost-saving focused. Full support across all Node versions and IE 10+ support. |
 | [CatchJS](https://catchjs.com) | - | $49 - $499 | JavaScript error reporting for web apps. Can take screenshots and collect click trails, so reproducing bugs becomes easy. |
-| [Firebase Crashlytics](https://firebase.google.com/products/crashlytics) | [@crashlytics](https://twitter.com/crashlytics) | Free | Crash reports and grouping for easier analysis. Basic analytics and reports. iOS & Android |
-| [Sentry](https://sentry.io/) | [@getsentry](https://twitter.com/getsentry) | Open Source & $24/mo - $199/mo | Sentry notifies you when your users experience errors. Know immediately when things happen in your application. Engage users before they have a chance to report a problem. |
-| [Honeybadger](https://www.honeybadger.io) | [@honeybadgerapp](https://twitter.com/honeybadgerapp) | $39/mo - $249/mo | Exception, uptime, and performance monitoring for Ruby. It tells you about errors, downtime and performance issues as they happen. And it gives you the tools you need to fix them ...without burying you in data. Without silly rate limits or per-server fees. |
+| [Firebase Crashlytics](https://firebase.google.com/products/crashlytics) | [@crashlytics](https://twitter.com/crashlytics) | Free | Crash reporting for iOS, Android and Flutter apps, part of Firebase. `Hosted` |
+| [Sentry](https://sentry.io/) | [@getsentry](https://twitter.com/getsentry) | Open Source & $24/mo - $199/mo | Error tracking and performance monitoring for applications. `Hosted` |
+| [Honeybadger](https://www.honeybadger.io) | [@honeybadgerapp](https://twitter.com/honeybadgerapp) | $39/mo - $249/mo | Error tracking, uptime checks and performance monitoring for many languages. `Hosted` |
 | [BugSnag](https://www.bugsnag.com) | [@bugsnag](https://twitter.com/bugsnag) | $29/mo - $249/mo | Automatic, full-stack error monitoring. Web app monitoring for Rails, PHP, Node.js, Java, and every other leading platform. |
-| [Raygun](https://raygun.com) | [@raygunio](https://twitter.com/raygunio) | $14/mo - $199/mo | Exceptional Error Tracking. Your software faults get automatically sent to the Raygun service and analysis begins immediately. Raygun intelligently groups your errors so you're dealing with root causes, not every single error instance! |
-| [Airbrake](https://airbrake.io) | [@airbrake](https://twitter.com/airbrake) | $49 - $249/mo | No More Searching Log Files Capture and Track Your Application's Exceptions in 3 Minutes. Airbrake is the leading exception reporting service, currently providing error tracking for 50,000 applications with support for 18 programming languages. |
-| [Rollbar](https://rollbar.com) | [@rollbar](https://twitter.com/rollbar) | $12/mo - $1249/mo | Take control of your errors. Rollbar is platform-agnostic and can accept data from anything that can speak HTTP and JSON. You can use our official libraries for Ruby, Python, PHP, Node.js, JavaScript, Android, iOS, or Flash, or roll your own with our API. |
+| [Raygun](https://raygun.com) | [@raygunio](https://twitter.com/raygunio) | $14/mo - $199/mo | Hosted error and crash tracking that groups errors by root cause. `Hosted` |
+| [Airbrake](https://airbrake.io) | [@airbrake](https://twitter.com/airbrake) | $49 - $249/mo | Hosted exception tracking for many languages and frameworks. `Hosted` |
+| [Rollbar](https://rollbar.com) | [@rollbar](https://twitter.com/rollbar) | $12/mo - $1249/mo | Hosted error tracking with SDKs for Ruby, Python, PHP, Node.js, JavaScript, Android and iOS. `Hosted` |
 | [Errbit](https://errbit.com) | - | OSS | The open source error catcher that's Airbrake API compliant. |
 
 ## Application Distribution
@@ -358,23 +358,23 @@ It's on GitHub for a reason! Please submit pull requests.
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
-| [Fluentd](https://www.fluentd.org) | [@fluentd](https://twitter.com/fluentd) | - | Set Up Once, Collect More. Fluentd is an open source data collector designed for processing data streams. 150+ plugins instantly enable you to store the data for Log Management, Big Data Analytics, etc |
-| [Graylog](https://www.graylog.org) | [@graylog2](https://twitter.com/graylog2) | - | Field-tested open source data analytics system used and trusted all around the world. Search your logs, create charts, send reports and be alerted when something happens. All running on the existing JVM in your datacenter. |
-| [Mezmo](https://www.mezmo.com) | [@logdna](https://twitter.com/LogDNA) | free - $3/gb | Log Management Modernized: Real-time log aggregation, monitoring, and analysis from any platform, at any volume. |
+| [Fluentd](https://www.fluentd.org) | [@fluentd](https://twitter.com/fluentd) | - | Open source data collector that routes logs and events to storage and analytics tools. `Self-hosted` |
+| [Graylog](https://www.graylog.org) | [@graylog2](https://twitter.com/graylog2) | - | Open source log management with search, dashboards and alerts. `Self-hosted` |
+| [Mezmo](https://www.mezmo.com) | [@LogDNA](https://twitter.com/LogDNA) | free - $3/gb | Hosted log management and observability pipeline, formerly LogDNA. `Hosted` |
 | [Logit.io](https://logit.io) | [@logit_io](https://twitter.com/logit_io) | from $74/mo | Logit.io provides log and metrics management built on hosted ELK, Open Distro & Grafana. |
-| [Loggly](https://www.loggly.com) | [@loggly](https://twitter.com/loggly) | $49/mo - $349/mo | Solve operational problems faster. Loggly helps cloud-centric organizations—organizations that build and manage cloud-facing applications—to solve operational problems faster. |
-| [Logstash](https://www.elastic.co/products/logstash) | [@logstash](https://twitter.com/logstash) | - | Ship logs from any source, parse them, get the right timestamp, index them, and search them. Logstash is a tool for managing events and logs. You can use it to collect logs, parse them, and store them for later use (like, for searching). Speaking of searching, Logstash comes with a web interface for searching and drilling into all of your logs. |
-| [Papertrail](https://papertrailapp.com) | [@papertrailapp](https://twitter.com/papertrailapp) | $7/mo - $230/mo | Frustration-Free log management. Get started in seconds. Use Papertrail's time-saving log tools, flexible system groups, team-wide access, long-term archives, charts and analytics exports, monitoring webhooks, and 45-second setup. |
-| [statsd](https://github.com/statsd/statsd) | - | - | - |
-| [Sumo Logic](https://www.sumologic.com) | [@SumoLogic](https://twitter.com/SumoLogic) | - | Log Data is Big Data. Once enabled by the administrator, the new data will be searchable in the customer account. Sumo Logic provides an Application for Data Volume for out-of–the-box dashboards and searches that deliver a comprehensive view of data usage volume by category, collector, source name, and hosts. |
+| [Loggly](https://www.loggly.com) | [@loggly](https://twitter.com/loggly) | $49/mo - $349/mo | Hosted log management and search. `Hosted` |
+| [Logstash](https://www.elastic.co/products/logstash) | [@logstash](https://twitter.com/logstash) | - | Open source pipeline that ingests, parses and forwards logs and events to Elasticsearch and other outputs. `Self-hosted` |
+| [Papertrail](https://papertrailapp.com) | [@papertrailapp](https://twitter.com/papertrailapp) | $7/mo - $230/mo | Hosted log search, live tail and alerts for servers and apps. `Hosted` |
+| [statsd](https://github.com/statsd/statsd) | - | Free, open source | Network daemon that collects metrics over UDP or TCP and forwards them to backends such as Graphite. `Self-hosted` |
+| [Sumo Logic](https://www.sumologic.com) | [@SumoLogic](https://twitter.com/SumoLogic) | - | Hosted log management and analytics platform. `Hosted` |
 
 ## Application Performance
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
 | [AppNeta](https://www.appneta.com) | [@AppNeta](https://twitter.com/AppNeta) | Free to $119 / mo | Full-stack application monitoring for web apps. Get visibility into code, network, and end user, especially for polyglot and service-oriented applications, by looking at transactions, errors, browser metrics, host metrics, and more. |
-| [New Relic](https://newrelic.com) | [@NewRelic](https://twitter.com/NewRelic) | $149/mo | Application monitoring for all your web apps. It’s about gaining actionable, real-time business insights from the billions of metrics your software is producing, including user click streams, mobile activity, end user experiences and transactions. |
-| [AppSignal](https://appsignal.com) | [@AppSignal](https://twitter.com/AppSignal) | $49/mo - $259/mo | Better monitoring for your Rails applications. Get detailled statistics on your site's performance with mean and 90th percentile measurements. |
+| [New Relic](https://newrelic.com) | [@NewRelic](https://twitter.com/NewRelic) | Free tier, then usage-based | Hosted observability platform for application performance, infrastructure and logs. `Hosted` |
+| [AppSignal](https://appsignal.com) | [@AppSignal](https://twitter.com/AppSignal) | $49/mo - $259/mo | Hosted application performance monitoring and error tracking for Ruby, Elixir and Node.js. `Hosted` |
 | [Instrumental](https://instrumentalapp.com) | [@instrumental](https://twitter.com/instrumental) | $150/mo - $750/mo | Monitor Your App in Realtime. Instrumental’s made to monitor metrics at a ridiculously high scale. At rates of 500,000 metrics per second and higher, it doesn’t even break a sweat |
 | [Atatus](https://www.atatus.com) | [@atatusapp](https://twitter.com/atatusapp) | $12/mo - $159/mo | Simple JavaScript Error Tracking. Atatus is a simple error tracking and uptime monitoring system. Add two lines of code and get alerted on any errors that occurs in your application in realtime. |
 | [Scout APM](https://www.scoutapm.com) | [@ScoutAPM](https://twitter.com/ScoutAPM) | - | Application monitoring with errors, logs and traces for Ruby, Python, Node.js, PHP and Elixir apps. `Hosted` |
@@ -388,14 +388,14 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Neustar Website Load Testing](https://www.security.neustar/digital-performance/web-performance-management) | [@Neustar](https://twitter.com/Neustar) | $80/mo | Tackle performance problems such as bandwidth limitations, error rates exceeding thresholds, server PU limitations and much more. |
 | [Loader.io](https://loader.io) | [@loaderio](https://twitter.com/loaderio) | Free to 100.00$/mo | Loader.io is a Free load testing service that allows you to stress test your web-apps/apis with thousands of concurrent connections. |
 | [Locust.io](https://locust.io) | [@locustio](https://twitter.com/locustio) | Open Source | Self-hosted load testing tool written in Python, with the tests themselves written in Python code |
-| [k6](https://k6.io) | [@k6_io](https://twitter.com/k6_io) | Free, Open Source | k6 is a developer centric open source load testing tool for testing the performance of your backend infrastructure. It’s built with Go and JavaScript to integrate well into your development workflow, so you can stay on top of performance without fuzz. |
+| [k6](https://k6.io) | [@k6_io](https://twitter.com/k6_io) | Free, Open Source | Open source load testing tool with tests written in JavaScript. `Self-hosted` |
 | [Grafana Cloud k6](https://grafana.com/products/cloud/k6/) | [@k6_io](https://twitter.com/k6_io) | Free tier, then usage-based | Hosted load testing built on the open source k6 project (formerly Load Impact). `Hosted` |
 
 ## Server Monitoring
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
-| [Datadog](https://www.datadoghq.com) | [@datadoghq](https://twitter.com/datadoghq) | $0/mo - $15/host/mo | Datadog is a monitoring service for IT, Operations and Development teams who write and run applications at scale, and want to turn the massive amounts of data produced by their apps, tools and services into actionable insight. |
+| [Datadog](https://www.datadoghq.com) | [@datadoghq](https://twitter.com/datadoghq) | $0/mo - $15/host/mo | Hosted monitoring for infrastructure, applications and logs. `Hosted` |
 | [Circonus](https://www.circonus.com) | [@circonus](https://twitter.com/circonus) | $15/host/mo - $25/host/mo | Circonus combines multiple monitoring, alerting, event reporting, and analytical tools into one unified solution. Use any data, in any application, from any system, and visualize it in real-time. |
 | [Prometheus](https://prometheus.io) | [@PrometheusIO](https://twitter.com/PrometheusIO) | Free | Open source monitoring system and time series database. `Self-hosted` |
 | [Site24x7](https://www.site24x7.com) | [@site24x7](https://twitter.com/Site24x7) | $9/mo starter - $225/enterprise | Website, server and application monitoring. `Hosted` |
@@ -406,21 +406,21 @@ It's on GitHub for a reason! Please submit pull requests.
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
-| [Help Scout](https://www.helpscout.com/) | [@helpscout](https://twitter.com/helpscout) | $15/mo | Scalable customer support, no help desk headaches. Based on conditions you specify, Help Scout automatically performs one or more actions. |
-| [Zendesk](https://www.zendesk.com) | [@zendesk](https://twitter.com/zendesk) | $1/mo - $195/mo | Relationships between businesses and their customers can be hard. Better customer service starts with better communication Zendesk brings all your customer conversations into one place. |
+| [Help Scout](https://www.helpscout.com/) | [@helpscout](https://twitter.com/helpscout) | $15/mo | Shared inbox and help desk for customer email, with a knowledge base. `Hosted` |
+| [Zendesk](https://www.zendesk.com) | [@zendesk](https://twitter.com/zendesk) | $1/mo - $195/mo | Hosted help desk for email, chat and phone support. `Hosted` |
 | [Groove](https://www.groovehq.com) | [@groove](https://twitter.com/groove) | $15/mo | Everything you need to deliver awesome, personal support to every customer. Your customers will never know that you’re using a helpdesk. To them, your messages look like regular emails. It feels like personal support, and it helps you build deeper relationships with your customers. |
-| [Intercom](https://www.intercom.com) | [@intercom](https://twitter.com/intercom) | $49/mo - $449/mo | The easiest way to see and talk to your users. Intercom is a single platform where you can see in real-time who is using your product and send personalized messages to the right users at the right time based on their behavior. |
+| [Intercom](https://www.intercom.com) | [@intercom](https://twitter.com/intercom) | $49/mo - $449/mo | Hosted customer messaging with live chat, help center and support inbox. `Hosted` |
 | [Tender](https://tenderapp.com/) | [@tenderapp](https://twitter.com/tenderapp) | $9/mo - $99/mo | Better, Simpler, Customer Support Software. Support your customers in the open! With public forums, you can offer a public space to your users to discuss common issues and get feedback, while still keeping certain categories private (billing, orders, ...). Power users can subscribe to categories and new discussions, and help out other customers. |
 | [Enchant](https://www.enchant.com) | [@enchant](https://twitter.com/enchant) | $9/mo | It's like gmail on steroids! Enchant is a powerful helpdesk that helps your team deliver awesome support to each and every customer. To your customers, it's just email. They will never see a ticket number and will never have to log into anything! |
-| [Freshdesk](https://freshdesk.com) | [@freshdesk](https://twitter.com/freshdesk) | $16/mo - $70/mo | Everything you need to deliver Exceptional Customer Support. Freshdesk keeps you from running behind issues blindly and gets your customer support issues under control. |
+| [Freshdesk](https://freshdesk.com) | [@freshdesk](https://twitter.com/freshdesk) | $16/mo - $70/mo | Hosted help desk for ticket-based customer support, part of Freshworks. `Hosted` |
 | [UserDeck](https://userdeck.com) | [@user_deck](https://twitter.com/user_deck) | $0 - $25/mo | Customer support software that embeds into your existing website. |
 | [Sirportly](https://sirportly.com) | [@sirportly](https://twitter.com/sirportly) | £0 - £15/mo | Grow your business and provide world class customer support. Simply setup your helpdesk in less than a few minutes. Integrate with your other software tools and take advantage of the automated rules and macros to scale your customer support to a new level, become more professional and customer focused and turn your customers into raving fans with Sirportly. |
 | [Olark](https://www.olark.com/) | [@olark](https://twitter.com/olark) | - | - |
 | [SnapEngage](https://snapengage.com/) | [@snapengage](https://twitter.com/snapengage) | Custom pricing per integration, or from $81/month | Highly customised live chat integrations |
-| [Reamaze](https://www.reamaze.com) | [@reamaze](https://twitter.com/reamaze) | $15/mo | Lightweight, Lightspeed Help Desk. Email, Social, Branded, Integrated. Reamaze provides your team with helpdesk functionality that integrates with your application, as well as integrations with popular 3rd party tools in your workflow. |
+| [Reamaze](https://www.reamaze.com) | [@reamaze](https://twitter.com/reamaze) | $15/mo | Hosted help desk with email, chat and social channels. `Hosted` |
 | [Jitbit Helpdesk](https://www.jitbit.com/helpdesk/) | [@jitbithelpdesk](https://twitter.com/jitbithelpdesk) | $29/mo - $199/mo | A help desk app that actually makes your work easier, not harder. Comes in both hosted and on-premise versions. Very well designed and easy to use. Has all the must-have features and doesn't get in your way. |
 | [Drift](https://www.drift.com) | [@drift](https://twitter.com/drift) |Paid from $49/mo | Stop wasting your website traffic. Sales-oriented live chat and in-app messaging, with chatbot automation. |
-| [Zammad](https://zammad.com/) | [@zammadhq](https://twitter.com/zammadhq) | $0/mo - $24/mo | Zammad is a award winning open source helpdesk/customer support system with a beautiful UI and many features to manage customer communication via several channels like telephone, facebook, twitter, chat and e-mails. It is distributed under the GNU AFFERO General Public License (AGPL). |
+| [Zammad](https://zammad.com/) | [@zammadhq](https://twitter.com/zammadhq) | $0/mo - $24/mo | Open source help desk for email, phone, chat and social channels. `Self-hosted` |
 | [Support Hero](https://www.supporthero.io) | [@supportheroapp](https://twitter.com/supportheroapp) | $49/mo - $199/mo | Knowledge base and tutorial management platform with smart analytics. Support Hero is a self-service knowledge base that helps companies educate their clients. Helping them to create and deliver a game-changing user education experience that increases retention and engagement, while reducing customer relationship costs. |
 | [Atlasmic](https://atlasmic.com) | [@atlasmichq](https://twitter.com/atlasmichq) | Free - €20/mo | Live chat, business messenger, sales, inbound marketing and analytics. `Hosted` |
 
@@ -428,31 +428,31 @@ It's on GitHub for a reason! Please submit pull requests.
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
-| [Postmark](https://postmarkapp.com) | [@postmarkapp](https://twitter.com/postmarkapp) | $1.50 | Email delivery for web apps – done right. Postmark removes the headaches of delivering and parsing transactional email for webapps with minimal setup time and zero maintenance. We have years of experience getting email to the inbox, so you can work and rest easier. |
-| [Mailgun](https://www.mailgun.com) | [@Mail_Gun](https://twitter.com/Mail_Gun) | $20.00 | The Email Service For Developers. Easy SMTP integration and a simple, RESTful API abstracts away the messy details of email. Scale quickly, whether you need to send 10 or 10 million emails. |
-| [Amazon Simple Email Service](https://aws.amazon.com/ses/) | [@AWSSupport](https://twitter.com/AWSSupport) | $0 for the first 62,000 emails you send each month | Flexible, affordable, and highly-scalable email sending and receiving platform for businesses and developers |
-| [SendGrid](https://sendgrid.com) | [@SendGrid](https://twitter.com/SendGrid) | $9.95/mo - $399.95 | Email Delivery. Simplified. SendGrid delivers billions of emails for companies of all sizes every month. Select the package that best fits with your sending volume, set-up your account, and let SendGrid take care of the rest! |
+| [Postmark](https://postmarkapp.com) | [@postmarkapp](https://twitter.com/postmarkapp) | $1.50 | Hosted transactional email API for application emails. `Hosted` |
+| [Mailgun](https://www.mailgun.com) | [@Mail_Gun](https://twitter.com/Mail_Gun) | $20.00 | Hosted email sending API for developers, with SMTP and HTTP interfaces. `Hosted` |
+| [Amazon Simple Email Service](https://aws.amazon.com/ses/) | [@AWSSupport](https://twitter.com/AWSSupport) | $0.10 per 1,000 emails | Hosted email sending and receiving API from AWS. `Hosted` |
+| [SendGrid](https://sendgrid.com) | [@SendGrid](https://twitter.com/SendGrid) | $9.95/mo - $399.95 | Hosted email API for transactional and marketing email, owned by Twilio. `Hosted` |
 | [CritSend](https://www.critsend.com) | [@critsend](https://twitter.com/critsend) | $50/mo - $3000/mo | The Best SMTP Relay for Developers. Use the most reliable infrastructure for your transactional and bulk emails. It only takes 5 minutes to setup Critsend and start enjoying fast delivery time and automatic scalability. |
 | [Postage](https://postageapp.com) | [@postagebird](https://twitter.com/postagebird) | $9/mo - $399/mo | The easier way to send email from web apps. Postage app helps design, send, and analyze emails within minutes. |
-| [Dyspatch](https://www.dyspatch.io) | [@sendwithus](https://twitter.com/send_with_us) | Free 'Hacker' plan of 1000 messages/mo | Transactional email A/B testing and drip campaigns |
-| [SparkPost](https://sparkpost.com) | [@SparkPost](https://twitter.com/SparkPost) | Free - $474/mo | The most performant email delivery service — whether your app or website sends hundreds, or billions, of messages. |
+| [Dyspatch](https://www.dyspatch.io) | [@sendwithus](https://twitter.com/send_with_us) | - | Hosted email template and transactional email platform, formerly Sendwithus. `Hosted` |
+| [SparkPost](https://sparkpost.com) | [@SparkPost](https://twitter.com/SparkPost) | Free - $474/mo | Hosted email delivery API for transactional and bulk email. `Hosted` |
 
 ## Other APIs
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
 | [Exchange Rate API](https://www.exchangerate-api.com) | - | Free | A simple API for fetching currency exchange rates maintained since 2010. Free tier with no signup or request limits. |
-| [Filestack](https://www.filestack.com) | [@FileStack](https://twitter.com/FileStack) | $0/mo - $49/mo | Easy, Powerful File Uploads. Connect, Store, and Process any file from anywhere on the Internet |
-| [Open Exchange Rates](https://openexchangerates.org) | - | $12/mo - $97/mo | Real-time exchange rates & currency conversion JSON API. A simple and easy-to-integrate exchange rates API in JSON format, with HTTPS and JSONP support, with examples, guides and full documentation. |
-| [FormAPI](https://formapi.io) | [@form_api](https://twitter.com/form_api) | $49/mo - $249/mo | PDF Service for Developers. Makes it easy for programmers to fill out and sign PDF documents. Saves a lot of development time if you need to generate a lot of contracts, invoices, etc. |
+| [Filestack](https://www.filestack.com) | [@FileStack](https://twitter.com/FileStack) | $0/mo - $49/mo | Hosted file upload, storage and processing API. `Hosted` |
+| [Open Exchange Rates](https://openexchangerates.org) | - | $12/mo - $97/mo | Hosted JSON API for currency exchange rates. `Hosted` |
+| [FormAPI](https://formapi.io) | [@form_api](https://twitter.com/form_api) | $49/mo - $249/mo | Hosted API that fills PDF templates with data. `Hosted` |
 | [Abstract APIs](https://www.abstractapi.com) | [@abstractapi](https://twitter.com/abstractapi) | Free - $249/mo | Suite of APIs for everyday needs (email validation, VAT calculation, IP geolocation, and more). |
 
 ## Site Search
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
-| [Elasticsearch](https://www.elastic.co/products/elasticsearch) | [@elastic](https://twitter.com/elastic) | - | an end-to-end search and analytics platform. infinitely versatile. By combining the massively popular Elasticsearch, Logstash and Kibana we have created an end-to-end stack that delivers actionable insights in real-time from almost any type of structured and unstructured data source. Built and supported by the engineers behind each of these open source products, the Elasticsearch ELK stack makes searching and analyzing data easier than ever before. |
-| [Algolia](https://www.algolia.com) | [@Algolia](https://twitter.com/Algolia) | $49/mo - $449/mo | Build Realtime Search. Algolia is a fully hosted search service, available as a REST API. API clients are also available for all major frameworks, platforms and languages. |
+| [Elasticsearch](https://www.elastic.co/products/elasticsearch) | [@elastic](https://twitter.com/elastic) | - | Distributed search and analytics engine built on Apache Lucene. `Self-hosted` |
+| [Algolia](https://www.algolia.com) | [@Algolia](https://twitter.com/Algolia) | $49/mo - $449/mo | Hosted search API for websites and apps. `Hosted` |
 | [Apache Solr](https://lucene.apache.org/solr/) | - | - | An open source search platform, based and co-released with Apache Lucene. |
 
 ## Email Marketing
@@ -461,25 +461,25 @@ It's on GitHub for a reason! Please submit pull requests.
 |:--------|:--------|:--------|:------------|
 | [QuickChart](https://quickchart.io/) | | Open source, self-hosted. Free hosted tier, paid from $40/mo | Add chart and graph images to your emails. Supports Chart.js and Google Image Charts formats. |
 | [MailCharts](https://www.mailcharts.com) | [@mailcharts](https://twitter.com/mailcharts) | $30/mo | Track & understand how your competitors use email marketing. MailCharts tracks over a thousand companies, bringing you actionable insights to help you improve your email marketing strategy, make data-driven decisions and gain design and content inspiration. |
-| [Customer.io](https://customer.io) | [@CustomerIO](https://twitter.com/CustomerIO) | $50/mo - $1250/mo | Send email based on what people do or don't do in your app. Customer.io lets you send newsletters to segments of customers using data from your site. |
+| [Customer.io](https://customer.io) | [@CustomerIO](https://twitter.com/CustomerIO) | $50/mo - $1250/mo | Hosted messaging for email, SMS and push, triggered by user behavior. `Hosted` |
 | [Vero](https://www.getvero.com) | [@getvero](https://twitter.com/getvero) | $99/mo | Send emails based on what your customers do. Vero makes it easy to create segments of customers based on the attributes you capture (e.g. age, location, gender) and the actions your customers take (e.g. logged in, used feature x, checked out, etc.). |
-| [Mailchimp](https://mailchimp.com) | [@Mailchimp](https://twitter.com/Mailchimp) | - | - |
-| [Campaign Monitor](https://www.campaignmonitor.com) | [@CampaignMonitor](https://twitter.com/CampaignMonitor) | $9/mo - $699/mo | CAMPUnbounce Feature Tour |
-| [Sendy](https://sendy.co) | [@getsendy](https://twitter.com/getSendy) | $59 one time fee, host yourself or use a hosted sendy instance from a variety of providers. | - |
+| [Mailchimp](https://mailchimp.com) | [@Mailchimp](https://twitter.com/Mailchimp) | Free tier, then paid plans | Hosted email marketing and automation, owned by Intuit. `Hosted` |
+| [Campaign Monitor](https://www.campaignmonitor.com) | [@CampaignMonitor](https://twitter.com/CampaignMonitor) | $9/mo - $699/mo | Hosted email marketing for newsletters and automated campaigns. `Hosted` |
+| [Sendy](https://sendy.co) | [@getsendy](https://twitter.com/getSendy) | $59 one time fee | Self-hosted newsletter app that sends through Amazon SES. `Self-hosted` |
 | [Image-Charts](https://www.image-charts.com/) | [@imagecharts](https://twitter.com/imagecharts) | Free - $49/mo, self-hosted plan available | Include animated charts as image into emails, no server-side rendering, 1 URL = 1 chart, compatible with Google Image Charts. |
-| [Drip](https://www.drip.com) | [@getdrip](https://twitter.com/getdrip) | Paid plans from $49/mo | Advanced marketing automation with workflows, drip campaigns, conversion tracking etc.. |
-| [MailerLite](https://www.mailerlite.com) | [@mailerlite](https://twitter.com/mailerlite) | Free - $140/mo | Free plan offers a lot of features |
+| [Drip](https://www.drip.com) | [@getdrip](https://twitter.com/getdrip) | Paid plans from $49/mo | Hosted email marketing automation with workflows and drip campaigns. `Hosted` |
+| [MailerLite](https://www.mailerlite.com) | [@mailerlite](https://twitter.com/mailerlite) | Free - $140/mo | Hosted email newsletters and automation with a free plan. `Hosted` |
 | [EmailOctopus](https://emailoctopus.com) | [@emailoctopus](https://twitter.com/emailoctopus) | Free up to 2,500 subscribers, paid plans from $19/mo | Low cost email marketing using Amazon SES. |
-| [Buttondown](https://buttondown.email/) | [@buttondownemail](https://twitter.com/buttondownemail) | Free for 1000 subscribers, afterwards paid | Simple and carefully thought out newsletter tool using markdown as language. |
+| [Buttondown](https://buttondown.email/) | [@buttondownemail](https://twitter.com/buttondownemail) | Free tier, then paid | Hosted newsletter service that uses Markdown for writing. `Hosted` |
 
 ## Email Collection/Landing Page Apps
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
 | [Launchrock](https://www.launchrock.com) | [@launchrock](https://twitter.com/launchrock) | $49/mo - $199/mo | Even if you know how to code a web page with HTML, you'll love how much faster it is with our landing page builder. Load up your logo and graphic assets, set up a few base colors from your brand palette and publish away. |
-| [Unbounce](https://unbounce.com) | [@unbounce](https://twitter.com/unbounce) | $49/mo - $199/mo | Unbounce empowers marketers to act independently from technical teams, improving their efficiency and their ability to generate sales. Produce high-converting landing pages without dealing with I.T. bottlenecks. See how Unbounce can enhance your campaigns and maximize your marketing spend. |
-| [Leadpages](https://www.leadpages.com) | [@Leadpages](https://twitter.com/Leadpages) | $25/mo - $199/mo | Generate leads and increase revenue using the industry-leading landing page builder with accompanying suite of lead generation and opt-in tools. |
-| [Instapage](https://instapage.com/) | [@Instapage](https://twitter.com/Instapage) | $29/mo - $127/mo | A landing page solution for optimizing your ad spend. Build, Integrate, Collaborate & Optimize. |
+| [Unbounce](https://unbounce.com) | [@unbounce](https://twitter.com/unbounce) | $49/mo - $199/mo | Hosted landing page builder for marketing campaigns. `Hosted` |
+| [Leadpages](https://www.leadpages.com) | [@Leadpages](https://twitter.com/Leadpages) | $25/mo - $199/mo | Hosted landing page builder with lead capture tools. `Hosted` |
+| [Instapage](https://instapage.com/) | [@Instapage](https://twitter.com/Instapage) | $29/mo - $127/mo | Hosted landing page builder with A/B testing for ad campaigns. `Hosted` |
 | [KickoffLabs](https://kickofflabs.com) | [@kickofflabs](https://twitter.com/kickofflabs) | $29/mo - $99/mo | Stop building landing pages. Start building smarter campaigns. Send customers to a tailored page that speaks to them. Keep them engaged with signup-forms, newsletters and – best of all – a very cool, unique REWARD system for customer referrals. |
 | [Prefinery](https://www.prefinery.com) | [@prefinery](https://twitter.com/prefinery) | $19/mo- $399/mo | Stress-Free Beta Invitation and Management. Prefinery is beta invitations & management for serious product launches. You need more than just a landing page -- outsource your beta to Prefinery! |
 
@@ -487,31 +487,31 @@ It's on GitHub for a reason! Please submit pull requests.
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
-| [Salesforce](https://www.salesforce.com) | [@salesforce](https://twitter.com/salesforce) | - | TRANSFORM CONSUMERS INTO CUSTOMERS ACROSS ALL DIGITAL CHANNELS. The ExactTarget Marketing Cloud, built on the Salesforce1 Platform, allows marketers to create 1:1 campaigns like never before. So you can combine traditional digital channels like email, mobile, social, and the web with any conceivable IP-addressable product to turn consumers into customers. |
-| [SugarCRM](https://www.sugarcrm.com) | [@sugarcrm](https://twitter.com/sugarcrm) | $35/mo - $150/mo | Sugar's open, flexible platform easily solves real business problems. From automating sales, marketing and customer support to creating a custom CRM application, we've got you covered. By placing the individual at the center of its solution, SugarCRM puts the "i" in CRM and empowers every customer-facing individual to create extraordinary customer relationships. |
-| [Insightly](https://www.insightly.com) | [@insightly](https://twitter.com/insightly) | $7/mo | Small Business CRM. Manage contacts, organizations, partners, vendors and suppliers. See everything from background, email history, events, projects or opportunities |
-| [Close](https://close.com) | [@closeio](https://twitter.com/closeio) | $59/mo - $299/mo | Sales Communication Platform. Close.io automatically logs sent and received emails with your leads. You can send/receive emails painlessly from Close.io. Or, by entering your IMAP and SMTP mail settings, Close.io can track emails that you send from Gmail or any email client. |
-| [Streak](https://www.streak.com) | [@streak](https://twitter.com/streak) | - | Manage email support inside Gmail. Streak lets you keep track of all your deals right from your inbox. We let you group emails from the same customer together into one view and push that customer through your pipeline. When a new email comes in, you'll have all the context you need. |
-| [Pipedrive](https://www.pipedrive.com) | [@pipedrive](https://twitter.com/pipedrive) | $9/mo | Pipeline software that gets you organized. Pipedrive is built for salespeople who need to put in serious effort to turn leads into sales. It helps to organize the work and spend less time on admin. |
+| [Salesforce](https://www.salesforce.com) | [@salesforce](https://twitter.com/salesforce) | - | Cloud CRM and software for sales, service, marketing and commerce. `Hosted` |
+| [SugarCRM](https://www.sugarcrm.com) | [@sugarcrm](https://twitter.com/sugarcrm) | - | CRM software for sales, marketing and customer support. `Hosted` |
+| [Insightly](https://www.insightly.com) | [@insightly](https://twitter.com/insightly) | $7/mo | CRM for small businesses to manage contacts, organizations, projects and opportunities. `Hosted` |
+| [Close](https://close.com) | [@closeio](https://twitter.com/closeio) | - | Sales CRM with built-in calling, email and SMS. `Hosted` |
+| [Streak](https://www.streak.com) | [@streak](https://twitter.com/streak) | - | CRM and pipelines inside Gmail. `Hosted` |
+| [Pipedrive](https://www.pipedrive.com) | [@pipedrive](https://twitter.com/pipedrive) | - | Sales pipeline CRM for tracking deals and activities. `Hosted` |
 
 ## Social Media Marketing
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
-| [Buffer](https://buffer.com) | [@buffer](https://twitter.com/buffer) | $15/mo - $99/mo | Buffer is the easiest way to publish on social media. Buffer helps you share to Twitter, Facebook and more. |
-| [HootSuite](https://hootsuite.com) | [@HootSuite](https://twitter.com/HootSuite) | $8.99/mo | Add speed and agility to your social media strategy. From one dashboard you’ll schedule Tweets and Facebook posts, monitor conversations, and more. When you need to prove your social ROI, quickly create and customize ready-to-present analytics reports. |
+| [Buffer](https://buffer.com) | [@buffer](https://twitter.com/buffer) | Free - $5/channel/mo | Schedules and publishes posts to social media accounts. `Hosted` |
+| [HootSuite](https://hootsuite.com) | [@HootSuite](https://twitter.com/HootSuite) | $99/mo - $399/mo | Social media scheduling, monitoring and analytics for teams. `Hosted` |
 | [Exacttarget Marketing Cloud/Buddy Media](https://www.salesforce.com/products/marketing-cloud/overview/) | [@marketingcloud](https://twitter.com/marketingcloud) | - | Bringing you closer to your social customers with an integrated social content solution. Run integrated campaigns across Facebook, Twitter, YouTube and your websites Increase fans, followers and advocates. Publish engaging and interactive social apps. Easily create landing pages and microsites and extend social to your websites. Understand engagement trends, demographics, conversions and business metrics with powerful analytics. |
-| [Sprout Social](https://sproutsocial.com) | [@sproutsocial](https://twitter.com/sproutsocial) | $99/mo - $249/mo | Powerful Social Media Software. Sprout lets you post messages on Facebook, Twitter, Google+ and LinkedIn simultaneously from one easy-to-use message composition tool. Shorten links, attach photos, target your audience on Facebook, customize your posts and much more. |
+| [Sprout Social](https://sproutsocial.com) | [@sproutsocial](https://twitter.com/sproutsocial) | - | Social media publishing, engagement and analytics for teams. `Hosted` |
 | [F5Bot](https://f5bot.com) | - | Free | F5Bot is Free social media keyword monitoring. F5Bot will send you an email when your startup, your product, or your competitors are mentioned on Hacker News or Reddit. |
-| [Syften](https://syften.com) | [@syften_com](https://twitter.com/syften_com) | $15/mo - $49/mo | Advanced social monitoring for tech startups. |
+| [Syften](https://syften.com) | [@syften_com](https://twitter.com/syften_com) | $29.95/mo - $119.95/mo | Monitors Reddit, Hacker News and forums for keywords and sends alerts. `Hosted` |
 
 ## Naming
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
-| [Trademarkia](https://www.trademarkia.com) | [@trademarkia](https://twitter.com/trademarkia) | - | Trademarkia is one of the largest trademark search engines in the world. LegalForce's network of licensed patent attorneys and agents have filed hundreds of patent applications for companies of every size. |
+| [Trademarkia](https://www.trademarkia.com) | [@trademarkia](https://twitter.com/trademarkia) | - | Trademark search database and filing service. `Hosted` |
 | [NameRobot](https://www.namerobot.com) | [@namerobotEN](https://twitter.com/namerobotEN) | 0$ - 300$/mo | Find, create and check the name for your project. NameRobot offers everything you need to create suitable naming ideas in a short time. |
-| [DomainTools Whois Lookup](https://whois.domaintools.com/) | [@DomainTools](https://twitter.com/DomainTools) | Free - $99/mo | Go beyond ordinary Whois to discover the people or organizations behind a domain name or IP address. |
+| [DomainTools Whois Lookup](https://whois.domaintools.com/) | [@DomainTools](https://twitter.com/DomainTools) | Free - $99/mo | Whois and domain ownership lookup with history and related records. `Hosted` |
 | [Startup Name Check](https://startupnamecheck.com/) | - | Free | Name validator tool for dozens of domain-names and social media networks. |
 | [Word Safety](https://naming-tools.com/word-safety) | - | Free | Word Safety tool to check for second meanings in other languages or other forms of writing. |
 
@@ -519,13 +519,13 @@ It's on GitHub for a reason! Please submit pull requests.
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
-| [LiquidSpace](https://liquidspace.com) | [@LiquidSpace](https://twitter.com/LiquidSpace) | - | Optimize Real Estate for Your Enterprise. Whether planning ahead or booking on the fly, find and reserve a great place to work. Rent professional conference and meeting rooms, private offices, or coworking spaces daily or hourly. |
+| [LiquidSpace](https://liquidspace.com) | [@LiquidSpace](https://twitter.com/LiquidSpace) | - | Marketplace for booking desks, meeting rooms and offices in coworking spaces. `Hosted` |
 
 ## Community Tools
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
-| [Discourse](https://www.discourse.org) | [@discourse](https://twitter.com/discourse) | - | Ready for a new discussion platform? Discussion software is a group of people interested in a common topic who are willing to type paragraphs to each other on a web page. |
+| [Discourse](https://www.discourse.org) | [@discourse](https://twitter.com/discourse) | - | Open source forum and discussion software. `Self-hosted` |
 | [Scoold](https://scoold.com) | [@getscoold](https://twitter.com/getscoold) | Free / Pro €299 | Stack Overflow in a JAR. An enterprise-ready Q&A platform with full-text search, SAML, LDAP integration and social login support. |
 | [Flarum](https://flarum.org) | [@flarum](https://twitter.com/flarum) | Free | Well designed forum software. |
 
@@ -535,7 +535,7 @@ It's on GitHub for a reason! Please submit pull requests.
 |:--------|:--------|:--------|:------------|
 | [RescueTime](https://www.rescuetime.com) | [@rescuetime](https://twitter.com/rescuetime) | Free - $9/mo | RescueTime gives you an accurate picture of how you spend your time to help you become more productive every day. |
 | [Qbserve](https://qotoqot.com/qbserve/) | [@Qbserve](https://twitter.com/Qbserve) | $40 one-time | Qbserve is a time tracker for Mac that does whatever RescueTime can but also tracks project time automatically, generates invoices, and stores tracked data locally. |
-| [Timing](https://timingapp.com/) | [@TimingApp](https://twitter.com/TimingApp) | $29 - $79 | Automatic time and productivity tracking for Mac. Helps you stay on track with your work and ensures no billable hours get lost (if you are billing hourly). |
+| [Timing](https://timingapp.com) | [@TimingApp](https://twitter.com/TimingApp) | $10/mo - $168/yr | Automatic time tracking for Mac that builds timesheets from app and website activity. |
 | [fman](https://fman.io) | [@m_herrmann](https://twitter.com/m_herrmann) | $14.00 | Manage and transfer your files with ease. For Windows, Mac and Linux. |
 | [WakaTime](https://wakatime.com) | [@WakaTime](https://twitter.com/WakaTime) | Free - $9/mo | Automatic productivity metrics using text editor plugins. Goals, leaderboards, GitHub integration, automatic project/language/branch detection. |
 | [deprocrastination](https://www.deprocrastination.co) | [@deprocrastinate](https://twitter.com/deprocrastinate) | Free - $3.99/mo | Browser extension to train yourself to procrastinate less. |
@@ -545,16 +545,16 @@ It's on GitHub for a reason! Please submit pull requests.
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
-| [Creately](https://creately.com) | [@creately](https://twitter.com/creately) | Free - $750/mo | Web based diagramming tool for fast easy diagrams. Supports flowcharts, mock-ups, wire-frames, mind maps, organizational charts, network diagrams, AWS diagrams, UML diagrams and many other diagram types. Real-time collaboration plus innovative productivity features to create diagrams 3 times faster. |
-| [Keynote](https://www.apple.com/keynote/) | - | $19.99 | Easily create gorgeous presentations with the all-new Keynote, featuring powerful yet easy-to-use tools and dazzling effects that will make you a very hard act to follow. Also checkout the [Keynotopia Themes]( https://keynotopia.com) to get all the common UI elements for iOS, Android etc. |
-| [OmniGraffle](https://www.omnigroup.com/omnigraffle) | [@omniGraffle](https://twitter.com/omniGraffle) | $99.99 | Diagramming Worth a Thousand Words. Need a diagram, process chart, quick page-layout, website wireframe or graphic design? OmniGraffle can help you make eye-popping graphic documents quickly by keeping lines connected to shapes even when they're moved, providing powerful styling tools, and magically organizing diagrams with just one click. Whether you need a quick |
-| [moqups](https://moqups.com) | [@moqups](https://twitter.com/moqups) | $9/mo - $39/mo | Moqups is a nifty HTML5 App used to create wireframes, mockups or UI concepts, prototypes depending on how you like to call them. The most stunning HTML5 app for creating resolution-independent SVG mockups & wireframes for your next project. |
-| [Balsamiq](https://balsamiq.com) | [@balsamiq](https://twitter.com/balsamiq) | $9/mo - $199/mo | Life's too short for bad software! Balsamiq Mockups is a rapid wireframing tool that helps you Work Faster & Smarter. It reproduces the experience of sketching on a whiteboard, but using a computer. |
-| [Proto.io](https://proto.io) | [@protoio](https://twitter.com/protoio) | $24/mo - $199/mo | Silly-fast mobile prototyping. Build high-fidelity fully interactive mobile app prototypes in minutes. Prototypes can be viewed on browser or device giving a real experience to the user how the app will look like and behave. Multiple devices like smart phones and tablets/pads are supported including iPhone, iPad and Android devices. |
-| [Sketch](https://www.sketch.com) | [@sketchapp](https://twitter.com/sketchapp) | $99.00 | Professional digital design for Mac. Sketch gives you the power, flexibility and speed you always wanted in a lightweight and easy-to-use package. Finally you can focus on what you do best: Design. |
-| [Figma](https://www.figma.com) | [@figmadesign](https://twitter.com/figmadesign) | Free - $12/editor/mo | Design and prototyping tool, with a focus on collaboration and teams. |
-| [Anima](https://www.animaapp.com) | [@animaapp](https://twitter.com/animaapp) | $0 - $39/mo | Sketch to Code Toolkit. Anima converts web design to code. Make your Sketch design responsive, interactive and alive, and export to HTML/JS/CSS. |
-| [Framer](https://www.framer.com/) | [@framer](https://twitter.com/framer) | Free Trial - $12/mo | Pixel-perfect, responsive designs. Truly high-fidelity prototypes. Seamless collaboration. Framer powers the product teams at Dropbox, Pinterest, Twitter, and thousands more. |
+| [Creately](https://creately.com) | [@creately](https://twitter.com/creately) | Free - $750/mo | Web-based diagramming tool with real-time collaboration. `Hosted` |
+| [Keynote](https://www.apple.com/keynote/) | - | Free | Presentation app for Mac, iPad, iPhone and iCloud. `Hosted` |
+| [OmniGraffle](https://www.omnigroup.com/omnigraffle) | [@omniGraffle](https://twitter.com/omniGraffle) | $99.99 | Mac diagramming app for flowcharts, org charts and layouts. |
+| [moqups](https://moqups.com) | [@moqups](https://twitter.com/moqups) | $9/mo - $39/mo | Browser-based tool for wireframes, diagrams and interactive prototypes. `Hosted` |
+| [Balsamiq](https://balsamiq.com) | [@balsamiq](https://twitter.com/balsamiq) | $16/editor/mo - $35/editor/mo | Wireframing tool for quick, sketch-style mockups. `Hosted` |
+| [Proto.io](https://proto.io) | [@protoio](https://twitter.com/protoio) | $24/mo - $199/mo | Browser-based prototyping tool for interactive mobile app prototypes. `Hosted` |
+| [Sketch](https://www.sketch.com) | [@sketchapp](https://twitter.com/sketchapp) | $12/editor/mo - $44/editor/mo | Mac design tool for interface design and prototyping. |
+| [Figma](https://www.figma.com) | [@figmadesign](https://twitter.com/figmadesign) | Free - $16/editor/mo | Browser-based design and prototyping tool with real-time collaboration. `Hosted` |
+| [Anima](https://www.animaapp.com) | [@animaapp](https://twitter.com/animaapp) | $0 - $39/mo | Converts Figma, Sketch and Adobe XD designs into HTML, CSS and React code. `Hosted` |
+| [Framer](https://www.framer.com) | [@framer](https://twitter.com/framer) | Free - $30/mo | Design tool for building responsive websites and interactive prototypes. `Hosted` |
 | [UXPin](https://www.uxpin.com/) | [@uxpin](https://twitter.com/uxpin) | $0 - $23+/mo | The full-stack UX design platform: design systems, prototyping, and documentation in one place. |
 
 ## Content Creation/Infographics
@@ -563,13 +563,13 @@ It's on GitHub for a reason! Please submit pull requests.
 |:--------|:--------|:--------|:------------|
 | [AudienceOps](https://audienceops.com) | [@AudienceOps](https://twitter.com/AudienceOps) | $850/mo - $1700/mo | AudienceOps handles your entire content strategy so you can focus on your product. |
 | [Visual.ly](https://visual.ly) | [@Visually](https://twitter.com/Visually) | $195/mo - $994/mo | ORIGINAL VISUAL CONTENT FOR BRANDS. We only work with the best creative talent available. Thousands of designers, journalists, animators and developers are standing by to help you achieve your goals and take your project to the next level. |
-| [Canva](https://www.canva.com) | [@canva](https://twitter.com/canva) | Free - $9.95/mo | Design great social media images with text and graphics for Free or a few bucks depending on the images you select |
+| [Canva](https://www.canva.com) | [@canva](https://twitter.com/canva) | Free - $144/yr | Browser-based design tool for social graphics, presentations and documents, with templates. `Hosted` |
 
 ## Customer Feedback
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
-| [PickFu](https://www.pickfu.com) | [@pickfu](https://twitter.com/pickfu) | $50/mo - $299/mo | Real consumer feedback in minutes. PickFu is a tool that provides instant, unbiased and insightful public opinion on questions that you care about. |
+| [PickFu](https://www.pickfu.com) | [@pickfu](https://twitter.com/pickfu) | $50/mo - $299/mo | Paid polling of consumers on design, copy and product choices. `Hosted` |
 | [Raaft.io](https://www.raaft.io/) | [@RaaftRetain](https://twitter.com/RaaftRetain) | $79/mo - $229/mo| Instantly get feedback from every canceling customer. Make retention offers to reduce churn. |
 | [ProsperStack](https://prosperstack.com/) | [@prosperstack](https://twitter.com/prosperstack) | Free - $149+| Collect cancellation feedback from customers and prevent churn automatically. |
 
@@ -577,11 +577,11 @@ It's on GitHub for a reason! Please submit pull requests.
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
-| [Citus](https://www.citusdata.com) | [@citusdata](https://twitter.com/citusdata) | - | Citus scales out PostgreSQL through sharding, replication, and query parallelization. So you can focus on your application, not worry about your database. Citus is available as open source, enterprise software, and fully managed database as a service. |
-| [Datomic](https://www.datomic.com) | [@datomic_team](https://twitter.com/datomic_team) | - | The fully transactional, cloud-ready, immutable database. Immutable data means strong consistency combined with horizontal read scalability, plus built-in caching. Datomic is a distributed database designed to enable scalable, flexible and intelligent applications, running on next-generation cloud architectures. |
+| [Citus](https://www.citusdata.com) | [@citusdata](https://twitter.com/citusdata) | - | Open source PostgreSQL extension that shards tables across servers. `Self-hosted` |
+| [Datomic](https://www.datomic.com) | [@datomic_team](https://twitter.com/datomic_team) | - | Immutable, transactional database with Datalog queries, on AWS or self-hosted. `Self-hosted` |
 | [Tinkerpop](https://tinkerpop.apache.org/) | - | - | Open source software products in the graph space. |
-| [Vertabelo](https://www.vertabelo.com) | [@vertabelo](https://twitter.com/Vertabelo) | - | Web-based tool for database design. Vertabelo allows you to visually design database models for PostgreSQL, MySQL, Oracle, SQL Server, SQLite, and IBM DB2. You can import the existing database structure from SQL, XML, or using reverse engineering tool. After you design a model, you can generate SQL script or ready-to-use code for various ORMs (Propel, jOOQ, SQLAlchemy, or [Vertabelo Mobile ORM](http://mobile-orm.vertabelo.com/)). |
-| [TablePlus](https://tableplus.com) | [@TablePlus](https://twitter.com/TablePlus) | $0 - $49 | Modern, native client with intuitive GUI tools to create, access, query & edit multiple databases: MySQL, PostgreSQL, SQLite, Microsoft SQL Server, Amazon Redshift, MariaDB, CockroachDB, Vertica, Cassandra, Oracle, and Redis. |
+| [Vertabelo](https://www.vertabelo.com) | [@Vertabelo](https://twitter.com/Vertabelo) | - | Web-based database design tool that generates SQL and ORM code. `Hosted` |
+| [TablePlus](https://tableplus.com) | [@TablePlus](https://twitter.com/TablePlus) | $79 - $129 one-time | Native GUI client for MySQL, PostgreSQL, SQLite, SQL Server and other databases. |
 | [DBngin](https://dbngin.com) | [@DBngin](https://twitter.com/dbngin) | Free | An all-in-one tool for database version management. It allows you to set up a local database server of any versions within a click. |
 
 
@@ -589,55 +589,55 @@ It's on GitHub for a reason! Please submit pull requests.
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
-| [Harvest](https://www.getharvest.com) | [@harvest](https://twitter.com/harvest) | $12/mo - $99/mo | Time Tracking Made Easy. Time tracking is simple and lightning fast with Harvest. Set up takes seconds, and there’s nothing to install. We’ve simplified the timesheet and timesheets approval process so you can stay focused on work. |
+| [Harvest](https://www.getharvest.com) | [@harvest](https://twitter.com/harvest) | Free - $14/seat/mo | Time tracking, invoicing and expense tracking for teams. `Hosted` |
 | [Ballpark](https://www.getballpark.com) | [@ballparkapp](https://twitter.com/ballparkapp) | $12/mo - $99/mo | Stop sending your clients ugly paper invoices. Go paperless today, with Ballpark. Our beautiful, web-based invoices and estimates make it easier than ever to get paid and discuss projects with your clients and colleagues. |
-| [PaySimple](https://paysimple.com) | [@PaySimple](https://twitter.com/PaySimple) | $34.95/mo | Simplify how you bill and collect. PaySimple is an industry-leading provider of payment management solutions. PaySimple simplifies billing and collection processes by enabling you to bill, collect and deposit all of your payments automatically. Our customized, secure ASP solution includes auto-recurring billing, electronic check processing, direct debit and credit card processing at some of the lowest rates available. |
-| [FreshBooks](https://www.freshbooks.com) | [@freshbooks](https://twitter.com/freshbooks) | $19.95/mo - $39.95/mo | Accounting Made for You, the Non-Accountant. FreshBooks is simple and intuitive, so accounting isn't intimidating. Plus you can talk to a real, live person anytime you have a question, 9am-6pm EDT, Mon-Fri. |
-| [FreeAgent](https://www.freeagent.com) | [@Freeagent](https://twitter.com/Freeagent) | US $20/mo | Accounting software trusted by over 35,000 Freelancers and small businesses. Reconcile money in and out of the business via your electronic bank statements and build monthly balance charts. |
-| [Blinksale](https://www.blinksale.com) | [@blinksale](https://twitter.com/blinksale) | $15.00 | INTRODUCING BLINKSALE UNLIMITED. ONE PLAN. ONE PRICE. UNLIMITED EVERYTHING. Blinksale makes you look your best. With over a dozen invoice designs & thank you notes, you’re sure to put your best foot forward. Every time. |
+| [PaySimple](https://paysimple.com) | [@PaySimple](https://twitter.com/PaySimple) | - | Card and ACH payments, recurring billing and invoicing for service businesses. `Hosted` |
+| [FreshBooks](https://www.freshbooks.com) | [@freshbooks](https://twitter.com/freshbooks) | $23/mo - $70/mo | Invoicing, expenses and time tracking for small businesses and freelancers. `Hosted` |
+| [FreeAgent](https://www.freeagent.com) | [@Freeagent](https://twitter.com/Freeagent) | - | Accounting for small businesses and freelancers, with bank feeds and invoicing. `Hosted` |
+| [Blinksale](https://www.blinksale.com) | [@blinksale](https://twitter.com/blinksale) | $15.00 | Online invoicing with payment links and reminders for freelancers and small businesses. `Hosted` |
 | [Cashboard](https://cashboardapp.com/) | [@cashboard](https://twitter.com/cashboard) | $8.25/mo - $250/mo | FreeLANCE TIME TRACKING & INVOICE SOFTWARE TRUSTED BY THOUSANDS, WORLDWIDE. Cashboard is the tool we designed to remedy that situation. It works for our software consultancy and we think it’ll work for you too. We launched Cashboard in Spring of 2007after many sleepless nights of hard work. It was the first solution to combine estimates, invoices, time tracking, and online payments into one tool. |
 | [Paydirt](https://paydirtapp.com) | [@paydirtapp](https://twitter.com/paydirtapp) | $8/mo - $149/mo | Smart Time Tracking Easier Invoicing Online Payments. In Paydirt, you can start a timer from any page in one click. No fiddly menus. No navigating around. Just a start button for each task. |
 | [inDinero](https://www.indinero.com) | [@indinero](https://twitter.com/indinero) | - | - |
-| [QuickBooks Online](https://quickbooks.intuit.com/online/) | - | - | - |
-| [Xero](https://www.xero.com) | [@Xero](https://twitter.com/xero/) | - | - |
-| [Wave](https://www.waveapps.com) | [@WaveHQ](https://twitter.com/WaveHQ) | Free | Startups on a budget will love this free accounting software (only paying normal pricing for transactions, invoicing and payroll) |
-| [Invoice Ninja](https://www.invoiceninja.com) | [@invoiceninja](https://twitter.com/invoiceninja) | Free, $8, $12 | You can host it yourself and get it whitelabeled or do the service online depending on your budget. |
-| [Bonsai](https://www.hellobonsai.com/) | [@bonsaiinc](https://twitter.com/bonsaiinc) | Free, $19, $29 | Online invoicing and payments with intregated accounting, expenses, and proposals. |
+| [QuickBooks Online](https://quickbooks.intuit.com/online/) | - | - | Cloud accounting for small businesses, with invoicing, bank feeds and payroll add-ons. `Hosted` |
+| [Xero](https://www.xero.com) | [@Xero](https://twitter.com/xero) | - | Cloud accounting for small businesses, with bank feeds, invoicing and payroll. `Hosted` |
+| [Wave](https://www.waveapps.com) | [@WaveHQ](https://twitter.com/WaveHQ) | Free (payments and payroll fees extra) | Free accounting and invoicing for small businesses. `Hosted` |
+| [Invoice Ninja](https://www.invoiceninja.com) | [@invoiceninja](https://twitter.com/invoiceninja) | Free self-hosted, paid hosted plans | Open source invoicing and billing app. `Self-hosted` |
+| [Bonsai](https://www.hellobonsai.com/) | [@bonsaiinc](https://twitter.com/bonsaiinc) | Free, $19, $29 | Online invoicing, proposals, contracts and expense tracking for freelancers and agencies. `Hosted` |
 
 ## Privacy Policy, Terms & Conditions, Legal Documents
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
-| [iubenda](https://www.iubenda.com) | [@iubenda](https://twitter.com/iubenda) | Free - $27/year - customization services | The easiest way to generate a professional, customizable, self-updating privacy policy. Choose between 6 languages. Documents hosted and kept up to date. Backed by real lawyers. Additional assistance service with premium legal team for custom Privacy Policy and Terms & Conditions. |
-| [Choose a license](https://choosealicense.com/licenses/) | [@ChooseALicense](https://twitter.com/ChooseALicense) | Free | Software / data / media / documentation / fonts and mixed projects licenses options and comparisions. |
+| [iubenda](https://www.iubenda.com) | [@iubenda](https://twitter.com/iubenda) | Free - from $5.99/mo | Hosts and updates privacy policies, cookie policies and terms. `Hosted` |
+| [Choose a license](https://choosealicense.com/licenses/) | [@ChooseALicense](https://twitter.com/ChooseALicense) | Free | Compares open source and other license options for software, data and media. `Hosted` |
 
 ## Income Analytics
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
-| [Baremetrics](https://baremetrics.com) | [@Baremetrics](https://twitter.com/Baremetrics) | $79/mo - $249/mo | One click and you get dozens of valuable metrics from your Stripe account |
+| [Baremetrics](https://baremetrics.com) | [@Baremetrics](https://twitter.com/Baremetrics) | $79/mo - $249/mo | Subscription revenue metrics from Stripe and other billing providers. `Hosted` |
 
 ## Payments, Billing & Downloads
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
-| [PayPal](https://www.paypal.com) | [@PayPal](https://twitter.com/PayPal) | - | PayPal is an international e-commerce business allowing payments and money transfers to be made through the Internet. Online money transfers serve as electronic alternatives to paying with traditional paper methods, such as checks and money orders |
-| [Gumroad](https://gumroad.com) | [@gumroad](https://twitter.com/gumroad) | - | See higher conversion, lower fees, and more customer control. Sell films directly to your viewers. Creating digital products is hard, selling them shouldn't be. We let you start selling downloads in seconds. |
-| [FetchApp](https://www.fetchapp.com) | [@fetchapp](https://twitter.com/fetchapp) | $5/mo - $500/mo | The Simpler way to Fetch. Simply put, FetchApp allows you to sell and digitally delivery downloadable goods |
-| [Maxio Chargify](https://www.maxio.com/chargify) | [@chargify](https://twitter.com/chargify) | $65/mo - $459/mo | Easily Manage Your Recurring Revenue Business. Customers sign up, make payments, use coupons, upgrade... You bill one-time & recurring fees using whatever pricing model you need, charge cards, send invoices & reminders, etc. |
-| [Recurly](https://recurly.com) | [@Recurly](https://twitter.com/Recurly) | $99/mo - $259/mo | Subscription Billing Automation. As the leading recurring billing platform, Recurly ensures setup is easy, integrations are quick, and our service scales with the needs of your business. With Recurly you'll be ready to accept payments and focus on growing your sales in no time. |
+| [PayPal](https://www.paypal.com) | [@PayPal](https://twitter.com/PayPal) | - | Online payments and money transfers for individuals and businesses. `Hosted` |
+| [Gumroad](https://gumroad.com) | [@gumroad](https://twitter.com/gumroad) | 10% + $0.50/sale | Sells digital downloads, memberships and subscriptions directly to customers. `Hosted` |
+| [FetchApp](https://www.fetchapp.com) | [@fetchapp](https://twitter.com/fetchapp) | $5/mo - $500/mo | Delivers digital downloads and license keys to customers. `Hosted` |
+| [Maxio Chargify](https://www.maxio.com/chargify) | [@chargify](https://twitter.com/chargify) | - | Subscription billing and invoicing for recurring revenue businesses. `Hosted` |
+| [Recurly](https://recurly.com) | [@Recurly](https://twitter.com/Recurly) | $99/mo - $259/mo | Subscription billing and recurring payments management. `Hosted` |
 | [ChargeOver](https://chargeover.com) | [@ChargeOver](https://twitter.com/chargeover) | $65/mo- $549/mo | ChargeOver is a full featured invoicing platform supporting payment plans, recurring billing, one-time billing, and all the major gateway backends. |
-| [Chargebee](https://www.chargebee.com/) | [@chargebee](https://twitter.com/chargebee) | $249/mo- $599/mo | Chargebee is a Subscription Billing & Revenue Operations for Fast-growth B2B SaaS |
+| [Chargebee](https://www.chargebee.com) | [@chargebee](https://twitter.com/chargebee) | Free (Starter) - custom | Subscription billing and revenue operations for SaaS businesses. `Hosted` |
 
 ## Billing & Payment Processing
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
-| [Braintree](https://www.braintreepayments.com) | [@braintree](https://twitter.com/braintree) | - | Accept payments in your app or website. Braintree handles transactions for some of the fastest growing mobile companies like Uber, Airbnb, HotelTonight and Fab. With native, easy-to-follow SDKs for iOS, Android and Windows Phone you can quickly add native payments to your app. |
-| [Dwolla](https://www.dwolla.com) | [@dwolla](https://twitter.com/dwolla) | 25¢/transaction | The best way to move money. Dwolla, Inc. is an agent of Veridian Credit Union and all funds associated with your account in the Dwolla network are held in a pooled account at Veridian Credit Union. These funds are not eligible for individual insurance, and may not be eligible for share insurance by the National Credit Union Share Insurance Fund. Dwolla, Inc. is the operator of a software platform that communicates user instructions for funds transfers to Veridian Credit Union. |
-| [Stripe](https://stripe.com) | [@stripe](https://twitter.com/stripe) | 2.9% + 30¢/successful charge. | Feature-packed payments. No need to design payment forms from scratch. Stripe Checkout offers a beautiful, customizable payment flow that works great across desktop and mobile. When you use Checkout, you’re always up-to-date, with no extra code required. |
+| [Braintree](https://www.braintreepayments.com) | [@braintree](https://twitter.com/braintree) | - | PayPal-owned payments API and SDKs for cards, PayPal and Venmo. `Hosted` |
+| [Dwolla](https://www.dwolla.com) | [@dwolla](https://twitter.com/dwolla) | 25¢/transaction | ACH bank transfer API for moving money between accounts. `Hosted` |
+| [Stripe](https://stripe.com) | [@stripe](https://twitter.com/stripe) | 2.9% + 30¢/successful charge (US cards) | Payments API for accepting cards and other payment methods online. `Hosted` |
 | [Pin](https://pinpayments.com) | [@PinPayments](https://twitter.com/PinPayments) | 2.9% + 30¢/successful charge. | Payments, Rebooted. Accepting credit card payments from a global audience typically requires a merchant account. The process of establishing a merchant account for each currency can be too difficult and costly for small businesses. |
-| [Spreedly](https://www.spreedly.com) | [@spreedly](https://twitter.com/spreedly) | $150/mo - $1500/mo | Payments as a Platform. One of Spreedly's major benefits is reaching a large number of merchant accounts by working across multiple payment gateways. As a direct merchant you can transact globally but deposit funds in unique merchant accounts based on geographic or other business rules. As a SaaS platform you can support the unique merchant accounts of your individual customers. A payment gateway token is your way to indicate to us which unique merchant account this particular transaction will go against. Each unique merchant account = one unique payment gateway token. |
+| [Spreedly](https://www.spreedly.com) | [@spreedly](https://twitter.com/spreedly) | $150/mo - $1500/mo | Payment vault and API that connects to many payment gateways through one integration. `Hosted` |
 | [Paddle](https://paddle.com) | [@PaddleHQ](https://twitter.com/PaddleHQ) | 5% + 50¢/transaction. | Payment processing and fulfillment, specialized for desktop apps and SaaS subscription services. Handles VAT and invoicing for you, so your accounting becomes easier. |
 | [Fattmerchant](https://fattmerchant.com/) | [@Fattmerchant](https://twitter.com/fattmerchant) | 0% + interchange + $99+/mo | Payments unified. Integrate your app, website, software, or hardware with the Fattmerchant API to seamlessly accept all major credit cards, ACH payments, and more! Ideal for both in-person and online transactions. |
 
@@ -655,12 +655,12 @@ It's on GitHub for a reason! Please submit pull requests.
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
-| [Plivo](https://www.plivo.com/) | [@plivo](https://twitter.com/plivo) | - | - |
-| [Twilio](https://www.twilio.com/) | [@twilio](https://twitter.com/twilio) | - | - |
+| [Plivo](https://www.plivo.com) | [@plivo](https://twitter.com/plivo) | - | Cloud voice and SMS API for sending messages and making calls from code. `Hosted` |
+| [Twilio](https://www.twilio.com) | [@twilio](https://twitter.com/twilio) | - | Cloud APIs for SMS, voice, email and verification. `Hosted` |
 | [PhoneBooth](http://www.phonebooth.com/) | - | - | - |
-| [Talkdesk](https://www.talkdesk.com) | [@Talkdesk](https://twitter.com/talkdesk) | - | - |
+| [Talkdesk](https://www.talkdesk.com) | [@Talkdesk](https://twitter.com/talkdesk) | - | Cloud contact center software for phone, chat and email support. `Hosted` |
 | [Dropbox Fax](https://fax.dropbox.com) | - | - | Send and receive faxes online (formerly HelloFax). `Hosted` |
-| [Dialpad](https://www.dialpad.com) | [@DialpadHQ](https://twitter.com/dialpadHQ) | $15/user/mo | people-first phone and meeting system that includes internet fax and follows you where you work |
+| [Dialpad](https://www.dialpad.com) | [@DialpadHQ](https://twitter.com/dialpadHQ) | $15/user/mo | Cloud business phone system with calling, meetings and contact center features. `Hosted` |
 
 
 ## System Monitoring
@@ -668,11 +668,11 @@ It's on GitHub for a reason! Please submit pull requests.
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
 | [AppNeta (Tracelytics)](https://www.appneta.com/) | [@AppNeta](https://twitter.com/Appneta) | - | - |
-| [Riemann](https://riemann.io) | - | - | - |
-| [Pingdom](https://www.pingdom.com/) | [@pingdom](https://twitter.com/pingdom) | - | - |
-| [UptimeRobot](https://uptimerobot.com/) | [@uptimerobot](https://twitter.com/uptimerobot) | - | - |
+| [Riemann](https://riemann.io) | - | - | Open source event stream processor for monitoring metrics and alerts. `Self-hosted` |
+| [Pingdom](https://www.pingdom.com) | [@pingdom](https://twitter.com/pingdom) | - | Website uptime and performance monitoring, part of SolarWinds. `Hosted` |
+| [UptimeRobot](https://uptimerobot.com) | [@uptimerobot](https://twitter.com/uptimerobot) | Free - paid plans | Website and server uptime monitoring with alerts. `Hosted` |
 | [Where's It Up?](https://wheresitup.com/) | - | - | - |
-| [Nagios](https://www.nagios.org/) | [@nagiosinc](https://twitter.com/nagiosinc) | - | - |
+| [Nagios](https://www.nagios.org) | [@nagiosinc](https://twitter.com/nagiosinc) | - | Open source server and network monitoring with alerting. `Self-hosted` |
 | [Smokeping](https://oss.oetiker.ch/smokeping/) | - | - | - |
 
 ## Search
@@ -731,15 +731,15 @@ It's on GitHub for a reason! Please submit pull requests.
 | [OneNote](https://www.onenote.com/) | [@msonenote](https://twitter.com/msonenote) | Free | The digital note-taking app for your devices |
 | [Taskade](https://www.taskade.com) | [@taskade](https://twitter.com/taskade) | Free | Real-time collaborative notes, checklists, and outlines for teams. |
 | [Dynalist](https://dynalist.io/) | [@dynalisthq](https://twitter.com/dynalisthq) | Free - $8/mo | Outliner, note-taking app, checklists. |
-| [Notion](https://www.notion.so/) | [@notionhq](https://twitter.com/notionhq) | Free - $8/user/mo | Write, plan, collaborate, and get organized. Notion is all you need — in one tool. |
+| [Notion](https://www.notion.so/) | [@notionhq](https://twitter.com/notionhq) | Free - $10/user/mo | All-in-one workspace for notes, docs and project tracking. `Hosted` |
 | [Inkdrop](https://inkdrop.app/) | [@inkdrop_app](https://twitter.com/inkdrop_app) | $4.99/mo | The Note-Taking App for Markdown Lovers. |
 
 ## Group Communication/Chat Tools
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
-| [Viva Engage](https://www.microsoft.com/microsoft-viva/engage) | [@Yammer](https://twitter.com/yammer) | - | - |
-| [Slack](https://slack.com/) | [@SlackHQ](https://twitter.com/slackhq) | Free - $12.5/user | Team collaboration and chat tool. Supports webhooks and has integrations with other tools. |
+| [Viva Engage](https://www.microsoft.com/microsoft-viva/engage) | [@Yammer](https://twitter.com/yammer) | - | Enterprise social network, formerly Yammer. `Hosted` |
+| [Slack](https://slack.com/) | [@SlackHQ](https://twitter.com/slackhq) | Free - $15/user/mo | Team messaging with channels, webhooks and app integrations. `Hosted` |
 | [GoToMeeting](https://www.gotomeeting.com) | [@GoToMeeting](https://twitter.com/gotomeeting) | - | - |
 | [IRCCloud](https://www.irccloud.com/) | - | - | - |
 | [Gitter](https://gitter.im) | [@gitchat](https://twitter.com/gitchat) | - | Chat for open-source and private development teams, with strong Github integration features |
@@ -760,14 +760,14 @@ It's on GitHub for a reason! Please submit pull requests.
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
-| [Forward Email](https://forwardemail.net) | [@niftylettuce](https://twitter.com/niftylettuce) | Free | Create and forward an unlimited amount of email addresses with your domain name. Plus get catch-all, wildcard, and disposable forwarding addresses! The Forward Email DNS-based solution is completely free. |
+| [Forward Email](https://forwardemail.net) | [@niftylettuce](https://twitter.com/niftylettuce) | Free | Email forwarding for custom domains, with aliases, catch-all and wildcard addresses. `Hosted` |
 | [Cloudflare](https://www.cloudflare.com/) | [@Cloudflare](https://twitter.com/Cloudflare) | - | - |
 | [Amazon Route 53](https://aws.amazon.com/route53/) | - | - | - |
 | [DNSimple](https://dnsimple.com/) | [@dnsimple](https://twitter.com/dnsimple) | - | - |
 | [ClouDNS](https://www.cloudns.net/) | [@ClouDNS](https://twitter.com/ClouDNS) | - | - |
 | [FreeDNS](https://freedns.afraid.org) | - | - | - |
 | [Noip](https://noip.com) | [@NoIPcom](https://twitter.com/NoIPcom) | Free | Quickly get free hostnames, and keep DNS resolving if your IP isn't static. |
-| [ImprovMX](https://improvmx.com) | [@nicoschmidt](https://twitter.com/nicoschmidt) | Free - $10/mo | Email forwarding for custom domains. Free plan includes up to 25 aliases per domain with unlimited forwarding. `Hosted` |
+| [ImprovMX](https://improvmx.com) | [@nicoschmidt](https://twitter.com/nicoschmidt) | Free - $9/mo | Email forwarding for custom domains. Free plan includes up to 25 aliases per domain with unlimited forwarding. `Hosted` |
 
 ## Status Blogs/User Alerts
 
@@ -784,8 +784,8 @@ It's on GitHub for a reason! Please submit pull requests.
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
 | [Wufoo](https://www.wufoo.com) | [@Wufoo](https://twitter.com/Wufoo) | - | - |
-| [Google Forms](https://www.google.com/forms/about/) | [@googledocs](https://twitter.com/googledocs) | - | - |
-| [Typeform](https://www.typeform.com) | [@typeform](https://twitter.com/typeform) | $0/mo - $25/mo | Ask Awesomely! Typeform makes asking questions easy, human & beautiful. A user experience that makes your questions look & feel great everywhere. Stimulated, inspired, excited, happy respondents boost completion rates. Gain insights with integrated analysis tools. |
+| [Google Forms](https://www.google.com/forms/about/) | [@googledocs](https://twitter.com/googledocs) | Free | Surveys and forms that collect responses in Google Sheets. `Hosted` |
+| [Typeform](https://www.typeform.com) | [@typeform](https://twitter.com/typeform) | Free - $39/mo | Online forms and surveys with conversational question flows and built-in response analysis. `Hosted` |
 | [Qualaroo](https://qualaroo.com) | [@Qualaroo](https://twitter.com/Qualaroo) | $63/mo - 499/mo | Qualaroo website surveys uncover customer insights that lead to better business results. |
 | [Formcarry](https://formcarry.com) | - | $0/mo - $99/mo | Handle forms without a single line of back-end code. |
 | [FormKeep](https://formkeep.com) | [@formkeep](https://twitter.com/formkeep) | $59/mo - $199/mo | Premium Forms Backend service with built in spam protection, data integrations to over a 1000 services, data retention policies and more. |
@@ -802,31 +802,31 @@ It's on GitHub for a reason! Please submit pull requests.
 | [GitLab](https://about.gitlab.com/) | [@gitlab](https://twitter.com/gitlab) | - | - |
 | [Launchpad](https://launchpad.net/) | - | - | - |
 | [TuxFamily](https://www.tuxfamily.org) | - | - | - |
-| [Assembla](https://www.assembla.com/) | [@assembla](https://twitter.com/assembla) | $24/m - $99/m | Git hosting, all tightly integrated with your tasks. Browse files online, compare revisions, merge code and maintain a sustainable codebase. |
-| [Source Hut](https://sourcehut.org) | - | - | This is the git service of Source Hut - a suite of open source tools hosted as a development platform. Learn more about Source Hut here: https://sourcehut.org/ |
+| [Assembla](https://www.assembla.com/) | [@assembla](https://twitter.com/assembla) | From $11.50/user/mo | Git and SVN hosting with integrated project management and ticketing. `Hosted` |
+| [Source Hut](https://sourcehut.org) | - | - | Open source git, mailing list and CI hosting. `Hosted` |
 
 ## Design Collaboration
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
 | [ConceptShare](https://www.conceptshare.com) | [@conceptshare](https://twitter.com/conceptshare) | - | - |
-| [Helio](https://helio.zurb.com) | [@ZURB](https://twitter.com/zurb) | - | - |
+| [Helio](https://helio.zurb.com) | [@ZURB](https://twitter.com/zurb) | - | Prototype and design testing with real users. `Hosted` |
 
 ## PaaS
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
-| [Heroku](https://www.heroku.com) | [@heroku](https://twitter.com/heroku) | 1000 Free hours/mo for verified accounts | - |
-| [Cloud Foundry](https://www.cloudfoundry.org) | [@cloudfoundry](https://twitter.com/cloudfoundry) | - | host it yourself, or use one of MANY hosting services |
-| [Clever Cloud](https://www.clever-cloud.com ) | [@clever_cloud](https://twitter.com/clever_cloud) | - | - |
-| [Google App Engine](https://cloud.google.com/appengine/docs/ ) | - | - | - |
-| [OpenShift](https://www.openshift.com) | [@openshift](https://twitter.com/openshift) | - | OpenShift gives you all the tools you need to develop, host and scale your apps in the public or private cloud. Get started today. |
+| [Heroku](https://www.heroku.com) | [@heroku](https://twitter.com/heroku) | From $5/mo | Platform for deploying and scaling web apps. `Hosted` |
+| [Cloud Foundry](https://www.cloudfoundry.org) | [@cloudfoundry](https://twitter.com/cloudfoundry) | - | Open source platform for deploying apps, on your own infrastructure or a provider's. `Self-hosted` |
+| [Clever Cloud](https://www.clever-cloud.com) | [@clever_cloud](https://twitter.com/clever_cloud) | - | French platform for deploying and scaling apps. `Hosted` |
+| [Google App Engine](https://cloud.google.com/appengine/docs/) | - | - | Google Cloud's managed platform for running web apps. `Hosted` |
+| [OpenShift](https://www.openshift.com) | [@openshift](https://twitter.com/openshift) | - | Red Hat's Kubernetes application platform. `Self-hosted` |
 | [Engine Yard](https://www.engineyard.com) | [@engineyard](https://twitter.com/engineyard) | - | - |
 | [CloudBees](https://www.cloudbees.com) | [@CloudBees](https://twitter.com/cloudbees) | - | - |
-| [Microsoft Azure](https://azure.microsoft.com) | [@Azure](https://twitter.com/azure) | - | Known for IaaS |
+| [Microsoft Azure](https://azure.microsoft.com) | [@Azure](https://twitter.com/azure) | - | Microsoft's cloud platform for compute, storage, databases and app hosting. `Hosted` |
 | [Amazon Web Services](https://aws.amazon.com/elasticbeanstalk/) | [@awscloud](https://twitter.com/awscloud) | - | Like Azure, it's more known for IaaS |
 | [AKS](https://azure.microsoft.com/en-us/services/kubernetes-service/) | [@Azure](https://twitter.com/azure) | - | - |
-| [Scalingo](https://scalingo.com) | [@ScalingoHQ](https://twitter.com/ScalingoHQ) | - | European PAAS |
+| [Scalingo](https://scalingo.com) | [@ScalingoHQ](https://twitter.com/ScalingoHQ) | - | Platform as a service for deploying apps, hosted in Europe. `Hosted` |
 
 ## VPS
 
@@ -844,16 +844,16 @@ It's on GitHub for a reason! Please submit pull requests.
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
-| [OpenCage Geocoder](https://opencagedata.com/) | [@OpenCageData](https://twitter.com/opencagedata) | $0-1000/month | Forward and reverse geocoding API, using open data. Worldwide coverage. Generous free trial Many tutorials and libraries for most programming languages |
-| [Google Maps](https://developers.google.com/maps/documentation/geocoding/intro) | - |  - | Geocoding API from Google, credit card required at sign up.|
-| [Pelias](https://pelias.io) | [@pelias_geocoder](https://twitter.com/pelias_geocoder) | Free tier, varies with usage | A modular, open-source geocoder built on top of Elasticsearch for fast and accurate global search.|
+| [OpenCage Geocoder](https://opencagedata.com/) | [@OpenCageData](https://twitter.com/opencagedata) | $0-1000/month | Forward and reverse geocoding API built on open data, with worldwide coverage. `Hosted` |
+| [Google Maps](https://developers.google.com/maps/documentation/geocoding/intro) | - | Pay per request | Geocoding API from Google. Requires a billing account at sign up. `Hosted` |
+| [Pelias](https://pelias.io) | [@pelias_geocoder](https://twitter.com/pelias_geocoder) | Free | Open source geocoder built on Elasticsearch. `Self-hosted` |
 
 
 ## Heroku Tools
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
-| [Hirefire](https://hirefire.io/) | - | - | - |
+| [Hirefire](https://hirefire.io/) | - | $25 - $50/mo per app | Autoscaler for Heroku worker and web dynos. `Hosted` |
 
 ## AWS Tools
 
@@ -867,55 +867,55 @@ It's on GitHub for a reason! Please submit pull requests.
 |:--------|:--------|:--------|:------------|
 | [HumongouS.io](https://www.humongous.io) | - | - | HumongouS.io is a web-based user interface (GUI) for MongoDB. |
 | [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) | [@MongoDB](https://twitter.com/MongoDB) | Free - $1000+/mo | MongoDB's official hosted service |
-| [Redis Cloud](https://redis.io/cloud/) | [@RedisLabs](https://twitter.com/RedisLabs) | Free - $338+/mo | RedisLabs offers fully-managed cloud service for hosting and running your redis or memcache datasets in a highly-available and scalable manner, with predictable and stable top performance. |
+| [Redis Cloud](https://redis.io/cloud/) | [@RedisLabs](https://twitter.com/RedisLabs) | Free - $338+/mo | Managed Redis hosting from Redis, formerly RedisLabs. `Hosted` |
 
 ## Backend-aaS
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
-| [Firebase](https://firebase.google.com) | [@Firebase](https://twitter.com/Firebase) | - | A powerful API to store and sync data in realtime. Build realtime mobile and web apps in minutes using client-side code and the powerful Firebase API. When data changes, apps built with Firebase update instantly across every device -- web or mobile. |
-| [LoopBack](https://loopback.io/) | - | - | - |
+| [Firebase](https://firebase.google.com) | [@Firebase](https://twitter.com/Firebase) | - | Google's backend platform with realtime database, auth, hosting and functions. `Hosted` |
+| [LoopBack](https://loopback.io/) | - | - | Node.js and TypeScript framework for building REST APIs. `Self-hosted` |
 | [Para](https://paraio.com) | [@Para_IO](https://twitter.com/para_io) | Free - $99/mo | A flexible and affordable backend API for busy developers. |
 
 ## WebSockets-aaS
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
-| [Pusher](https://pusher.com ) | [@pusher](https://twitter.com/pusher) | - | - |
+| [Pusher](https://pusher.com) | [@pusher](https://twitter.com/pusher) | - | Hosted WebSocket channels and pub/sub API for realtime features. `Hosted` |
 | [ScaleDrone](https://www.scaledrone.com ) | [@scaledrone](https://twitter.com/scaledrone) | - | - |
 
 ## Ops Alerts and Scheduling
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
-| [PagerDuty](https://www.pagerduty.com/) | [@pagerduty](https://twitter.com/pagerduty) | - | - |
-| [Splunk On-Call](https://www.splunk.com/en_us/products/on-call.html) | [@VictorOps](https://twitter.com/VictorOps/) | $9 - $49 user/month | Incident Management to Support the DevOps Lifecycle, from First Alert to Post-Incident Review |
+| [PagerDuty](https://www.pagerduty.com/) | [@pagerduty](https://twitter.com/pagerduty) | - | Incident response and on-call alerting platform. `Hosted` |
+| [Splunk On-Call](https://www.splunk.com/en_us/products/on-call.html) | [@VictorOps](https://twitter.com/VictorOps/) | $9 - $49 user/month | On-call alerting and incident response, formerly VictorOps. `Hosted` |
 
 ## Video Hosting
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
-| [Wistia](https://wistia.com ) | [@wistia](https://twitter.com/wistia) | - | - |
-| [JW Player](https://developer.jwplayer.com) | - | - | Powerful suite of APIs and tools that enable video hosting, content delivery, playback, and data insights. |
+| [Wistia](https://wistia.com) | [@wistia](https://twitter.com/wistia) | - | Video hosting, player and analytics for businesses. `Hosted` |
+| [JW Player](https://developer.jwplayer.com) | - | - | Video hosting and player APIs for web and mobile. `Hosted` |
 
 ## Knowledge Tracking/Wiki
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
-| [Confluence](https://www.atlassian.com/software/confluence) | [@Confluence](https://twitter.com/Confluence) | - | - |
+| [Confluence](https://www.atlassian.com/software/confluence) | [@Confluence](https://twitter.com/Confluence) | - | Team wiki and knowledge base from Atlassian. `Hosted` |
 | [Confluence Questions (Q&A for your team)](https://www.atlassian.com/software/confluence/questions) | - | - | - |
 | [Bitbucket Wiki](https://support.atlassian.com/bitbucket-cloud/docs/create-a-wiki/) | - | - | Comes with each repo, written in Markdown or Creole, much lighter than Confluence. |
 | [SlimWiki](https://slimwiki.com ) | [@slimwiki](https://twitter.com/slimwiki) | - | - |
 | [Documize](https://www.documize.com/) | - | - | - |
-| [Notion](https://www.notion.so/) | [@NotionHQ](https://twitter.com/NotionHQ) | Free, $4 - $8 user/month | Writing, planning, collaborating, organizing. |
-| [Slite](https://slite.com/) | [@sliteHQ](https://twitter.com/sliteHQ) | Free, $6.67 user/month | Product specs, company handbooks, onboarding, meeting notes, any docs. |
+| [Notion](https://www.notion.so/) | [@NotionHQ](https://twitter.com/NotionHQ) | Free, $10 - $20/member/mo | Docs, wikis, databases and project planning in one workspace. `Hosted` |
+| [Slite](https://slite.com/) | [@sliteHQ](https://twitter.com/sliteHQ) | From $8/user/mo | Team knowledge base for docs, handbooks and meeting notes. `Hosted` |
 
 ## Offsite Backups
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
-| [Tarsnap](https://www.tarsnap.com/) | - | - | - |
-| [Rsync.net ](https://www.rsync.net/) | [@rsyncnet](https://twitter.com/rsyncnet) | - | - |
+| [Tarsnap](https://www.tarsnap.com/) | - | Pay per use | Encrypted command-line backup service that charges for storage and bandwidth. `Hosted` |
+| [Rsync.net](https://www.rsync.net/) | [@rsyncnet](https://twitter.com/rsyncnet) | - | SSH and rsync-accessible cloud storage for backups. `Hosted` |
 | [SpiderOak](https://spideroak.com) | [@spideroak](https://twitter.com/spideroak) | First 2gb Free - $100/100gb/year (check [twitter](https://twitter.com/spideroak) for deals) | Store. Sync. Share. Privately. |
 
 ## Personal Machine Backups
@@ -923,39 +923,39 @@ It's on GitHub for a reason! Please submit pull requests.
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
 | [Crashplan](https://www.crashplan.com) | [@CrashPlanSMB](https://twitter.com/crashplansmb) | - | - |
-| [Arq Backup](https://www.arqbackup.com/) + S3/Glacier | - | - | - |
+| [Arq Backup](https://www.arqbackup.com/) | - | - | Client-side encrypted backups to your own S3, Glacier or other storage. `Self-hosted` |
 
 ## Remote Workers
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
-| [Upwork](https://www.upwork.com) | [@Upwork](https://twitter.com/Upwork) | - | - |
+| [Upwork](https://www.upwork.com) | [@Upwork](https://twitter.com/Upwork) | - | Marketplace for hiring freelancers and contractors. `Hosted` |
 | [Freelancer](https://www.Freelancer.com/) | [@freelancer](https://twitter.com/freelancer) | - | - |
 | [TaskArmy](https://taskarmy.com) | [@taskarmy](https://twitter.com/taskarmy) | - | - |
-| [99designs](https://99designs.com/) | [@99designs](https://twitter.com/99designs) | - | - |
-| [Fiverr](https://www.fiverr.com) | [@fiverr](https://twitter.com/fiverr) | - | - |
+| [99designs](https://99designs.com/) | [@99designs](https://twitter.com/99designs) | - | Marketplace for hiring designers for logos, branding and web work. `Hosted` |
+| [Fiverr](https://www.fiverr.com) | [@fiverr](https://twitter.com/fiverr) | - | Marketplace for hiring freelancers for fixed-price tasks. `Hosted` |
 
 ## Deployment
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
-| [Chef](https://www.chef.io) | [@chef](https://twitter.com/chef) | - | - |
-| [Fabric](https://www.fabfile.org) | - | - | - |
-| [Puppet](https://puppet.com) | [@puppetize](https://twitter.com/puppetize) | - | - |
-| [Ansible](https://www.ansible.com) | [@ansible](https://twitter.com/ansible) | - | - |
-| [Vagrant](https://www.vagrantup.com) | - | - | - |
-| [Salt](https://saltproject.io) | [@SaltStack](https://twitter.com/SaltStack) | - | - |
-| [Ngrok](https://ngrok.com) | - | - | - |
+| [Chef](https://www.chef.io) | [@chef](https://twitter.com/chef) | - | Configuration management that describes server state in code. `Self-hosted` |
+| [Fabric](https://www.fabfile.org) | - | - | Python library for running commands over SSH. `Self-hosted` |
+| [Puppet](https://puppet.com) | [@puppetize](https://twitter.com/puppetize) | - | Configuration management for servers and infrastructure. `Self-hosted` |
+| [Ansible](https://www.ansible.com) | [@ansible](https://twitter.com/ansible) | - | Agentless automation for configuration, deployment and orchestration. `Self-hosted` |
+| [Vagrant](https://www.vagrantup.com) | - | - | Tool for building and managing reproducible development virtual machines. `Self-hosted` |
+| [Salt](https://saltproject.io) | [@SaltStack](https://twitter.com/SaltStack) | - | Event-driven configuration management and remote execution. `Self-hosted` |
+| [Ngrok](https://ngrok.com) | - | - | Secure tunnels that expose local servers to the internet. `Hosted` |
 
 ## SEO Tools
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
-| [AccuRanker](https://www.accuranker.com/) | - | - | - |
-| [Ahrefs](https://ahrefs.com) | [@ahrefs](https://twitter.com/ahrefs) | $79/mo - $2500/mo | Ahrefs provide a complete digital marketing suite with tools for analyzing backlinks, analyzing websites, rank tracking, content exploring and more. |
+| [AccuRanker](https://www.accuranker.com/) | - | - | Rank tracking for keywords across search engines. `Hosted` |
+| [Ahrefs](https://ahrefs.com) | [@ahrefs](https://twitter.com/ahrefs) | From $129/mo | Backlink analysis, keyword research and rank tracking. `Hosted` |
 | [SerpBook](https://serpbook.com) | - | - | - |
 | [WooRank](https://www.woorank.com) | [@woorank](https://twitter.com/woorank) | Free - $49/mo | WooRank analyzes your website for optimization best practices and shows how it ranks against your competition. Its real-time brandable reports, consisting of over 150 data-points, help you to instantly spot critical issues that impact traffic, usability and conversions. Sync your analytics, social accounts and keywords for even more robust tracking. |
-| [Moz](https://moz.com) | [@moz](https://twitter.com/moz) | $99/mo - $599/mo | Moz provides you all the tools you need to effectively do search engine optimization. On site optimization graders, competitor tracking, backlink analysis, rank tracking and many more features available to users. |
+| [Moz](https://moz.com) | [@moz](https://twitter.com/moz) | $49 - $299/mo | SEO toolset for keyword research, link analysis and rank tracking. `Hosted` |
 | [RatedWithAI](https://ratedwithai.com) | - | Free - $29/mo | AI-powered web accessibility scanner. Checks WCAG 2.2 compliance, detects issues, and provides fix guidance. Accessibility impacts SEO — Google uses Core Web Vitals and accessibility signals in rankings. |
 | [KWFinder](https://kwfinder.com/) | [@mangools_com](https://twitter.com/mangools_com) | $30+/mo | Keyword research tool |
 | [Animalz - Revive](https://revive.animalz.co/) | [@AnimalzCo](https://twitter.com/AnimalzCo) | Free | Provides a list of posts that should be refreshed. |
@@ -964,41 +964,41 @@ It's on GitHub for a reason! Please submit pull requests.
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
-| [Postman](https://www.postman.com/) | [@postmanclient](https://twitter.com/postmanclient) | Free - $8/mo | Build, test, document and monitor your APIs faster. Used by 5 million developers and more than 100,000 companies. |
+| [Postman](https://www.postman.com/) | [@postmanclient](https://twitter.com/postmanclient) | Free, from $9/mo | API platform for designing, testing and documenting APIs. `Hosted` |
 | [Apiary](https://apiary.io) | [@apiary](https://twitter.com/apiaryio) | Free - $99/mo | Powerful API Design Stack. Built for Developers. Work together to quickly design, prototype, document and test APIs. |
-| [Hoppscotch](https://hoppscotch.io) | [@liyasthomas](https://twitter.com/liyasthomas) | Free (OSS) | A free, fast and beautiful API request builder. |
+| [Hoppscotch](https://hoppscotch.io) | [@liyasthomas](https://twitter.com/liyasthomas) | Free (OSS) | Open source API development tool. `Hosted` |
 
 ## Password Management
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
 | [Lastpass](https://www.lastpass.com) | [@LastPass](https://twitter.com/LastPass) | Free - $7.5/user/mo | - |
-| [1Password](https://1password.com) | [@1Password](https://twitter.com/1Password) | $2.99 - 7.99/user/mo | - |
+| [1Password](https://1password.com) | [@1Password](https://twitter.com/1Password) | $2.99 - $7.99/user/mo | Password manager with shared vaults for individuals and teams. `Hosted` |
 | [Passpack](https://www.passpack.com) | [@passpack](https://twitter.com/passpack) | $18 - $480/year | - |
-| [KeePassXC](https://keepassxc.org/) | [@KeePassXC](https://twitter.com/KeePassXC) | Free | further development of KeePassX. |
-| [Enpass](https://www.enpass.io) | [@EnpassApp](https://twitter.com/EnpassApp) | - | - |
-| [Dashlane](https://www.dashlane.com) | [@dashlane](https://twitter.com/dashlane) | $5/user/mo - $8/user/mo | - |
-| [Bitwarden](https://bitwarden.com/) | [@bitwarden](https://twitter.com/bitwarden) | Free for personal use / Self-hosted | Open Source Password Management Solutions. |
+| [KeePassXC](https://keepassxc.org/) | [@KeePassXC](https://twitter.com/KeePassXC) | Free | Cross-platform open source password manager that stores its database in a local file. `Self-hosted` |
+| [Enpass](https://www.enpass.io) | [@EnpassApp](https://twitter.com/EnpassApp) | - | Password manager with a local encrypted vault and optional sync through your own cloud storage. `Self-hosted` |
+| [Dashlane](https://www.dashlane.com) | [@dashlane](https://twitter.com/dashlane) | $5/user/mo - $8/user/mo | Password manager with autofill, password health checks and team sharing. `Hosted` |
+| [Bitwarden](https://bitwarden.com/) | [@bitwarden](https://twitter.com/bitwarden) | Free, from $1.65/mo | Open source password manager, hosted or self-hosted. `Hosted` `Self-hosted` |
 
 ## Sources of Clicks/Ad Platforms
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
 | [NeoReach](https://neoreach.com/) | [@NeoReach](https://twitter.com/NeoReach) | - | - |
-| [Microsoft Advertising](https://ads.microsoft.com) | - | - | - |
-| [Taboola](https://www.taboola.com/) | [@taboola](https://twitter.com/taboola) | - | - |
-| [Outbrain](https://www.outbrain.com/) | [@Outbrain](https://twitter.com/outbrain) | - | - |
-| [Google Ads](https://ads.google.com) | [@GoogleAds](https://twitter.com/googleads) | - | - |
-| [Meta Ads](https://www.facebook.com/business/) | - | - | - |
+| [Microsoft Advertising](https://ads.microsoft.com) | - | - | Search ads on Bing, Yahoo and partner sites. `Hosted` |
+| [Taboola](https://www.taboola.com/) | [@taboola](https://twitter.com/taboola) | - | Content recommendation and native ad network. `Hosted` |
+| [Outbrain](https://www.outbrain.com/) | [@Outbrain](https://twitter.com/outbrain) | - | Content recommendation and native ad network. `Hosted` |
+| [Google Ads](https://ads.google.com) | [@GoogleAds](https://twitter.com/googleads) | Pay per click | Search and display advertising from Google. `Hosted` |
+| [Meta Ads](https://www.facebook.com/business/) | - | - | Paid ads across Facebook, Instagram and Messenger. `Hosted` |
 
 ## Task Scheduling
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
 | [EasyCron](https://www.easycron.com) | - | - | - |
-| [IFTTT](https://ifttt.com) | [@IFTTT](https://twitter.com/ifttt) | - | - |
-| [Zapier](https://zapier.com) | [@Zapier](https://twitter.com/zapier) | $99/mo - $15/mo | Superpowers to get your work done. A Zap is a link between two apps (a "trigger" and an "action"). Zaps run automatically in the background every few minutes to move and manage data on your behalf. Only live Zaps count against your limit — you can have as many paused and unfinished Zaps as you'd like. For example, one Zap might be "Send me an SMS every time I get a new email". |
-| [Make](https://www.make.com) | [@integromat](https://twitter.com/integromat) | Free for < 1000 operations or 100 MB/mo, paid from $9/mo | Automates your tasks & connects to almost any app or service. Very powerful toolset with features like error handling, iterators, aggregators, routers, functions, data stores, etc. |
+| [IFTTT](https://ifttt.com) | [@IFTTT](https://twitter.com/ifttt) | - | Automations that connect apps and devices with if-this-then-that rules. `Hosted` |
+| [Zapier](https://zapier.com) | [@Zapier](https://twitter.com/zapier) | Free, from $19.99/mo | No-code automation that connects apps with multi-step workflows. `Hosted` |
+| [Make](https://www.make.com) | [@integromat](https://twitter.com/integromat) | Free, from $9/mo | Visual no-code automation builder that connects apps in scenarios. `Hosted` |
 | [Dead Man's Snitch](https://deadmanssnitch.com) | [@DeadMansSnitch](https://twitter.com/deadmanssnitch) | Free - $49/mo | Monitoring for scheduled tasks (like cron) and service heartbeats. Makes it easy to know when and why a particular job failed. |
 | [Healthchecks.io](https://healthchecks.io) | [@healthchecks_io](https://twitter.com/healthchecks_io) | Free - $80/mo | Cron job and scheduled task monitoring. |
 
@@ -1006,28 +1006,28 @@ It's on GitHub for a reason! Please submit pull requests.
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
-| [Dash](https://kapeli.com/dash) | [@kapeli](https://twitter.com/kapeli) | - | - |
+| [Dash](https://kapeli.com/dash) | [@kapeli](https://twitter.com/kapeli) | - | Offline API documentation browser. `Self-hosted` |
 | [Zeal](https://zealdocs.org) | [@zealdocs](https://twitter.com/zealdocs) | Free | Offline documentation browser |
-| [DevDocs](https://devdocs.io/) | [@DevDocs](https://twitter.com/DevDocs) | Free | DevDocs combines multiple API documentations in a fast, organized, and searchable interface. You don't have to use your mouse — use keyboard shortcuts. The search supports fuzzy matching. You can search using your browser's address bar. DevDocs is Free and open source. |
+| [DevDocs](https://devdocs.io/) | [@DevDocs](https://twitter.com/DevDocs) | Free | Searchable, offline-capable API documentation for many languages and frameworks. `Hosted` |
 
 ## Business Cards and Print Material
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
-| [Moo](https://www.moo.com) | [@MOO](https://twitter.com/MOO) | - | - |
-| [PSPrint](https://www.psprint.com) | [@PsPrint](https://twitter.com/psprint) | - | - |
-| [Vistaprint](https://vistaprint.com) | [@Vistaprint](https://twitter.com/vistaprint) | - | - |
+| [Moo](https://www.moo.com) | [@MOO](https://twitter.com/MOO) | - | Online printer for business cards and marketing print. `Hosted` |
+| [PSPrint](https://www.psprint.com) | [@PsPrint](https://twitter.com/psprint) | - | Online printer for business cards, flyers and marketing print. `Hosted` |
+| [Vistaprint](https://vistaprint.com) | [@Vistaprint](https://twitter.com/vistaprint) | - | Online printer for business cards, flyers and marketing print. `Hosted` |
 
 ## Presentations / Slides
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
-| [Prezi](https://prezi.com/) | [@prezi](https://twitter.com/prezi) | - | - |
+| [Prezi](https://prezi.com/) | [@prezi](https://twitter.com/prezi) | - | Cloud presentation editor with zooming canvas layouts. `Hosted` |
 | [markpress](https://github.com/gamell/markpress) | - | - | HTML presentations from Markdown files |
-| [Reveal.js](https://github.com/hakimel/reveal.js) | - | - | Flexible HTML presenation framework for creating beautiful slides |
+| [Reveal.js](https://github.com/hakimel/reveal.js) | - | Free | HTML presentation framework for building slides in the browser. `Self-hosted` |
 | [Impress.js](https://github.com/impress/impress.js/)| - | - | Presentation framework based on CSS3 transforms and transitions inspired by Prezi |
 | [Slides](https://slides.com/) | - | Free - $20/mo | Online editor built with Reveal.js that includes a graphical interface |
-| [SlideShare](https://www.slideshare.net/) | [@slideshare](https://twitter.com/SlideShare) | Free | Share what you know and love through presentations, infographics, documents and more |
+| [SlideShare](https://www.slideshare.net/) | [@slideshare](https://twitter.com/SlideShare) | Free | Hosts and shares public slide decks and documents. `Hosted` |
 
 ## Use
 

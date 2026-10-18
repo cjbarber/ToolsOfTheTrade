@@ -187,7 +187,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Podio](https://podio.com) | [@Podio](https://twitter.com/Podio) | Free | Low-code workspace for organising team work, projects and custom apps. `Hosted` |
 | [Flow](https://www.getflow.com) | [@flowapp](https://twitter.com/flowapp) | $19/mo - $249/mo | Task and project management for teams, with recurring tasks and timelines. `Hosted` |
 | [Basecamp](https://basecamp.com) | [@basecamp](https://twitter.com/basecamp) | $20/mo - $150/mo | Project management with to-dos, message boards and schedules for teams. `Hosted` |
-| [Apollo](https://www.apollohq.com) | [@applicomhq](https://twitter.com/applicomhq) | $23/mo - $148/mo | Integrated Project and Contact Management Done Right Apollo is project and contact management done right. Using Apollo, you will realise that it's built to help you get things done, quickly and efficiently. With Apollo, you will always know where your projects, your contacts and your life are at and you will feel on top of everything — regardless of how hectic your schedule is. |
+| [Apollo](https://www.apollohq.com) | [@applicomhq](https://twitter.com/applicomhq) | $23/mo - $148/mo | Integrated Project and Contact Management Done Right Apollo is project and contact management done right. Using Apollo, you will realise that it's built to help you get things done, quickly and efficiently. With Apollo, you will always know where your projects, your contacts and your life are at and you will feel on top of everything, regardless of how hectic your schedule is. |
 | [Asana](https://asana.com) | [@asana](https://twitter.com/asana) | $50/mo - $800/mo | Work management for planning projects, tracking tasks and coordinating teams. `Hosted` |
 | [WeekPlan](https://weekplan.net) | [@weekplan](https://twitter.com/weekplan) | $7/mo - $19/mo | Time management inspired by the "7 habits of highly effective people" Features: goals of the week, week view and quadrant matrix, pomodoro timer, shared workspaces, etc... |
 | [Trello](https://trello.com) | [@trello](https://twitter.com/trello) | Free - $5/user/mo | Kanban boards for organising tasks and projects, owned by Atlassian. `Hosted` |
@@ -195,7 +195,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Redmine](https://www.redmine.org) | - | - | Flexible project management web application. Written using Ruby on Rails framework, it is cross-platform and cross-database. |
 | [Tom's Planner](https://www.tomsplanner.com) | [@tomsplanner](https://twitter.com/tomsplanner) | $9/mo - $19/mo | Browser-based Gantt chart software for planning and sharing project schedules. `Hosted` |
 | [Breeze](https://www.breeze.pm) | [@BreezeTeam](https://twitter.com/BreezeTeam) | $29/mo - $129/mo | Organize and track everything. Breeze shows you what's being worked on, who's working on what, where things are in the workflow and how much time it took. |
-| [Cushion](https://cushionapp.com/) | [@cushionapp](https://twitter.com/cushionapp) | $8/mo - $48/mo | Piece of mind for freelancers. We built Cushion as a team of freelancers who always had trouble planning and managing our year—constantly taking on too much work and never thinking to take a break. |
+| [Cushion](https://cushionapp.com/) | [@cushionapp](https://twitter.com/cushionapp) | $8/mo - $48/mo | Piece of mind for freelancers. We built Cushion as a team of freelancers who always had trouble planning and managing our year, constantly taking on too much work and never thinking to take a break. |
 | [ClickUp](https://clickup.com) | [@clickup_app](https://twitter.com/clickup_app) | Free - $7/user/mo | Project management with tasks, docs and goals in one workspace. `Hosted` |
 | [Ora](https://ora.pm) | [@oratask](https://twitter.com/oratask) | $0 - $8/mo | Intuitive project management and team collaboration, Ora is your team’s command center! A place to track projects. Tasks. Time. Commits. Status Reports. Your entire product or business! |
 | [Slate](https://heyslate.com/) | [@_heyslate](https://twitter.com/_heyslate) | $15/mo | Slate is a planning tool for freelance designers & developers who want to organise their schedule, projects and finances in one place. |
@@ -268,7 +268,7 @@ It's on GitHub for a reason! Please submit pull requests.
 |:--------|:--------|:--------|:------------|
 | [Okta](https://www.okta.com) | [@OktaDev](https://twitter.com/OktaDev) | Free - custom | Identity and access management for sign-in, SSO and user management. `Hosted` |
 | [Auth0](https://auth0.com) | [@auth0](https://twitter.com/auth0) | - | Hosted authentication and authorization service for web and mobile apps, owned by Okta. `Hosted` |
-| [Connect2id](https://c2id.net) | [@Connect2id](https://twitter.com/connect2id) | €299/mo - €999/mo | Hosted Connect2id server – a flexible, secure and certified OpenID Connect/OAuth 2.0 identity provider. |
+| [Connect2id](https://c2id.net) | [@Connect2id](https://twitter.com/connect2id) | €299/mo - €999/mo | Hosted Connect2id server, a flexible, secure and certified OpenID Connect/OAuth 2.0 identity provider. |
 | [Cerbos Hub](https://www.cerbos.dev/product-cerbos-hub) | [@Cerbos](https://twitter.com/cerbosdev) | Free up to 100 monthly active principals | Console for writing, testing and deploying authorization policies for Cerbos. `Hosted` |
 
 
@@ -311,7 +311,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Codecov](https://codecov.io) | [@codecov](https://twitter.com/codecov) | $0 - $5/mo | Code coverage reports on pull requests, free for open source. `Hosted` |
 | [Semaphore](https://semaphore.io) | [@semaphoreci](https://twitter.com/semaphoreci) | Free - usage-based | Hosted CI/CD pipelines for GitHub and other Git hosts, with self-hosted agents. `Hosted` |
 | [Jenkins](https://jenkins.io) | [@jenkinsci](https://twitter.com/jenkinsci) | Free | Open source automation server for building, testing and deploying software. `Self-hosted` |
-| [Bamboo](https://www.atlassian.com/software/bamboo) | [@atlassian](https://twitter.com/atlassian) | $10/mo - $1000/mo | Bamboo does more than just run builds and tests. It connects issues, commits, test results, and deploys so the whole picture is available to your entire product team – from project managers, to devs and testers, to sys admins. |
+| [Bamboo](https://www.atlassian.com/software/bamboo) | [@atlassian](https://twitter.com/atlassian) | $10/mo - $1000/mo | Bamboo does more than just run builds and tests. It connects issues, commits, test results, and deploys so the whole picture is available to your entire product team, from project managers, to devs and testers, to sys admins. |
 | [Buildkite](https://buildkite.com) | [@buildkite](https://twitter.com/buildkite) | Free - $30/user/mo | CI/CD pipelines that run on your own agents and infrastructure. `Self-hosted` |
 | [Crucible](https://www.atlassian.com/software/crucible) | [@atlassian](https://twitter.com/atlassian) | $10/mo - $8000/mo | Code review system. Review code, discuss changes, share knowledge, and identify defects with Crucible's flexible review workflow. It's code review made easy for Git, Subversion, CVS, Perforce, and more. |
 | [Coveralls](https://coveralls.io) | [@coverallsapp](https://twitter.com/coverallsapp) | $0/mo - $50/mo | Coveralls works with your continuous integration server to give you test coverage history and statistics. It integrates with any language and is Free for open source. |
@@ -331,7 +331,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Grafana](https://grafana.com) | [@grafana](https://twitter.com/grafana) | $0 - $90/mo (+9/user/mo) | Open source dashboards and alerting for metrics, logs and traces. `Self-hosted` |
 | [Redash](https://redash.io) | [@getredash](https://twitter.com/getredash) | Self-hosted or $49/mo - 450/mo | "Redash has support for querying multiple databases, including: Redshift, Google BigQuery, PostgreSQL, MySQL, Graphite, Presto, Google Spreadsheets, Cloudera Impala, Hive and custom scripts." |
 | [Cyfe](https://www.cyfe.com) | [@cyfe](https://twitter.com/Cyfe) | $0 - $29/mo | Cyfe offers all-in-one web dashboards for your clients to help them monitor and analyze data scattered across all their online services like Google Analytics, Salesforce, AdSense, MailChimp, Amazon, Facebook, WordPress, Twitter and more from one single location in real-time. |
-| [Two Minute Reports](http://twominutereports.com/) | - | Free - $9/mo | Two Minute Reports helps Marketing Agencies automate reports and save billable hours. It works with both Google Sheets and Looker Studio. It helps automate data from different sources like Facebook Ads, Google Ads, Instagram, LinkedIN Ads, HubSpot, Google Analytics 4, Shopify, Amazon Seller/Ads, etc. |
+| [Two Minute Reports](https://twominutereports.com/) | - | Free - $9/mo | Two Minute Reports helps Marketing Agencies automate reports and save billable hours. It works with both Google Sheets and Looker Studio. It helps automate data from different sources like Facebook Ads, Google Ads, Instagram, LinkedIN Ads, HubSpot, Google Analytics 4, Shopify, Amazon Seller/Ads, etc. |
 
 ## Error/Exception Handling
 
@@ -480,7 +480,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Unbounce](https://unbounce.com) | [@unbounce](https://twitter.com/unbounce) | $49/mo - $199/mo | Hosted landing page builder for marketing campaigns. `Hosted` |
 | [Leadpages](https://www.leadpages.com) | [@Leadpages](https://twitter.com/Leadpages) | $25/mo - $199/mo | Hosted landing page builder with lead capture tools. `Hosted` |
 | [Instapage](https://instapage.com/) | [@Instapage](https://twitter.com/Instapage) | $29/mo - $127/mo | Hosted landing page builder with A/B testing for ad campaigns. `Hosted` |
-| [KickoffLabs](https://kickofflabs.com) | [@kickofflabs](https://twitter.com/kickofflabs) | $29/mo - $99/mo | Stop building landing pages. Start building smarter campaigns. Send customers to a tailored page that speaks to them. Keep them engaged with signup-forms, newsletters and – best of all – a very cool, unique REWARD system for customer referrals. |
+| [KickoffLabs](https://kickofflabs.com) | [@kickofflabs](https://twitter.com/kickofflabs) | $29/mo - $99/mo | Stop building landing pages. Start building smarter campaigns. Send customers to a tailored page that speaks to them. Keep them engaged with signup-forms, newsletters and, best of all, a very cool, unique REWARD system for customer referrals. |
 | [Prefinery](https://www.prefinery.com) | [@prefinery](https://twitter.com/prefinery) | $19/mo- $399/mo | Stress-Free Beta Invitation and Management. Prefinery is beta invitations & management for serious product launches. You need more than just a landing page -- outsource your beta to Prefinery! |
 
 ## CRM/Sales Tools
@@ -657,7 +657,7 @@ It's on GitHub for a reason! Please submit pull requests.
 |:--------|:--------|:--------|:------------|
 | [Plivo](https://www.plivo.com) | [@plivo](https://twitter.com/plivo) | - | Cloud voice and SMS API for sending messages and making calls from code. `Hosted` |
 | [Twilio](https://www.twilio.com) | [@twilio](https://twitter.com/twilio) | - | Cloud APIs for SMS, voice, email and verification. `Hosted` |
-| [PhoneBooth](http://www.phonebooth.com/) | - | - | - |
+| [PhoneBooth](https://www.phonebooth.com/) | - | - | - |
 | [Talkdesk](https://www.talkdesk.com) | [@Talkdesk](https://twitter.com/talkdesk) | - | Cloud contact center software for phone, chat and email support. `Hosted` |
 | [Dropbox Fax](https://fax.dropbox.com) | - | - | Send and receive faxes online (formerly HelloFax). `Hosted` |
 | [Dialpad](https://www.dialpad.com) | [@DialpadHQ](https://twitter.com/dialpadHQ) | $15/user/mo | Cloud business phone system with calling, meetings and contact center features. `Hosted` |
@@ -681,7 +681,7 @@ It's on GitHub for a reason! Please submit pull requests.
 |:--------|:--------|:--------|:------------|
 | [Bonsai](https://bonsai.io/) | [@bonsaisearch](https://twitter.com/bonsaisearch) | - | - |
 | [WebSolr](https://www.websolr.com) | [@websolr](https://twitter.com/websolr) | - | - |
-| [Searchify](http://www.searchify.com/) | [@getsearchify](https://twitter.com/getsearchify) | - | - |
+| [Searchify](https://www.searchify.com/) | [@getsearchify](https://twitter.com/getsearchify) | - | - |
 | [SearchBlox](https://www.searchblox.com) | [@searchblox](https://twitter.com/searchblox) | - | - |
 
 ## Security
@@ -776,7 +776,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [API Status Check](https://apistatuscheck.com) | - | Free | Real-time status monitoring dashboard aggregating 50+ major API and cloud service status pages. Tracks AWS, Stripe, Twilio, GitHub, and more in one view with email alerts. |
 | [StatusPage.io](https://www.statuspage.io/) | [@Statuspage](https://twitter.com/Statuspage) | - | - |
 | [Tumblr](https://www.tumblr.com/) | [@tumblr](https://twitter.com/tumblr) | - | - |
-| [HelloBar](https://www.hellobar.com ) | - | - | - |
+| [HelloBar](https://www.hellobar.com) | - | - | - |
 | [Status.io](https://status.io) | [@statusio](https://twitter.com/statusio) | - | Hosted system status pages |
 
 ## Forms / Surveys
@@ -882,7 +882,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
 | [Pusher](https://pusher.com) | [@pusher](https://twitter.com/pusher) | - | Hosted WebSocket channels and pub/sub API for realtime features. `Hosted` |
-| [ScaleDrone](https://www.scaledrone.com ) | [@scaledrone](https://twitter.com/scaledrone) | - | - |
+| [ScaleDrone](https://www.scaledrone.com) | [@scaledrone](https://twitter.com/scaledrone) | - | - |
 
 ## Ops Alerts and Scheduling
 
@@ -905,7 +905,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Confluence](https://www.atlassian.com/software/confluence) | [@Confluence](https://twitter.com/Confluence) | - | Team wiki and knowledge base from Atlassian. `Hosted` |
 | [Confluence Questions (Q&A for your team)](https://www.atlassian.com/software/confluence/questions) | - | - | - |
 | [Bitbucket Wiki](https://support.atlassian.com/bitbucket-cloud/docs/create-a-wiki/) | - | - | Comes with each repo, written in Markdown or Creole, much lighter than Confluence. |
-| [SlimWiki](https://slimwiki.com ) | [@slimwiki](https://twitter.com/slimwiki) | - | - |
+| [SlimWiki](https://slimwiki.com) | [@slimwiki](https://twitter.com/slimwiki) | - | - |
 | [Documize](https://www.documize.com/) | - | - | - |
 | [Notion](https://www.notion.so/) | [@NotionHQ](https://twitter.com/NotionHQ) | Free, $10 - $20/member/mo | Docs, wikis, databases and project planning in one workspace. `Hosted` |
 | [Slite](https://slite.com/) | [@sliteHQ](https://twitter.com/sliteHQ) | From $8/user/mo | Team knowledge base for docs, handbooks and meeting notes. `Hosted` |
@@ -956,7 +956,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [SerpBook](https://serpbook.com) | - | - | - |
 | [WooRank](https://www.woorank.com) | [@woorank](https://twitter.com/woorank) | Free - $49/mo | WooRank analyzes your website for optimization best practices and shows how it ranks against your competition. Its real-time brandable reports, consisting of over 150 data-points, help you to instantly spot critical issues that impact traffic, usability and conversions. Sync your analytics, social accounts and keywords for even more robust tracking. |
 | [Moz](https://moz.com) | [@moz](https://twitter.com/moz) | $49 - $299/mo | SEO toolset for keyword research, link analysis and rank tracking. `Hosted` |
-| [RatedWithAI](https://ratedwithai.com) | - | Free - $29/mo | AI-powered web accessibility scanner. Checks WCAG 2.2 compliance, detects issues, and provides fix guidance. Accessibility impacts SEO — Google uses Core Web Vitals and accessibility signals in rankings. |
+| [RatedWithAI](https://ratedwithai.com) | - | Free - $29/mo | AI-powered web accessibility scanner. Checks WCAG 2.2 compliance, detects issues, and provides fix guidance. Accessibility impacts SEO, Google uses Core Web Vitals and accessibility signals in rankings. |
 | [KWFinder](https://kwfinder.com/) | [@mangools_com](https://twitter.com/mangools_com) | $30+/mo | Keyword research tool |
 | [Animalz - Revive](https://revive.animalz.co/) | [@AnimalzCo](https://twitter.com/AnimalzCo) | Free | Provides a list of posts that should be refreshed. |
 

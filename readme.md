@@ -156,7 +156,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
 | [BrowserStack](https://www.browserstack.com) | [@browserstack](https://twitter.com/browserstack) | $29/mo - $199/mo | Live, web-based browser testing. |
-| [Litmus](http://litmus.com) | [@litmusapp](https://twitter.com/litmusapp) | $79/mo - $159/mo | Lets you preview your campaigns across 30+ real email clients and devices in minutes. |
+| [Litmus](https://www.litmus.com/) | [@litmusapp](https://twitter.com/litmusapp) | $79/mo - $159/mo | Lets you preview your campaigns across 30+ real email clients and devices in minutes. |
 | [Sauce Labs](https://saucelabs.com) | [@saucelabs](https://twitter.com/saucelabs) | $19/mo - $298/mo | Run your web and mobile app tests across hundreds of real browsers and platforms instantly. |
 | [EmailOnAcid](https://www.emailonacid.com) | [@emailonacid](https://twitter.com/EmailonAcid) | $44/mo - $260/mo | Quickly ensure that your emails don't look like crap in any email client. |
 | [Rainforest QA](https://www.rainforestqa.com) | [@rainforestqa](https://twitter.com/rainforestqa) | $500/mo - $2000/mo | Insanely simple integration testing. |

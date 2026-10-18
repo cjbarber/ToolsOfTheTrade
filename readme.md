@@ -244,7 +244,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Google Analytics](https://marketingplatform.google.com/about/analytics/) | [@GMktgPlatform](https://twitter.com/GMktgPlatform) | - | Google Analytics lets you measure your advertising ROI as well as track your Flash, video, and social networking sites and applications. |
 | [Heap Analytics](https://heapanalytics.com) | [@heap](https://twitter.com/heap) | 0 - $599+ | Instant, retroactive analytics for web and iOS. No code required. |
 | [Improvely](https://www.improvely.com) | [@improvelycom](https://twitter.com/improvelycom) | $29 - $899/mo | Conversion tracking and click fraud monitoring platform. The easiest way to track the performance of marketing campaigns and monitor them for click fraud. |
-| [KISSmetrics](https://www.kissmetricshq.com/) | [@kissmetrics](https://twitter.com/kissmetrics/) | $150/mo - $500/mo | KISSmetrics tells you who’s doing it. Every last piece gets connected to a real person. All of it. It doesn’t matter if people bounce around between different browsers and devices. Or even if it takes them 6 months to come back. You’ll see what real people do. |
+| [KISSmetrics](https://www.kissmetrics.io) | [@kissmetrics](https://twitter.com/kissmetrics/) | $150/mo - $500/mo | KISSmetrics tells you who’s doing it. Every last piece gets connected to a real person. All of it. It doesn’t matter if people bounce around between different browsers and devices. Or even if it takes them 6 months to come back. You’ll see what real people do. |
 | [Keen IO](https://keen.io) | [@keen_io](https://twitter.com/keen_io) | $0 - $2000+/mo | Custom analytics shouldn't be a pain in the backend. Keen IO's powerful APIs do the heavy lifting for you, so you can gather all the data you want and start getting the answers you need. |
 | [Localytics](https://www.localytics.com) | [@localytics](https://twitter.com/localytics/) | Free up to 10k MAUs, $200/mo - $2700/mo above that | Find out what works in your mobile or web app. Do more of it. All in one place. Advanced analytics provide data and insight to help you build more successful apps. Integrated Marketing helps you easily engage and acquire more customers. |
 | [Matomo](https://matomo.org) | [@matomo_org](https://twitter.com/matomo_org) | - | Whether you are an individual blogger, a small business, or a large corporation, Matomo helps you gain valuable insights to help your business or readership grow. |
@@ -386,6 +386,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [AppSignal](https://appsignal.com) | [@AppSignal](https://twitter.com/AppSignal) | $49/mo - $259/mo | Better monitoring for your Rails applications. Get detailled statistics on your site's performance with mean and 90th percentile measurements. |
 | [Instrumental](https://instrumentalapp.com) | [@instrumental](https://twitter.com/instrumental) | $150/mo - $750/mo | Monitor Your App in Realtime. Instrumental’s made to monitor metrics at a ridiculously high scale. At rates of 500,000 metrics per second and higher, it doesn’t even break a sweat |
 | [Atatus](https://www.atatus.com) | [@atatusapp](https://twitter.com/atatusapp) | $12/mo - $159/mo | Simple JavaScript Error Tracking. Atatus is a simple error tracking and uptime monitoring system. Add two lines of code and get alerted on any errors that occurs in your application in realtime. |
+| [Scout APM](https://www.scoutapm.com) | [@ScoutAPM](https://twitter.com/ScoutAPM) | - | Application monitoring with errors, logs and traces for Ruby, Python, Node.js, PHP and Elixir apps. `Hosted` |
 
 ## Load Testing
 
@@ -397,7 +398,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Loader.io](https://loader.io) | [@loaderio](https://twitter.com/loaderio) | Free to 100.00$/mo | Loader.io is a Free load testing service that allows you to stress test your web-apps/apis with thousands of concurrent connections. |
 | [Locust.io](https://locust.io) | [@locustio](https://twitter.com/locustio) | Open Source | Self-hosted load testing tool written in Python, with the tests themselves written in Python code |
 | [k6.io](https://k6.io) | [@k6_io](https://twitter.com/k6_io) | Free, Open Source | k6 is a developer centric open source load testing tool for testing the performance of your backend infrastructure. It’s built with Go and JavaScript to integrate well into your development workflow, so you can stay on top of performance without fuzz. |
-| [loadimpact.com](https://loadimpact.com/) | [@loadimpact](https://twitter.com/loadimpact) | $99.00+ | A SaaS performance testing solution for modern DevOps teams, built on top of the open source k6.io project. |
+| [Grafana Cloud k6](https://grafana.com/products/cloud/k6/) | [@k6_io](https://twitter.com/k6_io) | Free tier, then usage-based | Hosted load testing built on the open source k6 project (formerly Load Impact). `Hosted` |
 
 ## Server Monitoring
 
@@ -406,7 +407,6 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Datadog](https://www.datadoghq.com) | [@datadoghq](https://twitter.com/datadoghq) | $0/mo - $15/host/mo | Datadog is a monitoring service for IT, Operations and Development teams who write and run applications at scale, and want to turn the massive amounts of data produced by their apps, tools and services into actionable insight. |
 | [Circonus](https://www.circonus.com) | [@circonus](https://twitter.com/circonus) | $15/host/mo - $25/host/mo | Circonus combines multiple monitoring, alerting, event reporting, and analytical tools into one unified solution. Use any data, in any application, from any system, and visualize it in real-time. |
 | [TrueSight Pulse](https://www.bmc.com/it-solutions/truesight) | [@truesightpulse](https://twitter.com/truesightpulse) | - | Real-time visibility into cloud and server infrastructure |
-| [Scout](https://scoutapp.com/) | [@ScoutAPM](https://twitter.com/ScoutAPM) | - | - |
 | [Prometheus](https://prometheus.io) | [@PrometheusIO](https://twitter.com/PrometheusIO) | Free | Open source monitoring system and time series database. `Self-hosted` |
 | [Site24x7](https://www.site24x7.com) | [@site24x7](https://twitter.com/Site24x7) | $9/mo starter - $225/enterprise | Website, server and application monitoring. `Hosted` |
 | [Uptime Robot](https://uptimerobot.com) | [@uptimerobot](https://twitter.com/uptimerobot) | - | Free basic HTTP/HTTPS website monitoring |
@@ -769,7 +769,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [IRCCloud](https://www.irccloud.com/) | - | - | - |
 | [Buddycloud](http://buddycloud.com) | [@buddycloud](https://twitter.com/buddycloud) | - | - |
 | [Gitter](https://gitter.im) | [@gitchat](https://twitter.com/gitchat) | - | Chat for open-source and private development teams, with strong Github integration features |
-| [appear.in](https://appear.in/) | [@appear_in](https://twitter.com/appear_in) | - | one click video conversations |
+| [Whereby](https://whereby.com) | [@whereby](https://twitter.com/whereby) | - | One-click video meetings in the browser, no download needed (formerly appear.in). `Hosted` |
 | [Convo](https://www.convo.com/) | [@convo](https://twitter.com/convo) | - | - |
 | [Zoom](https://www.zoom.us/) | [@zoom_us](https://twitter.com/zoom_us) | - | - |
 | [Telegram](https://telegram.org/) | [@telegram](https://twitter.com/telegram) | - | - |
@@ -978,7 +978,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Puppet](https://puppet.com) | [@puppetize](https://twitter.com/puppetize) | - | - |
 | [Ansible](https://www.ansible.com) | [@ansible](https://twitter.com/ansible) | - | - |
 | [Vagrant](https://www.vagrantup.com) | - | - | - |
-| [Salt](https://www.saltstack.com/resources/community/) | [@SaltStack](https://twitter.com/SaltStack) | - | - |
+| [Salt](https://saltproject.io) | [@SaltStack](https://twitter.com/SaltStack) | - | - |
 | [Ngrok](https://ngrok.com) | - | - | - |
 
 ## SEO Tools

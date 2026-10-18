@@ -351,7 +351,6 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Raygun](https://raygun.com) | [@raygunio](https://twitter.com/raygunio) | $14/mo - $199/mo | Exceptional Error Tracking. Your software faults get automatically sent to the Raygun service and analysis begins immediately. Raygun intelligently groups your errors so you're dealing with root causes, not every single error instance! |
 | [Airbrake](https://airbrake.io) | [@airbrake](https://twitter.com/airbrake) | $49 - $249/mo | No More Searching Log Files Capture and Track Your Application's Exceptions in 3 Minutes. Airbrake is the leading exception reporting service, currently providing error tracking for 50,000 applications with support for 18 programming languages. |
 | [Rollbar](https://rollbar.com) | [@rollbar](https://twitter.com/rollbar) | $12/mo - $1249/mo | Take control of your errors. Rollbar is platform-agnostic and can accept data from anything that can speak HTTP and JSON. You can use our official libraries for Ruby, Python, PHP, Node.js, JavaScript, Android, iOS, or Flash, or roll your own with our API. |
-| [Errorception](https://errorception.com) | [@errorception](https://twitter.com/errorception) | $5/mo - $59/mo | Painless JavaScript Error Tracking. Errorception is a simple and painless way to find out about JavaScript errors, as they occur in your users' browsers. All you need to do is insert a script tag on your page, and you will start recording errors as they happen in real-time. |
 | [Errbit](https://errbit.com) | - | OSS | The open source error catcher that's Airbrake API compliant. |
 | [OverOps](https://www.overops.com) | [@overopshq](https://twitter.com/overopshq) | - | God Mode in Production Code for java and scala applications. |
 
@@ -588,7 +587,6 @@ It's on GitHub for a reason! Please submit pull requests.
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
-| [Effortless Reviews](https://effortlessreviews.com) | [@effortlessrevie](https://twitter.com/EffortlessRevie) | Free - $25/mo | Easily reach out to your customers for feedback and reviews. |
 | [PickFu](https://www.pickfu.com) | [@pickfu](https://twitter.com/pickfu) | $50/mo - $299/mo | Real consumer feedback in minutes. PickFu is a tool that provides instant, unbiased and insightful public opinion on questions that you care about. |
 | [Promoter.io](https://www.promoter.io) | [@Promoter_io](https://twitter.com/promoter_io) | $199/mo - $479/mo | Helps companies quickly gain predictive customer intelligence & insights driven by NPS (Net Promoter) to increase revenue and reduce churn. |
 | [Raaft.io](https://www.raaft.io/) | [@RaaftRetain](https://twitter.com/RaaftRetain) | $79/mo - $229/mo| Instantly get feedback from every canceling customer. Make retention offers to reduce churn. |
@@ -669,7 +667,6 @@ It's on GitHub for a reason! Please submit pull requests.
 |:--------|:--------|:--------|:------------|
 | [Lad](https://lad.js.org) | [@niftylettuce](https://twitter.com/niftylettuce) | Free | Lad scaffolds a Koa webapp and API framework for Node.js. It also includes a job scheduler, automatic email previewing and templates, and much more. |
 | [Yeoman](https://yeoman.io/) | [@yeoman](https://twitter.com/yeoman) | Free | The web scaffolding tool for modern web apps |
-| [Hix on Rails](https://hixonrails.com/) | [@hixonrails](https://twitter.com/hixonrails) | $39 - $249 | Ruby on Rails project generator |
 | [JHipster](https://www.jhipster.tech/) | [@jhipster](https://twitter.com/jhipster) | Free | Hipster stack for Java developers. Spring Boot + Angular/React in one handy generator. |
 | [Divjoy](https://divjoy.com/) | [@divjoy](https://twitter.com/divjoy) | $59 | The React codebase generator. |
 | [WPPB](https://wppb.me/) | - | Free | WordPress Plugin Boilerplate Generator |
@@ -756,7 +753,6 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Kami](https://www.kamiapp.com/) | [@usekamiapp](https://twitter.com/usekamiapp) | - | View, edit, annotate, and collaborate on documents on your browser |
 | [OneNote](https://www.onenote.com/) | [@msonenote](https://twitter.com/msonenote) | Free | The digital note-taking app for your devices |
 | [Taskade](https://www.taskade.com) | [@taskade](https://twitter.com/taskade) | Free | Real-time collaborative notes, checklists, and outlines for teams. |
-| [Nulis](https://nulis.io) | - | - | Outliner / mind-mapping tool. |
 | [Dynalist](https://dynalist.io/) | [@dynalisthq](https://twitter.com/dynalisthq) | Free - $8/mo | Outliner, note-taking app, checklists. |
 | [Notion](https://www.notion.so/) | [@notionhq](https://twitter.com/notionhq) | Free - $8/user/mo | Write, plan, collaborate, and get organized. Notion is all you need — in one tool. |
 | [Inkdrop](https://inkdrop.app/) | [@inkdrop_app](https://twitter.com/inkdrop_app) | $4.99/mo | The Note-Taking App for Markdown Lovers. |
@@ -767,7 +763,6 @@ It's on GitHub for a reason! Please submit pull requests.
 |:--------|:--------|:--------|:------------|
 | [Yammer](https://www.yammer.com/) | [@Yammer](https://twitter.com/yammer) | - | - |
 | [Limechat](http://limechat.net/) | - | - | - |
-| [Flowdock](https://www.flowdock.com/) | [@flowdock](https://twitter.com/flowdock) | Free for teams up to 5 people | - |
 | [Slack](https://slack.com/) | [@SlackHQ](https://twitter.com/slackhq) | Free - $12.5/user | Team collaboration and chat tool. Supports webhooks and has integrations with other tools. |
 | [Google Hangouts](https://hangouts.google.com/) | - | Free | Video conference and chat application by Google. It is browser based and supports multiple participants on the same video call. |
 | [GoToMeeting](https://www.gotomeeting.com) | [@GoToMeeting](https://twitter.com/gotomeeting) | - | - |
@@ -844,7 +839,6 @@ It's on GitHub for a reason! Please submit pull requests.
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
 | [ConceptShare](https://www.conceptshare.com) | [@conceptshare](https://twitter.com/conceptshare) | - | - |
-| [Framebench](http://www.framebench.com) | [@framebench](https://twitter.com/framebench) | - | The 'smooth' way to Share, Review & Discuss any file online. |
 | [Helio](https://helio.app/) | [@ZURB](https://twitter.com/zurb) | - | - |
 
 ## PaaS
@@ -929,7 +923,6 @@ It's on GitHub for a reason! Please submit pull requests.
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
 | [PagerDuty](https://www.pagerduty.com/) | [@pagerduty](https://twitter.com/pagerduty) | - | - |
-| [Opsgenie](https://www.opsgenie.com) | [@opsgenie](https://twitter.com/opsgenie) | $0 - $16 user/mo | We make alerts work for you. We provide the tools you need to design meaningful, actionable alerts and ensure the right people are notified. |
 | [VictorOps](https://victorops.com/) | [@VictorOps](https://twitter.com/VictorOps/) | $9 - $49 user/month | Incident Management to Support the DevOps Lifecycle, from First Alert to Post-Incident Review |
 
 ## Video Hosting
@@ -975,7 +968,6 @@ It's on GitHub for a reason! Please submit pull requests.
 | [TaskArmy](https://taskarmy.com) | [@taskarmy](https://twitter.com/taskarmy) | - | - |
 | [99Designs](https://99designs.com/) | [@99designs](https://twitter.com/99designs) | - | - |
 | [Fiverr](https://www.fiverr.com) | [@fiverr](https://twitter.com/fiverr) | - | - |
-| [Remotely Awesome Jobs](https://www.remotelyawesomejobs.com) | [@RemotelyAweJobs](https://twitter.com/RemotelyAweJobs) | - | - |
 
 ## Deployment
 

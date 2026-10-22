@@ -504,6 +504,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Sprout Social](https://sproutsocial.com) | [@sproutsocial](https://twitter.com/sproutsocial) | - | Social media publishing, engagement and analytics for teams. `Hosted` |
 | [F5Bot](https://f5bot.com) | - | Free | F5Bot is Free social media keyword monitoring. F5Bot will send you an email when your startup, your product, or your competitors are mentioned on Hacker News or Reddit. |
 | [Syften](https://syften.com) | [@syften_com](https://twitter.com/syften_com) | $29.95/mo - $119.95/mo | Monitors Reddit, Hacker News and forums for keywords and sends alerts. `Hosted` |
+| [JuzPost](https://www.juzpost.com) | [@JuzPost_](https://twitter.com/JuzPost_) | Free - $69/mo | Schedules and publishes posts to 11 social networks; AI assistants such as Claude and ChatGPT can draft and schedule through its MCP server. `Hosted` |
 
 ## Naming
 

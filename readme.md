@@ -444,7 +444,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Exchange Rate API](https://www.exchangerate-api.com) | - | Free | A simple API for fetching currency exchange rates maintained since 2010. Free tier with no signup or request limits. |
 | [Filestack](https://www.filestack.com) | [@FileStack](https://twitter.com/FileStack) | $0/mo - $49/mo | Hosted file upload, storage and processing API. `Hosted` |
 | [Open Exchange Rates](https://openexchangerates.org) | - | $12/mo - $97/mo | Hosted JSON API for currency exchange rates. `Hosted` |
-| [FormAPI](https://formapi.io) | [@form_api](https://twitter.com/form_api) | $49/mo - $249/mo | Hosted API that fills PDF templates with data. `Hosted` |
+| [DocSpring](https://docspring.com) | [@DocSpring](https://twitter.com/DocSpring) | Free, paid from $49/mo | Hosted API that fills PDF templates with data, generates PDFs from HTML and collects e-signatures. `Hosted` |
 | [Abstract APIs](https://www.abstractapi.com) | [@abstractapi](https://twitter.com/abstractapi) | Free - $249/mo | Suite of APIs for everyday needs (email validation, VAT calculation, IP geolocation, and more). |
 
 ## Site Search

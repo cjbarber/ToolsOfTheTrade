@@ -216,6 +216,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
 | [App Figures](https://appfigures.com) | [@appfigures](https://twitter.com/appfigures) | $9/mo | Sales and download tracking for iOS and Android app developers. `Hosted` |
+| [APPLORE](https://applore.app) | - | Free - $29.99/mo | Exports every iOS, Android and web icon size from one image, makes App Store screenshots, and has a library of 18,000+ real app icons. `Hosted` |
 
 ## Localization & Internationalization
 

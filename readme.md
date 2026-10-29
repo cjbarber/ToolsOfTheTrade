@@ -493,6 +493,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Close](https://close.com) | [@closeio](https://twitter.com/closeio) | - | Sales CRM with built-in calling, email and SMS. `Hosted` |
 | [Streak](https://www.streak.com) | [@streak](https://twitter.com/streak) | - | CRM and pipelines inside Gmail. `Hosted` |
 | [Pipedrive](https://www.pipedrive.com) | [@pipedrive](https://twitter.com/pipedrive) | - | Sales pipeline CRM for tracking deals and activities. `Hosted` |
+| [SteadyPipe](https://steadypipe.vercel.app/) | - | Free tier | Weekly pipeline habit for solo freelancers: outreach, follow-ups and retainer prompts. `Hosted` |
 
 ## Social Media Marketing
 

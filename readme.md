@@ -199,6 +199,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [ClickUp](https://clickup.com) | [@clickup_app](https://twitter.com/clickup_app) | Free - $7/user/mo | Project management with tasks, docs and goals in one workspace. `Hosted` |
 | [Ora](https://ora.pm) | [@oratask](https://twitter.com/oratask) | $0 - $8/mo | Intuitive project management and team collaboration, Ora is your team’s command center! A place to track projects. Tasks. Time. Commits. Status Reports. Your entire product or business! |
 | [Slate](https://heyslate.com/) | [@_heyslate](https://twitter.com/_heyslate) | $15/mo | Slate is a planning tool for freelance designers & developers who want to organise their schedule, projects and finances in one place. |
+| [Squado](https://squado.io) | - | $29/mo - $79/mo | Live org canvas for engineering teams: squads, tribes and the people allocated to them, with cost per team, OKRs and ceremony conflicts. `Hosted` |
 
 ## Time Tracking
 

@@ -708,6 +708,7 @@ It's on GitHub for a reason! Please submit pull requests.
 |:--------|:--------|:--------|:------------|
 | [Uservoice](https://www.uservoice.com/) | [@UserVoice](https://twitter.com/uservoice) | $499/mo - $999+/mo | Collect, understand and respond to user feedback. |
 | [Userecho](https://userecho.com/) | [@userecho](https://twitter.com/userecho) | - | - |
+| [UserJot](https://userjot.com) | [@UserJotHQ](https://twitter.com/UserJotHQ) | Free - $59/mo | Feedback boards, a public roadmap, a changelog and live chat in one embeddable widget. `Hosted` |
 
 ## Designers
 

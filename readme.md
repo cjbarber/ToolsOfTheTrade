@@ -603,6 +603,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Wave](https://www.waveapps.com) | [@WaveHQ](https://twitter.com/WaveHQ) | Free (payments and payroll fees extra) | Free accounting and invoicing for small businesses. `Hosted` |
 | [Invoice Ninja](https://www.invoiceninja.com) | [@invoiceninja](https://twitter.com/invoiceninja) | Free self-hosted, paid hosted plans | Open source invoicing and billing app. `Self-hosted` |
 | [Bonsai](https://www.hellobonsai.com/) | [@bonsaiinc](https://twitter.com/bonsaiinc) | Free, $19, $29 | Online invoicing, proposals, contracts and expense tracking for freelancers and agencies. `Hosted` |
+| [Invoicycle](https://invoicycle.com) | [@invoicycle](https://twitter.com/invoicycle) | Free - $1.99/mo | Free online invoicing and recurring billing software with automated payment tracking and client billing portals. `Hosted` |
 
 ## Privacy Policy, Terms & Conditions, Legal Documents
 

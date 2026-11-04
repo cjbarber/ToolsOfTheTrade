@@ -827,6 +827,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Amazon Web Services](https://aws.amazon.com/elasticbeanstalk/) | [@awscloud](https://twitter.com/awscloud) | - | Like Azure, it's more known for IaaS |
 | [AKS](https://azure.microsoft.com/en-us/services/kubernetes-service/) | [@Azure](https://twitter.com/azure) | - | - |
 | [Scalingo](https://scalingo.com) | [@ScalingoHQ](https://twitter.com/ScalingoHQ) | - | Platform as a service for deploying apps, hosted in Europe. `Hosted` |
+| [Cloud in a Bottle](https://cloudinabottle.org) | - | Free | Open source platform that builds apps from Git repos into containers on a user controlled server, each with its own subdomain. `Self-hosted` |
 
 ## VPS
 

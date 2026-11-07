@@ -471,6 +471,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [MailerLite](https://www.mailerlite.com) | [@mailerlite](https://twitter.com/mailerlite) | Free - $140/mo | Hosted email newsletters and automation with a free plan. `Hosted` |
 | [EmailOctopus](https://emailoctopus.com) | [@emailoctopus](https://twitter.com/emailoctopus) | Free up to 2,500 subscribers, paid plans from $19/mo | Low cost email marketing using Amazon SES. |
 | [Buttondown](https://buttondown.email/) | [@buttondownemail](https://twitter.com/buttondownemail) | Free tier, then paid | Hosted newsletter service that uses Markdown for writing. `Hosted` |
+| [They Sent It](https://theysentit.com) | - | Free | Archive of real marketing emails from 60,000+ brands; browse by brand or email platform to see what competitors send and how often. `Hosted` |
 
 ## Email Collection/Landing Page Apps
 

@@ -223,6 +223,7 @@ It's on GitHub for a reason! Please submit pull requests.
 |:--------|:--------|:--------|:------------|
 | [Localize.js](https://localizejs.com) | - | $25/mo - $150/mo | Website translation with just a few lines of code. |
 | [Gengo](https://gengo.com) | [@GengoIt](https://twitter.com/gengoit) | From $0.06/word | Human translation API. `Hosted` |
+| [HumanPen](https://humanpen.net/) | - | 100 signup credits; credit-based | Document-level AI translation (12 target languages; PDF/DOCX/PPTX/XLSX/EPUB/HTML/TXT), humanization, condensing, and citation format correction via web & REST API. `Hosted` |
 
 ## Business & Traffic Analytics
 

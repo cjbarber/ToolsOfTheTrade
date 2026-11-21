@@ -446,6 +446,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Open Exchange Rates](https://openexchangerates.org) | - | $12/mo - $97/mo | Hosted JSON API for currency exchange rates. `Hosted` |
 | [DocSpring](https://docspring.com) | [@DocSpring](https://twitter.com/DocSpring) | Free, paid from $49/mo | Hosted API that fills PDF templates with data, generates PDFs from HTML and collects e-signatures. `Hosted` |
 | [Abstract APIs](https://www.abstractapi.com) | [@abstractapi](https://twitter.com/abstractapi) | Free - $249/mo | Suite of APIs for everyday needs (email validation, VAT calculation, IP geolocation, and more). |
+| [Datacircle](https://datacircle.dev) | - | Free | Find the best GTM APIs. Open API with no key, at api.datacircle.dev/v1. `Hosted` |
 
 ## Site Search
 

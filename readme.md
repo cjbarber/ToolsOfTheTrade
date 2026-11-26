@@ -400,6 +400,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Prometheus](https://prometheus.io) | [@PrometheusIO](https://twitter.com/PrometheusIO) | Free | Open source monitoring system and time series database. `Self-hosted` |
 | [Site24x7](https://www.site24x7.com) | [@site24x7](https://twitter.com/Site24x7) | $9/mo starter - $225/enterprise | Website, server and application monitoring. `Hosted` |
 | [Uptime Robot](https://uptimerobot.com) | [@uptimerobot](https://twitter.com/uptimerobot) | - | Free basic HTTP/HTTPS website monitoring |
+| [SiteWatcher](https://github.com/NikKurkov/sitewatcher) | - | Free (MIT) | Website uptime and response-time history, with TLS and domain expiry alerts. `Self-hosted` |
 | [BinaryCanary](https://www.binarycanary.com) | - | - | - |
 
 ## Customer Support/Help Desks

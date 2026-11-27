@@ -163,6 +163,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Mailtrap](https://mailtrap.io) | [@Mailtrap](https://twitter.com/Mailtrap) | Free - $299.99/mo | A fake SMTP server for development and staging environments along with a REST API for testing. |
 | [testmail.app](https://testmail.app) | [@testmailapp](https://twitter.com/testmailapp) | Free - $29/mo | Automate end-to-end email tests with unlimited mailboxes and a GraphQL API. |
 | [Polypane](https://polypane.rocks) | [@polypane](https://twitter.com/polypane) | Free trial - $12+/mo | A browser built from the ground up to create and test websites and apps. |
+| [InboxShield](https://inbox.shipbastion.com/) | [@agentarenastudi](https://x.com/agentarenastudi) | Free - $2 one-time | Zero-signup email deliverability & DNS auth auditor (recursive SPF 10-lookup flattener, 24 DKIM selectors, DMARC, MTA-STS, BIMI & 5 DNSBLs) plus MIT CLI. |
 
 ## Bug/Issue Tracking
 
